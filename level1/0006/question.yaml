@@ -1,0 +1,387 @@
+quiz:
+  question:
+    - name:
+        text: Find 542
+      questiontext:
+        text: <font size="4">Find 54<sup>2</sup></font><br>
+        _format: moodle_auto_format
+      generalfeedback:
+        text: |-
+          <font size="4">
+          (54 - 25) | (50 - 54)<br>
+          Difference stroke | (Difference)<sup>2</sup> stroke<br>
+          = 29 | (-4)<sup>2</sup><br>
+          = 29 | 16</br>
+          Maintain 2 digits in (Difference)<sup>2</sup> stroke</br>
+          = 2916<br>
+          </p></font>
+        _format: moodle_auto_format
+      defaultgrade: '1.0000000'
+      penalty: '0.3333333'
+      hidden: '0'
+      idnumber: ''
+      single: 'true'
+      shuffleanswers: 'true'
+      answernumbering: none
+      correctfeedback:
+        text: ''
+        _format: moodle_auto_format
+      partiallycorrectfeedback:
+        text: ''
+        _format: moodle_auto_format
+      incorrectfeedback:
+        text: ''
+        _format: moodle_auto_format
+      answer:
+        - text: '2916'
+          feedback:
+            text: ''
+            _format: moodle_auto_format
+          _fraction: '100'
+          _format: moodle_auto_format
+        - text: '3416'
+          feedback:
+            text: ''
+            _format: moodle_auto_format
+          _fraction: '0'
+          _format: moodle_auto_format
+        - text: '3016'
+          feedback:
+            text: ''
+            _format: moodle_auto_format
+          _fraction: '0'
+          _format: moodle_auto_format
+        - text: '3516'
+          feedback:
+            text: ''
+            _format: moodle_auto_format
+          _fraction: '0'
+          _format: moodle_auto_format
+        - text: '3116'
+          feedback:
+            text: ''
+            _format: moodle_auto_format
+          _fraction: '0'
+          _format: moodle_auto_format
+      _type: multichoice
+    - name:
+        text: Find 552
+      questiontext:
+        text: <font size="4">Find 55<sup>2</sup></font><br>
+        _format: moodle_auto_format
+      generalfeedback:
+        text: |-
+          <font size="4">
+          (55 - 25) | (50 - 55)<br>
+          Difference stroke | (Difference)<sup>2</sup> stroke<br>
+          = 30 | (-5)<sup>2</sup><br>
+          = 30 | 25</br>
+          Maintain 2 digits in (Difference)<sup>2</sup> stroke</br>
+          = 3025<br>
+          </p></font>
+        _format: moodle_auto_format
+      defaultgrade: '1.0000000'
+      penalty: '0.3333333'
+      hidden: '0'
+      idnumber: ''
+      single: 'true'
+      shuffleanswers: 'true'
+      answernumbering: none
+      correctfeedback:
+        text: ''
+        _format: moodle_auto_format
+      partiallycorrectfeedback:
+        text: ''
+        _format: moodle_auto_format
+      incorrectfeedback:
+        text: ''
+        _format: moodle_auto_format
+      answer:
+        - text: '3025'
+          feedback:
+            text: ''
+            _format: moodle_auto_format
+          _fraction: '100'
+          _format: moodle_auto_format
+        - text: '3525'
+          feedback:
+            text: ''
+            _format: moodle_auto_format
+          _fraction: '0'
+          _format: moodle_auto_format
+        - text: '3125'
+          feedback:
+            text: ''
+            _format: moodle_auto_format
+          _fraction: '0'
+          _format: moodle_auto_format
+        - text: '3625'
+          feedback:
+            text: ''
+            _format: moodle_auto_format
+          _fraction: '0'
+          _format: moodle_auto_format
+        - text: '3225'
+          feedback:
+            text: ''
+            _format: moodle_auto_format
+          _fraction: '0'
+          _format: moodle_auto_format
+      _type: multichoice
+    - name:
+        text: Find 562
+      questiontext:
+        text: <font size="4">Find 56<sup>2</sup></font><br>
+        _format: moodle_auto_format
+      generalfeedback:
+        text: |-
+          <font size="4">
+          (56 - 25) | (50 - 56)<br>
+          Difference stroke | (Difference)<sup>2</sup> stroke<br>
+          = 31 | (-6)<sup>2</sup><br>
+          = 31 | 36</br>
+          Maintain 2 digits in (Difference)<sup>2</sup> stroke</br>
+          = 3136<br>
+          </p></font>
+        _format: moodle_auto_format
+      defaultgrade: '1.0000000'
+      penalty: '0.3333333'
+      hidden: '0'
+      idnumber: ''
+      single: 'true'
+      shuffleanswers: 'true'
+      answernumbering: none
+      correctfeedback:
+        text: ''
+        _format: moodle_auto_format
+      partiallycorrectfeedback:
+        text: ''
+        _format: moodle_auto_format
+      incorrectfeedback:
+        text: ''
+        _format: moodle_auto_format
+      answer:
+        - text: '3136'
+          feedback:
+            text: ''
+            _format: moodle_auto_format
+          _fraction: '100'
+          _format: moodle_auto_format
+        - text: '3636'
+          feedback:
+            text: ''
+            _format: moodle_auto_format
+          _fraction: '0'
+          _format: moodle_auto_format
+        - text: '3236'
+          feedback:
+            text: ''
+            _format: moodle_auto_format
+          _fraction: '0'
+          _format: moodle_auto_format
+        - text: '3736'
+          feedback:
+            text: ''
+            _format: moodle_auto_format
+          _fraction: '0'
+          _format: moodle_auto_format
+        - text: '3336'
+          feedback:
+            text: ''
+            _format: moodle_auto_format
+          _fraction: '0'
+          _format: moodle_auto_format
+      _type: multichoice
+    - name:
+        text: Find 572
+      questiontext:
+        text: <font size="4">Find 57<sup>2</sup></font><br>
+        _format: moodle_auto_format
+      generalfeedback:
+        text: |-
+          <font size="4">
+          (57 - 25) | (50 - 57)<br>
+          Difference stroke | (Difference)<sup>2</sup> stroke<br>
+          = 32 | (-7)<sup>2</sup><br>
+          = 32 | 49</br>
+          Maintain 2 digits in (Difference)<sup>2</sup> stroke</br>
+          = 3249<br>
+          </p></font>
+        _format: moodle_auto_format
+      defaultgrade: '1.0000000'
+      penalty: '0.3333333'
+      hidden: '0'
+      idnumber: ''
+      single: 'true'
+      shuffleanswers: 'true'
+      answernumbering: none
+      correctfeedback:
+        text: ''
+        _format: moodle_auto_format
+      partiallycorrectfeedback:
+        text: ''
+        _format: moodle_auto_format
+      incorrectfeedback:
+        text: ''
+        _format: moodle_auto_format
+      answer:
+        - text: '3249'
+          feedback:
+            text: ''
+            _format: moodle_auto_format
+          _fraction: '100'
+          _format: moodle_auto_format
+        - text: '3749'
+          feedback:
+            text: ''
+            _format: moodle_auto_format
+          _fraction: '0'
+          _format: moodle_auto_format
+        - text: '3349'
+          feedback:
+            text: ''
+            _format: moodle_auto_format
+          _fraction: '0'
+          _format: moodle_auto_format
+        - text: '3849'
+          feedback:
+            text: ''
+            _format: moodle_auto_format
+          _fraction: '0'
+          _format: moodle_auto_format
+        - text: '3449'
+          feedback:
+            text: ''
+            _format: moodle_auto_format
+          _fraction: '0'
+          _format: moodle_auto_format
+      _type: multichoice
+    - name:
+        text: Find 582
+      questiontext:
+        text: <font size="4">Find 58<sup>2</sup></font><br>
+        _format: moodle_auto_format
+      generalfeedback:
+        text: |-
+          <font size="4">
+          (58 - 25) | (50 - 58)<br>
+          Difference stroke | (Difference)<sup>2</sup> stroke<br>
+          = 33 | (-8)<sup>2</sup><br>
+          = 33 | 64</br>
+          Maintain 2 digits in (Difference)<sup>2</sup> stroke</br>
+          = 3364<br>
+          </p></font>
+        _format: moodle_auto_format
+      defaultgrade: '1.0000000'
+      penalty: '0.3333333'
+      hidden: '0'
+      idnumber: ''
+      single: 'true'
+      shuffleanswers: 'true'
+      answernumbering: none
+      correctfeedback:
+        text: ''
+        _format: moodle_auto_format
+      partiallycorrectfeedback:
+        text: ''
+        _format: moodle_auto_format
+      incorrectfeedback:
+        text: ''
+        _format: moodle_auto_format
+      answer:
+        - text: '3364'
+          feedback:
+            text: ''
+            _format: moodle_auto_format
+          _fraction: '100'
+          _format: moodle_auto_format
+        - text: '3864'
+          feedback:
+            text: ''
+            _format: moodle_auto_format
+          _fraction: '0'
+          _format: moodle_auto_format
+        - text: '3464'
+          feedback:
+            text: ''
+            _format: moodle_auto_format
+          _fraction: '0'
+          _format: moodle_auto_format
+        - text: '3964'
+          feedback:
+            text: ''
+            _format: moodle_auto_format
+          _fraction: '0'
+          _format: moodle_auto_format
+        - text: '3564'
+          feedback:
+            text: ''
+            _format: moodle_auto_format
+          _fraction: '0'
+          _format: moodle_auto_format
+      _type: multichoice
+    - name:
+        text: Find 592
+      questiontext:
+        text: <font size="4">Find 59<sup>2</sup></font><br>
+        _format: moodle_auto_format
+      generalfeedback:
+        text: |-
+          <font size="4">
+          (59 - 25) | (50 - 59)<br>
+          Difference stroke | (Difference)<sup>2</sup> stroke<br>
+          = 34 | (-9)<sup>2</sup><br>
+          = 34 | 81</br>
+          Maintain 2 digits in (Difference)<sup>2</sup> stroke</br>
+          = 3481<br>
+          </p></font>
+        _format: moodle_auto_format
+      defaultgrade: '1.0000000'
+      penalty: '0.3333333'
+      hidden: '0'
+      idnumber: ''
+      single: 'true'
+      shuffleanswers: 'true'
+      answernumbering: none
+      correctfeedback:
+        text: ''
+        _format: moodle_auto_format
+      partiallycorrectfeedback:
+        text: ''
+        _format: moodle_auto_format
+      incorrectfeedback:
+        text: ''
+        _format: moodle_auto_format
+      answer:
+        - text: '3481'
+          feedback:
+            text: ''
+            _format: moodle_auto_format
+          _fraction: '100'
+          _format: moodle_auto_format
+        - text: '3981'
+          feedback:
+            text: ''
+            _format: moodle_auto_format
+          _fraction: '0'
+          _format: moodle_auto_format
+        - text: '3581'
+          feedback:
+            text: ''
+            _format: moodle_auto_format
+          _fraction: '0'
+          _format: moodle_auto_format
+        - text: '4081'
+          feedback:
+            text: ''
+            _format: moodle_auto_format
+          _fraction: '0'
+          _format: moodle_auto_format
+        - text: '3681'
+          feedback:
+            text: ''
+            _format: moodle_auto_format
+          _fraction: '0'
+          _format: moodle_auto_format
+      _type: multichoice
+

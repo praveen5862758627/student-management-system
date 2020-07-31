@@ -1,0 +1,6 @@
+{
+    "require": {
+        "koolreport/core": "^4.5",
+        "koolreport/bootstrap4": "^1.5"
+    }
+}

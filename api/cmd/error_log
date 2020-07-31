@@ -1,0 +1,1437 @@
+[22-Mar-2019 11:44:57 Etc/GMT] PHP Warning:  Creating default object from empty value in /home/odinlm3h/public_html/API/cmd/gettargetcompsid.php on line 19
+[22-Mar-2019 11:45:05 Etc/GMT] PHP Warning:  Creating default object from empty value in /home/odinlm3h/public_html/API/cmd/gettargetcompsid.php on line 19
+[22-Mar-2019 11:45:05 Etc/GMT] PHP Notice:  Undefined variable: name in /home/odinlm3h/public_html/API/cmd/gettargetcompsid.php on line 66
+[22-Mar-2019 11:45:14 Etc/GMT] PHP Warning:  Creating default object from empty value in /home/odinlm3h/public_html/API/cmd/gettargetcompsid.php on line 19
+[22-Mar-2019 11:45:15 Etc/GMT] PHP Warning:  Creating default object from empty value in /home/odinlm3h/public_html/API/cmd/gettargetcompsid.php on line 19
+[22-Mar-2019 11:45:15 Etc/GMT] PHP Notice:  Undefined variable: name in /home/odinlm3h/public_html/API/cmd/gettargetcompsid.php on line 66
+[22-Mar-2019 11:45:46 Etc/GMT] PHP Warning:  Creating default object from empty value in /home/odinlm3h/public_html/API/cmd/gettargetcompsid.php on line 19
+[22-Mar-2019 11:47:17 Etc/GMT] PHP Warning:  Creating default object from empty value in /home/odinlm3h/public_html/API/cmd/gettargetcompsid.php on line 19
+[22-Mar-2019 11:47:33 Etc/GMT] PHP Warning:  Creating default object from empty value in /home/odinlm3h/public_html/API/cmd/gettargetcompsid.php on line 19
+[22-Mar-2019 11:47:33 Etc/GMT] PHP Notice:  Undefined variable: lesson_id in /home/odinlm3h/public_html/API/cmd/gettargetcompsid.php on line 67
+[22-Mar-2019 11:48:48 Etc/GMT] PHP Warning:  Creating default object from empty value in /home/odinlm3h/public_html/API/cmd/gettargetcompsid.php on line 19
+[22-Mar-2019 11:48:48 Etc/GMT] PHP Notice:  Undefined variable: topic_id in /home/odinlm3h/public_html/API/cmd/gettargetcompsid.php on line 66
+[22-Mar-2019 11:56:05 Etc/GMT] PHP Notice:  Undefined property: stdClass::$id in /home/odinlm3h/public_html/API/cmd/gettargetcompsid.php on line 22
+[22-Mar-2019 11:56:05 Etc/GMT] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 2 in /home/odinlm3h/public_html/API/cmd/models/Post.php:126
+Stack trace:
+#0 /home/odinlm3h/public_html/API/cmd/models/Post.php(126): PDOStatement->execute()
+#1 /home/odinlm3h/public_html/API/cmd/gettargetcompsid.php(22): Post->getmatchid(NULL, 'quiz', 'lesson_id')
+#2 {main}
+  thrown in /home/odinlm3h/public_html/API/cmd/models/Post.php on line 126
+[22-Mar-2019 11:57:09 Etc/GMT] PHP Notice:  Undefined variable: lesson_id in /home/odinlm3h/public_html/API/cmd/gettargetcompsid.php on line 67
+[22-Mar-2019 12:00:14 Etc/GMT] PHP Notice:  Undefined variable: lesson_id in /home/odinlm3h/public_html/API/cmd/gettargetcompsid.php on line 67
+[22-Mar-2019 12:01:49 Etc/GMT] PHP Notice:  Undefined variable: lesson_id in /home/odinlm3h/public_html/API/cmd/gettargetcompsid.php on line 67
+[22-Mar-2019 12:02:49 Etc/GMT] PHP Notice:  Undefined variable: lesson_id in /home/odinlm3h/public_html/API/cmd/gettargetcompsid.php on line 67
+[22-Mar-2019 12:03:21 Etc/GMT] PHP Notice:  Undefined variable: lesson_id in /home/odinlm3h/public_html/API/cmd/gettargetcompsid.php on line 67
+[22-Mar-2019 12:03:37 Etc/GMT] PHP Notice:  Undefined variable: lesson_id in /home/odinlm3h/public_html/API/cmd/gettargetcompsid.php on line 67
+[22-Mar-2019 12:03:55 Etc/GMT] PHP Notice:  Undefined variable: lesson_id in /home/odinlm3h/public_html/API/cmd/gettargetcompsid.php on line 67
+[22-Mar-2019 12:04:28 Etc/GMT] PHP Notice:  Undefined variable: lesson_id in /home/odinlm3h/public_html/API/cmd/gettargetcompsid.php on line 67
+[22-Mar-2019 12:05:08 Etc/GMT] PHP Notice:  Undefined variable: lesson_id in /home/odinlm3h/public_html/API/cmd/gettargetcompsid.php on line 67
+[22-Mar-2019 12:10:49 Etc/GMT] PHP Notice:  Undefined variable: lesson_id in /home/odinlm3h/public_html/API/cmd/gettargetcompsid.php on line 67
+[22-Mar-2019 12:10:50 Etc/GMT] PHP Notice:  Undefined variable: topic_id in /home/odinlm3h/public_html/API/cmd/gettargetcompsid.php on line 66
+[22-Mar-2019 12:10:50 Etc/GMT] PHP Notice:  Undefined variable: topic_id in /home/odinlm3h/public_html/API/cmd/gettargetcompsid.php on line 66
+[22-Mar-2019 12:10:50 Etc/GMT] PHP Notice:  Undefined variable: topic_id in /home/odinlm3h/public_html/API/cmd/gettargetcompsid.php on line 66
+[22-Mar-2019 12:10:50 Etc/GMT] PHP Notice:  Undefined variable: topic_id in /home/odinlm3h/public_html/API/cmd/gettargetcompsid.php on line 66
+[22-Mar-2019 12:10:50 Etc/GMT] PHP Notice:  Undefined variable: topic_id in /home/odinlm3h/public_html/API/cmd/gettargetcompsid.php on line 66
+[22-Mar-2019 12:10:50 Etc/GMT] PHP Notice:  Undefined variable: topic_id in /home/odinlm3h/public_html/API/cmd/gettargetcompsid.php on line 66
+[22-Mar-2019 12:10:51 Etc/GMT] PHP Notice:  Undefined variable: lesson_id in /home/odinlm3h/public_html/API/cmd/gettargetcompsid.php on line 67
+[22-Mar-2019 12:10:51 Etc/GMT] PHP Notice:  Undefined variable: topic_id in /home/odinlm3h/public_html/API/cmd/gettargetcompsid.php on line 66
+[22-Mar-2019 12:10:51 Etc/GMT] PHP Notice:  Undefined variable: topic_id in /home/odinlm3h/public_html/API/cmd/gettargetcompsid.php on line 66
+[22-Mar-2019 12:10:51 Etc/GMT] PHP Notice:  Undefined variable: topic_id in /home/odinlm3h/public_html/API/cmd/gettargetcompsid.php on line 66
+[22-Mar-2019 12:10:51 Etc/GMT] PHP Notice:  Undefined variable: topic_id in /home/odinlm3h/public_html/API/cmd/gettargetcompsid.php on line 66
+[22-Mar-2019 12:10:51 Etc/GMT] PHP Notice:  Undefined variable: topic_id in /home/odinlm3h/public_html/API/cmd/gettargetcompsid.php on line 66
+[22-Mar-2019 12:10:52 Etc/GMT] PHP Notice:  Undefined variable: topic_id in /home/odinlm3h/public_html/API/cmd/gettargetcompsid.php on line 66
+[22-Mar-2019 12:11:23 Etc/GMT] PHP Notice:  Undefined variable: lesson_id in /home/odinlm3h/public_html/API/cmd/gettargetcompsid.php on line 67
+[22-Mar-2019 12:11:23 Etc/GMT] PHP Notice:  Undefined variable: topic_id in /home/odinlm3h/public_html/API/cmd/gettargetcompsid.php on line 66
+[22-Mar-2019 12:11:24 Etc/GMT] PHP Notice:  Undefined variable: topic_id in /home/odinlm3h/public_html/API/cmd/gettargetcompsid.php on line 66
+[22-Mar-2019 12:11:24 Etc/GMT] PHP Notice:  Undefined variable: topic_id in /home/odinlm3h/public_html/API/cmd/gettargetcompsid.php on line 66
+[22-Mar-2019 12:11:24 Etc/GMT] PHP Notice:  Undefined variable: topic_id in /home/odinlm3h/public_html/API/cmd/gettargetcompsid.php on line 66
+[22-Mar-2019 12:11:24 Etc/GMT] PHP Notice:  Undefined variable: topic_id in /home/odinlm3h/public_html/API/cmd/gettargetcompsid.php on line 66
+[22-Mar-2019 12:11:24 Etc/GMT] PHP Notice:  Undefined variable: topic_id in /home/odinlm3h/public_html/API/cmd/gettargetcompsid.php on line 66
+[22-Mar-2019 12:11:24 Etc/GMT] PHP Notice:  Undefined variable: lesson_id in /home/odinlm3h/public_html/API/cmd/gettargetcompsid.php on line 67
+[22-Mar-2019 12:11:25 Etc/GMT] PHP Notice:  Undefined variable: topic_id in /home/odinlm3h/public_html/API/cmd/gettargetcompsid.php on line 66
+[22-Mar-2019 12:11:25 Etc/GMT] PHP Notice:  Undefined variable: topic_id in /home/odinlm3h/public_html/API/cmd/gettargetcompsid.php on line 66
+[22-Mar-2019 12:11:25 Etc/GMT] PHP Notice:  Undefined variable: topic_id in /home/odinlm3h/public_html/API/cmd/gettargetcompsid.php on line 66
+[22-Mar-2019 12:11:25 Etc/GMT] PHP Notice:  Undefined variable: topic_id in /home/odinlm3h/public_html/API/cmd/gettargetcompsid.php on line 66
+[22-Mar-2019 12:11:25 Etc/GMT] PHP Notice:  Undefined variable: topic_id in /home/odinlm3h/public_html/API/cmd/gettargetcompsid.php on line 66
+[22-Mar-2019 12:11:25 Etc/GMT] PHP Notice:  Undefined variable: topic_id in /home/odinlm3h/public_html/API/cmd/gettargetcompsid.php on line 66
+[22-Mar-2019 12:13:03 Etc/GMT] PHP Notice:  Undefined variable: lesson_id in /home/odinlm3h/public_html/API/cmd/gettargetcompsid.php on line 67
+[22-Mar-2019 12:13:03 Etc/GMT] PHP Notice:  Undefined variable: topic_id in /home/odinlm3h/public_html/API/cmd/gettargetcompsid.php on line 66
+[22-Mar-2019 12:13:03 Etc/GMT] PHP Notice:  Undefined variable: topic_id in /home/odinlm3h/public_html/API/cmd/gettargetcompsid.php on line 66
+[22-Mar-2019 12:13:03 Etc/GMT] PHP Notice:  Undefined variable: topic_id in /home/odinlm3h/public_html/API/cmd/gettargetcompsid.php on line 66
+[22-Mar-2019 12:13:03 Etc/GMT] PHP Notice:  Undefined variable: topic_id in /home/odinlm3h/public_html/API/cmd/gettargetcompsid.php on line 66
+[22-Mar-2019 12:13:03 Etc/GMT] PHP Notice:  Undefined variable: topic_id in /home/odinlm3h/public_html/API/cmd/gettargetcompsid.php on line 66
+[22-Mar-2019 12:13:03 Etc/GMT] PHP Notice:  Undefined variable: topic_id in /home/odinlm3h/public_html/API/cmd/gettargetcompsid.php on line 66
+[22-Mar-2019 12:13:04 Etc/GMT] PHP Notice:  Undefined variable: lesson_id in /home/odinlm3h/public_html/API/cmd/gettargetcompsid.php on line 67
+[22-Mar-2019 12:13:04 Etc/GMT] PHP Notice:  Undefined variable: topic_id in /home/odinlm3h/public_html/API/cmd/gettargetcompsid.php on line 66
+[22-Mar-2019 12:13:04 Etc/GMT] PHP Notice:  Undefined variable: topic_id in /home/odinlm3h/public_html/API/cmd/gettargetcompsid.php on line 66
+[22-Mar-2019 12:13:04 Etc/GMT] PHP Notice:  Undefined variable: topic_id in /home/odinlm3h/public_html/API/cmd/gettargetcompsid.php on line 66
+[22-Mar-2019 12:13:04 Etc/GMT] PHP Notice:  Undefined variable: topic_id in /home/odinlm3h/public_html/API/cmd/gettargetcompsid.php on line 66
+[22-Mar-2019 12:13:04 Etc/GMT] PHP Notice:  Undefined variable: topic_id in /home/odinlm3h/public_html/API/cmd/gettargetcompsid.php on line 66
+[22-Mar-2019 12:13:04 Etc/GMT] PHP Notice:  Undefined variable: topic_id in /home/odinlm3h/public_html/API/cmd/gettargetcompsid.php on line 66
+[22-Mar-2019 12:26:46 Etc/GMT] PHP Notice:  Undefined variable: lesson_id in /home/odinlm3h/public_html/API/cmd/gettargetcompsid.php on line 67
+[22-Mar-2019 12:26:46 Etc/GMT] PHP Notice:  Undefined variable: topic_id in /home/odinlm3h/public_html/API/cmd/gettargetcompsid.php on line 66
+[22-Mar-2019 12:26:46 Etc/GMT] PHP Notice:  Undefined variable: topic_id in /home/odinlm3h/public_html/API/cmd/gettargetcompsid.php on line 66
+[22-Mar-2019 12:26:46 Etc/GMT] PHP Notice:  Undefined variable: topic_id in /home/odinlm3h/public_html/API/cmd/gettargetcompsid.php on line 66
+[22-Mar-2019 12:26:46 Etc/GMT] PHP Notice:  Undefined variable: topic_id in /home/odinlm3h/public_html/API/cmd/gettargetcompsid.php on line 66
+[22-Mar-2019 12:26:46 Etc/GMT] PHP Notice:  Undefined variable: topic_id in /home/odinlm3h/public_html/API/cmd/gettargetcompsid.php on line 66
+[22-Mar-2019 12:26:46 Etc/GMT] PHP Notice:  Undefined variable: topic_id in /home/odinlm3h/public_html/API/cmd/gettargetcompsid.php on line 66
+[22-Mar-2019 12:26:46 Etc/GMT] PHP Notice:  Undefined variable: lesson_id in /home/odinlm3h/public_html/API/cmd/gettargetcompsid.php on line 67
+[22-Mar-2019 12:26:46 Etc/GMT] PHP Notice:  Undefined variable: topic_id in /home/odinlm3h/public_html/API/cmd/gettargetcompsid.php on line 66
+[22-Mar-2019 12:26:47 Etc/GMT] PHP Notice:  Undefined variable: topic_id in /home/odinlm3h/public_html/API/cmd/gettargetcompsid.php on line 66
+[22-Mar-2019 12:26:47 Etc/GMT] PHP Notice:  Undefined variable: topic_id in /home/odinlm3h/public_html/API/cmd/gettargetcompsid.php on line 66
+[22-Mar-2019 12:26:47 Etc/GMT] PHP Notice:  Undefined variable: topic_id in /home/odinlm3h/public_html/API/cmd/gettargetcompsid.php on line 66
+[22-Mar-2019 12:26:47 Etc/GMT] PHP Notice:  Undefined variable: topic_id in /home/odinlm3h/public_html/API/cmd/gettargetcompsid.php on line 66
+[22-Mar-2019 12:26:47 Etc/GMT] PHP Notice:  Undefined variable: topic_id in /home/odinlm3h/public_html/API/cmd/gettargetcompsid.php on line 66
+[22-Mar-2019 12:41:55 Etc/GMT] PHP Notice:  Undefined variable: lesson_id in /home/odinlm3h/public_html/API/cmd/gettargetcompsid.php on line 67
+[22-Mar-2019 12:41:55 Etc/GMT] PHP Notice:  Undefined variable: topic_id in /home/odinlm3h/public_html/API/cmd/gettargetcompsid.php on line 66
+[22-Mar-2019 12:41:55 Etc/GMT] PHP Notice:  Undefined variable: topic_id in /home/odinlm3h/public_html/API/cmd/gettargetcompsid.php on line 66
+[22-Mar-2019 12:41:55 Etc/GMT] PHP Notice:  Undefined variable: topic_id in /home/odinlm3h/public_html/API/cmd/gettargetcompsid.php on line 66
+[22-Mar-2019 12:41:55 Etc/GMT] PHP Notice:  Undefined variable: topic_id in /home/odinlm3h/public_html/API/cmd/gettargetcompsid.php on line 66
+[22-Mar-2019 12:41:55 Etc/GMT] PHP Notice:  Undefined variable: topic_id in /home/odinlm3h/public_html/API/cmd/gettargetcompsid.php on line 66
+[22-Mar-2019 12:41:55 Etc/GMT] PHP Notice:  Undefined variable: topic_id in /home/odinlm3h/public_html/API/cmd/gettargetcompsid.php on line 66
+[22-Mar-2019 12:41:56 Etc/GMT] PHP Notice:  Undefined variable: lesson_id in /home/odinlm3h/public_html/API/cmd/gettargetcompsid.php on line 67
+[22-Mar-2019 12:41:56 Etc/GMT] PHP Notice:  Undefined variable: topic_id in /home/odinlm3h/public_html/API/cmd/gettargetcompsid.php on line 66
+[22-Mar-2019 12:41:56 Etc/GMT] PHP Notice:  Undefined variable: topic_id in /home/odinlm3h/public_html/API/cmd/gettargetcompsid.php on line 66
+[22-Mar-2019 12:41:56 Etc/GMT] PHP Notice:  Undefined variable: topic_id in /home/odinlm3h/public_html/API/cmd/gettargetcompsid.php on line 66
+[22-Mar-2019 12:41:56 Etc/GMT] PHP Notice:  Undefined variable: topic_id in /home/odinlm3h/public_html/API/cmd/gettargetcompsid.php on line 66
+[22-Mar-2019 12:41:56 Etc/GMT] PHP Notice:  Undefined variable: topic_id in /home/odinlm3h/public_html/API/cmd/gettargetcompsid.php on line 66
+[22-Mar-2019 12:41:56 Etc/GMT] PHP Notice:  Undefined variable: topic_id in /home/odinlm3h/public_html/API/cmd/gettargetcompsid.php on line 66
+[22-Mar-2019 12:43:45 Etc/GMT] PHP Notice:  Undefined variable: lesson_id in /home/odinlm3h/public_html/API/cmd/gettargetcompsid.php on line 67
+[22-Mar-2019 12:43:45 Etc/GMT] PHP Notice:  Undefined variable: topic_id in /home/odinlm3h/public_html/API/cmd/gettargetcompsid.php on line 66
+[22-Mar-2019 12:43:45 Etc/GMT] PHP Notice:  Undefined variable: topic_id in /home/odinlm3h/public_html/API/cmd/gettargetcompsid.php on line 66
+[22-Mar-2019 12:43:45 Etc/GMT] PHP Notice:  Undefined variable: topic_id in /home/odinlm3h/public_html/API/cmd/gettargetcompsid.php on line 66
+[22-Mar-2019 12:43:45 Etc/GMT] PHP Notice:  Undefined variable: topic_id in /home/odinlm3h/public_html/API/cmd/gettargetcompsid.php on line 66
+[22-Mar-2019 12:43:45 Etc/GMT] PHP Notice:  Undefined variable: topic_id in /home/odinlm3h/public_html/API/cmd/gettargetcompsid.php on line 66
+[22-Mar-2019 12:43:45 Etc/GMT] PHP Notice:  Undefined variable: topic_id in /home/odinlm3h/public_html/API/cmd/gettargetcompsid.php on line 66
+[22-Mar-2019 12:43:45 Etc/GMT] PHP Notice:  Undefined variable: lesson_id in /home/odinlm3h/public_html/API/cmd/gettargetcompsid.php on line 67
+[22-Mar-2019 12:43:45 Etc/GMT] PHP Notice:  Undefined variable: topic_id in /home/odinlm3h/public_html/API/cmd/gettargetcompsid.php on line 66
+[22-Mar-2019 12:43:45 Etc/GMT] PHP Notice:  Undefined variable: topic_id in /home/odinlm3h/public_html/API/cmd/gettargetcompsid.php on line 66
+[22-Mar-2019 12:43:45 Etc/GMT] PHP Notice:  Undefined variable: topic_id in /home/odinlm3h/public_html/API/cmd/gettargetcompsid.php on line 66
+[22-Mar-2019 12:43:45 Etc/GMT] PHP Notice:  Undefined variable: topic_id in /home/odinlm3h/public_html/API/cmd/gettargetcompsid.php on line 66
+[22-Mar-2019 12:43:45 Etc/GMT] PHP Notice:  Undefined variable: topic_id in /home/odinlm3h/public_html/API/cmd/gettargetcompsid.php on line 66
+[22-Mar-2019 12:43:45 Etc/GMT] PHP Notice:  Undefined variable: topic_id in /home/odinlm3h/public_html/API/cmd/gettargetcompsid.php on line 66
+[22-Mar-2019 12:44:45 Etc/GMT] PHP Notice:  Undefined variable: lesson_id in /home/odinlm3h/public_html/API/cmd/gettargetcompsid.php on line 67
+[22-Mar-2019 12:44:45 Etc/GMT] PHP Notice:  Undefined variable: topic_id in /home/odinlm3h/public_html/API/cmd/gettargetcompsid.php on line 66
+[22-Mar-2019 12:44:45 Etc/GMT] PHP Notice:  Undefined variable: topic_id in /home/odinlm3h/public_html/API/cmd/gettargetcompsid.php on line 66
+[22-Mar-2019 12:44:45 Etc/GMT] PHP Notice:  Undefined variable: topic_id in /home/odinlm3h/public_html/API/cmd/gettargetcompsid.php on line 66
+[22-Mar-2019 12:44:45 Etc/GMT] PHP Notice:  Undefined variable: topic_id in /home/odinlm3h/public_html/API/cmd/gettargetcompsid.php on line 66
+[22-Mar-2019 12:44:45 Etc/GMT] PHP Notice:  Undefined variable: topic_id in /home/odinlm3h/public_html/API/cmd/gettargetcompsid.php on line 66
+[22-Mar-2019 12:44:45 Etc/GMT] PHP Notice:  Undefined variable: topic_id in /home/odinlm3h/public_html/API/cmd/gettargetcompsid.php on line 66
+[22-Mar-2019 12:44:45 Etc/GMT] PHP Notice:  Undefined variable: lesson_id in /home/odinlm3h/public_html/API/cmd/gettargetcompsid.php on line 67
+[22-Mar-2019 12:44:45 Etc/GMT] PHP Notice:  Undefined variable: topic_id in /home/odinlm3h/public_html/API/cmd/gettargetcompsid.php on line 66
+[22-Mar-2019 12:44:45 Etc/GMT] PHP Notice:  Undefined variable: topic_id in /home/odinlm3h/public_html/API/cmd/gettargetcompsid.php on line 66
+[22-Mar-2019 12:44:45 Etc/GMT] PHP Notice:  Undefined variable: topic_id in /home/odinlm3h/public_html/API/cmd/gettargetcompsid.php on line 66
+[22-Mar-2019 12:44:45 Etc/GMT] PHP Notice:  Undefined variable: topic_id in /home/odinlm3h/public_html/API/cmd/gettargetcompsid.php on line 66
+[22-Mar-2019 12:44:45 Etc/GMT] PHP Notice:  Undefined variable: topic_id in /home/odinlm3h/public_html/API/cmd/gettargetcompsid.php on line 66
+[22-Mar-2019 12:44:45 Etc/GMT] PHP Notice:  Undefined variable: topic_id in /home/odinlm3h/public_html/API/cmd/gettargetcompsid.php on line 66
+[22-Mar-2019 12:47:30 Etc/GMT] PHP Notice:  Undefined variable: lesson_id in /home/odinlm3h/public_html/API/cmd/gettargetcompsid.php on line 67
+[22-Mar-2019 12:47:30 Etc/GMT] PHP Notice:  Undefined variable: topic_id in /home/odinlm3h/public_html/API/cmd/gettargetcompsid.php on line 66
+[22-Mar-2019 12:47:30 Etc/GMT] PHP Notice:  Undefined variable: topic_id in /home/odinlm3h/public_html/API/cmd/gettargetcompsid.php on line 66
+[22-Mar-2019 12:47:30 Etc/GMT] PHP Notice:  Undefined variable: topic_id in /home/odinlm3h/public_html/API/cmd/gettargetcompsid.php on line 66
+[22-Mar-2019 12:47:30 Etc/GMT] PHP Notice:  Undefined variable: topic_id in /home/odinlm3h/public_html/API/cmd/gettargetcompsid.php on line 66
+[22-Mar-2019 12:47:30 Etc/GMT] PHP Notice:  Undefined variable: topic_id in /home/odinlm3h/public_html/API/cmd/gettargetcompsid.php on line 66
+[22-Mar-2019 12:47:31 Etc/GMT] PHP Notice:  Undefined variable: topic_id in /home/odinlm3h/public_html/API/cmd/gettargetcompsid.php on line 66
+[22-Mar-2019 12:47:31 Etc/GMT] PHP Notice:  Undefined variable: lesson_id in /home/odinlm3h/public_html/API/cmd/gettargetcompsid.php on line 67
+[22-Mar-2019 12:47:31 Etc/GMT] PHP Notice:  Undefined variable: topic_id in /home/odinlm3h/public_html/API/cmd/gettargetcompsid.php on line 66
+[22-Mar-2019 12:47:31 Etc/GMT] PHP Notice:  Undefined variable: topic_id in /home/odinlm3h/public_html/API/cmd/gettargetcompsid.php on line 66
+[22-Mar-2019 12:47:31 Etc/GMT] PHP Notice:  Undefined variable: topic_id in /home/odinlm3h/public_html/API/cmd/gettargetcompsid.php on line 66
+[22-Mar-2019 12:47:31 Etc/GMT] PHP Notice:  Undefined variable: topic_id in /home/odinlm3h/public_html/API/cmd/gettargetcompsid.php on line 66
+[22-Mar-2019 12:47:31 Etc/GMT] PHP Notice:  Undefined variable: topic_id in /home/odinlm3h/public_html/API/cmd/gettargetcompsid.php on line 66
+[22-Mar-2019 12:47:31 Etc/GMT] PHP Notice:  Undefined variable: topic_id in /home/odinlm3h/public_html/API/cmd/gettargetcompsid.php on line 66
+[22-Mar-2019 12:49:01 Etc/GMT] PHP Notice:  Undefined variable: lesson_id in /home/odinlm3h/public_html/API/cmd/gettargetcompsid.php on line 67
+[22-Mar-2019 12:49:01 Etc/GMT] PHP Notice:  Undefined variable: topic_id in /home/odinlm3h/public_html/API/cmd/gettargetcompsid.php on line 66
+[22-Mar-2019 12:49:01 Etc/GMT] PHP Notice:  Undefined variable: topic_id in /home/odinlm3h/public_html/API/cmd/gettargetcompsid.php on line 66
+[22-Mar-2019 12:49:01 Etc/GMT] PHP Notice:  Undefined variable: topic_id in /home/odinlm3h/public_html/API/cmd/gettargetcompsid.php on line 66
+[22-Mar-2019 12:49:01 Etc/GMT] PHP Notice:  Undefined variable: topic_id in /home/odinlm3h/public_html/API/cmd/gettargetcompsid.php on line 66
+[22-Mar-2019 12:49:01 Etc/GMT] PHP Notice:  Undefined variable: topic_id in /home/odinlm3h/public_html/API/cmd/gettargetcompsid.php on line 66
+[22-Mar-2019 12:49:01 Etc/GMT] PHP Notice:  Undefined variable: topic_id in /home/odinlm3h/public_html/API/cmd/gettargetcompsid.php on line 66
+[22-Mar-2019 12:49:01 Etc/GMT] PHP Notice:  Undefined variable: lesson_id in /home/odinlm3h/public_html/API/cmd/gettargetcompsid.php on line 67
+[22-Mar-2019 12:49:01 Etc/GMT] PHP Notice:  Undefined variable: topic_id in /home/odinlm3h/public_html/API/cmd/gettargetcompsid.php on line 66
+[22-Mar-2019 12:49:01 Etc/GMT] PHP Notice:  Undefined variable: topic_id in /home/odinlm3h/public_html/API/cmd/gettargetcompsid.php on line 66
+[22-Mar-2019 12:49:01 Etc/GMT] PHP Notice:  Undefined variable: topic_id in /home/odinlm3h/public_html/API/cmd/gettargetcompsid.php on line 66
+[22-Mar-2019 12:49:01 Etc/GMT] PHP Notice:  Undefined variable: topic_id in /home/odinlm3h/public_html/API/cmd/gettargetcompsid.php on line 66
+[22-Mar-2019 12:49:01 Etc/GMT] PHP Notice:  Undefined variable: topic_id in /home/odinlm3h/public_html/API/cmd/gettargetcompsid.php on line 66
+[22-Mar-2019 12:49:01 Etc/GMT] PHP Notice:  Undefined variable: topic_id in /home/odinlm3h/public_html/API/cmd/gettargetcompsid.php on line 66
+[22-Mar-2019 12:49:28 Etc/GMT] PHP Notice:  Undefined variable: lesson_id in /home/odinlm3h/public_html/API/cmd/gettargetcompsid.php on line 67
+[22-Mar-2019 12:49:28 Etc/GMT] PHP Notice:  Undefined variable: topic_id in /home/odinlm3h/public_html/API/cmd/gettargetcompsid.php on line 66
+[22-Mar-2019 12:49:28 Etc/GMT] PHP Notice:  Undefined variable: topic_id in /home/odinlm3h/public_html/API/cmd/gettargetcompsid.php on line 66
+[22-Mar-2019 12:49:28 Etc/GMT] PHP Notice:  Undefined variable: topic_id in /home/odinlm3h/public_html/API/cmd/gettargetcompsid.php on line 66
+[22-Mar-2019 12:49:28 Etc/GMT] PHP Notice:  Undefined variable: topic_id in /home/odinlm3h/public_html/API/cmd/gettargetcompsid.php on line 66
+[22-Mar-2019 12:49:28 Etc/GMT] PHP Notice:  Undefined variable: topic_id in /home/odinlm3h/public_html/API/cmd/gettargetcompsid.php on line 66
+[22-Mar-2019 12:49:28 Etc/GMT] PHP Notice:  Undefined variable: topic_id in /home/odinlm3h/public_html/API/cmd/gettargetcompsid.php on line 66
+[22-Mar-2019 12:49:28 Etc/GMT] PHP Notice:  Undefined variable: lesson_id in /home/odinlm3h/public_html/API/cmd/gettargetcompsid.php on line 67
+[22-Mar-2019 12:49:28 Etc/GMT] PHP Notice:  Undefined variable: topic_id in /home/odinlm3h/public_html/API/cmd/gettargetcompsid.php on line 66
+[22-Mar-2019 12:49:28 Etc/GMT] PHP Notice:  Undefined variable: topic_id in /home/odinlm3h/public_html/API/cmd/gettargetcompsid.php on line 66
+[22-Mar-2019 12:49:28 Etc/GMT] PHP Notice:  Undefined variable: topic_id in /home/odinlm3h/public_html/API/cmd/gettargetcompsid.php on line 66
+[22-Mar-2019 12:49:28 Etc/GMT] PHP Notice:  Undefined variable: topic_id in /home/odinlm3h/public_html/API/cmd/gettargetcompsid.php on line 66
+[22-Mar-2019 12:49:28 Etc/GMT] PHP Notice:  Undefined variable: topic_id in /home/odinlm3h/public_html/API/cmd/gettargetcompsid.php on line 66
+[22-Mar-2019 12:49:28 Etc/GMT] PHP Notice:  Undefined variable: topic_id in /home/odinlm3h/public_html/API/cmd/gettargetcompsid.php on line 66
+[22-Mar-2019 12:49:43 Etc/GMT] PHP Notice:  Undefined variable: lesson_id in /home/odinlm3h/public_html/API/cmd/gettargetcompsid.php on line 67
+[22-Mar-2019 12:49:43 Etc/GMT] PHP Notice:  Undefined variable: topic_id in /home/odinlm3h/public_html/API/cmd/gettargetcompsid.php on line 66
+[22-Mar-2019 12:49:43 Etc/GMT] PHP Notice:  Undefined variable: topic_id in /home/odinlm3h/public_html/API/cmd/gettargetcompsid.php on line 66
+[22-Mar-2019 12:49:43 Etc/GMT] PHP Notice:  Undefined variable: topic_id in /home/odinlm3h/public_html/API/cmd/gettargetcompsid.php on line 66
+[22-Mar-2019 12:49:43 Etc/GMT] PHP Notice:  Undefined variable: topic_id in /home/odinlm3h/public_html/API/cmd/gettargetcompsid.php on line 66
+[22-Mar-2019 12:49:43 Etc/GMT] PHP Notice:  Undefined variable: topic_id in /home/odinlm3h/public_html/API/cmd/gettargetcompsid.php on line 66
+[22-Mar-2019 12:49:43 Etc/GMT] PHP Notice:  Undefined variable: topic_id in /home/odinlm3h/public_html/API/cmd/gettargetcompsid.php on line 66
+[22-Mar-2019 12:49:43 Etc/GMT] PHP Notice:  Undefined variable: lesson_id in /home/odinlm3h/public_html/API/cmd/gettargetcompsid.php on line 67
+[22-Mar-2019 12:49:43 Etc/GMT] PHP Notice:  Undefined variable: topic_id in /home/odinlm3h/public_html/API/cmd/gettargetcompsid.php on line 66
+[22-Mar-2019 12:49:43 Etc/GMT] PHP Notice:  Undefined variable: topic_id in /home/odinlm3h/public_html/API/cmd/gettargetcompsid.php on line 66
+[22-Mar-2019 12:49:43 Etc/GMT] PHP Notice:  Undefined variable: topic_id in /home/odinlm3h/public_html/API/cmd/gettargetcompsid.php on line 66
+[22-Mar-2019 12:49:43 Etc/GMT] PHP Notice:  Undefined variable: topic_id in /home/odinlm3h/public_html/API/cmd/gettargetcompsid.php on line 66
+[22-Mar-2019 12:49:43 Etc/GMT] PHP Notice:  Undefined variable: topic_id in /home/odinlm3h/public_html/API/cmd/gettargetcompsid.php on line 66
+[22-Mar-2019 12:49:43 Etc/GMT] PHP Notice:  Undefined variable: topic_id in /home/odinlm3h/public_html/API/cmd/gettargetcompsid.php on line 66
+[22-Mar-2019 12:57:23 Etc/GMT] PHP Notice:  Undefined variable: lesson_id in /home/odinlm3h/public_html/API/cmd/gettargetcompsid.php on line 67
+[22-Mar-2019 12:57:23 Etc/GMT] PHP Notice:  Undefined variable: topic_id in /home/odinlm3h/public_html/API/cmd/gettargetcompsid.php on line 66
+[22-Mar-2019 12:57:23 Etc/GMT] PHP Notice:  Undefined variable: topic_id in /home/odinlm3h/public_html/API/cmd/gettargetcompsid.php on line 66
+[22-Mar-2019 12:57:23 Etc/GMT] PHP Notice:  Undefined variable: topic_id in /home/odinlm3h/public_html/API/cmd/gettargetcompsid.php on line 66
+[22-Mar-2019 12:57:23 Etc/GMT] PHP Notice:  Undefined variable: topic_id in /home/odinlm3h/public_html/API/cmd/gettargetcompsid.php on line 66
+[22-Mar-2019 12:57:23 Etc/GMT] PHP Notice:  Undefined variable: topic_id in /home/odinlm3h/public_html/API/cmd/gettargetcompsid.php on line 66
+[22-Mar-2019 12:57:23 Etc/GMT] PHP Notice:  Undefined variable: topic_id in /home/odinlm3h/public_html/API/cmd/gettargetcompsid.php on line 66
+[22-Mar-2019 12:57:23 Etc/GMT] PHP Notice:  Undefined variable: lesson_id in /home/odinlm3h/public_html/API/cmd/gettargetcompsid.php on line 67
+[22-Mar-2019 12:57:23 Etc/GMT] PHP Notice:  Undefined variable: topic_id in /home/odinlm3h/public_html/API/cmd/gettargetcompsid.php on line 66
+[22-Mar-2019 12:57:23 Etc/GMT] PHP Notice:  Undefined variable: topic_id in /home/odinlm3h/public_html/API/cmd/gettargetcompsid.php on line 66
+[22-Mar-2019 12:57:23 Etc/GMT] PHP Notice:  Undefined variable: topic_id in /home/odinlm3h/public_html/API/cmd/gettargetcompsid.php on line 66
+[22-Mar-2019 12:57:23 Etc/GMT] PHP Notice:  Undefined variable: topic_id in /home/odinlm3h/public_html/API/cmd/gettargetcompsid.php on line 66
+[22-Mar-2019 12:57:23 Etc/GMT] PHP Notice:  Undefined variable: topic_id in /home/odinlm3h/public_html/API/cmd/gettargetcompsid.php on line 66
+[22-Mar-2019 12:57:23 Etc/GMT] PHP Notice:  Undefined variable: topic_id in /home/odinlm3h/public_html/API/cmd/gettargetcompsid.php on line 66
+[22-Mar-2019 13:02:32 Etc/GMT] PHP Notice:  Undefined variable: lesson_id in /home/odinlm3h/public_html/API/cmd/gettargetcompsid.php on line 67
+[22-Mar-2019 13:02:32 Etc/GMT] PHP Notice:  Undefined variable: topic_id in /home/odinlm3h/public_html/API/cmd/gettargetcompsid.php on line 66
+[22-Mar-2019 13:02:32 Etc/GMT] PHP Notice:  Undefined variable: topic_id in /home/odinlm3h/public_html/API/cmd/gettargetcompsid.php on line 66
+[22-Mar-2019 13:02:32 Etc/GMT] PHP Notice:  Undefined variable: topic_id in /home/odinlm3h/public_html/API/cmd/gettargetcompsid.php on line 66
+[22-Mar-2019 13:02:32 Etc/GMT] PHP Notice:  Undefined variable: topic_id in /home/odinlm3h/public_html/API/cmd/gettargetcompsid.php on line 66
+[22-Mar-2019 13:02:32 Etc/GMT] PHP Notice:  Undefined variable: topic_id in /home/odinlm3h/public_html/API/cmd/gettargetcompsid.php on line 66
+[22-Mar-2019 13:02:32 Etc/GMT] PHP Notice:  Undefined variable: topic_id in /home/odinlm3h/public_html/API/cmd/gettargetcompsid.php on line 66
+[22-Mar-2019 13:02:32 Etc/GMT] PHP Notice:  Undefined variable: lesson_id in /home/odinlm3h/public_html/API/cmd/gettargetcompsid.php on line 67
+[22-Mar-2019 13:02:32 Etc/GMT] PHP Notice:  Undefined variable: topic_id in /home/odinlm3h/public_html/API/cmd/gettargetcompsid.php on line 66
+[22-Mar-2019 13:02:32 Etc/GMT] PHP Notice:  Undefined variable: topic_id in /home/odinlm3h/public_html/API/cmd/gettargetcompsid.php on line 66
+[22-Mar-2019 13:02:33 Etc/GMT] PHP Notice:  Undefined variable: topic_id in /home/odinlm3h/public_html/API/cmd/gettargetcompsid.php on line 66
+[22-Mar-2019 13:02:33 Etc/GMT] PHP Notice:  Undefined variable: topic_id in /home/odinlm3h/public_html/API/cmd/gettargetcompsid.php on line 66
+[22-Mar-2019 13:02:33 Etc/GMT] PHP Notice:  Undefined variable: topic_id in /home/odinlm3h/public_html/API/cmd/gettargetcompsid.php on line 66
+[22-Mar-2019 13:02:33 Etc/GMT] PHP Notice:  Undefined variable: topic_id in /home/odinlm3h/public_html/API/cmd/gettargetcompsid.php on line 66
+[22-Mar-2019 13:12:33 Etc/GMT] PHP Notice:  Undefined variable: lesson_id in /home/odinlm3h/public_html/API/cmd/gettargetcompsid.php on line 67
+[22-Mar-2019 13:12:34 Etc/GMT] PHP Notice:  Undefined variable: topic_id in /home/odinlm3h/public_html/API/cmd/gettargetcompsid.php on line 66
+[22-Mar-2019 13:12:34 Etc/GMT] PHP Notice:  Undefined variable: topic_id in /home/odinlm3h/public_html/API/cmd/gettargetcompsid.php on line 66
+[22-Mar-2019 13:12:34 Etc/GMT] PHP Notice:  Undefined variable: topic_id in /home/odinlm3h/public_html/API/cmd/gettargetcompsid.php on line 66
+[22-Mar-2019 13:12:34 Etc/GMT] PHP Notice:  Undefined variable: topic_id in /home/odinlm3h/public_html/API/cmd/gettargetcompsid.php on line 66
+[22-Mar-2019 13:12:34 Etc/GMT] PHP Notice:  Undefined variable: topic_id in /home/odinlm3h/public_html/API/cmd/gettargetcompsid.php on line 66
+[22-Mar-2019 13:12:34 Etc/GMT] PHP Notice:  Undefined variable: topic_id in /home/odinlm3h/public_html/API/cmd/gettargetcompsid.php on line 66
+[22-Mar-2019 13:12:34 Etc/GMT] PHP Notice:  Undefined variable: lesson_id in /home/odinlm3h/public_html/API/cmd/gettargetcompsid.php on line 67
+[22-Mar-2019 13:12:34 Etc/GMT] PHP Notice:  Undefined variable: topic_id in /home/odinlm3h/public_html/API/cmd/gettargetcompsid.php on line 66
+[22-Mar-2019 13:12:34 Etc/GMT] PHP Notice:  Undefined variable: topic_id in /home/odinlm3h/public_html/API/cmd/gettargetcompsid.php on line 66
+[22-Mar-2019 13:12:34 Etc/GMT] PHP Notice:  Undefined variable: topic_id in /home/odinlm3h/public_html/API/cmd/gettargetcompsid.php on line 66
+[22-Mar-2019 13:12:34 Etc/GMT] PHP Notice:  Undefined variable: topic_id in /home/odinlm3h/public_html/API/cmd/gettargetcompsid.php on line 66
+[22-Mar-2019 13:12:34 Etc/GMT] PHP Notice:  Undefined variable: topic_id in /home/odinlm3h/public_html/API/cmd/gettargetcompsid.php on line 66
+[22-Mar-2019 13:12:34 Etc/GMT] PHP Notice:  Undefined variable: topic_id in /home/odinlm3h/public_html/API/cmd/gettargetcompsid.php on line 66
+[22-Mar-2019 17:37:07 Etc/GMT] PHP Notice:  Undefined variable: lesson_id in /home/odinlm3h/public_html/API/cmd/gettargetcompsid.php on line 67
+[22-Mar-2019 17:37:07 Etc/GMT] PHP Notice:  Undefined variable: topic_id in /home/odinlm3h/public_html/API/cmd/gettargetcompsid.php on line 66
+[22-Mar-2019 17:37:07 Etc/GMT] PHP Notice:  Undefined variable: topic_id in /home/odinlm3h/public_html/API/cmd/gettargetcompsid.php on line 66
+[22-Mar-2019 17:37:08 Etc/GMT] PHP Notice:  Undefined variable: topic_id in /home/odinlm3h/public_html/API/cmd/gettargetcompsid.php on line 66
+[22-Mar-2019 17:37:08 Etc/GMT] PHP Notice:  Undefined variable: topic_id in /home/odinlm3h/public_html/API/cmd/gettargetcompsid.php on line 66
+[22-Mar-2019 17:37:08 Etc/GMT] PHP Notice:  Undefined variable: topic_id in /home/odinlm3h/public_html/API/cmd/gettargetcompsid.php on line 66
+[22-Mar-2019 17:37:08 Etc/GMT] PHP Notice:  Undefined variable: topic_id in /home/odinlm3h/public_html/API/cmd/gettargetcompsid.php on line 66
+[22-Mar-2019 17:37:08 Etc/GMT] PHP Notice:  Undefined variable: lesson_id in /home/odinlm3h/public_html/API/cmd/gettargetcompsid.php on line 67
+[22-Mar-2019 17:37:08 Etc/GMT] PHP Notice:  Undefined variable: topic_id in /home/odinlm3h/public_html/API/cmd/gettargetcompsid.php on line 66
+[22-Mar-2019 17:37:08 Etc/GMT] PHP Notice:  Undefined variable: topic_id in /home/odinlm3h/public_html/API/cmd/gettargetcompsid.php on line 66
+[22-Mar-2019 17:37:08 Etc/GMT] PHP Notice:  Undefined variable: topic_id in /home/odinlm3h/public_html/API/cmd/gettargetcompsid.php on line 66
+[22-Mar-2019 17:37:08 Etc/GMT] PHP Notice:  Undefined variable: topic_id in /home/odinlm3h/public_html/API/cmd/gettargetcompsid.php on line 66
+[22-Mar-2019 17:37:08 Etc/GMT] PHP Notice:  Undefined variable: topic_id in /home/odinlm3h/public_html/API/cmd/gettargetcompsid.php on line 66
+[22-Mar-2019 17:37:08 Etc/GMT] PHP Notice:  Undefined variable: topic_id in /home/odinlm3h/public_html/API/cmd/gettargetcompsid.php on line 66
+[22-Mar-2019 17:40:18 Etc/GMT] PHP Notice:  Undefined variable: lesson_id in /home/odinlm3h/public_html/API/cmd/gettargetcompsid.php on line 67
+[22-Mar-2019 17:40:18 Etc/GMT] PHP Notice:  Undefined variable: topic_id in /home/odinlm3h/public_html/API/cmd/gettargetcompsid.php on line 66
+[22-Mar-2019 17:40:18 Etc/GMT] PHP Notice:  Undefined variable: topic_id in /home/odinlm3h/public_html/API/cmd/gettargetcompsid.php on line 66
+[22-Mar-2019 17:40:18 Etc/GMT] PHP Notice:  Undefined variable: topic_id in /home/odinlm3h/public_html/API/cmd/gettargetcompsid.php on line 66
+[22-Mar-2019 17:40:18 Etc/GMT] PHP Notice:  Undefined variable: topic_id in /home/odinlm3h/public_html/API/cmd/gettargetcompsid.php on line 66
+[22-Mar-2019 17:40:18 Etc/GMT] PHP Notice:  Undefined variable: topic_id in /home/odinlm3h/public_html/API/cmd/gettargetcompsid.php on line 66
+[22-Mar-2019 17:40:18 Etc/GMT] PHP Notice:  Undefined variable: topic_id in /home/odinlm3h/public_html/API/cmd/gettargetcompsid.php on line 66
+[22-Mar-2019 17:40:18 Etc/GMT] PHP Notice:  Undefined variable: lesson_id in /home/odinlm3h/public_html/API/cmd/gettargetcompsid.php on line 67
+[22-Mar-2019 17:40:18 Etc/GMT] PHP Notice:  Undefined variable: topic_id in /home/odinlm3h/public_html/API/cmd/gettargetcompsid.php on line 66
+[22-Mar-2019 17:40:18 Etc/GMT] PHP Notice:  Undefined variable: topic_id in /home/odinlm3h/public_html/API/cmd/gettargetcompsid.php on line 66
+[22-Mar-2019 17:40:18 Etc/GMT] PHP Notice:  Undefined variable: topic_id in /home/odinlm3h/public_html/API/cmd/gettargetcompsid.php on line 66
+[22-Mar-2019 17:40:18 Etc/GMT] PHP Notice:  Undefined variable: topic_id in /home/odinlm3h/public_html/API/cmd/gettargetcompsid.php on line 66
+[22-Mar-2019 17:40:18 Etc/GMT] PHP Notice:  Undefined variable: topic_id in /home/odinlm3h/public_html/API/cmd/gettargetcompsid.php on line 66
+[22-Mar-2019 17:40:18 Etc/GMT] PHP Notice:  Undefined variable: topic_id in /home/odinlm3h/public_html/API/cmd/gettargetcompsid.php on line 66
+[23-Mar-2019 00:04:41 Etc/GMT] PHP Notice:  Undefined variable: lesson_id in /home/odinlm3h/public_html/API/cmd/gettargetcompsid.php on line 67
+[23-Mar-2019 00:04:41 Etc/GMT] PHP Notice:  Undefined variable: topic_id in /home/odinlm3h/public_html/API/cmd/gettargetcompsid.php on line 66
+[23-Mar-2019 00:04:41 Etc/GMT] PHP Notice:  Undefined variable: topic_id in /home/odinlm3h/public_html/API/cmd/gettargetcompsid.php on line 66
+[23-Mar-2019 00:04:41 Etc/GMT] PHP Notice:  Undefined variable: topic_id in /home/odinlm3h/public_html/API/cmd/gettargetcompsid.php on line 66
+[23-Mar-2019 00:04:41 Etc/GMT] PHP Notice:  Undefined variable: topic_id in /home/odinlm3h/public_html/API/cmd/gettargetcompsid.php on line 66
+[23-Mar-2019 00:04:41 Etc/GMT] PHP Notice:  Undefined variable: topic_id in /home/odinlm3h/public_html/API/cmd/gettargetcompsid.php on line 66
+[23-Mar-2019 00:04:41 Etc/GMT] PHP Notice:  Undefined variable: topic_id in /home/odinlm3h/public_html/API/cmd/gettargetcompsid.php on line 66
+[23-Mar-2019 00:04:42 Etc/GMT] PHP Notice:  Undefined variable: lesson_id in /home/odinlm3h/public_html/API/cmd/gettargetcompsid.php on line 67
+[23-Mar-2019 00:04:42 Etc/GMT] PHP Notice:  Undefined variable: topic_id in /home/odinlm3h/public_html/API/cmd/gettargetcompsid.php on line 66
+[23-Mar-2019 00:04:42 Etc/GMT] PHP Notice:  Undefined variable: topic_id in /home/odinlm3h/public_html/API/cmd/gettargetcompsid.php on line 66
+[23-Mar-2019 00:04:42 Etc/GMT] PHP Notice:  Undefined variable: topic_id in /home/odinlm3h/public_html/API/cmd/gettargetcompsid.php on line 66
+[23-Mar-2019 00:04:42 Etc/GMT] PHP Notice:  Undefined variable: topic_id in /home/odinlm3h/public_html/API/cmd/gettargetcompsid.php on line 66
+[23-Mar-2019 00:04:42 Etc/GMT] PHP Notice:  Undefined variable: topic_id in /home/odinlm3h/public_html/API/cmd/gettargetcompsid.php on line 66
+[23-Mar-2019 00:04:42 Etc/GMT] PHP Notice:  Undefined variable: topic_id in /home/odinlm3h/public_html/API/cmd/gettargetcompsid.php on line 66
+[23-Mar-2019 00:05:41 Etc/GMT] PHP Notice:  Undefined variable: lesson_id in /home/odinlm3h/public_html/API/cmd/gettargetcompsid.php on line 67
+[23-Mar-2019 00:05:41 Etc/GMT] PHP Notice:  Undefined variable: topic_id in /home/odinlm3h/public_html/API/cmd/gettargetcompsid.php on line 66
+[23-Mar-2019 00:05:41 Etc/GMT] PHP Notice:  Undefined variable: topic_id in /home/odinlm3h/public_html/API/cmd/gettargetcompsid.php on line 66
+[23-Mar-2019 00:05:41 Etc/GMT] PHP Notice:  Undefined variable: topic_id in /home/odinlm3h/public_html/API/cmd/gettargetcompsid.php on line 66
+[23-Mar-2019 00:05:41 Etc/GMT] PHP Notice:  Undefined variable: topic_id in /home/odinlm3h/public_html/API/cmd/gettargetcompsid.php on line 66
+[23-Mar-2019 00:05:41 Etc/GMT] PHP Notice:  Undefined variable: topic_id in /home/odinlm3h/public_html/API/cmd/gettargetcompsid.php on line 66
+[23-Mar-2019 00:05:41 Etc/GMT] PHP Notice:  Undefined variable: topic_id in /home/odinlm3h/public_html/API/cmd/gettargetcompsid.php on line 66
+[23-Mar-2019 00:05:41 Etc/GMT] PHP Notice:  Undefined variable: lesson_id in /home/odinlm3h/public_html/API/cmd/gettargetcompsid.php on line 67
+[23-Mar-2019 00:05:41 Etc/GMT] PHP Notice:  Undefined variable: topic_id in /home/odinlm3h/public_html/API/cmd/gettargetcompsid.php on line 66
+[23-Mar-2019 00:05:41 Etc/GMT] PHP Notice:  Undefined variable: topic_id in /home/odinlm3h/public_html/API/cmd/gettargetcompsid.php on line 66
+[23-Mar-2019 00:05:41 Etc/GMT] PHP Notice:  Undefined variable: topic_id in /home/odinlm3h/public_html/API/cmd/gettargetcompsid.php on line 66
+[23-Mar-2019 00:05:41 Etc/GMT] PHP Notice:  Undefined variable: topic_id in /home/odinlm3h/public_html/API/cmd/gettargetcompsid.php on line 66
+[23-Mar-2019 00:05:41 Etc/GMT] PHP Notice:  Undefined variable: topic_id in /home/odinlm3h/public_html/API/cmd/gettargetcompsid.php on line 66
+[23-Mar-2019 00:05:42 Etc/GMT] PHP Notice:  Undefined variable: topic_id in /home/odinlm3h/public_html/API/cmd/gettargetcompsid.php on line 66
+[23-Mar-2019 00:11:28 Etc/GMT] PHP Notice:  Undefined variable: lesson_id in /home/odinlm3h/public_html/API/cmd/gettargetcompsid.php on line 67
+[23-Mar-2019 00:11:28 Etc/GMT] PHP Notice:  Undefined variable: topic_id in /home/odinlm3h/public_html/API/cmd/gettargetcompsid.php on line 66
+[23-Mar-2019 00:11:28 Etc/GMT] PHP Notice:  Undefined variable: topic_id in /home/odinlm3h/public_html/API/cmd/gettargetcompsid.php on line 66
+[23-Mar-2019 00:11:28 Etc/GMT] PHP Notice:  Undefined variable: topic_id in /home/odinlm3h/public_html/API/cmd/gettargetcompsid.php on line 66
+[23-Mar-2019 00:11:28 Etc/GMT] PHP Notice:  Undefined variable: topic_id in /home/odinlm3h/public_html/API/cmd/gettargetcompsid.php on line 66
+[23-Mar-2019 00:11:28 Etc/GMT] PHP Notice:  Undefined variable: topic_id in /home/odinlm3h/public_html/API/cmd/gettargetcompsid.php on line 66
+[23-Mar-2019 00:11:28 Etc/GMT] PHP Notice:  Undefined variable: topic_id in /home/odinlm3h/public_html/API/cmd/gettargetcompsid.php on line 66
+[23-Mar-2019 00:11:28 Etc/GMT] PHP Notice:  Undefined variable: lesson_id in /home/odinlm3h/public_html/API/cmd/gettargetcompsid.php on line 67
+[23-Mar-2019 00:11:28 Etc/GMT] PHP Notice:  Undefined variable: topic_id in /home/odinlm3h/public_html/API/cmd/gettargetcompsid.php on line 66
+[23-Mar-2019 00:11:28 Etc/GMT] PHP Notice:  Undefined variable: topic_id in /home/odinlm3h/public_html/API/cmd/gettargetcompsid.php on line 66
+[23-Mar-2019 00:11:28 Etc/GMT] PHP Notice:  Undefined variable: topic_id in /home/odinlm3h/public_html/API/cmd/gettargetcompsid.php on line 66
+[23-Mar-2019 00:11:28 Etc/GMT] PHP Notice:  Undefined variable: topic_id in /home/odinlm3h/public_html/API/cmd/gettargetcompsid.php on line 66
+[23-Mar-2019 00:11:28 Etc/GMT] PHP Notice:  Undefined variable: topic_id in /home/odinlm3h/public_html/API/cmd/gettargetcompsid.php on line 66
+[23-Mar-2019 00:11:28 Etc/GMT] PHP Notice:  Undefined variable: topic_id in /home/odinlm3h/public_html/API/cmd/gettargetcompsid.php on line 66
+[23-Mar-2019 00:11:36 Etc/GMT] PHP Notice:  Undefined variable: lesson_id in /home/odinlm3h/public_html/API/cmd/gettargetcompsid.php on line 67
+[23-Mar-2019 00:11:36 Etc/GMT] PHP Notice:  Undefined variable: topic_id in /home/odinlm3h/public_html/API/cmd/gettargetcompsid.php on line 66
+[23-Mar-2019 00:11:36 Etc/GMT] PHP Notice:  Undefined variable: topic_id in /home/odinlm3h/public_html/API/cmd/gettargetcompsid.php on line 66
+[23-Mar-2019 00:11:36 Etc/GMT] PHP Notice:  Undefined variable: topic_id in /home/odinlm3h/public_html/API/cmd/gettargetcompsid.php on line 66
+[23-Mar-2019 00:11:36 Etc/GMT] PHP Notice:  Undefined variable: topic_id in /home/odinlm3h/public_html/API/cmd/gettargetcompsid.php on line 66
+[23-Mar-2019 00:11:36 Etc/GMT] PHP Notice:  Undefined variable: topic_id in /home/odinlm3h/public_html/API/cmd/gettargetcompsid.php on line 66
+[23-Mar-2019 00:11:36 Etc/GMT] PHP Notice:  Undefined variable: topic_id in /home/odinlm3h/public_html/API/cmd/gettargetcompsid.php on line 66
+[23-Mar-2019 00:11:36 Etc/GMT] PHP Notice:  Undefined variable: lesson_id in /home/odinlm3h/public_html/API/cmd/gettargetcompsid.php on line 67
+[23-Mar-2019 00:11:36 Etc/GMT] PHP Notice:  Undefined variable: topic_id in /home/odinlm3h/public_html/API/cmd/gettargetcompsid.php on line 66
+[23-Mar-2019 00:11:36 Etc/GMT] PHP Notice:  Undefined variable: topic_id in /home/odinlm3h/public_html/API/cmd/gettargetcompsid.php on line 66
+[23-Mar-2019 00:11:36 Etc/GMT] PHP Notice:  Undefined variable: topic_id in /home/odinlm3h/public_html/API/cmd/gettargetcompsid.php on line 66
+[23-Mar-2019 00:11:36 Etc/GMT] PHP Notice:  Undefined variable: topic_id in /home/odinlm3h/public_html/API/cmd/gettargetcompsid.php on line 66
+[23-Mar-2019 00:11:36 Etc/GMT] PHP Notice:  Undefined variable: topic_id in /home/odinlm3h/public_html/API/cmd/gettargetcompsid.php on line 66
+[23-Mar-2019 00:11:37 Etc/GMT] PHP Notice:  Undefined variable: topic_id in /home/odinlm3h/public_html/API/cmd/gettargetcompsid.php on line 66
+[23-Mar-2019 03:14:02 Etc/GMT] PHP Notice:  Undefined variable: lesson_id in /home/odinlm3h/public_html/API/cmd/gettargetcompsid.php on line 67
+[23-Mar-2019 03:14:02 Etc/GMT] PHP Notice:  Undefined variable: topic_id in /home/odinlm3h/public_html/API/cmd/gettargetcompsid.php on line 66
+[23-Mar-2019 03:14:02 Etc/GMT] PHP Notice:  Undefined variable: topic_id in /home/odinlm3h/public_html/API/cmd/gettargetcompsid.php on line 66
+[23-Mar-2019 03:14:02 Etc/GMT] PHP Notice:  Undefined variable: topic_id in /home/odinlm3h/public_html/API/cmd/gettargetcompsid.php on line 66
+[23-Mar-2019 03:14:02 Etc/GMT] PHP Notice:  Undefined variable: topic_id in /home/odinlm3h/public_html/API/cmd/gettargetcompsid.php on line 66
+[23-Mar-2019 03:14:03 Etc/GMT] PHP Notice:  Undefined variable: topic_id in /home/odinlm3h/public_html/API/cmd/gettargetcompsid.php on line 66
+[23-Mar-2019 03:14:03 Etc/GMT] PHP Notice:  Undefined variable: topic_id in /home/odinlm3h/public_html/API/cmd/gettargetcompsid.php on line 66
+[23-Mar-2019 03:14:03 Etc/GMT] PHP Notice:  Undefined variable: lesson_id in /home/odinlm3h/public_html/API/cmd/gettargetcompsid.php on line 67
+[23-Mar-2019 03:14:03 Etc/GMT] PHP Notice:  Undefined variable: topic_id in /home/odinlm3h/public_html/API/cmd/gettargetcompsid.php on line 66
+[23-Mar-2019 03:14:03 Etc/GMT] PHP Notice:  Undefined variable: topic_id in /home/odinlm3h/public_html/API/cmd/gettargetcompsid.php on line 66
+[23-Mar-2019 03:14:03 Etc/GMT] PHP Notice:  Undefined variable: topic_id in /home/odinlm3h/public_html/API/cmd/gettargetcompsid.php on line 66
+[23-Mar-2019 03:14:03 Etc/GMT] PHP Notice:  Undefined variable: topic_id in /home/odinlm3h/public_html/API/cmd/gettargetcompsid.php on line 66
+[23-Mar-2019 03:14:03 Etc/GMT] PHP Notice:  Undefined variable: topic_id in /home/odinlm3h/public_html/API/cmd/gettargetcompsid.php on line 66
+[23-Mar-2019 03:14:03 Etc/GMT] PHP Notice:  Undefined variable: topic_id in /home/odinlm3h/public_html/API/cmd/gettargetcompsid.php on line 66
+[23-Mar-2019 03:24:24 Etc/GMT] PHP Notice:  Undefined variable: lesson_id in /home/odinlm3h/public_html/API/cmd/gettargetcompsid.php on line 67
+[23-Mar-2019 03:24:24 Etc/GMT] PHP Notice:  Undefined variable: topic_id in /home/odinlm3h/public_html/API/cmd/gettargetcompsid.php on line 66
+[23-Mar-2019 03:24:24 Etc/GMT] PHP Notice:  Undefined variable: topic_id in /home/odinlm3h/public_html/API/cmd/gettargetcompsid.php on line 66
+[23-Mar-2019 03:24:24 Etc/GMT] PHP Notice:  Undefined variable: topic_id in /home/odinlm3h/public_html/API/cmd/gettargetcompsid.php on line 66
+[23-Mar-2019 03:24:24 Etc/GMT] PHP Notice:  Undefined variable: topic_id in /home/odinlm3h/public_html/API/cmd/gettargetcompsid.php on line 66
+[23-Mar-2019 03:24:24 Etc/GMT] PHP Notice:  Undefined variable: topic_id in /home/odinlm3h/public_html/API/cmd/gettargetcompsid.php on line 66
+[23-Mar-2019 03:24:24 Etc/GMT] PHP Notice:  Undefined variable: topic_id in /home/odinlm3h/public_html/API/cmd/gettargetcompsid.php on line 66
+[23-Mar-2019 03:24:24 Etc/GMT] PHP Notice:  Undefined variable: lesson_id in /home/odinlm3h/public_html/API/cmd/gettargetcompsid.php on line 67
+[23-Mar-2019 03:24:24 Etc/GMT] PHP Notice:  Undefined variable: topic_id in /home/odinlm3h/public_html/API/cmd/gettargetcompsid.php on line 66
+[23-Mar-2019 03:24:24 Etc/GMT] PHP Notice:  Undefined variable: topic_id in /home/odinlm3h/public_html/API/cmd/gettargetcompsid.php on line 66
+[23-Mar-2019 03:24:25 Etc/GMT] PHP Notice:  Undefined variable: topic_id in /home/odinlm3h/public_html/API/cmd/gettargetcompsid.php on line 66
+[23-Mar-2019 03:24:25 Etc/GMT] PHP Notice:  Undefined variable: topic_id in /home/odinlm3h/public_html/API/cmd/gettargetcompsid.php on line 66
+[23-Mar-2019 03:24:25 Etc/GMT] PHP Notice:  Undefined variable: topic_id in /home/odinlm3h/public_html/API/cmd/gettargetcompsid.php on line 66
+[23-Mar-2019 03:24:25 Etc/GMT] PHP Notice:  Undefined variable: topic_id in /home/odinlm3h/public_html/API/cmd/gettargetcompsid.php on line 66
+[23-Mar-2019 04:50:01 Etc/GMT] PHP Notice:  Undefined variable: lesson_id in /home/odinlm3h/public_html/API/cmd/gettargetcompsid.php on line 67
+[23-Mar-2019 04:50:01 Etc/GMT] PHP Notice:  Undefined variable: topic_id in /home/odinlm3h/public_html/API/cmd/gettargetcompsid.php on line 66
+[23-Mar-2019 04:50:01 Etc/GMT] PHP Notice:  Undefined variable: topic_id in /home/odinlm3h/public_html/API/cmd/gettargetcompsid.php on line 66
+[23-Mar-2019 04:50:01 Etc/GMT] PHP Notice:  Undefined variable: topic_id in /home/odinlm3h/public_html/API/cmd/gettargetcompsid.php on line 66
+[23-Mar-2019 04:50:01 Etc/GMT] PHP Notice:  Undefined variable: topic_id in /home/odinlm3h/public_html/API/cmd/gettargetcompsid.php on line 66
+[23-Mar-2019 04:50:01 Etc/GMT] PHP Notice:  Undefined variable: topic_id in /home/odinlm3h/public_html/API/cmd/gettargetcompsid.php on line 66
+[23-Mar-2019 04:50:01 Etc/GMT] PHP Notice:  Undefined variable: topic_id in /home/odinlm3h/public_html/API/cmd/gettargetcompsid.php on line 66
+[23-Mar-2019 04:50:01 Etc/GMT] PHP Notice:  Undefined variable: lesson_id in /home/odinlm3h/public_html/API/cmd/gettargetcompsid.php on line 67
+[23-Mar-2019 04:50:01 Etc/GMT] PHP Notice:  Undefined variable: topic_id in /home/odinlm3h/public_html/API/cmd/gettargetcompsid.php on line 66
+[23-Mar-2019 04:50:02 Etc/GMT] PHP Notice:  Undefined variable: topic_id in /home/odinlm3h/public_html/API/cmd/gettargetcompsid.php on line 66
+[23-Mar-2019 04:50:02 Etc/GMT] PHP Notice:  Undefined variable: topic_id in /home/odinlm3h/public_html/API/cmd/gettargetcompsid.php on line 66
+[23-Mar-2019 04:50:02 Etc/GMT] PHP Notice:  Undefined variable: topic_id in /home/odinlm3h/public_html/API/cmd/gettargetcompsid.php on line 66
+[23-Mar-2019 04:50:02 Etc/GMT] PHP Notice:  Undefined variable: topic_id in /home/odinlm3h/public_html/API/cmd/gettargetcompsid.php on line 66
+[23-Mar-2019 04:50:02 Etc/GMT] PHP Notice:  Undefined variable: topic_id in /home/odinlm3h/public_html/API/cmd/gettargetcompsid.php on line 66
+[23-Mar-2019 04:51:45 Etc/GMT] PHP Notice:  Undefined variable: lesson_id in /home/odinlm3h/public_html/API/cmd/gettargetcompsid.php on line 67
+[23-Mar-2019 04:51:45 Etc/GMT] PHP Notice:  Undefined variable: topic_id in /home/odinlm3h/public_html/API/cmd/gettargetcompsid.php on line 66
+[23-Mar-2019 04:51:45 Etc/GMT] PHP Notice:  Undefined variable: topic_id in /home/odinlm3h/public_html/API/cmd/gettargetcompsid.php on line 66
+[23-Mar-2019 04:51:45 Etc/GMT] PHP Notice:  Undefined variable: topic_id in /home/odinlm3h/public_html/API/cmd/gettargetcompsid.php on line 66
+[23-Mar-2019 04:51:45 Etc/GMT] PHP Notice:  Undefined variable: topic_id in /home/odinlm3h/public_html/API/cmd/gettargetcompsid.php on line 66
+[23-Mar-2019 04:51:45 Etc/GMT] PHP Notice:  Undefined variable: topic_id in /home/odinlm3h/public_html/API/cmd/gettargetcompsid.php on line 66
+[23-Mar-2019 04:51:45 Etc/GMT] PHP Notice:  Undefined variable: topic_id in /home/odinlm3h/public_html/API/cmd/gettargetcompsid.php on line 66
+[23-Mar-2019 04:51:45 Etc/GMT] PHP Notice:  Undefined variable: lesson_id in /home/odinlm3h/public_html/API/cmd/gettargetcompsid.php on line 67
+[23-Mar-2019 04:51:45 Etc/GMT] PHP Notice:  Undefined variable: topic_id in /home/odinlm3h/public_html/API/cmd/gettargetcompsid.php on line 66
+[23-Mar-2019 04:51:45 Etc/GMT] PHP Notice:  Undefined variable: topic_id in /home/odinlm3h/public_html/API/cmd/gettargetcompsid.php on line 66
+[23-Mar-2019 04:51:45 Etc/GMT] PHP Notice:  Undefined variable: topic_id in /home/odinlm3h/public_html/API/cmd/gettargetcompsid.php on line 66
+[23-Mar-2019 04:51:45 Etc/GMT] PHP Notice:  Undefined variable: topic_id in /home/odinlm3h/public_html/API/cmd/gettargetcompsid.php on line 66
+[23-Mar-2019 04:51:45 Etc/GMT] PHP Notice:  Undefined variable: topic_id in /home/odinlm3h/public_html/API/cmd/gettargetcompsid.php on line 66
+[23-Mar-2019 04:51:45 Etc/GMT] PHP Notice:  Undefined variable: topic_id in /home/odinlm3h/public_html/API/cmd/gettargetcompsid.php on line 66
+[23-Mar-2019 04:51:53 Etc/GMT] PHP Notice:  Undefined variable: lesson_id in /home/odinlm3h/public_html/API/cmd/gettargetcompsid.php on line 67
+[23-Mar-2019 04:51:53 Etc/GMT] PHP Notice:  Undefined variable: topic_id in /home/odinlm3h/public_html/API/cmd/gettargetcompsid.php on line 66
+[23-Mar-2019 04:51:53 Etc/GMT] PHP Notice:  Undefined variable: topic_id in /home/odinlm3h/public_html/API/cmd/gettargetcompsid.php on line 66
+[23-Mar-2019 04:51:53 Etc/GMT] PHP Notice:  Undefined variable: topic_id in /home/odinlm3h/public_html/API/cmd/gettargetcompsid.php on line 66
+[23-Mar-2019 04:51:53 Etc/GMT] PHP Notice:  Undefined variable: topic_id in /home/odinlm3h/public_html/API/cmd/gettargetcompsid.php on line 66
+[23-Mar-2019 04:51:53 Etc/GMT] PHP Notice:  Undefined variable: topic_id in /home/odinlm3h/public_html/API/cmd/gettargetcompsid.php on line 66
+[23-Mar-2019 04:51:53 Etc/GMT] PHP Notice:  Undefined variable: topic_id in /home/odinlm3h/public_html/API/cmd/gettargetcompsid.php on line 66
+[23-Mar-2019 04:51:53 Etc/GMT] PHP Notice:  Undefined variable: lesson_id in /home/odinlm3h/public_html/API/cmd/gettargetcompsid.php on line 67
+[23-Mar-2019 04:51:53 Etc/GMT] PHP Notice:  Undefined variable: topic_id in /home/odinlm3h/public_html/API/cmd/gettargetcompsid.php on line 66
+[23-Mar-2019 04:51:53 Etc/GMT] PHP Notice:  Undefined variable: topic_id in /home/odinlm3h/public_html/API/cmd/gettargetcompsid.php on line 66
+[23-Mar-2019 04:51:53 Etc/GMT] PHP Notice:  Undefined variable: topic_id in /home/odinlm3h/public_html/API/cmd/gettargetcompsid.php on line 66
+[23-Mar-2019 04:51:53 Etc/GMT] PHP Notice:  Undefined variable: topic_id in /home/odinlm3h/public_html/API/cmd/gettargetcompsid.php on line 66
+[23-Mar-2019 04:51:53 Etc/GMT] PHP Notice:  Undefined variable: topic_id in /home/odinlm3h/public_html/API/cmd/gettargetcompsid.php on line 66
+[23-Mar-2019 04:51:53 Etc/GMT] PHP Notice:  Undefined variable: topic_id in /home/odinlm3h/public_html/API/cmd/gettargetcompsid.php on line 66
+[23-Mar-2019 04:52:49 Etc/GMT] PHP Notice:  Undefined variable: lesson_id in /home/odinlm3h/public_html/API/cmd/gettargetcompsid.php on line 67
+[23-Mar-2019 04:52:49 Etc/GMT] PHP Notice:  Undefined variable: topic_id in /home/odinlm3h/public_html/API/cmd/gettargetcompsid.php on line 66
+[23-Mar-2019 04:52:49 Etc/GMT] PHP Notice:  Undefined variable: topic_id in /home/odinlm3h/public_html/API/cmd/gettargetcompsid.php on line 66
+[23-Mar-2019 04:52:49 Etc/GMT] PHP Notice:  Undefined variable: topic_id in /home/odinlm3h/public_html/API/cmd/gettargetcompsid.php on line 66
+[23-Mar-2019 04:52:49 Etc/GMT] PHP Notice:  Undefined variable: topic_id in /home/odinlm3h/public_html/API/cmd/gettargetcompsid.php on line 66
+[23-Mar-2019 04:52:49 Etc/GMT] PHP Notice:  Undefined variable: topic_id in /home/odinlm3h/public_html/API/cmd/gettargetcompsid.php on line 66
+[23-Mar-2019 04:52:49 Etc/GMT] PHP Notice:  Undefined variable: topic_id in /home/odinlm3h/public_html/API/cmd/gettargetcompsid.php on line 66
+[23-Mar-2019 04:52:49 Etc/GMT] PHP Notice:  Undefined variable: lesson_id in /home/odinlm3h/public_html/API/cmd/gettargetcompsid.php on line 67
+[23-Mar-2019 04:52:49 Etc/GMT] PHP Notice:  Undefined variable: topic_id in /home/odinlm3h/public_html/API/cmd/gettargetcompsid.php on line 66
+[23-Mar-2019 04:52:49 Etc/GMT] PHP Notice:  Undefined variable: topic_id in /home/odinlm3h/public_html/API/cmd/gettargetcompsid.php on line 66
+[23-Mar-2019 04:52:49 Etc/GMT] PHP Notice:  Undefined variable: topic_id in /home/odinlm3h/public_html/API/cmd/gettargetcompsid.php on line 66
+[23-Mar-2019 04:52:49 Etc/GMT] PHP Notice:  Undefined variable: topic_id in /home/odinlm3h/public_html/API/cmd/gettargetcompsid.php on line 66
+[23-Mar-2019 04:52:49 Etc/GMT] PHP Notice:  Undefined variable: topic_id in /home/odinlm3h/public_html/API/cmd/gettargetcompsid.php on line 66
+[23-Mar-2019 04:52:49 Etc/GMT] PHP Notice:  Undefined variable: topic_id in /home/odinlm3h/public_html/API/cmd/gettargetcompsid.php on line 66
+[23-Mar-2019 04:59:06 Etc/GMT] PHP Notice:  Undefined variable: lesson_id in /home/odinlm3h/public_html/API/cmd/gettargetcompsid.php on line 67
+[23-Mar-2019 04:59:06 Etc/GMT] PHP Notice:  Undefined variable: topic_id in /home/odinlm3h/public_html/API/cmd/gettargetcompsid.php on line 66
+[23-Mar-2019 04:59:06 Etc/GMT] PHP Notice:  Undefined variable: topic_id in /home/odinlm3h/public_html/API/cmd/gettargetcompsid.php on line 66
+[23-Mar-2019 04:59:07 Etc/GMT] PHP Notice:  Undefined variable: topic_id in /home/odinlm3h/public_html/API/cmd/gettargetcompsid.php on line 66
+[23-Mar-2019 04:59:07 Etc/GMT] PHP Notice:  Undefined variable: topic_id in /home/odinlm3h/public_html/API/cmd/gettargetcompsid.php on line 66
+[23-Mar-2019 04:59:07 Etc/GMT] PHP Notice:  Undefined variable: topic_id in /home/odinlm3h/public_html/API/cmd/gettargetcompsid.php on line 66
+[23-Mar-2019 04:59:07 Etc/GMT] PHP Notice:  Undefined variable: topic_id in /home/odinlm3h/public_html/API/cmd/gettargetcompsid.php on line 66
+[23-Mar-2019 04:59:07 Etc/GMT] PHP Notice:  Undefined variable: lesson_id in /home/odinlm3h/public_html/API/cmd/gettargetcompsid.php on line 67
+[23-Mar-2019 04:59:07 Etc/GMT] PHP Notice:  Undefined variable: topic_id in /home/odinlm3h/public_html/API/cmd/gettargetcompsid.php on line 66
+[23-Mar-2019 04:59:07 Etc/GMT] PHP Notice:  Undefined variable: topic_id in /home/odinlm3h/public_html/API/cmd/gettargetcompsid.php on line 66
+[23-Mar-2019 04:59:07 Etc/GMT] PHP Notice:  Undefined variable: topic_id in /home/odinlm3h/public_html/API/cmd/gettargetcompsid.php on line 66
+[23-Mar-2019 04:59:07 Etc/GMT] PHP Notice:  Undefined variable: topic_id in /home/odinlm3h/public_html/API/cmd/gettargetcompsid.php on line 66
+[23-Mar-2019 04:59:07 Etc/GMT] PHP Notice:  Undefined variable: topic_id in /home/odinlm3h/public_html/API/cmd/gettargetcompsid.php on line 66
+[23-Mar-2019 04:59:07 Etc/GMT] PHP Notice:  Undefined variable: topic_id in /home/odinlm3h/public_html/API/cmd/gettargetcompsid.php on line 66
+[23-Mar-2019 05:20:20 Etc/GMT] PHP Notice:  Undefined variable: lesson_id in /home/odinlm3h/public_html/API/cmd/gettargetcompsid.php on line 67
+[23-Mar-2019 05:20:20 Etc/GMT] PHP Notice:  Undefined variable: topic_id in /home/odinlm3h/public_html/API/cmd/gettargetcompsid.php on line 66
+[23-Mar-2019 05:20:20 Etc/GMT] PHP Notice:  Undefined variable: topic_id in /home/odinlm3h/public_html/API/cmd/gettargetcompsid.php on line 66
+[23-Mar-2019 05:20:20 Etc/GMT] PHP Notice:  Undefined variable: topic_id in /home/odinlm3h/public_html/API/cmd/gettargetcompsid.php on line 66
+[23-Mar-2019 05:20:20 Etc/GMT] PHP Notice:  Undefined variable: topic_id in /home/odinlm3h/public_html/API/cmd/gettargetcompsid.php on line 66
+[23-Mar-2019 05:20:20 Etc/GMT] PHP Notice:  Undefined variable: topic_id in /home/odinlm3h/public_html/API/cmd/gettargetcompsid.php on line 66
+[23-Mar-2019 05:20:20 Etc/GMT] PHP Notice:  Undefined variable: topic_id in /home/odinlm3h/public_html/API/cmd/gettargetcompsid.php on line 66
+[23-Mar-2019 05:20:20 Etc/GMT] PHP Notice:  Undefined variable: lesson_id in /home/odinlm3h/public_html/API/cmd/gettargetcompsid.php on line 67
+[23-Mar-2019 05:20:20 Etc/GMT] PHP Notice:  Undefined variable: topic_id in /home/odinlm3h/public_html/API/cmd/gettargetcompsid.php on line 66
+[23-Mar-2019 05:20:20 Etc/GMT] PHP Notice:  Undefined variable: topic_id in /home/odinlm3h/public_html/API/cmd/gettargetcompsid.php on line 66
+[23-Mar-2019 05:20:20 Etc/GMT] PHP Notice:  Undefined variable: topic_id in /home/odinlm3h/public_html/API/cmd/gettargetcompsid.php on line 66
+[23-Mar-2019 05:20:20 Etc/GMT] PHP Notice:  Undefined variable: topic_id in /home/odinlm3h/public_html/API/cmd/gettargetcompsid.php on line 66
+[23-Mar-2019 05:20:20 Etc/GMT] PHP Notice:  Undefined variable: topic_id in /home/odinlm3h/public_html/API/cmd/gettargetcompsid.php on line 66
+[23-Mar-2019 05:20:20 Etc/GMT] PHP Notice:  Undefined variable: topic_id in /home/odinlm3h/public_html/API/cmd/gettargetcompsid.php on line 66
+[24-Mar-2019 00:09:06 Etc/GMT] PHP Notice:  Undefined variable: lesson_id in /home/odinlm3h/public_html/API/cmd/gettargetcompsid.php on line 67
+[24-Mar-2019 00:09:06 Etc/GMT] PHP Notice:  Undefined variable: topic_id in /home/odinlm3h/public_html/API/cmd/gettargetcompsid.php on line 66
+[24-Mar-2019 00:09:06 Etc/GMT] PHP Notice:  Undefined variable: topic_id in /home/odinlm3h/public_html/API/cmd/gettargetcompsid.php on line 66
+[24-Mar-2019 00:09:06 Etc/GMT] PHP Notice:  Undefined variable: topic_id in /home/odinlm3h/public_html/API/cmd/gettargetcompsid.php on line 66
+[24-Mar-2019 00:09:06 Etc/GMT] PHP Notice:  Undefined variable: topic_id in /home/odinlm3h/public_html/API/cmd/gettargetcompsid.php on line 66
+[24-Mar-2019 00:09:06 Etc/GMT] PHP Notice:  Undefined variable: topic_id in /home/odinlm3h/public_html/API/cmd/gettargetcompsid.php on line 66
+[24-Mar-2019 00:09:06 Etc/GMT] PHP Notice:  Undefined variable: topic_id in /home/odinlm3h/public_html/API/cmd/gettargetcompsid.php on line 66
+[24-Mar-2019 00:09:06 Etc/GMT] PHP Notice:  Undefined variable: lesson_id in /home/odinlm3h/public_html/API/cmd/gettargetcompsid.php on line 67
+[24-Mar-2019 00:09:06 Etc/GMT] PHP Notice:  Undefined variable: topic_id in /home/odinlm3h/public_html/API/cmd/gettargetcompsid.php on line 66
+[24-Mar-2019 00:09:06 Etc/GMT] PHP Notice:  Undefined variable: topic_id in /home/odinlm3h/public_html/API/cmd/gettargetcompsid.php on line 66
+[24-Mar-2019 00:09:06 Etc/GMT] PHP Notice:  Undefined variable: topic_id in /home/odinlm3h/public_html/API/cmd/gettargetcompsid.php on line 66
+[24-Mar-2019 00:09:06 Etc/GMT] PHP Notice:  Undefined variable: topic_id in /home/odinlm3h/public_html/API/cmd/gettargetcompsid.php on line 66
+[24-Mar-2019 00:09:06 Etc/GMT] PHP Notice:  Undefined variable: topic_id in /home/odinlm3h/public_html/API/cmd/gettargetcompsid.php on line 66
+[24-Mar-2019 00:09:07 Etc/GMT] PHP Notice:  Undefined variable: topic_id in /home/odinlm3h/public_html/API/cmd/gettargetcompsid.php on line 66
+[24-Mar-2019 06:27:32 Etc/GMT] PHP Notice:  Undefined variable: lesson_id in /home/odinlm3h/public_html/API/cmd/gettargetcompsid.php on line 67
+[24-Mar-2019 06:27:32 Etc/GMT] PHP Notice:  Undefined variable: topic_id in /home/odinlm3h/public_html/API/cmd/gettargetcompsid.php on line 66
+[24-Mar-2019 06:27:32 Etc/GMT] PHP Notice:  Undefined variable: topic_id in /home/odinlm3h/public_html/API/cmd/gettargetcompsid.php on line 66
+[24-Mar-2019 06:27:32 Etc/GMT] PHP Notice:  Undefined variable: topic_id in /home/odinlm3h/public_html/API/cmd/gettargetcompsid.php on line 66
+[24-Mar-2019 06:27:32 Etc/GMT] PHP Notice:  Undefined variable: topic_id in /home/odinlm3h/public_html/API/cmd/gettargetcompsid.php on line 66
+[24-Mar-2019 06:27:32 Etc/GMT] PHP Notice:  Undefined variable: topic_id in /home/odinlm3h/public_html/API/cmd/gettargetcompsid.php on line 66
+[24-Mar-2019 06:27:32 Etc/GMT] PHP Notice:  Undefined variable: topic_id in /home/odinlm3h/public_html/API/cmd/gettargetcompsid.php on line 66
+[24-Mar-2019 06:27:32 Etc/GMT] PHP Notice:  Undefined variable: lesson_id in /home/odinlm3h/public_html/API/cmd/gettargetcompsid.php on line 67
+[24-Mar-2019 06:27:32 Etc/GMT] PHP Notice:  Undefined variable: topic_id in /home/odinlm3h/public_html/API/cmd/gettargetcompsid.php on line 66
+[24-Mar-2019 06:27:32 Etc/GMT] PHP Notice:  Undefined variable: topic_id in /home/odinlm3h/public_html/API/cmd/gettargetcompsid.php on line 66
+[24-Mar-2019 06:27:32 Etc/GMT] PHP Notice:  Undefined variable: topic_id in /home/odinlm3h/public_html/API/cmd/gettargetcompsid.php on line 66
+[24-Mar-2019 06:27:32 Etc/GMT] PHP Notice:  Undefined variable: topic_id in /home/odinlm3h/public_html/API/cmd/gettargetcompsid.php on line 66
+[24-Mar-2019 06:27:32 Etc/GMT] PHP Notice:  Undefined variable: topic_id in /home/odinlm3h/public_html/API/cmd/gettargetcompsid.php on line 66
+[24-Mar-2019 06:27:32 Etc/GMT] PHP Notice:  Undefined variable: topic_id in /home/odinlm3h/public_html/API/cmd/gettargetcompsid.php on line 66
+[24-Mar-2019 06:29:40 Etc/GMT] PHP Notice:  Undefined variable: lesson_id in /home/odinlm3h/public_html/API/cmd/gettargetcompsid.php on line 67
+[24-Mar-2019 06:29:40 Etc/GMT] PHP Notice:  Undefined variable: topic_id in /home/odinlm3h/public_html/API/cmd/gettargetcompsid.php on line 66
+[24-Mar-2019 06:29:40 Etc/GMT] PHP Notice:  Undefined variable: topic_id in /home/odinlm3h/public_html/API/cmd/gettargetcompsid.php on line 66
+[24-Mar-2019 06:29:40 Etc/GMT] PHP Notice:  Undefined variable: topic_id in /home/odinlm3h/public_html/API/cmd/gettargetcompsid.php on line 66
+[24-Mar-2019 06:29:40 Etc/GMT] PHP Notice:  Undefined variable: topic_id in /home/odinlm3h/public_html/API/cmd/gettargetcompsid.php on line 66
+[24-Mar-2019 06:29:40 Etc/GMT] PHP Notice:  Undefined variable: topic_id in /home/odinlm3h/public_html/API/cmd/gettargetcompsid.php on line 66
+[24-Mar-2019 06:29:40 Etc/GMT] PHP Notice:  Undefined variable: topic_id in /home/odinlm3h/public_html/API/cmd/gettargetcompsid.php on line 66
+[24-Mar-2019 06:29:40 Etc/GMT] PHP Notice:  Undefined variable: lesson_id in /home/odinlm3h/public_html/API/cmd/gettargetcompsid.php on line 67
+[24-Mar-2019 06:29:40 Etc/GMT] PHP Notice:  Undefined variable: topic_id in /home/odinlm3h/public_html/API/cmd/gettargetcompsid.php on line 66
+[24-Mar-2019 06:29:40 Etc/GMT] PHP Notice:  Undefined variable: topic_id in /home/odinlm3h/public_html/API/cmd/gettargetcompsid.php on line 66
+[24-Mar-2019 06:29:40 Etc/GMT] PHP Notice:  Undefined variable: topic_id in /home/odinlm3h/public_html/API/cmd/gettargetcompsid.php on line 66
+[24-Mar-2019 06:29:40 Etc/GMT] PHP Notice:  Undefined variable: topic_id in /home/odinlm3h/public_html/API/cmd/gettargetcompsid.php on line 66
+[24-Mar-2019 06:29:40 Etc/GMT] PHP Notice:  Undefined variable: topic_id in /home/odinlm3h/public_html/API/cmd/gettargetcompsid.php on line 66
+[24-Mar-2019 06:29:40 Etc/GMT] PHP Notice:  Undefined variable: topic_id in /home/odinlm3h/public_html/API/cmd/gettargetcompsid.php on line 66
+[24-Mar-2019 06:34:03 Etc/GMT] PHP Notice:  Undefined variable: lesson_id in /home/odinlm3h/public_html/API/cmd/gettargetcompsid.php on line 67
+[24-Mar-2019 06:34:03 Etc/GMT] PHP Notice:  Undefined variable: topic_id in /home/odinlm3h/public_html/API/cmd/gettargetcompsid.php on line 66
+[24-Mar-2019 06:34:03 Etc/GMT] PHP Notice:  Undefined variable: topic_id in /home/odinlm3h/public_html/API/cmd/gettargetcompsid.php on line 66
+[24-Mar-2019 06:34:03 Etc/GMT] PHP Notice:  Undefined variable: topic_id in /home/odinlm3h/public_html/API/cmd/gettargetcompsid.php on line 66
+[24-Mar-2019 06:34:03 Etc/GMT] PHP Notice:  Undefined variable: topic_id in /home/odinlm3h/public_html/API/cmd/gettargetcompsid.php on line 66
+[24-Mar-2019 06:34:03 Etc/GMT] PHP Notice:  Undefined variable: topic_id in /home/odinlm3h/public_html/API/cmd/gettargetcompsid.php on line 66
+[24-Mar-2019 06:34:03 Etc/GMT] PHP Notice:  Undefined variable: topic_id in /home/odinlm3h/public_html/API/cmd/gettargetcompsid.php on line 66
+[24-Mar-2019 06:34:03 Etc/GMT] PHP Notice:  Undefined variable: lesson_id in /home/odinlm3h/public_html/API/cmd/gettargetcompsid.php on line 67
+[24-Mar-2019 06:34:03 Etc/GMT] PHP Notice:  Undefined variable: topic_id in /home/odinlm3h/public_html/API/cmd/gettargetcompsid.php on line 66
+[24-Mar-2019 06:34:03 Etc/GMT] PHP Notice:  Undefined variable: topic_id in /home/odinlm3h/public_html/API/cmd/gettargetcompsid.php on line 66
+[24-Mar-2019 06:34:03 Etc/GMT] PHP Notice:  Undefined variable: topic_id in /home/odinlm3h/public_html/API/cmd/gettargetcompsid.php on line 66
+[24-Mar-2019 06:34:03 Etc/GMT] PHP Notice:  Undefined variable: topic_id in /home/odinlm3h/public_html/API/cmd/gettargetcompsid.php on line 66
+[24-Mar-2019 06:34:03 Etc/GMT] PHP Notice:  Undefined variable: topic_id in /home/odinlm3h/public_html/API/cmd/gettargetcompsid.php on line 66
+[24-Mar-2019 06:34:03 Etc/GMT] PHP Notice:  Undefined variable: topic_id in /home/odinlm3h/public_html/API/cmd/gettargetcompsid.php on line 66
+[24-Mar-2019 06:35:11 Etc/GMT] PHP Notice:  Undefined variable: lesson_id in /home/odinlm3h/public_html/API/cmd/gettargetcompsid.php on line 67
+[24-Mar-2019 06:35:11 Etc/GMT] PHP Notice:  Undefined variable: topic_id in /home/odinlm3h/public_html/API/cmd/gettargetcompsid.php on line 66
+[24-Mar-2019 06:35:11 Etc/GMT] PHP Notice:  Undefined variable: topic_id in /home/odinlm3h/public_html/API/cmd/gettargetcompsid.php on line 66
+[24-Mar-2019 06:35:12 Etc/GMT] PHP Notice:  Undefined variable: topic_id in /home/odinlm3h/public_html/API/cmd/gettargetcompsid.php on line 66
+[24-Mar-2019 06:35:12 Etc/GMT] PHP Notice:  Undefined variable: topic_id in /home/odinlm3h/public_html/API/cmd/gettargetcompsid.php on line 66
+[24-Mar-2019 06:35:12 Etc/GMT] PHP Notice:  Undefined variable: topic_id in /home/odinlm3h/public_html/API/cmd/gettargetcompsid.php on line 66
+[24-Mar-2019 06:35:12 Etc/GMT] PHP Notice:  Undefined variable: topic_id in /home/odinlm3h/public_html/API/cmd/gettargetcompsid.php on line 66
+[24-Mar-2019 06:35:12 Etc/GMT] PHP Notice:  Undefined variable: lesson_id in /home/odinlm3h/public_html/API/cmd/gettargetcompsid.php on line 67
+[24-Mar-2019 06:35:12 Etc/GMT] PHP Notice:  Undefined variable: topic_id in /home/odinlm3h/public_html/API/cmd/gettargetcompsid.php on line 66
+[24-Mar-2019 06:35:12 Etc/GMT] PHP Notice:  Undefined variable: topic_id in /home/odinlm3h/public_html/API/cmd/gettargetcompsid.php on line 66
+[24-Mar-2019 06:35:12 Etc/GMT] PHP Notice:  Undefined variable: topic_id in /home/odinlm3h/public_html/API/cmd/gettargetcompsid.php on line 66
+[24-Mar-2019 06:35:12 Etc/GMT] PHP Notice:  Undefined variable: topic_id in /home/odinlm3h/public_html/API/cmd/gettargetcompsid.php on line 66
+[24-Mar-2019 06:35:12 Etc/GMT] PHP Notice:  Undefined variable: topic_id in /home/odinlm3h/public_html/API/cmd/gettargetcompsid.php on line 66
+[24-Mar-2019 06:35:12 Etc/GMT] PHP Notice:  Undefined variable: topic_id in /home/odinlm3h/public_html/API/cmd/gettargetcompsid.php on line 66
+[24-Mar-2019 13:53:13 Etc/GMT] PHP Notice:  Undefined variable: lesson_id in /home/odinlm3h/public_html/API/cmd/gettargetcompsid.php on line 67
+[24-Mar-2019 13:53:13 Etc/GMT] PHP Notice:  Undefined variable: topic_id in /home/odinlm3h/public_html/API/cmd/gettargetcompsid.php on line 66
+[24-Mar-2019 13:53:13 Etc/GMT] PHP Notice:  Undefined variable: topic_id in /home/odinlm3h/public_html/API/cmd/gettargetcompsid.php on line 66
+[24-Mar-2019 13:53:13 Etc/GMT] PHP Notice:  Undefined variable: topic_id in /home/odinlm3h/public_html/API/cmd/gettargetcompsid.php on line 66
+[24-Mar-2019 13:53:13 Etc/GMT] PHP Notice:  Undefined variable: topic_id in /home/odinlm3h/public_html/API/cmd/gettargetcompsid.php on line 66
+[24-Mar-2019 13:53:13 Etc/GMT] PHP Notice:  Undefined variable: topic_id in /home/odinlm3h/public_html/API/cmd/gettargetcompsid.php on line 66
+[24-Mar-2019 13:53:13 Etc/GMT] PHP Notice:  Undefined variable: topic_id in /home/odinlm3h/public_html/API/cmd/gettargetcompsid.php on line 66
+[24-Mar-2019 13:53:13 Etc/GMT] PHP Notice:  Undefined variable: lesson_id in /home/odinlm3h/public_html/API/cmd/gettargetcompsid.php on line 67
+[24-Mar-2019 13:53:13 Etc/GMT] PHP Notice:  Undefined variable: topic_id in /home/odinlm3h/public_html/API/cmd/gettargetcompsid.php on line 66
+[24-Mar-2019 13:53:13 Etc/GMT] PHP Notice:  Undefined variable: topic_id in /home/odinlm3h/public_html/API/cmd/gettargetcompsid.php on line 66
+[24-Mar-2019 13:53:13 Etc/GMT] PHP Notice:  Undefined variable: topic_id in /home/odinlm3h/public_html/API/cmd/gettargetcompsid.php on line 66
+[24-Mar-2019 13:53:13 Etc/GMT] PHP Notice:  Undefined variable: topic_id in /home/odinlm3h/public_html/API/cmd/gettargetcompsid.php on line 66
+[24-Mar-2019 13:53:14 Etc/GMT] PHP Notice:  Undefined variable: topic_id in /home/odinlm3h/public_html/API/cmd/gettargetcompsid.php on line 66
+[24-Mar-2019 13:53:14 Etc/GMT] PHP Notice:  Undefined variable: topic_id in /home/odinlm3h/public_html/API/cmd/gettargetcompsid.php on line 66
+[24-Mar-2019 13:53:34 Etc/GMT] PHP Notice:  Undefined variable: lesson_id in /home/odinlm3h/public_html/API/cmd/gettargetcompsid.php on line 67
+[24-Mar-2019 13:53:34 Etc/GMT] PHP Notice:  Undefined variable: topic_id in /home/odinlm3h/public_html/API/cmd/gettargetcompsid.php on line 66
+[24-Mar-2019 13:53:34 Etc/GMT] PHP Notice:  Undefined variable: topic_id in /home/odinlm3h/public_html/API/cmd/gettargetcompsid.php on line 66
+[24-Mar-2019 13:53:34 Etc/GMT] PHP Notice:  Undefined variable: topic_id in /home/odinlm3h/public_html/API/cmd/gettargetcompsid.php on line 66
+[24-Mar-2019 13:53:34 Etc/GMT] PHP Notice:  Undefined variable: topic_id in /home/odinlm3h/public_html/API/cmd/gettargetcompsid.php on line 66
+[24-Mar-2019 13:53:34 Etc/GMT] PHP Notice:  Undefined variable: topic_id in /home/odinlm3h/public_html/API/cmd/gettargetcompsid.php on line 66
+[24-Mar-2019 13:53:34 Etc/GMT] PHP Notice:  Undefined variable: topic_id in /home/odinlm3h/public_html/API/cmd/gettargetcompsid.php on line 66
+[24-Mar-2019 13:53:34 Etc/GMT] PHP Notice:  Undefined variable: lesson_id in /home/odinlm3h/public_html/API/cmd/gettargetcompsid.php on line 67
+[24-Mar-2019 13:53:34 Etc/GMT] PHP Notice:  Undefined variable: topic_id in /home/odinlm3h/public_html/API/cmd/gettargetcompsid.php on line 66
+[24-Mar-2019 13:53:34 Etc/GMT] PHP Notice:  Undefined variable: topic_id in /home/odinlm3h/public_html/API/cmd/gettargetcompsid.php on line 66
+[24-Mar-2019 13:53:34 Etc/GMT] PHP Notice:  Undefined variable: topic_id in /home/odinlm3h/public_html/API/cmd/gettargetcompsid.php on line 66
+[24-Mar-2019 13:53:34 Etc/GMT] PHP Notice:  Undefined variable: topic_id in /home/odinlm3h/public_html/API/cmd/gettargetcompsid.php on line 66
+[24-Mar-2019 13:53:34 Etc/GMT] PHP Notice:  Undefined variable: topic_id in /home/odinlm3h/public_html/API/cmd/gettargetcompsid.php on line 66
+[24-Mar-2019 13:53:34 Etc/GMT] PHP Notice:  Undefined variable: topic_id in /home/odinlm3h/public_html/API/cmd/gettargetcompsid.php on line 66
+[24-Mar-2019 13:54:52 Etc/GMT] PHP Notice:  Undefined variable: lesson_id in /home/odinlm3h/public_html/API/cmd/gettargetcompsid.php on line 67
+[24-Mar-2019 13:54:52 Etc/GMT] PHP Notice:  Undefined variable: topic_id in /home/odinlm3h/public_html/API/cmd/gettargetcompsid.php on line 66
+[24-Mar-2019 13:54:52 Etc/GMT] PHP Notice:  Undefined variable: topic_id in /home/odinlm3h/public_html/API/cmd/gettargetcompsid.php on line 66
+[24-Mar-2019 13:54:52 Etc/GMT] PHP Notice:  Undefined variable: topic_id in /home/odinlm3h/public_html/API/cmd/gettargetcompsid.php on line 66
+[24-Mar-2019 13:54:52 Etc/GMT] PHP Notice:  Undefined variable: topic_id in /home/odinlm3h/public_html/API/cmd/gettargetcompsid.php on line 66
+[24-Mar-2019 13:54:52 Etc/GMT] PHP Notice:  Undefined variable: topic_id in /home/odinlm3h/public_html/API/cmd/gettargetcompsid.php on line 66
+[24-Mar-2019 13:54:52 Etc/GMT] PHP Notice:  Undefined variable: topic_id in /home/odinlm3h/public_html/API/cmd/gettargetcompsid.php on line 66
+[24-Mar-2019 13:54:52 Etc/GMT] PHP Notice:  Undefined variable: lesson_id in /home/odinlm3h/public_html/API/cmd/gettargetcompsid.php on line 67
+[24-Mar-2019 13:54:52 Etc/GMT] PHP Notice:  Undefined variable: topic_id in /home/odinlm3h/public_html/API/cmd/gettargetcompsid.php on line 66
+[24-Mar-2019 13:54:52 Etc/GMT] PHP Notice:  Undefined variable: topic_id in /home/odinlm3h/public_html/API/cmd/gettargetcompsid.php on line 66
+[24-Mar-2019 13:54:52 Etc/GMT] PHP Notice:  Undefined variable: topic_id in /home/odinlm3h/public_html/API/cmd/gettargetcompsid.php on line 66
+[24-Mar-2019 13:54:52 Etc/GMT] PHP Notice:  Undefined variable: topic_id in /home/odinlm3h/public_html/API/cmd/gettargetcompsid.php on line 66
+[24-Mar-2019 13:54:52 Etc/GMT] PHP Notice:  Undefined variable: topic_id in /home/odinlm3h/public_html/API/cmd/gettargetcompsid.php on line 66
+[24-Mar-2019 13:54:52 Etc/GMT] PHP Notice:  Undefined variable: topic_id in /home/odinlm3h/public_html/API/cmd/gettargetcompsid.php on line 66
+[24-Mar-2019 13:56:42 Etc/GMT] PHP Notice:  Undefined variable: lesson_id in /home/odinlm3h/public_html/API/cmd/gettargetcompsid.php on line 67
+[24-Mar-2019 13:56:42 Etc/GMT] PHP Notice:  Undefined variable: topic_id in /home/odinlm3h/public_html/API/cmd/gettargetcompsid.php on line 66
+[24-Mar-2019 13:56:42 Etc/GMT] PHP Notice:  Undefined variable: topic_id in /home/odinlm3h/public_html/API/cmd/gettargetcompsid.php on line 66
+[24-Mar-2019 13:56:42 Etc/GMT] PHP Notice:  Undefined variable: topic_id in /home/odinlm3h/public_html/API/cmd/gettargetcompsid.php on line 66
+[24-Mar-2019 13:56:42 Etc/GMT] PHP Notice:  Undefined variable: topic_id in /home/odinlm3h/public_html/API/cmd/gettargetcompsid.php on line 66
+[24-Mar-2019 13:56:42 Etc/GMT] PHP Notice:  Undefined variable: topic_id in /home/odinlm3h/public_html/API/cmd/gettargetcompsid.php on line 66
+[24-Mar-2019 13:56:42 Etc/GMT] PHP Notice:  Undefined variable: topic_id in /home/odinlm3h/public_html/API/cmd/gettargetcompsid.php on line 66
+[24-Mar-2019 13:56:43 Etc/GMT] PHP Notice:  Undefined variable: lesson_id in /home/odinlm3h/public_html/API/cmd/gettargetcompsid.php on line 67
+[24-Mar-2019 13:56:43 Etc/GMT] PHP Notice:  Undefined variable: topic_id in /home/odinlm3h/public_html/API/cmd/gettargetcompsid.php on line 66
+[24-Mar-2019 13:56:43 Etc/GMT] PHP Notice:  Undefined variable: topic_id in /home/odinlm3h/public_html/API/cmd/gettargetcompsid.php on line 66
+[24-Mar-2019 13:56:43 Etc/GMT] PHP Notice:  Undefined variable: topic_id in /home/odinlm3h/public_html/API/cmd/gettargetcompsid.php on line 66
+[24-Mar-2019 13:56:43 Etc/GMT] PHP Notice:  Undefined variable: topic_id in /home/odinlm3h/public_html/API/cmd/gettargetcompsid.php on line 66
+[24-Mar-2019 13:56:43 Etc/GMT] PHP Notice:  Undefined variable: topic_id in /home/odinlm3h/public_html/API/cmd/gettargetcompsid.php on line 66
+[24-Mar-2019 13:56:43 Etc/GMT] PHP Notice:  Undefined variable: topic_id in /home/odinlm3h/public_html/API/cmd/gettargetcompsid.php on line 66
+[24-Mar-2019 13:58:32 Etc/GMT] PHP Notice:  Undefined variable: lesson_id in /home/odinlm3h/public_html/API/cmd/gettargetcompsid.php on line 67
+[24-Mar-2019 13:58:32 Etc/GMT] PHP Notice:  Undefined variable: topic_id in /home/odinlm3h/public_html/API/cmd/gettargetcompsid.php on line 66
+[24-Mar-2019 13:58:32 Etc/GMT] PHP Notice:  Undefined variable: topic_id in /home/odinlm3h/public_html/API/cmd/gettargetcompsid.php on line 66
+[24-Mar-2019 13:58:32 Etc/GMT] PHP Notice:  Undefined variable: topic_id in /home/odinlm3h/public_html/API/cmd/gettargetcompsid.php on line 66
+[24-Mar-2019 13:58:32 Etc/GMT] PHP Notice:  Undefined variable: topic_id in /home/odinlm3h/public_html/API/cmd/gettargetcompsid.php on line 66
+[24-Mar-2019 13:58:32 Etc/GMT] PHP Notice:  Undefined variable: topic_id in /home/odinlm3h/public_html/API/cmd/gettargetcompsid.php on line 66
+[24-Mar-2019 13:58:32 Etc/GMT] PHP Notice:  Undefined variable: topic_id in /home/odinlm3h/public_html/API/cmd/gettargetcompsid.php on line 66
+[24-Mar-2019 13:58:32 Etc/GMT] PHP Notice:  Undefined variable: lesson_id in /home/odinlm3h/public_html/API/cmd/gettargetcompsid.php on line 67
+[24-Mar-2019 13:58:32 Etc/GMT] PHP Notice:  Undefined variable: topic_id in /home/odinlm3h/public_html/API/cmd/gettargetcompsid.php on line 66
+[24-Mar-2019 13:58:32 Etc/GMT] PHP Notice:  Undefined variable: topic_id in /home/odinlm3h/public_html/API/cmd/gettargetcompsid.php on line 66
+[24-Mar-2019 13:58:32 Etc/GMT] PHP Notice:  Undefined variable: topic_id in /home/odinlm3h/public_html/API/cmd/gettargetcompsid.php on line 66
+[24-Mar-2019 13:58:32 Etc/GMT] PHP Notice:  Undefined variable: topic_id in /home/odinlm3h/public_html/API/cmd/gettargetcompsid.php on line 66
+[24-Mar-2019 13:58:33 Etc/GMT] PHP Notice:  Undefined variable: topic_id in /home/odinlm3h/public_html/API/cmd/gettargetcompsid.php on line 66
+[24-Mar-2019 13:58:33 Etc/GMT] PHP Notice:  Undefined variable: topic_id in /home/odinlm3h/public_html/API/cmd/gettargetcompsid.php on line 66
+[24-Mar-2019 13:58:45 Etc/GMT] PHP Notice:  Undefined variable: lesson_id in /home/odinlm3h/public_html/API/cmd/gettargetcompsid.php on line 67
+[24-Mar-2019 13:58:46 Etc/GMT] PHP Notice:  Undefined variable: topic_id in /home/odinlm3h/public_html/API/cmd/gettargetcompsid.php on line 66
+[24-Mar-2019 13:58:46 Etc/GMT] PHP Notice:  Undefined variable: topic_id in /home/odinlm3h/public_html/API/cmd/gettargetcompsid.php on line 66
+[24-Mar-2019 13:58:46 Etc/GMT] PHP Notice:  Undefined variable: topic_id in /home/odinlm3h/public_html/API/cmd/gettargetcompsid.php on line 66
+[24-Mar-2019 13:58:46 Etc/GMT] PHP Notice:  Undefined variable: topic_id in /home/odinlm3h/public_html/API/cmd/gettargetcompsid.php on line 66
+[24-Mar-2019 13:58:46 Etc/GMT] PHP Notice:  Undefined variable: topic_id in /home/odinlm3h/public_html/API/cmd/gettargetcompsid.php on line 66
+[24-Mar-2019 13:58:46 Etc/GMT] PHP Notice:  Undefined variable: topic_id in /home/odinlm3h/public_html/API/cmd/gettargetcompsid.php on line 66
+[24-Mar-2019 13:58:46 Etc/GMT] PHP Notice:  Undefined variable: lesson_id in /home/odinlm3h/public_html/API/cmd/gettargetcompsid.php on line 67
+[24-Mar-2019 13:58:46 Etc/GMT] PHP Notice:  Undefined variable: topic_id in /home/odinlm3h/public_html/API/cmd/gettargetcompsid.php on line 66
+[24-Mar-2019 13:58:46 Etc/GMT] PHP Notice:  Undefined variable: topic_id in /home/odinlm3h/public_html/API/cmd/gettargetcompsid.php on line 66
+[24-Mar-2019 13:58:46 Etc/GMT] PHP Notice:  Undefined variable: topic_id in /home/odinlm3h/public_html/API/cmd/gettargetcompsid.php on line 66
+[24-Mar-2019 13:58:46 Etc/GMT] PHP Notice:  Undefined variable: topic_id in /home/odinlm3h/public_html/API/cmd/gettargetcompsid.php on line 66
+[24-Mar-2019 13:58:46 Etc/GMT] PHP Notice:  Undefined variable: topic_id in /home/odinlm3h/public_html/API/cmd/gettargetcompsid.php on line 66
+[24-Mar-2019 13:58:46 Etc/GMT] PHP Notice:  Undefined variable: topic_id in /home/odinlm3h/public_html/API/cmd/gettargetcompsid.php on line 66
+[24-Mar-2019 13:58:54 Etc/GMT] PHP Notice:  Undefined variable: lesson_id in /home/odinlm3h/public_html/API/cmd/gettargetcompsid.php on line 67
+[24-Mar-2019 13:58:54 Etc/GMT] PHP Notice:  Undefined variable: topic_id in /home/odinlm3h/public_html/API/cmd/gettargetcompsid.php on line 66
+[24-Mar-2019 13:58:54 Etc/GMT] PHP Notice:  Undefined variable: topic_id in /home/odinlm3h/public_html/API/cmd/gettargetcompsid.php on line 66
+[24-Mar-2019 13:58:54 Etc/GMT] PHP Notice:  Undefined variable: topic_id in /home/odinlm3h/public_html/API/cmd/gettargetcompsid.php on line 66
+[24-Mar-2019 13:58:54 Etc/GMT] PHP Notice:  Undefined variable: topic_id in /home/odinlm3h/public_html/API/cmd/gettargetcompsid.php on line 66
+[24-Mar-2019 13:58:54 Etc/GMT] PHP Notice:  Undefined variable: topic_id in /home/odinlm3h/public_html/API/cmd/gettargetcompsid.php on line 66
+[24-Mar-2019 13:58:54 Etc/GMT] PHP Notice:  Undefined variable: topic_id in /home/odinlm3h/public_html/API/cmd/gettargetcompsid.php on line 66
+[24-Mar-2019 13:58:54 Etc/GMT] PHP Notice:  Undefined variable: lesson_id in /home/odinlm3h/public_html/API/cmd/gettargetcompsid.php on line 67
+[24-Mar-2019 13:58:54 Etc/GMT] PHP Notice:  Undefined variable: topic_id in /home/odinlm3h/public_html/API/cmd/gettargetcompsid.php on line 66
+[24-Mar-2019 13:58:54 Etc/GMT] PHP Notice:  Undefined variable: topic_id in /home/odinlm3h/public_html/API/cmd/gettargetcompsid.php on line 66
+[24-Mar-2019 13:58:54 Etc/GMT] PHP Notice:  Undefined variable: topic_id in /home/odinlm3h/public_html/API/cmd/gettargetcompsid.php on line 66
+[24-Mar-2019 13:58:54 Etc/GMT] PHP Notice:  Undefined variable: topic_id in /home/odinlm3h/public_html/API/cmd/gettargetcompsid.php on line 66
+[24-Mar-2019 13:58:55 Etc/GMT] PHP Notice:  Undefined variable: topic_id in /home/odinlm3h/public_html/API/cmd/gettargetcompsid.php on line 66
+[24-Mar-2019 13:58:55 Etc/GMT] PHP Notice:  Undefined variable: topic_id in /home/odinlm3h/public_html/API/cmd/gettargetcompsid.php on line 66
+[24-Mar-2019 13:59:03 Etc/GMT] PHP Notice:  Undefined variable: lesson_id in /home/odinlm3h/public_html/API/cmd/gettargetcompsid.php on line 67
+[24-Mar-2019 13:59:03 Etc/GMT] PHP Notice:  Undefined variable: topic_id in /home/odinlm3h/public_html/API/cmd/gettargetcompsid.php on line 66
+[24-Mar-2019 13:59:03 Etc/GMT] PHP Notice:  Undefined variable: topic_id in /home/odinlm3h/public_html/API/cmd/gettargetcompsid.php on line 66
+[24-Mar-2019 13:59:03 Etc/GMT] PHP Notice:  Undefined variable: topic_id in /home/odinlm3h/public_html/API/cmd/gettargetcompsid.php on line 66
+[24-Mar-2019 13:59:03 Etc/GMT] PHP Notice:  Undefined variable: topic_id in /home/odinlm3h/public_html/API/cmd/gettargetcompsid.php on line 66
+[24-Mar-2019 13:59:03 Etc/GMT] PHP Notice:  Undefined variable: topic_id in /home/odinlm3h/public_html/API/cmd/gettargetcompsid.php on line 66
+[24-Mar-2019 13:59:03 Etc/GMT] PHP Notice:  Undefined variable: topic_id in /home/odinlm3h/public_html/API/cmd/gettargetcompsid.php on line 66
+[24-Mar-2019 13:59:03 Etc/GMT] PHP Notice:  Undefined variable: lesson_id in /home/odinlm3h/public_html/API/cmd/gettargetcompsid.php on line 67
+[24-Mar-2019 13:59:03 Etc/GMT] PHP Notice:  Undefined variable: topic_id in /home/odinlm3h/public_html/API/cmd/gettargetcompsid.php on line 66
+[24-Mar-2019 13:59:03 Etc/GMT] PHP Notice:  Undefined variable: topic_id in /home/odinlm3h/public_html/API/cmd/gettargetcompsid.php on line 66
+[24-Mar-2019 13:59:03 Etc/GMT] PHP Notice:  Undefined variable: topic_id in /home/odinlm3h/public_html/API/cmd/gettargetcompsid.php on line 66
+[24-Mar-2019 13:59:03 Etc/GMT] PHP Notice:  Undefined variable: topic_id in /home/odinlm3h/public_html/API/cmd/gettargetcompsid.php on line 66
+[24-Mar-2019 13:59:03 Etc/GMT] PHP Notice:  Undefined variable: topic_id in /home/odinlm3h/public_html/API/cmd/gettargetcompsid.php on line 66
+[24-Mar-2019 13:59:03 Etc/GMT] PHP Notice:  Undefined variable: topic_id in /home/odinlm3h/public_html/API/cmd/gettargetcompsid.php on line 66
+[24-Mar-2019 16:10:55 Etc/GMT] PHP Notice:  Undefined variable: lesson_id in /home/odinlm3h/public_html/API/cmd/gettargetcompsid.php on line 67
+[24-Mar-2019 16:10:55 Etc/GMT] PHP Notice:  Undefined variable: topic_id in /home/odinlm3h/public_html/API/cmd/gettargetcompsid.php on line 66
+[24-Mar-2019 16:10:55 Etc/GMT] PHP Notice:  Undefined variable: topic_id in /home/odinlm3h/public_html/API/cmd/gettargetcompsid.php on line 66
+[24-Mar-2019 16:10:55 Etc/GMT] PHP Notice:  Undefined variable: topic_id in /home/odinlm3h/public_html/API/cmd/gettargetcompsid.php on line 66
+[24-Mar-2019 16:10:56 Etc/GMT] PHP Notice:  Undefined variable: topic_id in /home/odinlm3h/public_html/API/cmd/gettargetcompsid.php on line 66
+[24-Mar-2019 16:10:56 Etc/GMT] PHP Notice:  Undefined variable: topic_id in /home/odinlm3h/public_html/API/cmd/gettargetcompsid.php on line 66
+[24-Mar-2019 16:10:56 Etc/GMT] PHP Notice:  Undefined variable: topic_id in /home/odinlm3h/public_html/API/cmd/gettargetcompsid.php on line 66
+[24-Mar-2019 16:10:56 Etc/GMT] PHP Notice:  Undefined variable: lesson_id in /home/odinlm3h/public_html/API/cmd/gettargetcompsid.php on line 67
+[24-Mar-2019 16:10:56 Etc/GMT] PHP Notice:  Undefined variable: topic_id in /home/odinlm3h/public_html/API/cmd/gettargetcompsid.php on line 66
+[24-Mar-2019 16:10:56 Etc/GMT] PHP Notice:  Undefined variable: topic_id in /home/odinlm3h/public_html/API/cmd/gettargetcompsid.php on line 66
+[24-Mar-2019 16:10:56 Etc/GMT] PHP Notice:  Undefined variable: topic_id in /home/odinlm3h/public_html/API/cmd/gettargetcompsid.php on line 66
+[24-Mar-2019 16:10:56 Etc/GMT] PHP Notice:  Undefined variable: topic_id in /home/odinlm3h/public_html/API/cmd/gettargetcompsid.php on line 66
+[24-Mar-2019 16:10:56 Etc/GMT] PHP Notice:  Undefined variable: topic_id in /home/odinlm3h/public_html/API/cmd/gettargetcompsid.php on line 66
+[24-Mar-2019 16:10:56 Etc/GMT] PHP Notice:  Undefined variable: topic_id in /home/odinlm3h/public_html/API/cmd/gettargetcompsid.php on line 66
+[24-Mar-2019 16:21:33 Etc/GMT] PHP Notice:  Undefined variable: lesson_id in /home/odinlm3h/public_html/API/cmd/gettargetcompsid.php on line 67
+[24-Mar-2019 16:21:33 Etc/GMT] PHP Notice:  Undefined variable: topic_id in /home/odinlm3h/public_html/API/cmd/gettargetcompsid.php on line 66
+[24-Mar-2019 16:21:33 Etc/GMT] PHP Notice:  Undefined variable: topic_id in /home/odinlm3h/public_html/API/cmd/gettargetcompsid.php on line 66
+[24-Mar-2019 16:21:33 Etc/GMT] PHP Notice:  Undefined variable: topic_id in /home/odinlm3h/public_html/API/cmd/gettargetcompsid.php on line 66
+[24-Mar-2019 16:21:33 Etc/GMT] PHP Notice:  Undefined variable: topic_id in /home/odinlm3h/public_html/API/cmd/gettargetcompsid.php on line 66
+[24-Mar-2019 16:21:33 Etc/GMT] PHP Notice:  Undefined variable: topic_id in /home/odinlm3h/public_html/API/cmd/gettargetcompsid.php on line 66
+[24-Mar-2019 16:21:33 Etc/GMT] PHP Notice:  Undefined variable: topic_id in /home/odinlm3h/public_html/API/cmd/gettargetcompsid.php on line 66
+[24-Mar-2019 16:21:33 Etc/GMT] PHP Notice:  Undefined variable: lesson_id in /home/odinlm3h/public_html/API/cmd/gettargetcompsid.php on line 67
+[24-Mar-2019 16:21:34 Etc/GMT] PHP Notice:  Undefined variable: topic_id in /home/odinlm3h/public_html/API/cmd/gettargetcompsid.php on line 66
+[24-Mar-2019 16:21:34 Etc/GMT] PHP Notice:  Undefined variable: topic_id in /home/odinlm3h/public_html/API/cmd/gettargetcompsid.php on line 66
+[24-Mar-2019 16:21:34 Etc/GMT] PHP Notice:  Undefined variable: topic_id in /home/odinlm3h/public_html/API/cmd/gettargetcompsid.php on line 66
+[24-Mar-2019 16:21:34 Etc/GMT] PHP Notice:  Undefined variable: topic_id in /home/odinlm3h/public_html/API/cmd/gettargetcompsid.php on line 66
+[24-Mar-2019 16:21:34 Etc/GMT] PHP Notice:  Undefined variable: topic_id in /home/odinlm3h/public_html/API/cmd/gettargetcompsid.php on line 66
+[24-Mar-2019 16:21:34 Etc/GMT] PHP Notice:  Undefined variable: topic_id in /home/odinlm3h/public_html/API/cmd/gettargetcompsid.php on line 66
+[25-Mar-2019 04:05:25 Etc/GMT] PHP Notice:  Undefined variable: lesson_id in /home/odinlm3h/public_html/API/cmd/gettargetcompsid.php on line 67
+[25-Mar-2019 04:05:25 Etc/GMT] PHP Notice:  Undefined variable: topic_id in /home/odinlm3h/public_html/API/cmd/gettargetcompsid.php on line 66
+[25-Mar-2019 04:05:25 Etc/GMT] PHP Notice:  Undefined variable: topic_id in /home/odinlm3h/public_html/API/cmd/gettargetcompsid.php on line 66
+[25-Mar-2019 04:05:25 Etc/GMT] PHP Notice:  Undefined variable: topic_id in /home/odinlm3h/public_html/API/cmd/gettargetcompsid.php on line 66
+[25-Mar-2019 04:05:25 Etc/GMT] PHP Notice:  Undefined variable: topic_id in /home/odinlm3h/public_html/API/cmd/gettargetcompsid.php on line 66
+[25-Mar-2019 04:05:25 Etc/GMT] PHP Notice:  Undefined variable: topic_id in /home/odinlm3h/public_html/API/cmd/gettargetcompsid.php on line 66
+[25-Mar-2019 04:05:25 Etc/GMT] PHP Notice:  Undefined variable: topic_id in /home/odinlm3h/public_html/API/cmd/gettargetcompsid.php on line 66
+[25-Mar-2019 04:05:25 Etc/GMT] PHP Notice:  Undefined variable: lesson_id in /home/odinlm3h/public_html/API/cmd/gettargetcompsid.php on line 67
+[25-Mar-2019 04:05:25 Etc/GMT] PHP Notice:  Undefined variable: topic_id in /home/odinlm3h/public_html/API/cmd/gettargetcompsid.php on line 66
+[25-Mar-2019 04:05:25 Etc/GMT] PHP Notice:  Undefined variable: topic_id in /home/odinlm3h/public_html/API/cmd/gettargetcompsid.php on line 66
+[25-Mar-2019 04:05:25 Etc/GMT] PHP Notice:  Undefined variable: topic_id in /home/odinlm3h/public_html/API/cmd/gettargetcompsid.php on line 66
+[25-Mar-2019 04:05:25 Etc/GMT] PHP Notice:  Undefined variable: topic_id in /home/odinlm3h/public_html/API/cmd/gettargetcompsid.php on line 66
+[25-Mar-2019 04:05:25 Etc/GMT] PHP Notice:  Undefined variable: topic_id in /home/odinlm3h/public_html/API/cmd/gettargetcompsid.php on line 66
+[25-Mar-2019 04:05:25 Etc/GMT] PHP Notice:  Undefined variable: topic_id in /home/odinlm3h/public_html/API/cmd/gettargetcompsid.php on line 66
+[25-Mar-2019 04:15:14 Etc/GMT] PHP Notice:  Undefined variable: lesson_id in /home/odinlm3h/public_html/API/cmd/gettargetcompsid.php on line 67
+[25-Mar-2019 04:15:14 Etc/GMT] PHP Notice:  Undefined variable: topic_id in /home/odinlm3h/public_html/API/cmd/gettargetcompsid.php on line 66
+[25-Mar-2019 04:15:14 Etc/GMT] PHP Notice:  Undefined variable: topic_id in /home/odinlm3h/public_html/API/cmd/gettargetcompsid.php on line 66
+[25-Mar-2019 04:15:14 Etc/GMT] PHP Notice:  Undefined variable: topic_id in /home/odinlm3h/public_html/API/cmd/gettargetcompsid.php on line 66
+[25-Mar-2019 04:15:14 Etc/GMT] PHP Notice:  Undefined variable: topic_id in /home/odinlm3h/public_html/API/cmd/gettargetcompsid.php on line 66
+[25-Mar-2019 04:15:14 Etc/GMT] PHP Notice:  Undefined variable: topic_id in /home/odinlm3h/public_html/API/cmd/gettargetcompsid.php on line 66
+[25-Mar-2019 04:15:14 Etc/GMT] PHP Notice:  Undefined variable: topic_id in /home/odinlm3h/public_html/API/cmd/gettargetcompsid.php on line 66
+[25-Mar-2019 04:15:14 Etc/GMT] PHP Notice:  Undefined variable: lesson_id in /home/odinlm3h/public_html/API/cmd/gettargetcompsid.php on line 67
+[25-Mar-2019 04:15:14 Etc/GMT] PHP Notice:  Undefined variable: topic_id in /home/odinlm3h/public_html/API/cmd/gettargetcompsid.php on line 66
+[25-Mar-2019 04:15:14 Etc/GMT] PHP Notice:  Undefined variable: topic_id in /home/odinlm3h/public_html/API/cmd/gettargetcompsid.php on line 66
+[25-Mar-2019 04:15:14 Etc/GMT] PHP Notice:  Undefined variable: topic_id in /home/odinlm3h/public_html/API/cmd/gettargetcompsid.php on line 66
+[25-Mar-2019 04:15:15 Etc/GMT] PHP Notice:  Undefined variable: topic_id in /home/odinlm3h/public_html/API/cmd/gettargetcompsid.php on line 66
+[25-Mar-2019 04:15:15 Etc/GMT] PHP Notice:  Undefined variable: topic_id in /home/odinlm3h/public_html/API/cmd/gettargetcompsid.php on line 66
+[25-Mar-2019 04:15:15 Etc/GMT] PHP Notice:  Undefined variable: topic_id in /home/odinlm3h/public_html/API/cmd/gettargetcompsid.php on line 66
+[29-Mar-2019 09:25:10 Etc/GMT] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'where (q.courseid = 7 or e.courseid = 7)' at line 4 in /home/odinlm3h/public_html/API/cmd/models/Post.php:109
+Stack trace:
+#0 /home/odinlm3h/public_html/API/cmd/models/Post.php(109): PDOStatement->execute()
+#1 /home/odinlm3h/public_html/API/cmd/quizmoodleid.php(21): Post->quizid(7)
+#2 {main}
+  thrown in /home/odinlm3h/public_html/API/cmd/models/Post.php on line 109
+[29-Mar-2019 09:25:10 Etc/GMT] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'where (q.courseid = 10 or e.courseid = 10)' at line 4 in /home/odinlm3h/public_html/API/cmd/models/Post.php:109
+Stack trace:
+#0 /home/odinlm3h/public_html/API/cmd/models/Post.php(109): PDOStatement->execute()
+#1 /home/odinlm3h/public_html/API/cmd/quizmoodleid.php(21): Post->quizid(10)
+#2 {main}
+  thrown in /home/odinlm3h/public_html/API/cmd/models/Post.php on line 109
+[29-Mar-2019 09:25:11 Etc/GMT] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'where (q.courseid = 11 or e.courseid = 11)' at line 4 in /home/odinlm3h/public_html/API/cmd/models/Post.php:109
+Stack trace:
+#0 /home/odinlm3h/public_html/API/cmd/models/Post.php(109): PDOStatement->execute()
+#1 /home/odinlm3h/public_html/API/cmd/quizmoodleid.php(21): Post->quizid(11)
+#2 {main}
+  thrown in /home/odinlm3h/public_html/API/cmd/models/Post.php on line 109
+[29-Mar-2019 09:25:11 Etc/GMT] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'where (q.courseid = 12 or e.courseid = 12)' at line 4 in /home/odinlm3h/public_html/API/cmd/models/Post.php:109
+Stack trace:
+#0 /home/odinlm3h/public_html/API/cmd/models/Post.php(109): PDOStatement->execute()
+#1 /home/odinlm3h/public_html/API/cmd/quizmoodleid.php(21): Post->quizid(12)
+#2 {main}
+  thrown in /home/odinlm3h/public_html/API/cmd/models/Post.php on line 109
+[29-Mar-2019 09:25:11 Etc/GMT] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'where (q.courseid = 13 or e.courseid = 13)' at line 4 in /home/odinlm3h/public_html/API/cmd/models/Post.php:109
+Stack trace:
+#0 /home/odinlm3h/public_html/API/cmd/models/Post.php(109): PDOStatement->execute()
+#1 /home/odinlm3h/public_html/API/cmd/quizmoodleid.php(21): Post->quizid(13)
+#2 {main}
+  thrown in /home/odinlm3h/public_html/API/cmd/models/Post.php on line 109
+[29-Mar-2019 09:25:12 Etc/GMT] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'where (q.courseid = 14 or e.courseid = 14)' at line 4 in /home/odinlm3h/public_html/API/cmd/models/Post.php:109
+Stack trace:
+#0 /home/odinlm3h/public_html/API/cmd/models/Post.php(109): PDOStatement->execute()
+#1 /home/odinlm3h/public_html/API/cmd/quizmoodleid.php(21): Post->quizid(14)
+#2 {main}
+  thrown in /home/odinlm3h/public_html/API/cmd/models/Post.php on line 109
+[29-Mar-2019 09:25:12 Etc/GMT] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'where (q.courseid = 15 or e.courseid = 15)' at line 4 in /home/odinlm3h/public_html/API/cmd/models/Post.php:109
+Stack trace:
+#0 /home/odinlm3h/public_html/API/cmd/models/Post.php(109): PDOStatement->execute()
+#1 /home/odinlm3h/public_html/API/cmd/quizmoodleid.php(21): Post->quizid(15)
+#2 {main}
+  thrown in /home/odinlm3h/public_html/API/cmd/models/Post.php on line 109
+[29-Mar-2019 09:25:12 Etc/GMT] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'where (q.courseid = 16 or e.courseid = 16)' at line 4 in /home/odinlm3h/public_html/API/cmd/models/Post.php:109
+Stack trace:
+#0 /home/odinlm3h/public_html/API/cmd/models/Post.php(109): PDOStatement->execute()
+#1 /home/odinlm3h/public_html/API/cmd/quizmoodleid.php(21): Post->quizid(16)
+#2 {main}
+  thrown in /home/odinlm3h/public_html/API/cmd/models/Post.php on line 109
+[29-Mar-2019 09:25:13 Etc/GMT] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'where (q.courseid = 17 or e.courseid = 17)' at line 4 in /home/odinlm3h/public_html/API/cmd/models/Post.php:109
+Stack trace:
+#0 /home/odinlm3h/public_html/API/cmd/models/Post.php(109): PDOStatement->execute()
+#1 /home/odinlm3h/public_html/API/cmd/quizmoodleid.php(21): Post->quizid(17)
+#2 {main}
+  thrown in /home/odinlm3h/public_html/API/cmd/models/Post.php on line 109
+[29-Mar-2019 09:25:13 Etc/GMT] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'where (q.courseid = 18 or e.courseid = 18)' at line 4 in /home/odinlm3h/public_html/API/cmd/models/Post.php:109
+Stack trace:
+#0 /home/odinlm3h/public_html/API/cmd/models/Post.php(109): PDOStatement->execute()
+#1 /home/odinlm3h/public_html/API/cmd/quizmoodleid.php(21): Post->quizid(18)
+#2 {main}
+  thrown in /home/odinlm3h/public_html/API/cmd/models/Post.php on line 109
+[29-Mar-2019 09:25:13 Etc/GMT] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'where (q.courseid = 19 or e.courseid = 19)' at line 4 in /home/odinlm3h/public_html/API/cmd/models/Post.php:109
+Stack trace:
+#0 /home/odinlm3h/public_html/API/cmd/models/Post.php(109): PDOStatement->execute()
+#1 /home/odinlm3h/public_html/API/cmd/quizmoodleid.php(21): Post->quizid(19)
+#2 {main}
+  thrown in /home/odinlm3h/public_html/API/cmd/models/Post.php on line 109
+[29-Mar-2019 09:25:14 Etc/GMT] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'where (q.courseid = 20 or e.courseid = 20)' at line 4 in /home/odinlm3h/public_html/API/cmd/models/Post.php:109
+Stack trace:
+#0 /home/odinlm3h/public_html/API/cmd/models/Post.php(109): PDOStatement->execute()
+#1 /home/odinlm3h/public_html/API/cmd/quizmoodleid.php(21): Post->quizid(20)
+#2 {main}
+  thrown in /home/odinlm3h/public_html/API/cmd/models/Post.php on line 109
+[29-Mar-2019 09:25:14 Etc/GMT] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'where (q.courseid = 21 or e.courseid = 21)' at line 4 in /home/odinlm3h/public_html/API/cmd/models/Post.php:109
+Stack trace:
+#0 /home/odinlm3h/public_html/API/cmd/models/Post.php(109): PDOStatement->execute()
+#1 /home/odinlm3h/public_html/API/cmd/quizmoodleid.php(21): Post->quizid(21)
+#2 {main}
+  thrown in /home/odinlm3h/public_html/API/cmd/models/Post.php on line 109
+[29-Mar-2019 09:25:14 Etc/GMT] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'where (q.courseid = 22 or e.courseid = 22)' at line 4 in /home/odinlm3h/public_html/API/cmd/models/Post.php:109
+Stack trace:
+#0 /home/odinlm3h/public_html/API/cmd/models/Post.php(109): PDOStatement->execute()
+#1 /home/odinlm3h/public_html/API/cmd/quizmoodleid.php(21): Post->quizid(22)
+#2 {main}
+  thrown in /home/odinlm3h/public_html/API/cmd/models/Post.php on line 109
+[02-Apr-2019 08:32:55 Etc/GMT] PHP Notice:  Undefined index: cat_val in /home/odinlm3h/public_html/API/cmd/getpracticequiz.php on line 18
+[02-Apr-2019 08:32:55 Etc/GMT] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'ORDER BY code DESC' at line 1 in /home/odinlm3h/public_html/API/cmd/models/Post.php:62
+Stack trace:
+#0 /home/odinlm3h/public_html/API/cmd/models/Post.php(62): PDOStatement->execute()
+#1 /home/odinlm3h/public_html/API/cmd/getpracticequiz.php(21): Post->lesson(NULL)
+#2 {main}
+  thrown in /home/odinlm3h/public_html/API/cmd/models/Post.php on line 62
+[02-Apr-2019 08:33:39 Etc/GMT] PHP Notice:  Undefined variable: mcode in /home/odinlm3h/public_html/API/cmd/getpracticequiz.php on line 51
+[02-Apr-2019 08:33:39 Etc/GMT] PHP Notice:  Undefined variable: name in /home/odinlm3h/public_html/API/cmd/getpracticequiz.php on line 52
+[02-Apr-2019 09:22:34 Etc/GMT] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function Post::lesson2(), 1 passed in /home/odinlm3h/public_html/API/cmd/getquizes.php on line 23 and exactly 2 expected in /home/odinlm3h/public_html/API/cmd/models/Post.php:99
+Stack trace:
+#0 /home/odinlm3h/public_html/API/cmd/getquizes.php(23): Post->lesson2('4')
+#1 {main}
+  thrown in /home/odinlm3h/public_html/API/cmd/models/Post.php on line 99
+[02-Apr-2019 09:22:38 Etc/GMT] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function Post::lesson2(), 1 passed in /home/odinlm3h/public_html/API/cmd/getquizes.php on line 23 and exactly 2 expected in /home/odinlm3h/public_html/API/cmd/models/Post.php:99
+Stack trace:
+#0 /home/odinlm3h/public_html/API/cmd/getquizes.php(23): Post->lesson2('5')
+#1 {main}
+  thrown in /home/odinlm3h/public_html/API/cmd/models/Post.php on line 99
+[02-Apr-2019 09:26:03 Etc/GMT] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function Post::lesson2(), 1 passed in /home/odinlm3h/public_html/API/cmd/getquizes.php on line 23 and exactly 2 expected in /home/odinlm3h/public_html/API/cmd/models/Post.php:99
+Stack trace:
+#0 /home/odinlm3h/public_html/API/cmd/getquizes.php(23): Post->lesson2('4')
+#1 {main}
+  thrown in /home/odinlm3h/public_html/API/cmd/models/Post.php on line 99
+[02-Apr-2019 09:26:40 Etc/GMT] PHP Notice:  Undefined index: cat_val in /home/odinlm3h/public_html/API/cmd/getquizes.php on line 18
+[02-Apr-2019 09:26:40 Etc/GMT] PHP Notice:  Undefined index: limitre in /home/odinlm3h/public_html/API/cmd/getquizes.php on line 21
+[02-Apr-2019 09:26:40 Etc/GMT] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function Post::lesson2(), 1 passed in /home/odinlm3h/public_html/API/cmd/getquizes.php on line 23 and exactly 2 expected in /home/odinlm3h/public_html/API/cmd/models/Post.php:99
+Stack trace:
+#0 /home/odinlm3h/public_html/API/cmd/getquizes.php(23): Post->lesson2(NULL)
+#1 {main}
+  thrown in /home/odinlm3h/public_html/API/cmd/models/Post.php on line 99
+[02-Apr-2019 09:27:47 Etc/GMT] PHP Warning:  A non-numeric value encountered in /home/odinlm3h/public_html/API/cmd/models/Post.php on line 116
+[02-Apr-2019 09:27:47 Etc/GMT] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '-1' at line 1 in /home/odinlm3h/public_html/API/cmd/models/Post.php:122
+Stack trace:
+#0 /home/odinlm3h/public_html/API/cmd/models/Post.php(122): PDOStatement->execute()
+#1 /home/odinlm3h/public_html/API/cmd/getquizes.php(24): Post->lesson2(4, 4)
+#2 {main}
+  thrown in /home/odinlm3h/public_html/API/cmd/models/Post.php on line 122
+[02-Apr-2019 09:28:07 Etc/GMT] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '- 1' at line 1 in /home/odinlm3h/public_html/API/cmd/models/Post.php:122
+Stack trace:
+#0 /home/odinlm3h/public_html/API/cmd/models/Post.php(122): PDOStatement->execute()
+#1 /home/odinlm3h/public_html/API/cmd/getquizes.php(24): Post->lesson2(4, 4)
+#2 {main}
+  thrown in /home/odinlm3h/public_html/API/cmd/models/Post.php on line 122
+[02-Apr-2019 09:58:33 Etc/GMT] PHP Notice:  Undefined variable: mcode in /home/odinlm3h/public_html/API/cmd/getlesson.php on line 50
+[02-Apr-2019 09:58:33 Etc/GMT] PHP Notice:  Undefined variable: mcode in /home/odinlm3h/public_html/API/cmd/getpracticequiz.php on line 51
+[02-Apr-2019 09:58:33 Etc/GMT] PHP Notice:  Undefined variable: mcode in /home/odinlm3h/public_html/API/cmd/getquizes.php on line 53
+[02-Apr-2019 09:58:33 Etc/GMT] PHP Notice:  Undefined variable: mcode in /home/odinlm3h/public_html/API/cmd/getquizes.php on line 53
+[02-Apr-2019 09:58:33 Etc/GMT] PHP Notice:  Undefined variable: mcode in /home/odinlm3h/public_html/API/cmd/getquizes.php on line 53
+[03-Apr-2019 11:13:09 Etc/GMT] PHP Notice:  Undefined index: cat_val in /home/odinlm3h/public_html/API/cmd/getquizescalendar.php on line 18
+[03-Apr-2019 11:13:09 Etc/GMT] PHP Notice:  Undefined index: limitre in /home/odinlm3h/public_html/API/cmd/getquizescalendar.php on line 21
+[03-Apr-2019 11:13:09 Etc/GMT] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'ORDER BY code DESC' at line 1 in /home/odinlm3h/public_html/API/cmd/models/Post.php:107
+Stack trace:
+#0 /home/odinlm3h/public_html/API/cmd/models/Post.php(107): PDOStatement->execute()
+#1 /home/odinlm3h/public_html/API/cmd/getquizescalendar.php(24): Post->lesson2(NULL, -1)
+#2 {main}
+  thrown in /home/odinlm3h/public_html/API/cmd/models/Post.php on line 107
+[03-Apr-2019 11:13:09 Etc/GMT] PHP Notice:  Undefined index: cat_val in /home/odinlm3h/public_html/API/cmd/getquizescalendar.php on line 18
+[03-Apr-2019 11:13:09 Etc/GMT] PHP Notice:  Undefined index: limitre in /home/odinlm3h/public_html/API/cmd/getquizescalendar.php on line 21
+[03-Apr-2019 11:13:09 Etc/GMT] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'ORDER BY code DESC' at line 1 in /home/odinlm3h/public_html/API/cmd/models/Post.php:107
+Stack trace:
+#0 /home/odinlm3h/public_html/API/cmd/models/Post.php(107): PDOStatement->execute()
+#1 /home/odinlm3h/public_html/API/cmd/getquizescalendar.php(24): Post->lesson2(NULL, -1)
+#2 {main}
+  thrown in /home/odinlm3h/public_html/API/cmd/models/Post.php on line 107
+[05-Apr-2019 04:53:30 Etc/GMT] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1 in /home/odinlm3h/public_html/API/cmd/models/Post.php:167
+Stack trace:
+#0 /home/odinlm3h/public_html/API/cmd/models/Post.php(167): PDOStatement->execute()
+#1 /home/odinlm3h/public_html/API/cmd/compreaname.php(21): Post->compereaname(NULL)
+#2 {main}
+  thrown in /home/odinlm3h/public_html/API/cmd/models/Post.php on line 167
+[05-Apr-2019 04:53:45 Etc/GMT] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1 in /home/odinlm3h/public_html/API/cmd/models/Post.php:167
+Stack trace:
+#0 /home/odinlm3h/public_html/API/cmd/models/Post.php(167): PDOStatement->execute()
+#1 /home/odinlm3h/public_html/API/cmd/compreaname.php(21): Post->compereaname(NULL)
+#2 {main}
+  thrown in /home/odinlm3h/public_html/API/cmd/models/Post.php on line 167
+[05-Apr-2019 04:55:12 Etc/GMT] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1 in /home/odinlm3h/public_html/API/cmd/models/Post.php:167
+Stack trace:
+#0 /home/odinlm3h/public_html/API/cmd/models/Post.php(167): PDOStatement->execute()
+#1 /home/odinlm3h/public_html/API/cmd/compreaname.php(21): Post->compereaname(NULL)
+#2 {main}
+  thrown in /home/odinlm3h/public_html/API/cmd/models/Post.php on line 167
+[05-Apr-2019 05:08:16 Etc/GMT] PHP Warning:  html_entity_decode() expects parameter 1 to be string, object given in /home/odinlm3h/public_html/API/cmd/getalltopics.php on line 50
+[05-Apr-2019 05:08:16 Etc/GMT] PHP Warning:  html_entity_decode() expects parameter 1 to be string, object given in /home/odinlm3h/public_html/API/cmd/getalltopics.php on line 50
+[05-Apr-2019 05:08:53 Etc/GMT] PHP Warning:  html_entity_decode() expects parameter 1 to be string, object given in /home/odinlm3h/public_html/API/cmd/getalltopics.php on line 50
+[05-Apr-2019 05:08:53 Etc/GMT] PHP Warning:  html_entity_decode() expects parameter 1 to be string, object given in /home/odinlm3h/public_html/API/cmd/getalltopics.php on line 50
+[05-Apr-2019 05:10:03 Etc/GMT] PHP Warning:  html_entity_decode() expects parameter 1 to be string, object given in /home/odinlm3h/public_html/API/cmd/getalltopics.php on line 50
+[05-Apr-2019 05:10:03 Etc/GMT] PHP Warning:  html_entity_decode() expects parameter 1 to be string, object given in /home/odinlm3h/public_html/API/cmd/getalltopics.php on line 50
+[05-Apr-2019 05:13:12 Etc/GMT] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1 in /home/odinlm3h/public_html/API/cmd/models/Post.php:167
+Stack trace:
+#0 /home/odinlm3h/public_html/API/cmd/models/Post.php(167): PDOStatement->execute()
+#1 /home/odinlm3h/public_html/API/cmd/compreaname.php(21): Post->compereaname(NULL)
+#2 {main}
+  thrown in /home/odinlm3h/public_html/API/cmd/models/Post.php on line 167
+[16-Apr-2019 05:45:22 Etc/GMT] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'ORDER BY id DESC' at line 1 in /home/odinlm3h/public_html/API/cmd/models/Post.php:329
+Stack trace:
+#0 /home/odinlm3h/public_html/API/cmd/models/Post.php(329): PDOStatement->execute()
+#1 /home/odinlm3h/public_html/API/cmd/level.php(21): Post->level('')
+#2 {main}
+  thrown in /home/odinlm3h/public_html/API/cmd/models/Post.php on line 329
+[16-Apr-2019 06:53:39 Etc/GMT] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1 in /home/odinlm3h/public_html/API/cmd/models/Post.php:169
+Stack trace:
+#0 /home/odinlm3h/public_html/API/cmd/models/Post.php(169): PDOStatement->execute()
+#1 /home/odinlm3h/public_html/API/cmd/topic.php(21): Post->topicname(NULL)
+#2 {main}
+  thrown in /home/odinlm3h/public_html/API/cmd/models/Post.php on line 169
+[16-Apr-2019 06:53:39 Etc/GMT] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1 in /home/odinlm3h/public_html/API/cmd/models/Post.php:300
+Stack trace:
+#0 /home/odinlm3h/public_html/API/cmd/models/Post.php(300): PDOStatement->execute()
+#1 /home/odinlm3h/public_html/API/cmd/lessonname.php(21): Post->lessonname(NULL)
+#2 {main}
+  thrown in /home/odinlm3h/public_html/API/cmd/models/Post.php on line 300
+[16-Apr-2019 06:53:39 Etc/GMT] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1 in /home/odinlm3h/public_html/API/cmd/models/Post.php:313
+Stack trace:
+#0 /home/odinlm3h/public_html/API/cmd/models/Post.php(313): PDOStatement->execute()
+#1 /home/odinlm3h/public_html/API/cmd/levelname.php(21): Post->levelname(NULL)
+#2 {main}
+  thrown in /home/odinlm3h/public_html/API/cmd/models/Post.php on line 313
+[16-Apr-2019 06:57:43 Etc/GMT] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1 in /home/odinlm3h/public_html/API/cmd/models/Post.php:169
+Stack trace:
+#0 /home/odinlm3h/public_html/API/cmd/models/Post.php(169): PDOStatement->execute()
+#1 /home/odinlm3h/public_html/API/cmd/topic.php(21): Post->topicname(NULL)
+#2 {main}
+  thrown in /home/odinlm3h/public_html/API/cmd/models/Post.php on line 169
+[16-Apr-2019 06:57:43 Etc/GMT] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1 in /home/odinlm3h/public_html/API/cmd/models/Post.php:300
+Stack trace:
+#0 /home/odinlm3h/public_html/API/cmd/models/Post.php(300): PDOStatement->execute()
+#1 /home/odinlm3h/public_html/API/cmd/lessonname.php(21): Post->lessonname(NULL)
+#2 {main}
+  thrown in /home/odinlm3h/public_html/API/cmd/models/Post.php on line 300
+[16-Apr-2019 06:57:43 Etc/GMT] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1 in /home/odinlm3h/public_html/API/cmd/models/Post.php:313
+Stack trace:
+#0 /home/odinlm3h/public_html/API/cmd/models/Post.php(313): PDOStatement->execute()
+#1 /home/odinlm3h/public_html/API/cmd/levelname.php(21): Post->levelname(NULL)
+#2 {main}
+  thrown in /home/odinlm3h/public_html/API/cmd/models/Post.php on line 313
+[16-Apr-2019 06:58:49 Etc/GMT] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1 in /home/odinlm3h/public_html/API/cmd/models/Post.php:169
+Stack trace:
+#0 /home/odinlm3h/public_html/API/cmd/models/Post.php(169): PDOStatement->execute()
+#1 /home/odinlm3h/public_html/API/cmd/topic.php(21): Post->topicname(NULL)
+#2 {main}
+  thrown in /home/odinlm3h/public_html/API/cmd/models/Post.php on line 169
+[16-Apr-2019 06:58:49 Etc/GMT] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1 in /home/odinlm3h/public_html/API/cmd/models/Post.php:300
+Stack trace:
+#0 /home/odinlm3h/public_html/API/cmd/models/Post.php(300): PDOStatement->execute()
+#1 /home/odinlm3h/public_html/API/cmd/lessonname.php(21): Post->lessonname(NULL)
+#2 {main}
+  thrown in /home/odinlm3h/public_html/API/cmd/models/Post.php on line 300
+[16-Apr-2019 06:58:49 Etc/GMT] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1 in /home/odinlm3h/public_html/API/cmd/models/Post.php:313
+Stack trace:
+#0 /home/odinlm3h/public_html/API/cmd/models/Post.php(313): PDOStatement->execute()
+#1 /home/odinlm3h/public_html/API/cmd/levelname.php(21): Post->levelname(NULL)
+#2 {main}
+  thrown in /home/odinlm3h/public_html/API/cmd/models/Post.php on line 313
+[16-Apr-2019 06:59:52 Etc/GMT] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1 in /home/odinlm3h/public_html/API/cmd/models/Post.php:169
+Stack trace:
+#0 /home/odinlm3h/public_html/API/cmd/models/Post.php(169): PDOStatement->execute()
+#1 /home/odinlm3h/public_html/API/cmd/topic.php(21): Post->topicname(NULL)
+#2 {main}
+  thrown in /home/odinlm3h/public_html/API/cmd/models/Post.php on line 169
+[16-Apr-2019 06:59:52 Etc/GMT] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1 in /home/odinlm3h/public_html/API/cmd/models/Post.php:300
+Stack trace:
+#0 /home/odinlm3h/public_html/API/cmd/models/Post.php(300): PDOStatement->execute()
+#1 /home/odinlm3h/public_html/API/cmd/lessonname.php(21): Post->lessonname(NULL)
+#2 {main}
+  thrown in /home/odinlm3h/public_html/API/cmd/models/Post.php on line 300
+[16-Apr-2019 06:59:52 Etc/GMT] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1 in /home/odinlm3h/public_html/API/cmd/models/Post.php:313
+Stack trace:
+#0 /home/odinlm3h/public_html/API/cmd/models/Post.php(313): PDOStatement->execute()
+#1 /home/odinlm3h/public_html/API/cmd/levelname.php(21): Post->levelname(NULL)
+#2 {main}
+  thrown in /home/odinlm3h/public_html/API/cmd/models/Post.php on line 313
+[09-May-2019 06:12:55 Etc/GMT] PHP Notice:  Undefined variable: studyduration in /home/odinlm3h/public_html/API/cmd/getpracticequizcalendar.php on line 53
+[09-May-2019 06:12:55 Etc/GMT] PHP Notice:  Undefined variable: studyduration in /home/odinlm3h/public_html/API/cmd/getquizescalendar.php on line 60
+[09-May-2019 06:12:55 Etc/GMT] PHP Notice:  Undefined variable: studyduration in /home/odinlm3h/public_html/API/cmd/getquizescalendar.php on line 60
+[09-May-2019 06:12:55 Etc/GMT] PHP Notice:  Undefined variable: studyduration in /home/odinlm3h/public_html/API/cmd/getquizescalendar.php on line 60
+[09-May-2019 06:12:55 Etc/GMT] PHP Notice:  Undefined variable: studyduration in /home/odinlm3h/public_html/API/cmd/getquizescalendar.php on line 60
+[09-May-2019 06:12:55 Etc/GMT] PHP Notice:  Undefined variable: studyduration in /home/odinlm3h/public_html/API/cmd/getpracticequizcalendar.php on line 53
+[09-May-2019 06:12:55 Etc/GMT] PHP Notice:  Undefined variable: studyduration in /home/odinlm3h/public_html/API/cmd/getquizescalendar.php on line 60
+[09-May-2019 06:12:55 Etc/GMT] PHP Notice:  Undefined variable: studyduration in /home/odinlm3h/public_html/API/cmd/getquizescalendar.php on line 60
+[09-May-2019 06:12:55 Etc/GMT] PHP Notice:  Undefined variable: studyduration in /home/odinlm3h/public_html/API/cmd/getquizescalendar.php on line 60
+[09-May-2019 06:12:55 Etc/GMT] PHP Notice:  Undefined variable: studyduration in /home/odinlm3h/public_html/API/cmd/getpracticequizcalendar.php on line 53
+[09-May-2019 06:12:55 Etc/GMT] PHP Notice:  Undefined variable: studyduration in /home/odinlm3h/public_html/API/cmd/getquizescalendar.php on line 60
+[09-May-2019 06:12:55 Etc/GMT] PHP Notice:  Undefined variable: studyduration in /home/odinlm3h/public_html/API/cmd/getquizescalendar.php on line 60
+[09-May-2019 06:12:55 Etc/GMT] PHP Notice:  Undefined variable: studyduration in /home/odinlm3h/public_html/API/cmd/getquizescalendar.php on line 60
+[09-May-2019 06:12:55 Etc/GMT] PHP Notice:  Undefined variable: studyduration in /home/odinlm3h/public_html/API/cmd/getpracticequizcalendar.php on line 53
+[09-May-2019 06:12:55 Etc/GMT] PHP Notice:  Undefined variable: studyduration in /home/odinlm3h/public_html/API/cmd/getquizescalendar.php on line 60
+[09-May-2019 06:12:55 Etc/GMT] PHP Notice:  Undefined variable: studyduration in /home/odinlm3h/public_html/API/cmd/getquizescalendar.php on line 60
+[09-May-2019 06:12:55 Etc/GMT] PHP Notice:  Undefined variable: studyduration in /home/odinlm3h/public_html/API/cmd/getquizescalendar.php on line 60
+[09-May-2019 06:17:40 Etc/GMT] PHP Notice:  Undefined variable: studyduration in /home/odinlm3h/public_html/API/cmd/getpracticequizcalendar.php on line 53
+[09-May-2019 06:17:40 Etc/GMT] PHP Notice:  Undefined variable: studyduration in /home/odinlm3h/public_html/API/cmd/getquizescalendar.php on line 60
+[09-May-2019 06:17:40 Etc/GMT] PHP Notice:  Undefined variable: studyduration in /home/odinlm3h/public_html/API/cmd/getquizescalendar.php on line 60
+[09-May-2019 06:17:40 Etc/GMT] PHP Notice:  Undefined variable: studyduration in /home/odinlm3h/public_html/API/cmd/getquizescalendar.php on line 60
+[09-May-2019 06:17:40 Etc/GMT] PHP Notice:  Undefined variable: studyduration in /home/odinlm3h/public_html/API/cmd/getquizescalendar.php on line 60
+[09-May-2019 06:17:40 Etc/GMT] PHP Notice:  Undefined variable: studyduration in /home/odinlm3h/public_html/API/cmd/getpracticequizcalendar.php on line 53
+[09-May-2019 06:17:40 Etc/GMT] PHP Notice:  Undefined variable: studyduration in /home/odinlm3h/public_html/API/cmd/getquizescalendar.php on line 60
+[09-May-2019 06:17:40 Etc/GMT] PHP Notice:  Undefined variable: studyduration in /home/odinlm3h/public_html/API/cmd/getquizescalendar.php on line 60
+[09-May-2019 06:17:40 Etc/GMT] PHP Notice:  Undefined variable: studyduration in /home/odinlm3h/public_html/API/cmd/getquizescalendar.php on line 60
+[09-May-2019 06:17:40 Etc/GMT] PHP Notice:  Undefined variable: studyduration in /home/odinlm3h/public_html/API/cmd/getpracticequizcalendar.php on line 53
+[09-May-2019 06:17:40 Etc/GMT] PHP Notice:  Undefined variable: studyduration in /home/odinlm3h/public_html/API/cmd/getquizescalendar.php on line 60
+[09-May-2019 06:17:40 Etc/GMT] PHP Notice:  Undefined variable: studyduration in /home/odinlm3h/public_html/API/cmd/getquizescalendar.php on line 60
+[09-May-2019 06:17:40 Etc/GMT] PHP Notice:  Undefined variable: studyduration in /home/odinlm3h/public_html/API/cmd/getquizescalendar.php on line 60
+[09-May-2019 06:17:40 Etc/GMT] PHP Notice:  Undefined variable: studyduration in /home/odinlm3h/public_html/API/cmd/getpracticequizcalendar.php on line 53
+[09-May-2019 06:17:40 Etc/GMT] PHP Notice:  Undefined variable: studyduration in /home/odinlm3h/public_html/API/cmd/getquizescalendar.php on line 60
+[09-May-2019 06:17:40 Etc/GMT] PHP Notice:  Undefined variable: studyduration in /home/odinlm3h/public_html/API/cmd/getquizescalendar.php on line 60
+[09-May-2019 06:17:40 Etc/GMT] PHP Notice:  Undefined variable: studyduration in /home/odinlm3h/public_html/API/cmd/getquizescalendar.php on line 60
+[09-May-2019 06:20:54 Etc/GMT] PHP Notice:  Undefined variable: studyduration in /home/odinlm3h/public_html/API/cmd/getpracticequizcalendar.php on line 53
+[09-May-2019 06:20:54 Etc/GMT] PHP Notice:  Undefined variable: studyduration in /home/odinlm3h/public_html/API/cmd/getquizescalendar.php on line 60
+[09-May-2019 06:20:54 Etc/GMT] PHP Notice:  Undefined variable: studyduration in /home/odinlm3h/public_html/API/cmd/getquizescalendar.php on line 60
+[09-May-2019 06:20:54 Etc/GMT] PHP Notice:  Undefined variable: studyduration in /home/odinlm3h/public_html/API/cmd/getquizescalendar.php on line 60
+[09-May-2019 06:20:54 Etc/GMT] PHP Notice:  Undefined variable: studyduration in /home/odinlm3h/public_html/API/cmd/getquizescalendar.php on line 60
+[09-May-2019 06:20:54 Etc/GMT] PHP Notice:  Undefined variable: studyduration in /home/odinlm3h/public_html/API/cmd/getpracticequizcalendar.php on line 53
+[09-May-2019 06:20:54 Etc/GMT] PHP Notice:  Undefined variable: studyduration in /home/odinlm3h/public_html/API/cmd/getquizescalendar.php on line 60
+[09-May-2019 06:20:54 Etc/GMT] PHP Notice:  Undefined variable: studyduration in /home/odinlm3h/public_html/API/cmd/getquizescalendar.php on line 60
+[09-May-2019 06:20:54 Etc/GMT] PHP Notice:  Undefined variable: studyduration in /home/odinlm3h/public_html/API/cmd/getquizescalendar.php on line 60
+[09-May-2019 06:20:54 Etc/GMT] PHP Notice:  Undefined variable: studyduration in /home/odinlm3h/public_html/API/cmd/getpracticequizcalendar.php on line 53
+[09-May-2019 06:20:54 Etc/GMT] PHP Notice:  Undefined variable: studyduration in /home/odinlm3h/public_html/API/cmd/getquizescalendar.php on line 60
+[09-May-2019 06:20:54 Etc/GMT] PHP Notice:  Undefined variable: studyduration in /home/odinlm3h/public_html/API/cmd/getquizescalendar.php on line 60
+[09-May-2019 06:20:54 Etc/GMT] PHP Notice:  Undefined variable: studyduration in /home/odinlm3h/public_html/API/cmd/getquizescalendar.php on line 60
+[09-May-2019 06:20:54 Etc/GMT] PHP Notice:  Undefined variable: studyduration in /home/odinlm3h/public_html/API/cmd/getpracticequizcalendar.php on line 53
+[09-May-2019 06:20:54 Etc/GMT] PHP Notice:  Undefined variable: studyduration in /home/odinlm3h/public_html/API/cmd/getquizescalendar.php on line 60
+[09-May-2019 06:20:54 Etc/GMT] PHP Notice:  Undefined variable: studyduration in /home/odinlm3h/public_html/API/cmd/getquizescalendar.php on line 60
+[09-May-2019 06:20:54 Etc/GMT] PHP Notice:  Undefined variable: studyduration in /home/odinlm3h/public_html/API/cmd/getquizescalendar.php on line 60
+[09-May-2019 06:21:29 Etc/GMT] PHP Notice:  Undefined variable: studyduration in /home/odinlm3h/public_html/API/cmd/getpracticequizcalendar.php on line 53
+[09-May-2019 06:21:29 Etc/GMT] PHP Notice:  Undefined variable: studyduration in /home/odinlm3h/public_html/API/cmd/getquizescalendar.php on line 60
+[09-May-2019 06:21:29 Etc/GMT] PHP Notice:  Undefined variable: studyduration in /home/odinlm3h/public_html/API/cmd/getquizescalendar.php on line 60
+[09-May-2019 06:21:29 Etc/GMT] PHP Notice:  Undefined variable: studyduration in /home/odinlm3h/public_html/API/cmd/getquizescalendar.php on line 60
+[09-May-2019 06:21:29 Etc/GMT] PHP Notice:  Undefined variable: studyduration in /home/odinlm3h/public_html/API/cmd/getquizescalendar.php on line 60
+[09-May-2019 06:21:29 Etc/GMT] PHP Notice:  Undefined variable: studyduration in /home/odinlm3h/public_html/API/cmd/getpracticequizcalendar.php on line 53
+[09-May-2019 06:21:29 Etc/GMT] PHP Notice:  Undefined variable: studyduration in /home/odinlm3h/public_html/API/cmd/getquizescalendar.php on line 60
+[09-May-2019 06:21:29 Etc/GMT] PHP Notice:  Undefined variable: studyduration in /home/odinlm3h/public_html/API/cmd/getquizescalendar.php on line 60
+[09-May-2019 06:21:29 Etc/GMT] PHP Notice:  Undefined variable: studyduration in /home/odinlm3h/public_html/API/cmd/getquizescalendar.php on line 60
+[09-May-2019 06:21:29 Etc/GMT] PHP Notice:  Undefined variable: studyduration in /home/odinlm3h/public_html/API/cmd/getpracticequizcalendar.php on line 53
+[09-May-2019 06:21:29 Etc/GMT] PHP Notice:  Undefined variable: studyduration in /home/odinlm3h/public_html/API/cmd/getquizescalendar.php on line 60
+[09-May-2019 06:21:29 Etc/GMT] PHP Notice:  Undefined variable: studyduration in /home/odinlm3h/public_html/API/cmd/getquizescalendar.php on line 60
+[09-May-2019 06:21:29 Etc/GMT] PHP Notice:  Undefined variable: studyduration in /home/odinlm3h/public_html/API/cmd/getquizescalendar.php on line 60
+[09-May-2019 06:21:29 Etc/GMT] PHP Notice:  Undefined variable: studyduration in /home/odinlm3h/public_html/API/cmd/getpracticequizcalendar.php on line 53
+[09-May-2019 06:21:29 Etc/GMT] PHP Notice:  Undefined variable: studyduration in /home/odinlm3h/public_html/API/cmd/getquizescalendar.php on line 60
+[09-May-2019 06:21:29 Etc/GMT] PHP Notice:  Undefined variable: studyduration in /home/odinlm3h/public_html/API/cmd/getquizescalendar.php on line 60
+[09-May-2019 06:21:29 Etc/GMT] PHP Notice:  Undefined variable: studyduration in /home/odinlm3h/public_html/API/cmd/getquizescalendar.php on line 60
+[24-May-2019 09:23:24 Etc/GMT] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'Targetcomps' in 'where clause' in /home/odinlm3h/public_html/API/cmd/models/Post.php:48
+Stack trace:
+#0 /home/odinlm3h/public_html/API/cmd/models/Post.php(48): PDOStatement->execute()
+#1 /home/odinlm3h/public_html/API/cmd/getlesson.php(21): Post->getlessons('Targetcomps')
+#2 {main}
+  thrown in /home/odinlm3h/public_html/API/cmd/models/Post.php on line 48
+[24-May-2019 09:23:24 Etc/GMT] PHP Warning:  A non-numeric value encountered in /home/odinlm3h/public_html/API/cmd/getquizes.php on line 21
+[24-May-2019 09:23:24 Etc/GMT] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'Targetcomps' in 'where clause' in /home/odinlm3h/public_html/API/cmd/models/Post.php:76
+Stack trace:
+#0 /home/odinlm3h/public_html/API/cmd/models/Post.php(76): PDOStatement->execute()
+#1 /home/odinlm3h/public_html/API/cmd/getpracticequiz.php(22): Post->lesson1('Targetcomps')
+#2 {main}
+  thrown in /home/odinlm3h/public_html/API/cmd/models/Post.php on line 76
+[24-May-2019 09:23:24 Etc/GMT] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'Targetcomps' in 'where clause' in /home/odinlm3h/public_html/API/cmd/models/Post.php:107
+Stack trace:
+#0 /home/odinlm3h/public_html/API/cmd/models/Post.php(107): PDOStatement->execute()
+#1 /home/odinlm3h/public_html/API/cmd/getquizes.php(24): Post->lesson2('Targetcomps', -1)
+#2 {main}
+  thrown in /home/odinlm3h/public_html/API/cmd/models/Post.php on line 107
+[27-May-2019 06:41:09 Etc/GMT] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'QA02' in 'where clause' in /home/odinlm3h/public_html/API/cmd/models/Post.php:169
+Stack trace:
+#0 /home/odinlm3h/public_html/API/cmd/models/Post.php(169): PDOStatement->execute()
+#1 /home/odinlm3h/public_html/API/cmd/topic.php(21): Post->topicname('QA02')
+#2 {main}
+  thrown in /home/odinlm3h/public_html/API/cmd/models/Post.php on line 169
+[27-May-2019 06:41:09 Etc/GMT] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'Lesson 1' at line 1 in /home/odinlm3h/public_html/API/cmd/models/Post.php:300
+Stack trace:
+#0 /home/odinlm3h/public_html/API/cmd/models/Post.php(300): PDOStatement->execute()
+#1 /home/odinlm3h/public_html/API/cmd/lessonname.php(21): Post->lessonname('HCF and LCM Les...')
+#2 {main}
+  thrown in /home/odinlm3h/public_html/API/cmd/models/Post.php on line 300
+[27-May-2019 06:41:09 Etc/GMT] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '3' at line 1 in /home/odinlm3h/public_html/API/cmd/models/Post.php:313
+Stack trace:
+#0 /home/odinlm3h/public_html/API/cmd/models/Post.php(313): PDOStatement->execute()
+#1 /home/odinlm3h/public_html/API/cmd/levelname.php(21): Post->levelname('Level 3')
+#2 {main}
+  thrown in /home/odinlm3h/public_html/API/cmd/models/Post.php on line 313
+[27-May-2019 06:41:09 Etc/GMT] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'EG04' in 'where clause' in /home/odinlm3h/public_html/API/cmd/models/Post.php:169
+Stack trace:
+#0 /home/odinlm3h/public_html/API/cmd/models/Post.php(169): PDOStatement->execute()
+#1 /home/odinlm3h/public_html/API/cmd/topic.php(21): Post->topicname('EG04')
+#2 {main}
+  thrown in /home/odinlm3h/public_html/API/cmd/models/Post.php on line 169
+[27-May-2019 06:41:09 Etc/GMT] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'Pronouns' in 'where clause' in /home/odinlm3h/public_html/API/cmd/models/Post.php:300
+Stack trace:
+#0 /home/odinlm3h/public_html/API/cmd/models/Post.php(300): PDOStatement->execute()
+#1 /home/odinlm3h/public_html/API/cmd/lessonname.php(21): Post->lessonname('Pronouns - Less...')
+#2 {main}
+  thrown in /home/odinlm3h/public_html/API/cmd/models/Post.php on line 300
+[27-May-2019 06:41:10 Etc/GMT] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '3' at line 1 in /home/odinlm3h/public_html/API/cmd/models/Post.php:313
+Stack trace:
+#0 /home/odinlm3h/public_html/API/cmd/models/Post.php(313): PDOStatement->execute()
+#1 /home/odinlm3h/public_html/API/cmd/levelname.php(21): Post->levelname('Level 3')
+#2 {main}
+  thrown in /home/odinlm3h/public_html/API/cmd/models/Post.php on line 313
+[27-May-2019 06:41:10 Etc/GMT] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'LR05' in 'where clause' in /home/odinlm3h/public_html/API/cmd/models/Post.php:169
+Stack trace:
+#0 /home/odinlm3h/public_html/API/cmd/models/Post.php(169): PDOStatement->execute()
+#1 /home/odinlm3h/public_html/API/cmd/topic.php(21): Post->topicname('LR05')
+#2 {main}
+  thrown in /home/odinlm3h/public_html/API/cmd/models/Post.php on line 169
+[27-May-2019 06:41:10 Etc/GMT] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'Series' in 'where clause' in /home/odinlm3h/public_html/API/cmd/models/Post.php:300
+Stack trace:
+#0 /home/odinlm3h/public_html/API/cmd/models/Post.php(300): PDOStatement->execute()
+#1 /home/odinlm3h/public_html/API/cmd/lessonname.php(21): Post->lessonname('Series - Lesson')
+#2 {main}
+  thrown in /home/odinlm3h/public_html/API/cmd/models/Post.php on line 300
+[27-May-2019 06:41:10 Etc/GMT] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '3' at line 1 in /home/odinlm3h/public_html/API/cmd/models/Post.php:313
+Stack trace:
+#0 /home/odinlm3h/public_html/API/cmd/models/Post.php(313): PDOStatement->execute()
+#1 /home/odinlm3h/public_html/API/cmd/levelname.php(21): Post->levelname('Level 3')
+#2 {main}
+  thrown in /home/odinlm3h/public_html/API/cmd/models/Post.php on line 313
+[27-May-2019 06:41:10 Etc/GMT] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'LR04' in 'where clause' in /home/odinlm3h/public_html/API/cmd/models/Post.php:169
+Stack trace:
+#0 /home/odinlm3h/public_html/API/cmd/models/Post.php(169): PDOStatement->execute()
+#1 /home/odinlm3h/public_html/API/cmd/topic.php(21): Post->topicname('LR04')
+#2 {main}
+  thrown in /home/odinlm3h/public_html/API/cmd/models/Post.php on line 169
+[27-May-2019 06:41:10 Etc/GMT] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'Classification' in 'where clause' in /home/odinlm3h/public_html/API/cmd/models/Post.php:300
+Stack trace:
+#0 /home/odinlm3h/public_html/API/cmd/models/Post.php(300): PDOStatement->execute()
+#1 /home/odinlm3h/public_html/API/cmd/lessonname.php(21): Post->lessonname('Classification ...')
+#2 {main}
+  thrown in /home/odinlm3h/public_html/API/cmd/models/Post.php on line 300
+[27-May-2019 06:41:10 Etc/GMT] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '4' at line 1 in /home/odinlm3h/public_html/API/cmd/models/Post.php:313
+Stack trace:
+#0 /home/odinlm3h/public_html/API/cmd/models/Post.php(313): PDOStatement->execute()
+#1 /home/odinlm3h/public_html/API/cmd/levelname.php(21): Post->levelname('Level 4')
+#2 {main}
+  thrown in /home/odinlm3h/public_html/API/cmd/models/Post.php on line 313
+[27-May-2019 06:41:10 Etc/GMT] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'EG05' in 'where clause' in /home/odinlm3h/public_html/API/cmd/models/Post.php:169
+Stack trace:
+#0 /home/odinlm3h/public_html/API/cmd/models/Post.php(169): PDOStatement->execute()
+#1 /home/odinlm3h/public_html/API/cmd/topic.php(21): Post->topicname('EG05')
+#2 {main}
+  thrown in /home/odinlm3h/public_html/API/cmd/models/Post.php on line 169
+[27-May-2019 06:41:10 Etc/GMT] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'Types - Lesson' at line 1 in /home/odinlm3h/public_html/API/cmd/models/Post.php:300
+Stack trace:
+#0 /home/odinlm3h/public_html/API/cmd/models/Post.php(300): PDOStatement->execute()
+#1 /home/odinlm3h/public_html/API/cmd/lessonname.php(21): Post->lessonname('Verb Types - Le...')
+#2 {main}
+  thrown in /home/odinlm3h/public_html/API/cmd/models/Post.php on line 300
+[27-May-2019 06:41:10 Etc/GMT] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '4' at line 1 in /home/odinlm3h/public_html/API/cmd/models/Post.php:313
+Stack trace:
+#0 /home/odinlm3h/public_html/API/cmd/models/Post.php(313): PDOStatement->execute()
+#1 /home/odinlm3h/public_html/API/cmd/levelname.php(21): Post->levelname('Level 4')
+#2 {main}
+  thrown in /home/odinlm3h/public_html/API/cmd/models/Post.php on line 313
+[27-May-2019 06:41:10 Etc/GMT] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'QA05' in 'where clause' in /home/odinlm3h/public_html/API/cmd/models/Post.php:169
+Stack trace:
+#0 /home/odinlm3h/public_html/API/cmd/models/Post.php(169): PDOStatement->execute()
+#1 /home/odinlm3h/public_html/API/cmd/topic.php(21): Post->topicname('QA05')
+#2 {main}
+  thrown in /home/odinlm3h/public_html/API/cmd/models/Post.php on line 169
+[27-May-2019 06:41:10 Etc/GMT] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'Percentage' in 'where clause' in /home/odinlm3h/public_html/API/cmd/models/Post.php:300
+Stack trace:
+#0 /home/odinlm3h/public_html/API/cmd/models/Post.php(300): PDOStatement->execute()
+#1 /home/odinlm3h/public_html/API/cmd/lessonname.php(21): Post->lessonname('Percentage - Le...')
+#2 {main}
+  thrown in /home/odinlm3h/public_html/API/cmd/models/Post.php on line 300
+[27-May-2019 06:41:10 Etc/GMT] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '5' at line 1 in /home/odinlm3h/public_html/API/cmd/models/Post.php:313
+Stack trace:
+#0 /home/odinlm3h/public_html/API/cmd/models/Post.php(313): PDOStatement->execute()
+#1 /home/odinlm3h/public_html/API/cmd/levelname.php(21): Post->levelname('Level 5')
+#2 {main}
+  thrown in /home/odinlm3h/public_html/API/cmd/models/Post.php on line 313
+[27-May-2019 06:41:10 Etc/GMT] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'QA08' in 'where clause' in /home/odinlm3h/public_html/API/cmd/models/Post.php:169
+Stack trace:
+#0 /home/odinlm3h/public_html/API/cmd/models/Post.php(169): PDOStatement->execute()
+#1 /home/odinlm3h/public_html/API/cmd/topic.php(21): Post->topicname('QA08')
+#2 {main}
+  thrown in /home/odinlm3h/public_html/API/cmd/models/Post.php on line 169
+[27-May-2019 06:41:10 Etc/GMT] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'Partnership' in 'where clause' in /home/odinlm3h/public_html/API/cmd/models/Post.php:300
+Stack trace:
+#0 /home/odinlm3h/public_html/API/cmd/models/Post.php(300): PDOStatement->execute()
+#1 /home/odinlm3h/public_html/API/cmd/lessonname.php(21): Post->lessonname('Partnership and...')
+#2 {main}
+  thrown in /home/odinlm3h/public_html/API/cmd/models/Post.php on line 300
+[27-May-2019 06:41:10 Etc/GMT] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '4' at line 1 in /home/odinlm3h/public_html/API/cmd/models/Post.php:313
+Stack trace:
+#0 /home/odinlm3h/public_html/API/cmd/models/Post.php(313): PDOStatement->execute()
+#1 /home/odinlm3h/public_html/API/cmd/levelname.php(21): Post->levelname('Level 4')
+#2 {main}
+  thrown in /home/odinlm3h/public_html/API/cmd/models/Post.php on line 313
+[27-May-2019 06:41:10 Etc/GMT] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'LR03' in 'where clause' in /home/odinlm3h/public_html/API/cmd/models/Post.php:169
+Stack trace:
+#0 /home/odinlm3h/public_html/API/cmd/models/Post.php(169): PDOStatement->execute()
+#1 /home/odinlm3h/public_html/API/cmd/topic.php(21): Post->topicname('LR03')
+#2 {main}
+  thrown in /home/odinlm3h/public_html/API/cmd/models/Post.php on line 169
+[27-May-2019 06:41:10 Etc/GMT] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'Analogy' in 'where clause' in /home/odinlm3h/public_html/API/cmd/models/Post.php:300
+Stack trace:
+#0 /home/odinlm3h/public_html/API/cmd/models/Post.php(300): PDOStatement->execute()
+#1 /home/odinlm3h/public_html/API/cmd/lessonname.php(21): Post->lessonname('Analogy - Lesso...')
+#2 {main}
+  thrown in /home/odinlm3h/public_html/API/cmd/models/Post.php on line 300
+[27-May-2019 06:41:10 Etc/GMT] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '4' at line 1 in /home/odinlm3h/public_html/API/cmd/models/Post.php:313
+Stack trace:
+#0 /home/odinlm3h/public_html/API/cmd/models/Post.php(313): PDOStatement->execute()
+#1 /home/odinlm3h/public_html/API/cmd/levelname.php(21): Post->levelname('Level 4')
+#2 {main}
+  thrown in /home/odinlm3h/public_html/API/cmd/models/Post.php on line 313
+[27-May-2019 06:41:10 Etc/GMT] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'QA08' in 'where clause' in /home/odinlm3h/public_html/API/cmd/models/Post.php:169
+Stack trace:
+#0 /home/odinlm3h/public_html/API/cmd/models/Post.php(169): PDOStatement->execute()
+#1 /home/odinlm3h/public_html/API/cmd/topic.php(21): Post->topicname('QA08')
+#2 {main}
+  thrown in /home/odinlm3h/public_html/API/cmd/models/Post.php on line 169
+[27-May-2019 06:41:10 Etc/GMT] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'Partnership' in 'where clause' in /home/odinlm3h/public_html/API/cmd/models/Post.php:300
+Stack trace:
+#0 /home/odinlm3h/public_html/API/cmd/models/Post.php(300): PDOStatement->execute()
+#1 /home/odinlm3h/public_html/API/cmd/lessonname.php(21): Post->lessonname('Partnership and...')
+#2 {main}
+  thrown in /home/odinlm3h/public_html/API/cmd/models/Post.php on line 300
+[27-May-2019 06:41:10 Etc/GMT] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '5' at line 1 in /home/odinlm3h/public_html/API/cmd/models/Post.php:313
+Stack trace:
+#0 /home/odinlm3h/public_html/API/cmd/models/Post.php(313): PDOStatement->execute()
+#1 /home/odinlm3h/public_html/API/cmd/levelname.php(21): Post->levelname('Level 5')
+#2 {main}
+  thrown in /home/odinlm3h/public_html/API/cmd/models/Post.php on line 313
+[27-May-2019 06:41:10 Etc/GMT] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'EG04' in 'where clause' in /home/odinlm3h/public_html/API/cmd/models/Post.php:169
+Stack trace:
+#0 /home/odinlm3h/public_html/API/cmd/models/Post.php(169): PDOStatement->execute()
+#1 /home/odinlm3h/public_html/API/cmd/topic.php(21): Post->topicname('EG04')
+#2 {main}
+  thrown in /home/odinlm3h/public_html/API/cmd/models/Post.php on line 169
+[27-May-2019 06:41:10 Etc/GMT] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'Pronouns' in 'where clause' in /home/odinlm3h/public_html/API/cmd/models/Post.php:300
+Stack trace:
+#0 /home/odinlm3h/public_html/API/cmd/models/Post.php(300): PDOStatement->execute()
+#1 /home/odinlm3h/public_html/API/cmd/lessonname.php(21): Post->lessonname('Pronouns - Less...')
+#2 {main}
+  thrown in /home/odinlm3h/public_html/API/cmd/models/Post.php on line 300
+[27-May-2019 06:41:10 Etc/GMT] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '5' at line 1 in /home/odinlm3h/public_html/API/cmd/models/Post.php:313
+Stack trace:
+#0 /home/odinlm3h/public_html/API/cmd/models/Post.php(313): PDOStatement->execute()
+#1 /home/odinlm3h/public_html/API/cmd/levelname.php(21): Post->levelname('Level 5')
+#2 {main}
+  thrown in /home/odinlm3h/public_html/API/cmd/models/Post.php on line 313
+[27-May-2019 06:41:11 Etc/GMT] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'EG05' in 'where clause' in /home/odinlm3h/public_html/API/cmd/models/Post.php:169
+Stack trace:
+#0 /home/odinlm3h/public_html/API/cmd/models/Post.php(169): PDOStatement->execute()
+#1 /home/odinlm3h/public_html/API/cmd/topic.php(21): Post->topicname('EG05')
+#2 {main}
+  thrown in /home/odinlm3h/public_html/API/cmd/models/Post.php on line 169
+[27-May-2019 06:41:11 Etc/GMT] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'Types - Lesson' at line 1 in /home/odinlm3h/public_html/API/cmd/models/Post.php:300
+Stack trace:
+#0 /home/odinlm3h/public_html/API/cmd/models/Post.php(300): PDOStatement->execute()
+#1 /home/odinlm3h/public_html/API/cmd/lessonname.php(21): Post->lessonname('Verb Types - Le...')
+#2 {main}
+  thrown in /home/odinlm3h/public_html/API/cmd/models/Post.php on line 300
+[27-May-2019 06:41:11 Etc/GMT] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '4' at line 1 in /home/odinlm3h/public_html/API/cmd/models/Post.php:313
+Stack trace:
+#0 /home/odinlm3h/public_html/API/cmd/models/Post.php(313): PDOStatement->execute()
+#1 /home/odinlm3h/public_html/API/cmd/levelname.php(21): Post->levelname('Level 4')
+#2 {main}
+  thrown in /home/odinlm3h/public_html/API/cmd/models/Post.php on line 313
+[27-May-2019 06:41:11 Etc/GMT] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'QA08' in 'where clause' in /home/odinlm3h/public_html/API/cmd/models/Post.php:169
+Stack trace:
+#0 /home/odinlm3h/public_html/API/cmd/models/Post.php(169): PDOStatement->execute()
+#1 /home/odinlm3h/public_html/API/cmd/topic.php(21): Post->topicname('QA08')
+#2 {main}
+  thrown in /home/odinlm3h/public_html/API/cmd/models/Post.php on line 169
+[27-May-2019 06:41:11 Etc/GMT] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'Partnership' in 'where clause' in /home/odinlm3h/public_html/API/cmd/models/Post.php:300
+Stack trace:
+#0 /home/odinlm3h/public_html/API/cmd/models/Post.php(300): PDOStatement->execute()
+#1 /home/odinlm3h/public_html/API/cmd/lessonname.php(21): Post->lessonname('Partnership and...')
+#2 {main}
+  thrown in /home/odinlm3h/public_html/API/cmd/models/Post.php on line 300
+[27-May-2019 06:41:11 Etc/GMT] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '5' at line 1 in /home/odinlm3h/public_html/API/cmd/models/Post.php:313
+Stack trace:
+#0 /home/odinlm3h/public_html/API/cmd/models/Post.php(313): PDOStatement->execute()
+#1 /home/odinlm3h/public_html/API/cmd/levelname.php(21): Post->levelname('Level 5')
+#2 {main}
+  thrown in /home/odinlm3h/public_html/API/cmd/models/Post.php on line 313
+[27-May-2019 06:41:11 Etc/GMT] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'QA09' in 'where clause' in /home/odinlm3h/public_html/API/cmd/models/Post.php:169
+Stack trace:
+#0 /home/odinlm3h/public_html/API/cmd/models/Post.php(169): PDOStatement->execute()
+#1 /home/odinlm3h/public_html/API/cmd/topic.php(21): Post->topicname('QA09')
+#2 {main}
+  thrown in /home/odinlm3h/public_html/API/cmd/models/Post.php on line 169
+[27-May-2019 06:41:11 Etc/GMT] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'Rule - Lesson' at line 1 in /home/odinlm3h/public_html/API/cmd/models/Post.php:300
+Stack trace:
+#0 /home/odinlm3h/public_html/API/cmd/models/Post.php(300): PDOStatement->execute()
+#1 /home/odinlm3h/public_html/API/cmd/lessonname.php(21): Post->lessonname('Chain Rule - Le...')
+#2 {main}
+  thrown in /home/odinlm3h/public_html/API/cmd/models/Post.php on line 300
+[27-May-2019 06:41:11 Etc/GMT] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '5' at line 1 in /home/odinlm3h/public_html/API/cmd/models/Post.php:313
+Stack trace:
+#0 /home/odinlm3h/public_html/API/cmd/models/Post.php(313): PDOStatement->execute()
+#1 /home/odinlm3h/public_html/API/cmd/levelname.php(21): Post->levelname('Level 5')
+#2 {main}
+  thrown in /home/odinlm3h/public_html/API/cmd/models/Post.php on line 313
+[27-May-2019 08:13:54 Etc/GMT] PHP Notice:  Undefined index: cat_val in /home/odinlm3h/public_html/API/cmd/getpracticequiz.php on line 18
+[27-May-2019 08:13:54 Etc/GMT] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'ORDER BY code DESC' at line 1 in /home/odinlm3h/public_html/API/cmd/models/Post.php:76
+Stack trace:
+#0 /home/odinlm3h/public_html/API/cmd/models/Post.php(76): PDOStatement->execute()
+#1 /home/odinlm3h/public_html/API/cmd/getpracticequiz.php(22): Post->lesson1(NULL)
+#2 {main}
+  thrown in /home/odinlm3h/public_html/API/cmd/models/Post.php on line 76
+[27-May-2019 08:19:59 Etc/GMT] PHP Notice:  Undefined index: cat_val in /home/odinlm3h/public_html/API/cmd/getpracticequiz.php on line 18
+[27-May-2019 08:19:59 Etc/GMT] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'ORDER BY code DESC' at line 1 in /home/odinlm3h/public_html/API/cmd/models/Post.php:76
+Stack trace:
+#0 /home/odinlm3h/public_html/API/cmd/models/Post.php(76): PDOStatement->execute()
+#1 /home/odinlm3h/public_html/API/cmd/getpracticequiz.php(22): Post->lesson1(NULL)
+#2 {main}
+  thrown in /home/odinlm3h/public_html/API/cmd/models/Post.php on line 76
+[27-May-2019 08:21:19 Etc/GMT] PHP Notice:  Undefined index: cat_val in /home/odinlm3h/public_html/API/cmd/getpracticequiz.php on line 18
+[27-May-2019 08:21:19 Etc/GMT] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'ORDER BY code DESC' at line 1 in /home/odinlm3h/public_html/API/cmd/models/Post.php:76
+Stack trace:
+#0 /home/odinlm3h/public_html/API/cmd/models/Post.php(76): PDOStatement->execute()
+#1 /home/odinlm3h/public_html/API/cmd/getpracticequiz.php(22): Post->lesson1(NULL)
+#2 {main}
+  thrown in /home/odinlm3h/public_html/API/cmd/models/Post.php on line 76
+[27-May-2019 08:21:21 Etc/GMT] PHP Notice:  Undefined index: cat_val in /home/odinlm3h/public_html/API/cmd/getpracticequiz.php on line 18
+[27-May-2019 08:21:21 Etc/GMT] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'ORDER BY code DESC' at line 1 in /home/odinlm3h/public_html/API/cmd/models/Post.php:76
+Stack trace:
+#0 /home/odinlm3h/public_html/API/cmd/models/Post.php(76): PDOStatement->execute()
+#1 /home/odinlm3h/public_html/API/cmd/getpracticequiz.php(22): Post->lesson1(NULL)
+#2 {main}
+  thrown in /home/odinlm3h/public_html/API/cmd/models/Post.php on line 76
+[27-May-2019 08:33:12 Etc/GMT] PHP Notice:  Undefined index: cat_val in /home/odinlm3h/public_html/API/cmd/getpracticequiz.php on line 18
+[27-May-2019 08:33:12 Etc/GMT] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'ORDER BY code DESC' at line 1 in /home/odinlm3h/public_html/API/cmd/models/Post.php:76
+Stack trace:
+#0 /home/odinlm3h/public_html/API/cmd/models/Post.php(76): PDOStatement->execute()
+#1 /home/odinlm3h/public_html/API/cmd/getpracticequiz.php(22): Post->lesson1(NULL)
+#2 {main}
+  thrown in /home/odinlm3h/public_html/API/cmd/models/Post.php on line 76
+[27-May-2019 08:33:13 Etc/GMT] PHP Notice:  Undefined index: cat_val in /home/odinlm3h/public_html/API/cmd/getpracticequiz.php on line 18
+[27-May-2019 08:33:13 Etc/GMT] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'ORDER BY code DESC' at line 1 in /home/odinlm3h/public_html/API/cmd/models/Post.php:76
+Stack trace:
+#0 /home/odinlm3h/public_html/API/cmd/models/Post.php(76): PDOStatement->execute()
+#1 /home/odinlm3h/public_html/API/cmd/getpracticequiz.php(22): Post->lesson1(NULL)
+#2 {main}
+  thrown in /home/odinlm3h/public_html/API/cmd/models/Post.php on line 76
+[27-May-2019 08:33:13 Etc/GMT] PHP Notice:  Undefined index: cat_val in /home/odinlm3h/public_html/API/cmd/getpracticequiz.php on line 18
+[27-May-2019 08:33:13 Etc/GMT] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'ORDER BY code DESC' at line 1 in /home/odinlm3h/public_html/API/cmd/models/Post.php:76
+Stack trace:
+#0 /home/odinlm3h/public_html/API/cmd/models/Post.php(76): PDOStatement->execute()
+#1 /home/odinlm3h/public_html/API/cmd/getpracticequiz.php(22): Post->lesson1(NULL)
+#2 {main}
+  thrown in /home/odinlm3h/public_html/API/cmd/models/Post.php on line 76
+[27-May-2019 08:33:14 Etc/GMT] PHP Notice:  Undefined index: cat_val in /home/odinlm3h/public_html/API/cmd/getpracticequiz.php on line 18
+[27-May-2019 08:33:14 Etc/GMT] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'ORDER BY code DESC' at line 1 in /home/odinlm3h/public_html/API/cmd/models/Post.php:76
+Stack trace:
+#0 /home/odinlm3h/public_html/API/cmd/models/Post.php(76): PDOStatement->execute()
+#1 /home/odinlm3h/public_html/API/cmd/getpracticequiz.php(22): Post->lesson1(NULL)
+#2 {main}
+  thrown in /home/odinlm3h/public_html/API/cmd/models/Post.php on line 76
+[27-May-2019 08:33:15 Etc/GMT] PHP Notice:  Undefined index: cat_val in /home/odinlm3h/public_html/API/cmd/getpracticequiz.php on line 18
+[27-May-2019 08:33:15 Etc/GMT] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'ORDER BY code DESC' at line 1 in /home/odinlm3h/public_html/API/cmd/models/Post.php:76
+Stack trace:
+#0 /home/odinlm3h/public_html/API/cmd/models/Post.php(76): PDOStatement->execute()
+#1 /home/odinlm3h/public_html/API/cmd/getpracticequiz.php(22): Post->lesson1(NULL)
+#2 {main}
+  thrown in /home/odinlm3h/public_html/API/cmd/models/Post.php on line 76
+[27-May-2019 08:33:15 Etc/GMT] PHP Notice:  Undefined index: cat_val in /home/odinlm3h/public_html/API/cmd/getpracticequiz.php on line 18
+[27-May-2019 08:33:15 Etc/GMT] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'ORDER BY code DESC' at line 1 in /home/odinlm3h/public_html/API/cmd/models/Post.php:76
+Stack trace:
+#0 /home/odinlm3h/public_html/API/cmd/models/Post.php(76): PDOStatement->execute()
+#1 /home/odinlm3h/public_html/API/cmd/getpracticequiz.php(22): Post->lesson1(NULL)
+#2 {main}
+  thrown in /home/odinlm3h/public_html/API/cmd/models/Post.php on line 76
+[27-May-2019 08:33:16 Etc/GMT] PHP Notice:  Undefined index: cat_val in /home/odinlm3h/public_html/API/cmd/getpracticequiz.php on line 18
+[27-May-2019 08:33:16 Etc/GMT] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'ORDER BY code DESC' at line 1 in /home/odinlm3h/public_html/API/cmd/models/Post.php:76
+Stack trace:
+#0 /home/odinlm3h/public_html/API/cmd/models/Post.php(76): PDOStatement->execute()
+#1 /home/odinlm3h/public_html/API/cmd/getpracticequiz.php(22): Post->lesson1(NULL)
+#2 {main}
+  thrown in /home/odinlm3h/public_html/API/cmd/models/Post.php on line 76
+[27-May-2019 08:33:21 Etc/GMT] PHP Notice:  Undefined index: cat_val in /home/odinlm3h/public_html/API/cmd/getpracticequiz.php on line 18
+[27-May-2019 08:33:21 Etc/GMT] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'ORDER BY code DESC' at line 1 in /home/odinlm3h/public_html/API/cmd/models/Post.php:76
+Stack trace:
+#0 /home/odinlm3h/public_html/API/cmd/models/Post.php(76): PDOStatement->execute()
+#1 /home/odinlm3h/public_html/API/cmd/getpracticequiz.php(22): Post->lesson1(NULL)
+#2 {main}
+  thrown in /home/odinlm3h/public_html/API/cmd/models/Post.php on line 76
+[27-May-2019 08:34:14 Etc/GMT] PHP Notice:  Undefined index: cat_val in /home/odinlm3h/public_html/API/cmd/getpracticequiz.php on line 18
+[27-May-2019 08:34:14 Etc/GMT] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'ORDER BY code DESC' at line 1 in /home/odinlm3h/public_html/API/cmd/models/Post.php:76
+Stack trace:
+#0 /home/odinlm3h/public_html/API/cmd/models/Post.php(76): PDOStatement->execute()
+#1 /home/odinlm3h/public_html/API/cmd/getpracticequiz.php(22): Post->lesson1(NULL)
+#2 {main}
+  thrown in /home/odinlm3h/public_html/API/cmd/models/Post.php on line 76
+[27-May-2019 08:34:21 Etc/GMT] PHP Notice:  Undefined index: cat_val in /home/odinlm3h/public_html/API/cmd/getpracticequiz.php on line 18
+[27-May-2019 08:34:21 Etc/GMT] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'ORDER BY code DESC' at line 1 in /home/odinlm3h/public_html/API/cmd/models/Post.php:76
+Stack trace:
+#0 /home/odinlm3h/public_html/API/cmd/models/Post.php(76): PDOStatement->execute()
+#1 /home/odinlm3h/public_html/API/cmd/getpracticequiz.php(22): Post->lesson1(NULL)
+#2 {main}
+  thrown in /home/odinlm3h/public_html/API/cmd/models/Post.php on line 76
+[27-May-2019 08:35:55 Etc/GMT] PHP Notice:  Undefined index: cat_val in /home/odinlm3h/public_html/API/cmd/getpracticequiz.php on line 18
+[27-May-2019 08:35:55 Etc/GMT] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'ORDER BY code DESC' at line 1 in /home/odinlm3h/public_html/API/cmd/models/Post.php:76
+Stack trace:
+#0 /home/odinlm3h/public_html/API/cmd/models/Post.php(76): PDOStatement->execute()
+#1 /home/odinlm3h/public_html/API/cmd/getpracticequiz.php(22): Post->lesson1(NULL)
+#2 {main}
+  thrown in /home/odinlm3h/public_html/API/cmd/models/Post.php on line 76
+[27-May-2019 08:35:56 Etc/GMT] PHP Notice:  Undefined index: cat_val in /home/odinlm3h/public_html/API/cmd/getpracticequiz.php on line 18
+[27-May-2019 08:35:56 Etc/GMT] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'ORDER BY code DESC' at line 1 in /home/odinlm3h/public_html/API/cmd/models/Post.php:76
+Stack trace:
+#0 /home/odinlm3h/public_html/API/cmd/models/Post.php(76): PDOStatement->execute()
+#1 /home/odinlm3h/public_html/API/cmd/getpracticequiz.php(22): Post->lesson1(NULL)
+#2 {main}
+  thrown in /home/odinlm3h/public_html/API/cmd/models/Post.php on line 76
+[27-May-2019 08:36:47 Etc/GMT] PHP Notice:  Undefined index: cat_val in /home/odinlm3h/public_html/API/cmd/getpracticequiz.php on line 18
+[27-May-2019 08:36:47 Etc/GMT] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'ORDER BY code DESC' at line 1 in /home/odinlm3h/public_html/API/cmd/models/Post.php:76
+Stack trace:
+#0 /home/odinlm3h/public_html/API/cmd/models/Post.php(76): PDOStatement->execute()
+#1 /home/odinlm3h/public_html/API/cmd/getpracticequiz.php(22): Post->lesson1(NULL)
+#2 {main}
+  thrown in /home/odinlm3h/public_html/API/cmd/models/Post.php on line 76
+[27-May-2019 08:41:28 Etc/GMT] PHP Notice:  Undefined index: cat_val in /home/odinlm3h/public_html/API/cmd/getpracticequiz.php on line 18
+[27-May-2019 08:41:28 Etc/GMT] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'ORDER BY code DESC' at line 1 in /home/odinlm3h/public_html/API/cmd/models/Post.php:76
+Stack trace:
+#0 /home/odinlm3h/public_html/API/cmd/models/Post.php(76): PDOStatement->execute()
+#1 /home/odinlm3h/public_html/API/cmd/getpracticequiz.php(22): Post->lesson1(NULL)
+#2 {main}
+  thrown in /home/odinlm3h/public_html/API/cmd/models/Post.php on line 76
+[27-May-2019 08:41:29 Etc/GMT] PHP Notice:  Undefined index: cat_val in /home/odinlm3h/public_html/API/cmd/getpracticequiz.php on line 18
+[27-May-2019 08:41:29 Etc/GMT] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'ORDER BY code DESC' at line 1 in /home/odinlm3h/public_html/API/cmd/models/Post.php:76
+Stack trace:
+#0 /home/odinlm3h/public_html/API/cmd/models/Post.php(76): PDOStatement->execute()
+#1 /home/odinlm3h/public_html/API/cmd/getpracticequiz.php(22): Post->lesson1(NULL)
+#2 {main}
+  thrown in /home/odinlm3h/public_html/API/cmd/models/Post.php on line 76
+[27-May-2019 08:41:30 Etc/GMT] PHP Notice:  Undefined index: cat_val in /home/odinlm3h/public_html/API/cmd/getpracticequiz.php on line 18
+[27-May-2019 08:41:30 Etc/GMT] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'ORDER BY code DESC' at line 1 in /home/odinlm3h/public_html/API/cmd/models/Post.php:76
+Stack trace:
+#0 /home/odinlm3h/public_html/API/cmd/models/Post.php(76): PDOStatement->execute()
+#1 /home/odinlm3h/public_html/API/cmd/getpracticequiz.php(22): Post->lesson1(NULL)
+#2 {main}
+  thrown in /home/odinlm3h/public_html/API/cmd/models/Post.php on line 76
+[27-May-2019 08:41:30 Etc/GMT] PHP Notice:  Undefined index: cat_val in /home/odinlm3h/public_html/API/cmd/getpracticequiz.php on line 18
+[27-May-2019 08:41:30 Etc/GMT] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'ORDER BY code DESC' at line 1 in /home/odinlm3h/public_html/API/cmd/models/Post.php:76
+Stack trace:
+#0 /home/odinlm3h/public_html/API/cmd/models/Post.php(76): PDOStatement->execute()
+#1 /home/odinlm3h/public_html/API/cmd/getpracticequiz.php(22): Post->lesson1(NULL)
+#2 {main}
+  thrown in /home/odinlm3h/public_html/API/cmd/models/Post.php on line 76
+[27-May-2019 10:24:25 Etc/GMT] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '22,12  ORDER BY code DESC' at line 1 in /home/odinlm3h/public_html/API/cmd/models/Post.php:76
+Stack trace:
+#0 /home/odinlm3h/public_html/API/cmd/models/Post.php(76): PDOStatement->execute()
+#1 /home/odinlm3h/public_html/API/cmd/getpracticequiz.php(22): Post->lesson1('11,22,12')
+#2 {main}
+  thrown in /home/odinlm3h/public_html/API/cmd/models/Post.php on line 76
+[27-May-2019 11:03:25 Etc/GMT] PHP Notice:  Undefined index: topiccode in /home/odinlm3h/public_html/API/cmd/getpracticeforscore.php on line 18
+[27-May-2019 11:06:09 Etc/GMT] PHP Notice:  Undefined index: topiccode in /home/odinlm3h/public_html/API/cmd/getpracticeforscore.php on line 18
+[27-May-2019 11:06:42 Etc/GMT] PHP Notice:  Undefined index: topiccode in /home/odinlm3h/public_html/API/cmd/getpracticeforscore.php on line 18
+[27-May-2019 11:11:07 Etc/GMT] PHP Warning:  implode(): Invalid arguments passed in /home/odinlm3h/public_html/API/cmd/models/Post.php on line 71
+[27-May-2019 11:11:35 Etc/GMT] PHP Warning:  implode(): Invalid arguments passed in /home/odinlm3h/public_html/API/cmd/models/Post.php on line 71
+[27-May-2019 11:14:01 Etc/GMT] PHP Warning:  implode(): Invalid arguments passed in /home/odinlm3h/public_html/API/cmd/models/Post.php on line 71
+[27-May-2019 11:20:41 Etc/GMT] PHP Notice:  Trying to get property of non-object in /home/odinlm3h/public_html/API/cmd/getpracticeforscore.php on line 24
+[27-May-2019 11:20:41 Etc/GMT] PHP Notice:  Undefined variable: result in /home/odinlm3h/public_html/API/cmd/models/Post.php on line 78
+[27-May-2019 11:21:16 Etc/GMT] PHP Notice:  Trying to get property of non-object in /home/odinlm3h/public_html/API/cmd/getpracticeforscore.php on line 24
+[27-May-2019 11:21:16 Etc/GMT] PHP Notice:  Undefined variable: result in /home/odinlm3h/public_html/API/cmd/models/Post.php on line 79
+[27-May-2019 11:21:25 Etc/GMT] PHP Notice:  Trying to get property of non-object in /home/odinlm3h/public_html/API/cmd/getpracticeforscore.php on line 24
+[27-May-2019 11:21:25 Etc/GMT] PHP Notice:  Undefined variable: result in /home/odinlm3h/public_html/API/cmd/models/Post.php on line 79
+[27-May-2019 11:21:58 Etc/GMT] PHP Notice:  Trying to get property of non-object in /home/odinlm3h/public_html/API/cmd/getpracticeforscore.php on line 24
+[27-May-2019 11:23:14 Etc/GMT] PHP Notice:  Trying to get property of non-object in /home/odinlm3h/public_html/API/cmd/getpracticeforscore.php on line 24
+[27-May-2019 11:27:14 Etc/GMT] PHP Notice:  Trying to get property of non-object in /home/odinlm3h/public_html/API/cmd/getpracticeforscore.php on line 24
+[27-May-2019 11:30:44 Etc/GMT] PHP Notice:  Undefined variable: topic_id in /home/odinlm3h/public_html/API/cmd/getpracticeforscore.php on line 57
+[27-May-2019 11:30:44 Etc/GMT] PHP Notice:  Undefined variable: topic_id in /home/odinlm3h/public_html/API/cmd/getpracticeforscore.php on line 57
+[27-May-2019 11:30:44 Etc/GMT] PHP Notice:  Undefined variable: topic_id in /home/odinlm3h/public_html/API/cmd/getpracticeforscore.php on line 57
+[27-May-2019 11:32:11 Etc/GMT] PHP Notice:  Undefined variable: topic_id in /home/odinlm3h/public_html/API/cmd/getpracticeforscore.php on line 57
+[27-May-2019 11:32:11 Etc/GMT] PHP Notice:  Undefined variable: topic_id in /home/odinlm3h/public_html/API/cmd/getpracticeforscore.php on line 57
+[27-May-2019 11:32:11 Etc/GMT] PHP Notice:  Undefined variable: topic_id in /home/odinlm3h/public_html/API/cmd/getpracticeforscore.php on line 57
+[27-May-2019 11:33:00 Etc/GMT] PHP Notice:  Undefined variable: topic_id in /home/odinlm3h/public_html/API/cmd/getpracticeforscore.php on line 57
+[27-May-2019 11:33:00 Etc/GMT] PHP Notice:  Undefined variable: topic_id in /home/odinlm3h/public_html/API/cmd/getpracticeforscore.php on line 57
+[27-May-2019 11:33:00 Etc/GMT] PHP Notice:  Undefined variable: topic_id in /home/odinlm3h/public_html/API/cmd/getpracticeforscore.php on line 57
+[27-May-2019 11:33:01 Etc/GMT] PHP Notice:  Undefined variable: topic_id in /home/odinlm3h/public_html/API/cmd/getpracticeforscore.php on line 57
+[27-May-2019 11:33:01 Etc/GMT] PHP Notice:  Undefined variable: topic_id in /home/odinlm3h/public_html/API/cmd/getpracticeforscore.php on line 57
+[27-May-2019 11:33:01 Etc/GMT] PHP Notice:  Undefined variable: topic_id in /home/odinlm3h/public_html/API/cmd/getpracticeforscore.php on line 57
+[27-May-2019 11:33:35 Etc/GMT] PHP Notice:  Undefined variable: topic_id in /home/odinlm3h/public_html/API/cmd/getpracticeforscore.php on line 57
+[27-May-2019 11:33:35 Etc/GMT] PHP Notice:  Undefined variable: topic_id in /home/odinlm3h/public_html/API/cmd/getpracticeforscore.php on line 57
+[27-May-2019 11:33:35 Etc/GMT] PHP Notice:  Undefined variable: topic_id in /home/odinlm3h/public_html/API/cmd/getpracticeforscore.php on line 57
+[27-May-2019 11:34:18 Etc/GMT] PHP Notice:  Undefined variable: topic_id in /home/odinlm3h/public_html/API/cmd/getpracticeforscore.php on line 57
+[27-May-2019 11:34:18 Etc/GMT] PHP Notice:  Undefined variable: topic_id in /home/odinlm3h/public_html/API/cmd/getpracticeforscore.php on line 57
+[27-May-2019 11:34:18 Etc/GMT] PHP Notice:  Undefined variable: topic_id in /home/odinlm3h/public_html/API/cmd/getpracticeforscore.php on line 57
+[27-May-2019 11:35:20 Etc/GMT] PHP Notice:  Undefined variable: topic_id in /home/odinlm3h/public_html/API/cmd/getpracticeforscore.php on line 57
+[27-May-2019 11:35:20 Etc/GMT] PHP Notice:  Undefined variable: topic_id in /home/odinlm3h/public_html/API/cmd/getpracticeforscore.php on line 57
+[27-May-2019 11:35:20 Etc/GMT] PHP Notice:  Undefined variable: topic_id in /home/odinlm3h/public_html/API/cmd/getpracticeforscore.php on line 57
+[27-May-2019 11:35:24 Etc/GMT] PHP Notice:  Undefined variable: topic_id in /home/odinlm3h/public_html/API/cmd/getpracticeforscore.php on line 57
+[27-May-2019 11:35:24 Etc/GMT] PHP Notice:  Undefined variable: topic_id in /home/odinlm3h/public_html/API/cmd/getpracticeforscore.php on line 57
+[27-May-2019 11:35:24 Etc/GMT] PHP Notice:  Undefined variable: topic_id in /home/odinlm3h/public_html/API/cmd/getpracticeforscore.php on line 57
+[28-May-2019 05:10:30 Etc/GMT] PHP Notice:  Undefined property: stdClass::$lessonid in /home/odinlm3h/public_html/API/cmd/getpracticefinal.php on line 22
+[28-May-2019 05:11:01 Etc/GMT] PHP Notice:  Undefined property: stdClass::$lessonid in /home/odinlm3h/public_html/API/cmd/getpracticefinal.php on line 22
+[28-May-2019 05:11:30 Etc/GMT] PHP Notice:  Undefined property: stdClass::$lessonid in /home/odinlm3h/public_html/API/cmd/getpracticefinal.php on line 22
+[07-Jun-2019 09:46:35 Etc/GMT] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'ORDER BY id DESC' at line 1 in /home/odinlm3h/public_html/API/cmd/models/Post.php:372
+Stack trace:
+#0 /home/odinlm3h/public_html/API/cmd/models/Post.php(372): PDOStatement->execute()
+#1 /home/odinlm3h/public_html/API/cmd/level.php(21): Post->level('')
+#2 {main}
+  thrown in /home/odinlm3h/public_html/API/cmd/models/Post.php on line 372

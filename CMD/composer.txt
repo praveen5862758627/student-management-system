@@ -1,0 +1,11 @@
+install composer:
+php -r "readfile('https://getcomposer.org/installer');" | php
+
+
+install cakephp
+php composer.phar create-project --prefer-dist cakephp/app cakeappnew
+
+
+install files
+
+bin\cake bake all users(table name)

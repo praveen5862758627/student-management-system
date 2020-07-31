@@ -1,0 +1,304 @@
+﻿{
+  "category": null,
+  "level": null,
+  "contenttype": null,
+  "question": [
+    {
+      "name": {
+        "text": "Find 1152"
+      },
+      "questiontext": {
+        "text": "<font size=\"4\">Find 115<sup>2</sup></font><br>"
+      },
+      "generalfeedback": {
+        "text": "<font size=\"4\">11 &times; 12 | 25<br>\n132 | 25<br>\n&there4; 115<sup>2</sup> = 13225</br>\n</p></font>"
+      },
+      "answer": [
+        {
+          "text": "13225",
+          "marks": "100"
+        },
+        {
+          "text": "13925",
+          "marks": "0"
+        },
+        {
+          "text": "14025",
+          "marks": "0"
+        },
+        {
+          "text": "13725",
+          "marks": "0"
+        },
+        {
+          "text": "12725",
+          "marks": "0"
+        }
+      ]
+    },
+    {
+      "name": {
+        "text": "Find 1252"
+      },
+      "questiontext": {
+        "text": "<font size=\"4\">Find 125<sup>2</sup></font><br>"
+      },
+      "generalfeedback": {
+        "text": "<font size=\"4\">12 &times; 13 | 25<br>\n156 | 25<br>\n&there4; 125<sup>2</sup> = 15625</br>\n</p></font>"
+      },
+      "answer": [
+        {
+          "text": "15625",
+          "marks": "100"
+        },
+        {
+          "text": "16325",
+          "marks": "0"
+        },
+        {
+          "text": "16425",
+          "marks": "0"
+        },
+        {
+          "text": "16125",
+          "marks": "0"
+        },
+        {
+          "text": "15125",
+          "marks": "0"
+        }
+      ]
+    },
+    {
+      "name": {
+        "text": "Find 1352"
+      },
+      "questiontext": {
+        "text": "<font size=\"4\">Find 135<sup>2</sup></font><br>"
+      },
+      "generalfeedback": {
+        "text": "<font size=\"4\">13 &times; 14 | 25<br>\n182 | 25<br>\n&there4; 135<sup>2</sup> = 18225</br>\n</p></font>"
+      },
+      "answer": [
+        {
+          "text": "18225",
+          "marks": "100"
+        },
+        {
+          "text": "18925",
+          "marks": "0"
+        },
+        {
+          "text": "19025",
+          "marks": "0"
+        },
+        {
+          "text": "18725",
+          "marks": "0"
+        },
+        {
+          "text": "17725",
+          "marks": "0"
+        }
+      ]
+    },
+    {
+      "name": {
+        "text": "Find 1452"
+      },
+      "questiontext": {
+        "text": "<font size=\"4\">Find 145<sup>2</sup></font><br>"
+      },
+      "generalfeedback": {
+        "text": "<font size=\"4\">14 &times; 15 | 25<br>\n210 | 25<br>\n&there4; 145<sup>2</sup> = 21025</br>\n</p></font>"
+      },
+      "answer": [
+        {
+          "text": "21025",
+          "marks": "100"
+        },
+        {
+          "text": "21725",
+          "marks": "0"
+        },
+        {
+          "text": "21825",
+          "marks": "0"
+        },
+        {
+          "text": "21525",
+          "marks": "0"
+        },
+        {
+          "text": "20525",
+          "marks": "0"
+        }
+      ]
+    },
+    {
+      "name": {
+        "text": "Find 1552"
+      },
+      "questiontext": {
+        "text": "<font size=\"4\">Find 155<sup>2</sup></font><br>"
+      },
+      "generalfeedback": {
+        "text": "<font size=\"4\">15 &times; 16 | 25<br>\n240 | 25<br>\n&there4; 155<sup>2</sup> = 24025</br>\n</p></font>"
+      },
+      "answer": [
+        {
+          "text": "24025",
+          "marks": "100"
+        },
+        {
+          "text": "24725",
+          "marks": "0"
+        },
+        {
+          "text": "24825",
+          "marks": "0"
+        },
+        {
+          "text": "24525",
+          "marks": "0"
+        },
+        {
+          "text": "23525",
+          "marks": "0"
+        }
+      ]
+    },
+    {
+      "name": {
+        "text": "Find 1652"
+      },
+      "questiontext": {
+        "text": "<font size=\"4\">Find 165<sup>2</sup></font><br>"
+      },
+      "generalfeedback": {
+        "text": "<font size=\"4\">16 &times; 17 | 25<br>\n272 | 25<br>\n&there4; 165<sup>2</sup> = 27225</br>\n</p></font>"
+      },
+      "answer": [
+        {
+          "text": "27225",
+          "marks": "100"
+        },
+        {
+          "text": "27925",
+          "marks": "0"
+        },
+        {
+          "text": "28025",
+          "marks": "0"
+        },
+        {
+          "text": "27725",
+          "marks": "0"
+        },
+        {
+          "text": "26725",
+          "marks": "0"
+        }
+      ]
+    },
+    {
+      "name": {
+        "text": "Find 1752"
+      },
+      "questiontext": {
+        "text": "<font size=\"4\">Find 175<sup>2</sup></font><br>"
+      },
+      "generalfeedback": {
+        "text": "<font size=\"4\">17 &times; 18 | 25<br>\n306 | 25<br>\n&there4; 175<sup>2</sup> = 30625</br>\n</p></font>"
+      },
+      "answer": [
+        {
+          "text": "30625",
+          "marks": "100"
+        },
+        {
+          "text": "31325",
+          "marks": "0"
+        },
+        {
+          "text": "31425",
+          "marks": "0"
+        },
+        {
+          "text": "31125",
+          "marks": "0"
+        },
+        {
+          "text": "30125",
+          "marks": "0"
+        }
+      ]
+    },
+    {
+      "name": {
+        "text": "Find 1852"
+      },
+      "questiontext": {
+        "text": "<font size=\"4\">Find 185<sup>2</sup></font><br>"
+      },
+      "generalfeedback": {
+        "text": "<font size=\"4\">18 &times; 19 | 25<br>\n342 | 25<br>\n&there4; 185<sup>2</sup> = 34225</br>\n</p></font>"
+      },
+      "answer": [
+        {
+          "text": "34225",
+          "marks": "100"
+        },
+        {
+          "text": "34925",
+          "marks": "0"
+        },
+        {
+          "text": "35025",
+          "marks": "0"
+        },
+        {
+          "text": "34725",
+          "marks": "0"
+        },
+        {
+          "text": "33725",
+          "marks": "0"
+        }
+      ]
+    },
+    {
+      "name": {
+        "text": "Find 1952"
+      },
+      "questiontext": {
+        "text": "<font size=\"4\">Find 195<sup>2</sup></font><br>"
+      },
+      "generalfeedback": {
+        "text": "<font size=\"4\">19 &times; 20 | 25<br>\n380 | 25<br>\n&there4; 195<sup>2</sup> = 38025</br>\n</p></font>"
+      },
+      "answer": [
+        {
+          "text": "38025",
+          "marks": "100"
+        },
+        {
+          "text": "38725",
+          "marks": "0"
+        },
+        {
+          "text": "38825",
+          "marks": "0"
+        },
+        {
+          "text": "38525",
+          "marks": "0"
+        },
+        {
+          "text": "37525",
+          "marks": "0"
+        }
+      ]
+    }
+  ]
+}

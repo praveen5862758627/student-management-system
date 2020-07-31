@@ -1,0 +1,123 @@
+{
+  "category": null,
+  "level": null,
+  "contenttype": null,
+  "question": [
+    {
+      "name": {
+        "text": "15CE1GQ206"
+      },
+      "questiontext": {
+        "text": "<br><img vspace=\"0\" hspace=\"0\" border=\"0\" src=\"http://docs.odinlearning.in/qimages/2015GATE/15CE1_img_5.png\">"
+      },
+      "generalfeedback": {
+        "text": ""
+      },
+      "answer": [
+        {
+          "text": "(A)",
+          "marks": " 100 "
+        },
+        {
+          "text": "(B)",
+          "marks": " 0 "
+        },
+        {
+          "text": "(C)",
+          "marks": " 0 "
+        },
+        {
+          "text": "(D)",
+          "marks": " 0 "
+        }
+      ]
+    },
+    {
+      "name": {
+        "text": "15CE1GQ207"
+      },
+      "questiontext": {
+        "text": "<br><img vspace=\"0\" hspace=\"0\" border=\"0\" src=\"http://docs.odinlearning.in/qimages/2015GATE/15CE1_img_6.png\">"
+      },
+      "generalfeedback": {
+        "text": ""
+      },
+      "answer": [
+        {
+          "text": "(A)",
+          "marks": " 0 "
+        },
+        {
+          "text": "(B)",
+          "marks": " 100 "
+        },
+        {
+          "text": "(C)",
+          "marks": " 0 "
+        },
+        {
+          "text": "(D)",
+          "marks": " 0 "
+        }
+      ]
+    },
+    {
+      "name": {
+        "text": "15CE1GQ209"
+      },
+      "questiontext": {
+        "text": "<br><img vspace=\"0\" hspace=\"0\" border=\"0\" src=\"http://docs.odinlearning.in/qimages/2015GATE/15CE1_img_8.png\">"
+      },
+      "generalfeedback": {
+        "text": ""
+      },
+      "answer": [
+        {
+          "text": "(A)",
+          "marks": " 0 "
+        },
+        {
+          "text": "(B)",
+          "marks": " 100 "
+        },
+        {
+          "text": "(C)",
+          "marks": " 0 "
+        },
+        {
+          "text": "(D)",
+          "marks": " 0 "
+        }
+      ]
+    },
+    {
+      "name": {
+        "text": "15CE1GQ210"
+      },
+      "questiontext": {
+        "text": "<br><img vspace=\"0\" hspace=\"0\" border=\"0\" src=\"http://docs.odinlearning.in/qimages/2015GATE/15CE1_img_9.png\">"
+      },
+      "generalfeedback": {
+        "text": ""
+      },
+      "answer": [
+        {
+          "text": "(A)",
+          "marks": " 0 "
+        },
+        {
+          "text": "(B)",
+          "marks": " 100 "
+        },
+        {
+          "text": "(C)",
+          "marks": " 0 "
+        },
+        {
+          "text": "(D)",
+          "marks": " 0 "
+        }
+      ]
+    }
+  ]
+}

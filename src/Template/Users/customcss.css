@@ -1,0 +1,689 @@
+   
+   <style>
+   	.btn {
+		color:white !important;
+		background-color:orange !important;
+		
+	}
+
+	
+   </style>
+   	<style type="text/css">
+	
+
+
+		/*
+			In order to see how the BROWSER ZOOM affects the screen width, we're going to
+			change the background color / text color as the screen width changes.
+		*/
+		/*body {
+			background-color: #000000 ;
+			color: #ffffff ;
+		}*/
+		/*
+			As the screen dimensions get larger, the background of the screen will get
+			lighter. Then, as we ZOOM IN, and the dimensions get smaller, the background
+			of the screen should get darker.
+		*/
+		@media screen and ( min-width: 200px ) {
+			/*body {
+				background-color: #111111 ;
+			}*/
+		}
+		@media screen and ( min-width: 300px ) {
+			/*body {
+				background-color: #222222 ;
+			}*/
+			#bsdabvdsjnvfaf
+			{
+				    margin-top: 21px;
+			}
+		}
+		@media screen and ( min-width: 400px ) {
+			/*body {
+				background-color: #444444 ;
+			}*/
+		}
+		@media screen and ( min-width: 500px ) {
+			/*body {
+				background-color: #666666 ;
+			}*/
+		}
+		@media screen and ( min-width: 600px ) {
+			/*body {
+				background-color: #888888 ;
+			}*/
+		}
+		@media screen and ( min-width: 700px ) {
+			/*body {
+				background-color: #aaaaaa ;
+				color: #000000 ;
+			}*/
+		}
+		@media screen and ( min-width: 800px ) {
+			/*body {
+				background-color: #cccccc ;
+			}*/
+		}
+		@media screen and ( min-width: 900px ) {
+			/*body {
+				background-color: #dddddd ;
+			}*/
+		}
+		@media screen and ( min-width: 1000px ) {
+			/*body {
+				background-color: #ffffff ;
+			}*/
+			#scpredocview
+			{
+				margin-top: 7px;position: absolute;left: 250px;
+			}
+			#scoreananalidhdjd
+			{
+				position: absolute;left: 384px;top: 5px;
+			}
+			.modal-dialog
+    {
+	     width: 90% !important;
+		 right: -15px !important;
+    } 
+	#viewticledagtdopi,#loadcreatedmodal,#industrylisstopen , #openmodalcompany , #modaltargets ,#dispalytopoicslis ,#recommedtagets ,#lisofseelcte,#markscardmodalal,#lllpalalmo, #loadrepostfporst
+	{
+		  width: 80% !important;
+		 right: -15px !important;
+	}
+	#modalboxesfiorfilter,#listofomsps, #filteroption ,#eventcolorlegndl
+	{
+		 width: 40% !important;
+		 right: -15px !important;
+	}
+	#displaymenoysonprofile
+	{
+		width:65px;
+		display: block !important;
+	}
+#genderlistuserd
+	{
+		margin-left: -188px;
+		  //  margin-left: -20px;
+	}
+	
+	#acaddmicspsmndm
+	{
+		padding-left: 111px;
+	}
+	#curriculumvitrearesume
+	{
+		padding-left: 195px;
+	}
+	
+		}
+
+	</style>
+   <style>
+   
+ 
+
+@media screen and (min-width:993px) and (max-width:1560px) {
+	#scpredocview
+			{
+				margin-top: 7px;position: absolute;left: 250px;
+			}
+			#scoreananalidhdjd
+			{
+				position: absolute;left: 384px;top: 5px;
+			}
+	
+	#curriculumvitrearesume
+	{
+		padding-left: 195px;
+	}
+	.modal-dialog
+    {
+	     width: 90% !important;
+		 right: -15px !important;
+    } 
+	#viewticledagtdopi,#loadcreatedmodal,#industrylisstopen , #openmodalcompany , #modaltargets ,#dispalytopoicslis ,#recommedtagets ,#lisofseelcte,#markscardmodalal,#lllpalalmo, #loadrepostfporst
+	{
+		  width: 80% !important;
+		 right: -15px !important;
+	}
+	#modalboxesfiorfilter,#listofomsps, #filteroption ,#eventcolorlegndl
+	{
+		 width: 40% !important;
+		 right: -15px !important;
+	}
+	#displaymenoysonprofile
+	{
+		width:65px;
+		display: block !important;
+	}
+#genderlistuserd
+	{
+		margin-left: -188px;
+		  //  margin-left: -20px;
+	}
+	
+	#acaddmicspsmndm
+	{
+		padding-left: 111px;
+	}
+
+}
+ 
+ @media screen and (min-width:768px) and (max-width:992px) {
+	 #scpredocview
+			{
+				margin-top: 7px;position: absolute;left: 250px;
+			}
+			#scoreananalidhdjd
+			{
+				position: absolute;left: 384px;top: 5px;
+			}
+	 #curriculumvitrearesume
+	{
+		padding-left: 195px;
+	}
+	 #genderlistuserd
+	{
+		margin-left: -188px;
+		  //  margin-left: -20px;
+	}
+		 .modal-dialog
+    {
+	    width: 90% !important;
+		 right: -15px !important;
+    } 
+	#viewticledagtdopi,#loadcreatedmodal,#industrylisstopen , #openmodalcompany , #modaltargets ,#dispalytopoicslis ,#recommedtagets ,#lisofseelcte,#markscardmodalal,#lllpalalmo, #loadrepostfporst
+	{
+		  width: 80% !important;
+		 right: -15px !important;
+	}
+	#modalboxesfiorfilter,#listofomsps, #filteroption ,#eventcolorlegndl
+	{
+		 width: 40% !important;
+		 right: -15px !important;
+	}
+	#displaymenoysonprofile
+	{
+		width:65px;
+		display: block !important;
+	}
+	#acaddmicspsmndm
+	{
+		padding-left: 111px;
+	}
+	
+}
+@media screen and (min-width:320px) and (max-width:500px) {
+	#bsdabvdsjnvfaf
+			{
+				    margin-top: 0px;
+			}
+	#scpredocview
+			{
+				margin-top: 7px;position: absolute;left: 318px;
+			}
+			#scoreananalidhdjd
+			{
+				position: absolute;left: 131px;top: 5px;
+			}
+	
+	
+	#stepgetimhjbdmc
+	{
+		display:none;
+	}
+	#gettingstartedright
+	{
+		display:none;
+	}
+	.form-check-inline
+	{
+		margin-right: 0;
+	}
+	#genderlistuserd
+	{
+		//margin-left: -188px;
+		    margin-left: -20px;
+	}
+	  
+	  .modal-dialog
+      {
+	     width: 100% !important;
+		 right: 0px !important;
+      }
+
+#lnadingusernamedisp
+{
+	margin-top: -35px;
+}	
+.dataTables_length
+{
+	margin-left: -119px;
+}
+.dataTables_filter
+{
+	margin-left: -77px;
+}
+
+#displaymenoysonprofile
+	{
+		width: 329px;
+    display: block !important;
+    margin-left: 0px;
+	}
+
+}
+  
+@media screen and (min-width:500px) and (max-width:767px) {
+	#scpredocview
+			{
+				margin-top: 7px;position: absolute;left: 318px;
+			}
+			#scoreananalidhdjd
+			{
+				position: absolute;left: 131px;top: 5px;
+			}
+	#stepgetimhjbdmc
+	{
+		display:none;
+	}
+	#gettingstartedright
+	{
+		display:none;
+	}
+		.form-check-inline
+	{
+		margin-right: 0;
+	}
+	#genderlistuserd
+	{
+		//margin-left: -188px;
+		    margin-left: -20px;
+	}
+	
+	#displaymenoysonprofile
+	{
+		width: 329px;
+    display: block !important;
+    margin-left: 0px;
+	}
+	.modal-dialog
+    {
+	    width: 100% !important;
+		 right: 0px !important;
+    } 
+	#lnadingusernamedisp
+{
+	margin-top: -35px;
+}	
+.dataTables_length
+{
+	margin-left: -119px;
+}
+.dataTables_filter
+{
+	margin-left: -77px;
+}
+
+}
+
+/************************************************/
+
+/***************************************************/
+	 
+	 
+   #mytargetsstudentresults tr{
+	       text-align: left !important;
+   }
+   .dot {
+  height: 25px;
+  width: 25px;
+  background-color: green;
+  border-radius: 50%;
+  display: inline-block;
+      margin-left: 21px;
+}
+ .dot1 {
+  height: 25px;
+  width: 25px;
+  background-color: red;
+  border-radius: 50%;
+  display: inline-block;
+      margin-left: 21px;
+}
+   .modal.right.fade .modal-dialog {
+   // right: -15px !important;
+   }
+   .modal.right .modal-content {
+  
+   // overflow-y: hidden !important;
+}
+   #modulestablez a {
+    color: blue !important;
+    text-decoration: underline;
+}
+   #modulestablezaddon a {
+    color: blue !important;
+    text-decoration: underline;
+}
+
+  .table-remove a{
+	  color:white !important;
+  }
+	.pt-3-half {
+padding-top: 1.4rem;
+}
+   
+   .my-custom-scrollbar {
+position: relative;
+height: 200px;
+overflow: auto;
+}
+.table-wrapper-scroll-y {
+display: block;
+}
+.md-form textarea.md-textarea{
+	     padding: 0 0;
+}
+   
+   @media (min-width: 600px) {
+.navbar.scrolling-navbar {
+    transition: background 0.5s ease-in-out, padding 0.5s ease-in-out;
+    padding-top: 13px;
+    padding-bottom: 20px;
+}
+   }
+   
+   .side-nav .collapsible a
+   {
+	     
+    line-height: 70px !important;
+   }
+   
+   .side-nav .collapsible > li 
+	   {
+		       margin-top: -14px !important;
+		   }
+   
+   input[type=text].form-control.valid + label:after,
+input[type=text].form-control:focus.valid + label:after,
+input[type=text].form-control.invalid + label:after,
+input[type=text].form-control:focus.invalid + label:after,
+input[type=password].form-control.valid + label:after,
+input[type=password].form-control:focus.valid + label:after,
+input[type=password].form-control.invalid + label:after,
+input[type=password].form-control:focus.invalid + label:after {
+  top: 3.75rem !important;
+}
+
+span.field-icon {
+position: absolute;
+    display: inline-block;
+    cursor: pointer;
+    right: 1.5rem;
+    margin-top: -27px;
+  z-index: 2;
+}
+
+   
+table.dataTable thead .sorting:after,
+table.dataTable thead .sorting:before,
+table.dataTable thead .sorting_asc:after,
+table.dataTable thead .sorting_asc:before,
+table.dataTable thead .sorting_asc_disabled:after,
+table.dataTable thead .sorting_asc_disabled:before,
+table.dataTable thead .sorting_desc:after,
+table.dataTable thead .sorting_desc:before,
+table.dataTable thead .sorting_desc_disabled:after,
+table.dataTable thead .sorting_desc_disabled:before {
+  bottom: .5em;
+}
+
+
+
+
+.pagination .page-item.active .page-link {
+    box-shadow: 0 2px 5px 0 rgba(0, 0, 0, 0.16), 0 2px 10px 0 rgba(0, 0, 0, 0.12);
+    transition: all 0.2s linear;
+    border-radius: 0.125rem;
+    background-color: #4285f4;
+    color: #fff;
+}
+
+
+.icon-bar
+{
+z-index:10 !important;
+}
+#dataTables-example a{
+ color:blue !important; 
+ text-decoration:underline;
+}
+#examcompsconsolidated a{
+ color:blue !important;   
+  text-decoration:underline;
+}
+#ticketBook a{
+ color:blue !important;   
+  text-decoration:underline;
+}
+
+#learningmods a{
+ color:blue !important;   
+  text-decoration:underline;
+}
+
+#learningmods1 a{
+ color:blue !important;   
+  text-decoration:underline;
+}
+
+#learningmods2 a{
+ color:blue !important;   
+  text-decoration:underline;
+}
+
+table.dataTable thead .sorting_asc:after {
+    content: "" !important;
+	}
+	
+label {
+   
+    cursor: pointer !important;
+	   
+}
+
+#levelv select{
+display: none !important;
+}
+#scorev select{
+display: none !important;
+}
+#tdes select{
+display: none !important;
+}
+
+#d1 select{
+display: none !important;
+}
+#a1 select{
+display: none !important;
+}
+#a11 select{
+display: block !important;
+}
+
+.popover{
+    width:200px;
+    height:250px;    
+}
+.panel-body {
+  height: 250px; 
+     
+}
+
+
+
+ #calendar {
+   
+    margin: 0 auto;
+  }
+
+        .panel-resizable {
+            resize: both;
+          overflow: auto
+        }
+    
+	
+	div.dataTables_wrapper div.dataTables_length label{
+	line-height: 34px;
+    margin-right: 10px;
+	}
+	
+	.nav-link1{
+	background-color: #ffbb33 !important;
+	transition: all 0.4s;
+    border-radius: 2px;
+    color: #666666;
+    text-align: center;
+	box-shadow: 0 2px 5px 0 rgba(0, 0, 0, 0.16), 0 2px 10px 0 rgba(0, 0, 0, 0.12);
+    color: #fff;
+	display: block;
+    padding: .5rem 1rem;
+	}
+	.nav-link1.active
+	{
+	background-color: green !important;
+	
+	}
+	
+	.number-input.number-input{
+	    margin-bottom: 2px;
+	}
+	.holds-the-iframe {
+  background:url(<?= $this->Url->image("ajax-loading.gif"); ?>) center center no-repeat;
+      background-size: 250px;
+}
+
+	.holds-the-iframe22 {
+  background:url(<?= $this->Url->image("ajax-loading.gif"); ?>) center center no-repeat;
+      background-size: 250px;
+}
+	.holds-the-iframe222 {
+  background:url(<?= $this->Url->image("ajax-loading.gif"); ?>) center center no-repeat;
+      background-size: 250px;
+}
+
+.carousel-indicators{
+
+    position: relative !important;
+	margin-right: 0% !important;
+    margin-left: 0% !important;
+}
+.card  {
+    cursor: pointer;
+	}
+	
+	.carousel-inner {
+	    border: 1px solid #595A60;
+		    border-radius: 14px;
+
+		}
+		
+		.fixed-sn main {
+		margin-top: -76px;
+		}
+		
+		.modal-header{
+		    display: block;
+		}
+		#calendar {
+		    width: 100%;
+		}
+
+  .number-input input[type="number"] {
+  -webkit-appearance: textfield;
+  -moz-appearance: textfield;
+  appearance: textfield;
+}
+
+.number-input input[type=number]::-webkit-inner-spin-button,
+.number-input input[type=number]::-webkit-outer-spin-button {
+  -webkit-appearance: none;
+}
+
+.number-input {
+  margin-bottom: 3rem;
+}
+
+.number-input button {
+  -webkit-appearance: none;
+  background-color: transparent;
+  border: none;
+  align-items: center;
+  justify-content: center;
+  cursor: pointer;
+  margin: 0;
+  position: relative;
+}
+
+.number-input button:before,
+.number-input button:after {
+  display: inline-block;
+  position: absolute;
+  content: '';
+  height: 2px;
+  transform: translate(-50%, -50%);
+}
+
+.number-input button.plus:after {
+  transform: translate(-50%, -50%) rotate(90deg);
+}
+
+.number-input input[type=number] {
+  text-align: center;
+}
+
+.number-input.number-input {
+  border: 1px solid #ced4da;
+  width: 10rem;
+  border-radius: .25rem;
+}
+
+.number-input.number-input button {
+  width: 2.6rem;
+  height: .7rem;
+}
+
+.number-input.number-input button.minus {
+  padding-left: 10px;
+}
+
+.number-input.number-input button:before,
+.number-input.number-input button:after {
+  width: .7rem;
+  background-color: #495057;
+}
+
+.number-input.number-input input[type=number] {
+  max-width: 4rem;
+  padding: .5rem;
+  border: 1px solid #ced4da;
+  border-width: 0 1px;
+  font-size: 1rem;
+  height: 2rem;
+  color: #495057;
+}
+
+@media not all and (min-resolution:.001dpcm) {
+  @supports (-webkit-appearance: none) and (stroke-color:transparent) {
+
+    .number-input.def-number-input.safari_only button:before,
+    .number-input.def-number-input.safari_only button:after {
+      margin-top: -.3rem;
+    }
+  }
+}
+	</style>

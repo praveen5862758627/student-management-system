@@ -1,0 +1,82 @@
+<?php
+
+// Headers
+header('Access-Control-Allow-Origin: *');
+header('Content-Type: application/json');
+header('Access-Control-Allow-Methods: POST');
+header('Access-Control-Allow-Headers: Access-Control-Allow-Headers,Content-Type,Access-Control-Allow-Methods, Authorization, X-Requested-With');
+
+include_once 'config/Database.php';
+include_once 'models/Post.php';
+
+error_reporting(0);
+// Instantiate DB & connect
+$database = new Database();
+$db = $database->connect();
+
+// Instantiate blog post object
+$post = new Post($db);
+
+$prod_cat = $_POST['cat_val'];
+// $prod_cat = 4;
+
+$uid = $_POST['uid'];
+
+
+$resultlesson = $post->lesson1($prod_cat);
+// Get row count
+$numlesson = $resultlesson->rowCount();
+
+
+//  echo $numlesson;
+//  exit;
+//if($post->require_auth()){
+
+
+
+/* * ********** lesson **************** */
+
+if ($numlesson > 0) {
+    // Post array
+    $posts_arr = array();
+    // $posts_arr['data'] = array();
+
+    while ($row = $resultlesson->fetch(PDO::FETCH_ASSOC)) {
+        extract($row);
+
+        //  echo '<option value="'. $row["cat_name"] .'">'. $row["cat_name"] .'</option>';
+        //  $code = $row["code"];
+        $resultstatus = $post->quizstatusfind($uid, $code);
+        $compreacoce = $post->getcompreacodeforlessons($prod_cat);
+
+        $post_item = array(
+            'mcode' => html_entity_decode($mcode),
+            'name' => html_entity_decode($name),
+            'studyduration' => html_entity_decode($studyduration),
+            'compstatus' => html_entity_decode($resultstatus),
+            'code' => html_entity_decode($code),
+            'targettype_id' => html_entity_decode($targettype_id),
+            'compreacoce' => html_entity_decode($compreacoce)
+        );
+
+        // Push to "data"
+        array_push($posts_arr, $post_item);
+        // array_push($posts_arr['data'], $post_item);
+    }
+
+    // Turn to JSON & output
+    echo json_encode($posts_arr);
+} else {
+    // No Posts
+    echo json_encode(
+            array('message' => 'No records Found')
+    );
+}
+  
+  /*} else {
+	   echo json_encode(
+	  array('message' => 'Access denied')
+	  );
+	  
+  }
+**/

@@ -1,0 +1,543 @@
+quiz:
+  question:
+    - name:
+        text: Find 1152
+      questiontext:
+        text: <font size="4">Find 115<sup>2</sup></font><br>
+        _format: moodle_auto_format
+      generalfeedback:
+        text: |-
+          <font size="4">11 &times; 12 | 25<br>
+          132 | 25<br>
+          &there4; 115<sup>2</sup> = 13225</br>
+          </p></font>
+        _format: moodle_auto_format
+      defaultgrade: '1.0000000'
+      penalty: '0.3333333'
+      hidden: '0'
+      idnumber: ''
+      single: 'true'
+      shuffleanswers: 'true'
+      answernumbering: none
+      correctfeedback:
+        text: ''
+        _format: moodle_auto_format
+      partiallycorrectfeedback:
+        text: ''
+        _format: moodle_auto_format
+      incorrectfeedback:
+        text: ''
+        _format: moodle_auto_format
+      answer:
+        - text: '13225'
+          feedback:
+            text: ''
+            _format: moodle_auto_format
+          _fraction: '100'
+          _format: moodle_auto_format
+        - text: '13925'
+          feedback:
+            text: ''
+            _format: moodle_auto_format
+          _fraction: '0'
+          _format: moodle_auto_format
+        - text: '14025'
+          feedback:
+            text: ''
+            _format: moodle_auto_format
+          _fraction: '0'
+          _format: moodle_auto_format
+        - text: '13725'
+          feedback:
+            text: ''
+            _format: moodle_auto_format
+          _fraction: '0'
+          _format: moodle_auto_format
+        - text: '12725'
+          feedback:
+            text: ''
+            _format: moodle_auto_format
+          _fraction: '0'
+          _format: moodle_auto_format
+      _type: multichoice
+    - name:
+        text: Find 1252
+      questiontext:
+        text: <font size="4">Find 125<sup>2</sup></font><br>
+        _format: moodle_auto_format
+      generalfeedback:
+        text: |-
+          <font size="4">12 &times; 13 | 25<br>
+          156 | 25<br>
+          &there4; 125<sup>2</sup> = 15625</br>
+          </p></font>
+        _format: moodle_auto_format
+      defaultgrade: '1.0000000'
+      penalty: '0.3333333'
+      hidden: '0'
+      idnumber: ''
+      single: 'true'
+      shuffleanswers: 'true'
+      answernumbering: none
+      correctfeedback:
+        text: ''
+        _format: moodle_auto_format
+      partiallycorrectfeedback:
+        text: ''
+        _format: moodle_auto_format
+      incorrectfeedback:
+        text: ''
+        _format: moodle_auto_format
+      answer:
+        - text: '15625'
+          feedback:
+            text: ''
+            _format: moodle_auto_format
+          _fraction: '100'
+          _format: moodle_auto_format
+        - text: '16325'
+          feedback:
+            text: ''
+            _format: moodle_auto_format
+          _fraction: '0'
+          _format: moodle_auto_format
+        - text: '16425'
+          feedback:
+            text: ''
+            _format: moodle_auto_format
+          _fraction: '0'
+          _format: moodle_auto_format
+        - text: '16125'
+          feedback:
+            text: ''
+            _format: moodle_auto_format
+          _fraction: '0'
+          _format: moodle_auto_format
+        - text: '15125'
+          feedback:
+            text: ''
+            _format: moodle_auto_format
+          _fraction: '0'
+          _format: moodle_auto_format
+      _type: multichoice
+    - name:
+        text: Find 1352
+      questiontext:
+        text: <font size="4">Find 135<sup>2</sup></font><br>
+        _format: moodle_auto_format
+      generalfeedback:
+        text: |-
+          <font size="4">13 &times; 14 | 25<br>
+          182 | 25<br>
+          &there4; 135<sup>2</sup> = 18225</br>
+          </p></font>
+        _format: moodle_auto_format
+      defaultgrade: '1.0000000'
+      penalty: '0.3333333'
+      hidden: '0'
+      idnumber: ''
+      single: 'true'
+      shuffleanswers: 'true'
+      answernumbering: none
+      correctfeedback:
+        text: ''
+        _format: moodle_auto_format
+      partiallycorrectfeedback:
+        text: ''
+        _format: moodle_auto_format
+      incorrectfeedback:
+        text: ''
+        _format: moodle_auto_format
+      answer:
+        - text: '18225'
+          feedback:
+            text: ''
+            _format: moodle_auto_format
+          _fraction: '100'
+          _format: moodle_auto_format
+        - text: '18925'
+          feedback:
+            text: ''
+            _format: moodle_auto_format
+          _fraction: '0'
+          _format: moodle_auto_format
+        - text: '19025'
+          feedback:
+            text: ''
+            _format: moodle_auto_format
+          _fraction: '0'
+          _format: moodle_auto_format
+        - text: '18725'
+          feedback:
+            text: ''
+            _format: moodle_auto_format
+          _fraction: '0'
+          _format: moodle_auto_format
+        - text: '17725'
+          feedback:
+            text: ''
+            _format: moodle_auto_format
+          _fraction: '0'
+          _format: moodle_auto_format
+      _type: multichoice
+    - name:
+        text: Find 1452
+      questiontext:
+        text: <font size="4">Find 145<sup>2</sup></font><br>
+        _format: moodle_auto_format
+      generalfeedback:
+        text: |-
+          <font size="4">14 &times; 15 | 25<br>
+          210 | 25<br>
+          &there4; 145<sup>2</sup> = 21025</br>
+          </p></font>
+        _format: moodle_auto_format
+      defaultgrade: '1.0000000'
+      penalty: '0.3333333'
+      hidden: '0'
+      idnumber: ''
+      single: 'true'
+      shuffleanswers: 'true'
+      answernumbering: none
+      correctfeedback:
+        text: ''
+        _format: moodle_auto_format
+      partiallycorrectfeedback:
+        text: ''
+        _format: moodle_auto_format
+      incorrectfeedback:
+        text: ''
+        _format: moodle_auto_format
+      answer:
+        - text: '21025'
+          feedback:
+            text: ''
+            _format: moodle_auto_format
+          _fraction: '100'
+          _format: moodle_auto_format
+        - text: '21725'
+          feedback:
+            text: ''
+            _format: moodle_auto_format
+          _fraction: '0'
+          _format: moodle_auto_format
+        - text: '21825'
+          feedback:
+            text: ''
+            _format: moodle_auto_format
+          _fraction: '0'
+          _format: moodle_auto_format
+        - text: '21525'
+          feedback:
+            text: ''
+            _format: moodle_auto_format
+          _fraction: '0'
+          _format: moodle_auto_format
+        - text: '20525'
+          feedback:
+            text: ''
+            _format: moodle_auto_format
+          _fraction: '0'
+          _format: moodle_auto_format
+      _type: multichoice
+    - name:
+        text: Find 1552
+      questiontext:
+        text: <font size="4">Find 155<sup>2</sup></font><br>
+        _format: moodle_auto_format
+      generalfeedback:
+        text: |-
+          <font size="4">15 &times; 16 | 25<br>
+          240 | 25<br>
+          &there4; 155<sup>2</sup> = 24025</br>
+          </p></font>
+        _format: moodle_auto_format
+      defaultgrade: '1.0000000'
+      penalty: '0.3333333'
+      hidden: '0'
+      idnumber: ''
+      single: 'true'
+      shuffleanswers: 'true'
+      answernumbering: none
+      correctfeedback:
+        text: ''
+        _format: moodle_auto_format
+      partiallycorrectfeedback:
+        text: ''
+        _format: moodle_auto_format
+      incorrectfeedback:
+        text: ''
+        _format: moodle_auto_format
+      answer:
+        - text: '24025'
+          feedback:
+            text: ''
+            _format: moodle_auto_format
+          _fraction: '100'
+          _format: moodle_auto_format
+        - text: '24725'
+          feedback:
+            text: ''
+            _format: moodle_auto_format
+          _fraction: '0'
+          _format: moodle_auto_format
+        - text: '24825'
+          feedback:
+            text: ''
+            _format: moodle_auto_format
+          _fraction: '0'
+          _format: moodle_auto_format
+        - text: '24525'
+          feedback:
+            text: ''
+            _format: moodle_auto_format
+          _fraction: '0'
+          _format: moodle_auto_format
+        - text: '23525'
+          feedback:
+            text: ''
+            _format: moodle_auto_format
+          _fraction: '0'
+          _format: moodle_auto_format
+      _type: multichoice
+    - name:
+        text: Find 1652
+      questiontext:
+        text: <font size="4">Find 165<sup>2</sup></font><br>
+        _format: moodle_auto_format
+      generalfeedback:
+        text: |-
+          <font size="4">16 &times; 17 | 25<br>
+          272 | 25<br>
+          &there4; 165<sup>2</sup> = 27225</br>
+          </p></font>
+        _format: moodle_auto_format
+      defaultgrade: '1.0000000'
+      penalty: '0.3333333'
+      hidden: '0'
+      idnumber: ''
+      single: 'true'
+      shuffleanswers: 'true'
+      answernumbering: none
+      correctfeedback:
+        text: ''
+        _format: moodle_auto_format
+      partiallycorrectfeedback:
+        text: ''
+        _format: moodle_auto_format
+      incorrectfeedback:
+        text: ''
+        _format: moodle_auto_format
+      answer:
+        - text: '27225'
+          feedback:
+            text: ''
+            _format: moodle_auto_format
+          _fraction: '100'
+          _format: moodle_auto_format
+        - text: '27925'
+          feedback:
+            text: ''
+            _format: moodle_auto_format
+          _fraction: '0'
+          _format: moodle_auto_format
+        - text: '28025'
+          feedback:
+            text: ''
+            _format: moodle_auto_format
+          _fraction: '0'
+          _format: moodle_auto_format
+        - text: '27725'
+          feedback:
+            text: ''
+            _format: moodle_auto_format
+          _fraction: '0'
+          _format: moodle_auto_format
+        - text: '26725'
+          feedback:
+            text: ''
+            _format: moodle_auto_format
+          _fraction: '0'
+          _format: moodle_auto_format
+      _type: multichoice
+    - name:
+        text: Find 1752
+      questiontext:
+        text: <font size="4">Find 175<sup>2</sup></font><br>
+        _format: moodle_auto_format
+      generalfeedback:
+        text: |-
+          <font size="4">17 &times; 18 | 25<br>
+          306 | 25<br>
+          &there4; 175<sup>2</sup> = 30625</br>
+          </p></font>
+        _format: moodle_auto_format
+      defaultgrade: '1.0000000'
+      penalty: '0.3333333'
+      hidden: '0'
+      idnumber: ''
+      single: 'true'
+      shuffleanswers: 'true'
+      answernumbering: none
+      correctfeedback:
+        text: ''
+        _format: moodle_auto_format
+      partiallycorrectfeedback:
+        text: ''
+        _format: moodle_auto_format
+      incorrectfeedback:
+        text: ''
+        _format: moodle_auto_format
+      answer:
+        - text: '30625'
+          feedback:
+            text: ''
+            _format: moodle_auto_format
+          _fraction: '100'
+          _format: moodle_auto_format
+        - text: '31325'
+          feedback:
+            text: ''
+            _format: moodle_auto_format
+          _fraction: '0'
+          _format: moodle_auto_format
+        - text: '31425'
+          feedback:
+            text: ''
+            _format: moodle_auto_format
+          _fraction: '0'
+          _format: moodle_auto_format
+        - text: '31125'
+          feedback:
+            text: ''
+            _format: moodle_auto_format
+          _fraction: '0'
+          _format: moodle_auto_format
+        - text: '30125'
+          feedback:
+            text: ''
+            _format: moodle_auto_format
+          _fraction: '0'
+          _format: moodle_auto_format
+      _type: multichoice
+    - name:
+        text: Find 1852
+      questiontext:
+        text: <font size="4">Find 185<sup>2</sup></font><br>
+        _format: moodle_auto_format
+      generalfeedback:
+        text: |-
+          <font size="4">18 &times; 19 | 25<br>
+          342 | 25<br>
+          &there4; 185<sup>2</sup> = 34225</br>
+          </p></font>
+        _format: moodle_auto_format
+      defaultgrade: '1.0000000'
+      penalty: '0.3333333'
+      hidden: '0'
+      idnumber: ''
+      single: 'true'
+      shuffleanswers: 'true'
+      answernumbering: none
+      correctfeedback:
+        text: ''
+        _format: moodle_auto_format
+      partiallycorrectfeedback:
+        text: ''
+        _format: moodle_auto_format
+      incorrectfeedback:
+        text: ''
+        _format: moodle_auto_format
+      answer:
+        - text: '34225'
+          feedback:
+            text: ''
+            _format: moodle_auto_format
+          _fraction: '100'
+          _format: moodle_auto_format
+        - text: '34925'
+          feedback:
+            text: ''
+            _format: moodle_auto_format
+          _fraction: '0'
+          _format: moodle_auto_format
+        - text: '35025'
+          feedback:
+            text: ''
+            _format: moodle_auto_format
+          _fraction: '0'
+          _format: moodle_auto_format
+        - text: '34725'
+          feedback:
+            text: ''
+            _format: moodle_auto_format
+          _fraction: '0'
+          _format: moodle_auto_format
+        - text: '33725'
+          feedback:
+            text: ''
+            _format: moodle_auto_format
+          _fraction: '0'
+          _format: moodle_auto_format
+      _type: multichoice
+    - name:
+        text: Find 1952
+      questiontext:
+        text: <font size="4">Find 195<sup>2</sup></font><br>
+        _format: moodle_auto_format
+      generalfeedback:
+        text: |-
+          <font size="4">19 &times; 20 | 25<br>
+          380 | 25<br>
+          &there4; 195<sup>2</sup> = 38025</br>
+          </p></font>
+        _format: moodle_auto_format
+      defaultgrade: '1.0000000'
+      penalty: '0.3333333'
+      hidden: '0'
+      idnumber: ''
+      single: 'true'
+      shuffleanswers: 'true'
+      answernumbering: none
+      correctfeedback:
+        text: ''
+        _format: moodle_auto_format
+      partiallycorrectfeedback:
+        text: ''
+        _format: moodle_auto_format
+      incorrectfeedback:
+        text: ''
+        _format: moodle_auto_format
+      answer:
+        - text: '38025'
+          feedback:
+            text: ''
+            _format: moodle_auto_format
+          _fraction: '100'
+          _format: moodle_auto_format
+        - text: '38725'
+          feedback:
+            text: ''
+            _format: moodle_auto_format
+          _fraction: '0'
+          _format: moodle_auto_format
+        - text: '38825'
+          feedback:
+            text: ''
+            _format: moodle_auto_format
+          _fraction: '0'
+          _format: moodle_auto_format
+        - text: '38525'
+          feedback:
+            text: ''
+            _format: moodle_auto_format
+          _fraction: '0'
+          _format: moodle_auto_format
+        - text: '37525'
+          feedback:
+            text: ''
+            _format: moodle_auto_format
+          _fraction: '0'
+          _format: moodle_auto_format
+      _type: multichoice
+

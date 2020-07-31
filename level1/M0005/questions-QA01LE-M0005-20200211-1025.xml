@@ -1,0 +1,1346 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quiz>
+<!-- question: 346104  -->
+  <question type="multichoice">
+    <name>
+      <text>Find 352</text>
+    </name>
+    <questiontext format="moodle_auto_format">
+      <text><![CDATA[<font size="4">Find 35<sup>2</sup></font><br>]]></text>
+    </questiontext>
+    <generalfeedback format="moodle_auto_format">
+      <text><![CDATA[<font size="4">
+(35 - 25) | (50 - 35)<br>
+Difference stroke | (Difference)<sup>2</sup> stroke<br>
+= 10 | 15<sup>2</sup><br>
+= 10 | 225</br>
+Maintain 2 digits in (Difference)<sup>2</sup> stroke</br>
+= 1225<br>
+</p></font>]]></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <idnumber></idnumber>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>none</answernumbering>
+    <correctfeedback format="moodle_auto_format">
+      <text></text>
+    </correctfeedback>
+    <partiallycorrectfeedback format="moodle_auto_format">
+      <text></text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="moodle_auto_format">
+      <text></text>
+    </incorrectfeedback>
+    <answer fraction="100" format="moodle_auto_format">
+      <text>1225</text>
+      <feedback format="moodle_auto_format">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="moodle_auto_format">
+      <text>12225</text>
+      <feedback format="moodle_auto_format">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="moodle_auto_format">
+      <text>2225</text>
+      <feedback format="moodle_auto_format">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="moodle_auto_format">
+      <text>3225</text>
+      <feedback format="moodle_auto_format">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="moodle_auto_format">
+      <text>10225</text>
+      <feedback format="moodle_auto_format">
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+
+<!-- question: 291005  -->
+  <question type="multichoice">
+    <name>
+      <text>Find the cube root of 148877.</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<font size="4">Find the cube root of 148877.</font><br>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<font size="4">
+Consider last three digits<br>
+877 ends in 7 &rarr; cube root must end in 3<br>
+Remaining digits &rarr; 148<br>
+Nearest perfect cube less than or equal to 148 is 125<br>
+Cube root of 125 = 5<br>
+So the cube root must be 53<br>
+[This method is correct only when original number is a perfect cube]<br>
+</p></font>]]></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <idnumber></idnumber>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>none</answernumbering>
+    <correctfeedback format="moodle_auto_format">
+      <text></text>
+    </correctfeedback>
+    <partiallycorrectfeedback format="moodle_auto_format">
+      <text></text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="moodle_auto_format">
+      <text></text>
+    </incorrectfeedback>
+    <answer fraction="100" format="moodle_auto_format">
+      <text>53</text>
+      <feedback format="moodle_auto_format">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="moodle_auto_format">
+      <text>42</text>
+      <feedback format="moodle_auto_format">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="moodle_auto_format">
+      <text>48</text>
+      <feedback format="moodle_auto_format">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="moodle_auto_format">
+      <text>55</text>
+      <feedback format="moodle_auto_format">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="moodle_auto_format">
+      <text>58</text>
+      <feedback format="moodle_auto_format">
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+
+<!-- question: 291009  -->
+  <question type="multichoice">
+    <name>
+      <text>Find the cube root of 19683.</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<font size="4">Find the cube root of 19683.</font><br>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<font size="4">
+Consider last three digits<br>
+683 ends in 3 &rarr; cube root must end in 7<br>
+Remaining digits &rarr; 19<br>
+Nearest perfect cube less than or equal to 19 is 8<br>
+Cube root of 8 = 2<br>
+So the cube root must be 27<br>
+[This method is correct only when original number is a perfect cube]<br>
+</p></font>]]></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <idnumber></idnumber>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>none</answernumbering>
+    <correctfeedback format="moodle_auto_format">
+      <text></text>
+    </correctfeedback>
+    <partiallycorrectfeedback format="moodle_auto_format">
+      <text></text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="moodle_auto_format">
+      <text></text>
+    </incorrectfeedback>
+    <answer fraction="100" format="moodle_auto_format">
+      <text>27</text>
+      <feedback format="moodle_auto_format">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="moodle_auto_format">
+      <text>19</text>
+      <feedback format="moodle_auto_format">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="moodle_auto_format">
+      <text>64</text>
+      <feedback format="moodle_auto_format">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="moodle_auto_format">
+      <text>25</text>
+      <feedback format="moodle_auto_format">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="moodle_auto_format">
+      <text>16</text>
+      <feedback format="moodle_auto_format">
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+
+<!-- question: 291006  -->
+  <question type="multichoice">
+    <name>
+      <text>Find the cube root of 262144.</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<font size="4">Find the cube root of 262144.</font><br>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<font size="4">
+Consider last three digits<br>
+144 ends in 4 &rarr; cube root must end in 4<br>
+Remaining digits &rarr; 262<br>
+Nearest perfect cube less than or equal to 262 is 216<br>
+Cube root of 216 = 6<br>
+So the cube root must be 64<br>
+[This method is correct only when original number is a perfect cube]<br>
+</p></font>]]></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <idnumber></idnumber>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>none</answernumbering>
+    <correctfeedback format="moodle_auto_format">
+      <text></text>
+    </correctfeedback>
+    <partiallycorrectfeedback format="moodle_auto_format">
+      <text></text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="moodle_auto_format">
+      <text></text>
+    </incorrectfeedback>
+    <answer fraction="100" format="moodle_auto_format">
+      <text>64</text>
+      <feedback format="moodle_auto_format">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="moodle_auto_format">
+      <text>42</text>
+      <feedback format="moodle_auto_format">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="moodle_auto_format">
+      <text>48</text>
+      <feedback format="moodle_auto_format">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="moodle_auto_format">
+      <text>62</text>
+      <feedback format="moodle_auto_format">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="moodle_auto_format">
+      <text>68</text>
+      <feedback format="moodle_auto_format">
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+
+<!-- question: 291007  -->
+  <question type="multichoice">
+    <name>
+      <text>Find the cube root of 3375.</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<font size="4">Find the cube root of 3375.</font><br>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<font size="4">
+Consider last three digits<br>
+375 ends in 5 &rarr; cube root must end in 5<br>
+Remaining digits &rarr; 3<br>
+Nearest perfect cube less than or equal to 3 is 1<br>
+Cube root of 1 = 1<br>
+So the cube root must be 15<br>
+[This method is correct only when original number is a perfect cube]<br>
+</p></font>]]></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <idnumber></idnumber>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>none</answernumbering>
+    <correctfeedback format="moodle_auto_format">
+      <text></text>
+    </correctfeedback>
+    <partiallycorrectfeedback format="moodle_auto_format">
+      <text></text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="moodle_auto_format">
+      <text></text>
+    </incorrectfeedback>
+    <answer fraction="100" format="moodle_auto_format">
+      <text>15</text>
+      <feedback format="moodle_auto_format">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="moodle_auto_format">
+      <text>30</text>
+      <feedback format="moodle_auto_format">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="moodle_auto_format">
+      <text>25</text>
+      <feedback format="moodle_auto_format">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="moodle_auto_format">
+      <text>20</text>
+      <feedback format="moodle_auto_format">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="moodle_auto_format">
+      <text>18</text>
+      <feedback format="moodle_auto_format">
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+
+<!-- question: 291008  -->
+  <question type="multichoice">
+    <name>
+      <text>Find the cube root of 46656.</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<font size="4">Find the cube root of 46656.</font><br>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<font size="4">
+Consider last three digits<br>
+656 ends in 6 &rarr; cube root must end in 6<br>
+Remaining digits &rarr; 46<br>
+Nearest perfect cube less than or equal to 46 is 27<br>
+Cube root of 27 = 3<br>
+So the cube root must be 36<br>
+[This method is correct only when original number is a perfect cube]<br>
+</p></font>]]></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <idnumber></idnumber>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>none</answernumbering>
+    <correctfeedback format="moodle_auto_format">
+      <text></text>
+    </correctfeedback>
+    <partiallycorrectfeedback format="moodle_auto_format">
+      <text></text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="moodle_auto_format">
+      <text></text>
+    </incorrectfeedback>
+    <answer fraction="100" format="moodle_auto_format">
+      <text>36</text>
+      <feedback format="moodle_auto_format">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="moodle_auto_format">
+      <text>27</text>
+      <feedback format="moodle_auto_format">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="moodle_auto_format">
+      <text>38</text>
+      <feedback format="moodle_auto_format">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="moodle_auto_format">
+      <text>46</text>
+      <feedback format="moodle_auto_format">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="moodle_auto_format">
+      <text>26</text>
+      <feedback format="moodle_auto_format">
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+
+<!-- question: 291010  -->
+  <question type="multichoice">
+    <name>
+      <text>Find the cube root of 474552.</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<font size="4">Find the cube root of 474552.</font><br>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<font size="4">
+Consider last three digits<br>
+552 ends in 2 &rarr; cube root must end in 8<br>
+Remaining digits &rarr; 474<br>
+Nearest perfect cube less than or equal to 474 is 343<br>
+Cube root of 343 = 7<br>
+So the cube root must be 78<br>
+[This method is correct only when original number is a perfect cube]<br>
+</p></font>]]></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <idnumber></idnumber>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>none</answernumbering>
+    <correctfeedback format="moodle_auto_format">
+      <text></text>
+    </correctfeedback>
+    <partiallycorrectfeedback format="moodle_auto_format">
+      <text></text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="moodle_auto_format">
+      <text></text>
+    </incorrectfeedback>
+    <answer fraction="100" format="moodle_auto_format">
+      <text>78</text>
+      <feedback format="moodle_auto_format">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="moodle_auto_format">
+      <text>68</text>
+      <feedback format="moodle_auto_format">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="moodle_auto_format">
+      <text>74</text>
+      <feedback format="moodle_auto_format">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="moodle_auto_format">
+      <text>71</text>
+      <feedback format="moodle_auto_format">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="moodle_auto_format">
+      <text>64</text>
+      <feedback format="moodle_auto_format">
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+
+<!-- question: 291011  -->
+  <question type="multichoice">
+    <name>
+      <text>Find the cube root of 704969.</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<font size="4">Find the cube root of 704969.</font><br>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<font size="4">
+Consider last three digits<br>
+969 ends in 9 &rarr; cube root must end in 9<br>
+Remaining digits &rarr; 704<br>
+Nearest perfect cube less than or equal to 704 is 512<br>
+Cube root of 512 = 8<br>
+So the cube root must be 89<br>
+[This method is correct only when original number is a perfect cube]<br>
+</p></font>]]></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <idnumber></idnumber>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>none</answernumbering>
+    <correctfeedback format="moodle_auto_format">
+      <text></text>
+    </correctfeedback>
+    <partiallycorrectfeedback format="moodle_auto_format">
+      <text></text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="moodle_auto_format">
+      <text></text>
+    </incorrectfeedback>
+    <answer fraction="100" format="moodle_auto_format">
+      <text>89</text>
+      <feedback format="moodle_auto_format">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="moodle_auto_format">
+      <text>68</text>
+      <feedback format="moodle_auto_format">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="moodle_auto_format">
+      <text>74</text>
+      <feedback format="moodle_auto_format">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="moodle_auto_format">
+      <text>79</text>
+      <feedback format="moodle_auto_format">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="moodle_auto_format">
+      <text>69</text>
+      <feedback format="moodle_auto_format">
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+
+<!-- question: 291003  -->
+  <question type="multichoice">
+    <name>
+      <text>Find the cube root of 74088.</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<font size="4">Find the cube root of 74088.</font><br>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<font size="4">
+Consider last three digits<br>
+088 ends in 8 &rarr; cube root must end in 2<br>
+Remaining digits &rarr; 74<br>
+Nearest perfect cube less than or equal to 74 is 64<br>
+Cube root of 64 = 4<br>
+So the cube root must be 42<br>
+[This method is correct only when original number is a perfect cube]<br>
+</p></font>]]></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <idnumber></idnumber>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>none</answernumbering>
+    <correctfeedback format="moodle_auto_format">
+      <text></text>
+    </correctfeedback>
+    <partiallycorrectfeedback format="moodle_auto_format">
+      <text></text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="moodle_auto_format">
+      <text></text>
+    </incorrectfeedback>
+    <answer fraction="100" format="moodle_auto_format">
+      <text>42</text>
+      <feedback format="moodle_auto_format">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="moodle_auto_format">
+      <text>64</text>
+      <feedback format="moodle_auto_format">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="moodle_auto_format">
+      <text>48</text>
+      <feedback format="moodle_auto_format">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="moodle_auto_format">
+      <text>74</text>
+      <feedback format="moodle_auto_format">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="moodle_auto_format">
+      <text>88</text>
+      <feedback format="moodle_auto_format">
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+
+<!-- question: 291004  -->
+  <question type="multichoice">
+    <name>
+      <text>Find the cube root of 9261.</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<font size="4">Find the cube root of 9261.</font><br>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<font size="4">
+Consider last three digits<br>
+261 ends in 1 &rarr; cube root must end in 1<br>
+Remaining digit is 9<br>
+Nearest perfect cube less than or equal to 9 is 8<br>
+Cube root of 8 = 2<br>
+So the cube root must be 21<br>
+[This method is correct only when original number is a perfect cube]<br>
+</p></font>]]></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <idnumber></idnumber>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>none</answernumbering>
+    <correctfeedback format="moodle_auto_format">
+      <text></text>
+    </correctfeedback>
+    <partiallycorrectfeedback format="moodle_auto_format">
+      <text></text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="moodle_auto_format">
+      <text></text>
+    </incorrectfeedback>
+    <answer fraction="100" format="moodle_auto_format">
+      <text>21</text>
+      <feedback format="moodle_auto_format">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="moodle_auto_format">
+      <text>42</text>
+      <feedback format="moodle_auto_format">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="moodle_auto_format">
+      <text>61</text>
+      <feedback format="moodle_auto_format">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="moodle_auto_format">
+      <text>25</text>
+      <feedback format="moodle_auto_format">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="moodle_auto_format">
+      <text>19</text>
+      <feedback format="moodle_auto_format">
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+
+<!-- question: 290997  -->
+  <question type="multichoice">
+    <name>
+      <text>Find the square root of 16384.</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<font size="4">Find the square root of 16384.</font><br>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<font size="4">
+Consider last two digits<br>
+84 ends in 4 &rarr; square root must end in 2 or 8<br>
+Remaining digits 163<br>
+Nearest perfect square less than or equal to 163 is 144<br>
+Square root of 144 = 12<br>
+So the square root must be 122 or 128<br>
+Check 125<sup>2</sup> = 15625&nbsp;[12 &times; 13 = 156, squares of numbers ending in 5 always end in 25]<br>
+16384 > 15625<br>
+Hence square root 16384 = 128.<br>
+[This method is correct only when original number is a perfect square]<br>
+</p></font>]]></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <idnumber></idnumber>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>none</answernumbering>
+    <correctfeedback format="moodle_auto_format">
+      <text></text>
+    </correctfeedback>
+    <partiallycorrectfeedback format="moodle_auto_format">
+      <text></text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="moodle_auto_format">
+      <text></text>
+    </incorrectfeedback>
+    <answer fraction="0" format="moodle_auto_format">
+      <text>63</text>
+      <feedback format="moodle_auto_format">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="moodle_auto_format">
+      <text>66</text>
+      <feedback format="moodle_auto_format">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="moodle_auto_format">
+      <text>130</text>
+      <feedback format="moodle_auto_format">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="moodle_auto_format">
+      <text>39</text>
+      <feedback format="moodle_auto_format">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="moodle_auto_format">
+      <text>128</text>
+      <feedback format="moodle_auto_format">
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+
+<!-- question: 290998  -->
+  <question type="multichoice">
+    <name>
+      <text>Find the square root of 17424.</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<font size="4">Find the square root of 17424.</font><br>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<font size="4">
+Consider last two digits<br>
+24 ends in 4 &rarr; square root must end in 2 or 8<br>
+Remaining digits 174<br>
+Nearest perfect square less than or equal to 174 is 169<br>
+Square root of 169 = 13<br>
+So the square root must be 132 or 138<br>
+Check 135<sup>2</sup> = 18225&nbsp;[13 &times; 14 = 182, squares of numbers ending in 5 always end in 25]<br>
+17424 < 18225<br>
+Hence square root 17424 = 132.<br>
+[This method is correct only when original number is a perfect square]<br>
+</p></font>]]></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <idnumber></idnumber>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>none</answernumbering>
+    <correctfeedback format="moodle_auto_format">
+      <text></text>
+    </correctfeedback>
+    <partiallycorrectfeedback format="moodle_auto_format">
+      <text></text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="moodle_auto_format">
+      <text></text>
+    </incorrectfeedback>
+    <answer fraction="100" format="moodle_auto_format">
+      <text>132</text>
+      <feedback format="moodle_auto_format">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="moodle_auto_format">
+      <text>169</text>
+      <feedback format="moodle_auto_format">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="moodle_auto_format">
+      <text>182</text>
+      <feedback format="moodle_auto_format">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="moodle_auto_format">
+      <text>135</text>
+      <feedback format="moodle_auto_format">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="moodle_auto_format">
+      <text>125</text>
+      <feedback format="moodle_auto_format">
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+
+<!-- question: 291001  -->
+  <question type="multichoice">
+    <name>
+      <text>Find the square root of 21316.</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<font size="4">Find the square root of 21316.</font><br>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<font size="4">
+Consider last two digits<br>
+16 ends in 6 &rarr; square root must end in 4 or 6<br>
+Remaining digits &rarr; 213<br>
+Nearest perfect square less than or equal to 213 is 196<br>
+Square root of 196 = 14<br>
+So the square root must be 144 or 146<br>
+Check 145<sup>2</sup> = 21025&nbsp;[14 &times; 15 = 210, squares of numbers ending in 5 always end in 25]<br>
+21316 > 21025<br>
+Hence square root 21316 = 146.<br>
+[This method is correct only when original number is a perfect square]<br>
+</p></font>]]></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <idnumber></idnumber>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>none</answernumbering>
+    <correctfeedback format="moodle_auto_format">
+      <text></text>
+    </correctfeedback>
+    <partiallycorrectfeedback format="moodle_auto_format">
+      <text></text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="moodle_auto_format">
+      <text></text>
+    </incorrectfeedback>
+    <answer fraction="100" format="moodle_auto_format">
+      <text>146</text>
+      <feedback format="moodle_auto_format">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="moodle_auto_format">
+      <text>196</text>
+      <feedback format="moodle_auto_format">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="moodle_auto_format">
+      <text>144</text>
+      <feedback format="moodle_auto_format">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="moodle_auto_format">
+      <text>186</text>
+      <feedback format="moodle_auto_format">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="moodle_auto_format">
+      <text>145</text>
+      <feedback format="moodle_auto_format">
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+
+<!-- question: 290996  -->
+  <question type="multichoice">
+    <name>
+      <text>Find the square root of 3969.</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<font size="4">Find the square root of 3969.</font><br>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<font size="4">
+Consider last two digits<br>
+69 ends in 9 &rarr; square root must end in 3 or 7<br>
+Remaining digits 39<br>
+Nearest perfect square less than or equal to 39 is 36<br>
+Square root of 36 = 6<br>
+So the square root must be 63 or 67<br>
+Check 65<sup>2</sup> = 4225&nbsp;[6 &times; 7 = 42, squares of numbers ending in 5 always end in 25]<br>
+3969 < 4225<br>
+Hence square root 3969 = 63.<br>
+[This method is correct only when original number is a perfect square]<br>
+</p></font>]]></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <idnumber></idnumber>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>none</answernumbering>
+    <correctfeedback format="moodle_auto_format">
+      <text></text>
+    </correctfeedback>
+    <partiallycorrectfeedback format="moodle_auto_format">
+      <text></text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="moodle_auto_format">
+      <text></text>
+    </incorrectfeedback>
+    <answer fraction="100" format="moodle_auto_format">
+      <text>63</text>
+      <feedback format="moodle_auto_format">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="moodle_auto_format">
+      <text>66</text>
+      <feedback format="moodle_auto_format">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="moodle_auto_format">
+      <text>69</text>
+      <feedback format="moodle_auto_format">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="moodle_auto_format">
+      <text>39</text>
+      <feedback format="moodle_auto_format">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="moodle_auto_format">
+      <text>36</text>
+      <feedback format="moodle_auto_format">
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+
+<!-- question: 291000  -->
+  <question type="multichoice">
+    <name>
+      <text>Find the square root of 5929.</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<font size="4">Find the square root of 5929.</font><br>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<font size="4">
+Consider last two digits<br>
+29 ends in 9 &rarr; square root must end in 3 or 7<br>
+Remaining digits 59<br>
+Nearest perfect square less than or equal to 59 is 49<br>
+Square root of 49 = 7<br>
+So the square root must be 73 or 77<br>
+Check 75<sup>2</sup> = 5625&nbsp;[7 &times; 8 = 56, squares of numbers ending in 5 always end in 25]<br>
+5929 > 5625<br>
+Hence square root 5929 = 77.<br>
+[This method is correct only when original number is a perfect square]<br>
+</p></font>]]></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <idnumber></idnumber>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>none</answernumbering>
+    <correctfeedback format="moodle_auto_format">
+      <text></text>
+    </correctfeedback>
+    <partiallycorrectfeedback format="moodle_auto_format">
+      <text></text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="moodle_auto_format">
+      <text></text>
+    </incorrectfeedback>
+    <answer fraction="100" format="moodle_auto_format">
+      <text>77</text>
+      <feedback format="moodle_auto_format">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="moodle_auto_format">
+      <text>73</text>
+      <feedback format="moodle_auto_format">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="moodle_auto_format">
+      <text>75</text>
+      <feedback format="moodle_auto_format">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="moodle_auto_format">
+      <text>49</text>
+      <feedback format="moodle_auto_format">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="moodle_auto_format">
+      <text>59</text>
+      <feedback format="moodle_auto_format">
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+
+<!-- question: 291002  -->
+  <question type="multichoice">
+    <name>
+      <text>Find the square root of 60025.</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<font size="4">Find the square root of 60025.</font><br>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<font size="4">
+Consider last two digits<br>
+25 &rarr; square root must end in 5<br>
+Remaining digits &rarr; 600<br>
+Nearest perfect square less than or equal to 600 is 576<br>
+Square root of 576 = 24<br>
+So the square root must be 245<br>
+[This method is correct only when original number is a perfect square]<br>
+</p></font>]]></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <idnumber></idnumber>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>none</answernumbering>
+    <correctfeedback format="moodle_auto_format">
+      <text></text>
+    </correctfeedback>
+    <partiallycorrectfeedback format="moodle_auto_format">
+      <text></text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="moodle_auto_format">
+      <text></text>
+    </incorrectfeedback>
+    <answer fraction="100" format="moodle_auto_format">
+      <text>245</text>
+      <feedback format="moodle_auto_format">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="moodle_auto_format">
+      <text>576</text>
+      <feedback format="moodle_auto_format">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="moodle_auto_format">
+      <text>600</text>
+      <feedback format="moodle_auto_format">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="moodle_auto_format">
+      <text>255</text>
+      <feedback format="moodle_auto_format">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="moodle_auto_format">
+      <text>275</text>
+      <feedback format="moodle_auto_format">
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+
+<!-- question: 290999  -->
+  <question type="multichoice">
+    <name>
+      <text>Find the square root of 961.</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<font size="4">Find the square root of 961.</font><br>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<font size="4">
+Consider last two digits<br>
+61 ends in 1 &rarr; square root must end in 1 or 9<br>
+Remaining digits 9<br>
+Nearest perfect square less than or equal to 9 is 9<br>
+Square root of 9 = 3<br>
+So the square root must be 31 or 39<br>
+Check 35<sup>2</sup> = 1225&nbsp;[3 &times; 4 = 12, squares of numbers ending in 5 always end in 25]<br>
+961 < 1225<br>
+Hence square root 961 = 31.<br>
+[This method is correct only when original number is a perfect square]<br>
+</p></font>]]></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <idnumber></idnumber>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>none</answernumbering>
+    <correctfeedback format="moodle_auto_format">
+      <text></text>
+    </correctfeedback>
+    <partiallycorrectfeedback format="moodle_auto_format">
+      <text></text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="moodle_auto_format">
+      <text></text>
+    </incorrectfeedback>
+    <answer fraction="100" format="moodle_auto_format">
+      <text>31</text>
+      <feedback format="moodle_auto_format">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="moodle_auto_format">
+      <text>39</text>
+      <feedback format="moodle_auto_format">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="moodle_auto_format">
+      <text>35</text>
+      <feedback format="moodle_auto_format">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="moodle_auto_format">
+      <text>29</text>
+      <feedback format="moodle_auto_format">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="moodle_auto_format">
+      <text>32</text>
+      <feedback format="moodle_auto_format">
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+
+<!-- question: 291015  -->
+  <question type="multichoice">
+    <name>
+      <text>How many two-digit numbers satisfy this property: The last digit (unit's digit ) of the square of the two-digit number is 2 ?</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[How many two-digit numbers satisfy this property: The last digit (unit's digit ) of the square of the two-digit number is 2 ?<br>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[A number ending in 2 can never be a perfect square<br>
+<p></p>]]></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <idnumber></idnumber>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>none</answernumbering>
+    <correctfeedback format="moodle_auto_format">
+      <text></text>
+    </correctfeedback>
+    <partiallycorrectfeedback format="moodle_auto_format">
+      <text></text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="moodle_auto_format">
+      <text></text>
+    </incorrectfeedback>
+    <answer fraction="0" format="moodle_auto_format">
+      <text>22</text>
+      <feedback format="moodle_auto_format">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="moodle_auto_format">
+      <text>25</text>
+      <feedback format="moodle_auto_format">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="moodle_auto_format">
+      <text>28</text>
+      <feedback format="moodle_auto_format">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="moodle_auto_format">
+      <text>21</text>
+      <feedback format="moodle_auto_format">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="moodle_auto_format">
+      <text>None of the above</text>
+      <feedback format="moodle_auto_format">
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+
+<!-- question: 291012  -->
+  <question type="multichoice">
+    <name>
+      <text>MTY01</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[Find the Square root of 136.<br>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[Consider the nearest square number less than 136 which is 121<br>
+136 = 121 + 15<br>
+Square root of 121 = 11<br>
+Square root of 136 = 11 + 15/(11 × 2) = 11 + 0.681 = 11.68<br>
+[Answer obtained is approximately equal to the actual square root]<br>
+<p></p>]]></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <idnumber></idnumber>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>none</answernumbering>
+    <correctfeedback format="moodle_auto_format">
+      <text></text>
+    </correctfeedback>
+    <partiallycorrectfeedback format="moodle_auto_format">
+      <text></text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="moodle_auto_format">
+      <text></text>
+    </incorrectfeedback>
+    <answer fraction="100" format="moodle_auto_format">
+      <text>11.68</text>
+      <feedback format="moodle_auto_format">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="moodle_auto_format">
+      <text>10.68</text>
+      <feedback format="moodle_auto_format">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="moodle_auto_format">
+      <text>11.89</text>
+      <feedback format="moodle_auto_format">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="moodle_auto_format">
+      <text>11.39</text>
+      <feedback format="moodle_auto_format">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="moodle_auto_format">
+      <text>10.89</text>
+      <feedback format="moodle_auto_format">
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+
+<!-- question: 291014  -->
+  <question type="multichoice">
+    <name>
+      <text>The cube root of .000343 is:</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<font size="4">The cube root of .000343 is:</font><br>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<font size="4">
+(0.000343)<sup><sup>1</sup>/<sub>3</sub></sup> = (<sup>343</sup>/<sub>10<sup>6</sup></sub>)<sup><sup>1</sup>/<sub>3</sub></sup><br>
+= (<sup>7 &times; 7 &times; 7</sup>/<sub>10<sup>2</sup> &times; 10<sup>2</sup> &times; 10<sup>2</sup></sub>)<sup><sup>1</sup>/<sub>3</sub></sup><br>
+= <sup>7</sup>/<sub>10<sup>2</sup></sub> = 0.07<br>
+</p></font>]]></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <idnumber></idnumber>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>none</answernumbering>
+    <correctfeedback format="moodle_auto_format">
+      <text></text>
+    </correctfeedback>
+    <partiallycorrectfeedback format="moodle_auto_format">
+      <text></text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="moodle_auto_format">
+      <text></text>
+    </incorrectfeedback>
+    <answer fraction="100" format="moodle_auto_format">
+      <text>0.07</text>
+      <feedback format="moodle_auto_format">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="moodle_auto_format">
+      <text>0.05</text>
+      <feedback format="moodle_auto_format">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="moodle_auto_format">
+      <text>0.09</text>
+      <feedback format="moodle_auto_format">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="moodle_auto_format">
+      <text>0.77</text>
+      <feedback format="moodle_auto_format">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="moodle_auto_format">
+      <text>0.71</text>
+      <feedback format="moodle_auto_format">
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+
+</quiz>

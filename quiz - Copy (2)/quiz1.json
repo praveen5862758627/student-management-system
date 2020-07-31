@@ -1,0 +1,55 @@
+{
+  "name": "Number System Level 1 Test",
+  "code": "QA01-QUIZL1",
+  "topic": "Number Systems",
+  "type": "Level 1",
+  "description": "Line 1\nLine 2\nLine 3\n",
+  "time": 20,
+  "opentime": "",
+  "closetime": "",
+  "noofattempts": "",
+  "comparea_code": "CID001",
+  "passingscore_in_percentage": 70,
+  "show_results": 1,
+  "show_review": 1,
+  "scoring_method": "Highest",
+  "Sections": [
+    {
+      "section": [
+        {
+          "name": "Level1",
+          "positivemark": 1,
+          "negativemark": 0
+        },
+        {
+          "questiongroups": [
+            {
+              "category": "01-QA/01-NumberSystems",
+              "level": "level1/GATE2015/EE/15EE1BR2",
+              "type": "",
+              "noofquestions": 5
+            },
+            {
+              "category": "01-QA/01-NumberSystems",
+              "level": "level1/MTNVC30001",
+              "type": "",
+              "noofquestions": 5
+            },
+            {
+              "category": "01-QA/01-NumberSystems",
+              "level": "level1/GATE2015/EC/15EC1BR2",
+              "type": "",
+              "noofquestions": 5
+            },
+            {
+              "category": "01-QA/01-NumberSystems",
+              "level": "level1/16CE1Nu01",
+              "type": "NU",
+              "noofquestions": 5
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

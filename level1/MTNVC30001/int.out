@@ -1,0 +1,451 @@
+category:
+level:
+contenttype:
+question:
+  - name:
+      text: TYCLS30001
+    questiontext:
+      text: >-
+        Find the odd figure out:
+
+        <img width="250" vspace="0" hspace="0" height="100" border="0"
+        src="http://docs.odinlearning.in/qimages/LR18/TYCLS30001Q.png">
+    generalfeedback:
+      text: >-
+        <p></p><p>In figures 1, 4, 6 - There are two similar designs.<br>In
+        figures 2, 5, 8 - Irregular figures<br>And in figures 3, 7, 9 - The
+        main design is divided into eight parts.</p><br><p></p>
+    shownumcorrect: ''
+    answer:
+      - text: |-
+          <p>1, 4, 8, </p>
+
+          <p>2, 5, 7, </p>
+
+          <p>3, 9, 6</p>
+        marks: '0'
+      - text: |-
+          <p>1, 4, 6</p>
+
+          <p>2, 5, 8</p>
+
+          <p>3, 7, 9</p>
+        marks: '100'
+      - text: |-
+          <p>1, 4, 6</p>
+
+          <p>2, 5, 7</p>
+
+          <p>3, 8, 9</p>
+        marks: '0'
+      - text: |-
+          <p>1, 2, 3</p>
+
+          <p>4, 5, 6</p>
+
+          <p>7, 8, 9</p>
+        marks: '0'
+      - text: |-
+          <p>1, 3, 5</p>
+
+          <p>6, 7, 4</p>
+
+          <p>2, 9, 8</p>
+        marks: '0'
+  - name:
+      text: TYCLS30002
+    questiontext:
+      text: >-
+        Find the odd figure out:
+
+        <img width="200" vspace="0" hspace="0" height="100" border="0"
+        src="http://docs.odinlearning.in/qimages/LR18/TYCLS30002Q.png">
+    generalfeedback:
+      text: >-
+        <p><p>Figures 1, 4, 7 => four sided figures<br>Figures 2, 6, 9 =>
+        Triangular figures<br>Figures 3, 5, 8 => Curved figures.</p><br></p>
+    shownumcorrect: ''
+    answer:
+      - text: '<p>1, 4, 8,<br>2, 5, 7,<br>3, 9, 6</p>'
+        marks: '0'
+      - text: '<p>1, 4, 6<br>2, 5, 8<br>3, 7, 9</p>'
+        marks: '0'
+      - text: '<p>1, 4, 7<br>2, 6, 9<br>3, 5, 8</p>'
+        marks: '100'
+      - text: '<p>1, 8, 3<br>4, 5, 6<br>7, 2, 9</p>'
+        marks: '0'
+      - text: '<p>1, 3, 5<br>6, 7, 4<br>2, 9, 8</p>'
+        marks: '0'
+  - name:
+      text: TYCLS30003
+    questiontext:
+      text: >-
+        Find the odd figure out:
+
+        <img width="200" vspace="0" hspace="0" height="100" border="0"
+        src="http://docs.odinlearning.in/qimages/LR18/TYCLS30003Q.png">
+    generalfeedback:
+      text: >-
+        <p><p>Figures 1, 4 and 8 => Geometrical figures<br>Figures 2, 5 and 7
+        => Cup and Jar<br>Figures 3, 6 and 9 => Fish like figures.</p><br></p>
+    shownumcorrect: ''
+    answer:
+      - text: <p>1 3 4<br>2 5 9<br>6 7 8</p>
+        marks: '0'
+      - text: <p>1 4 8<br>2 5 7<br>3 6 9</p>
+        marks: '0'
+      - text: 1 4 8<br>2 5 7<br>3 6 9<br>
+        marks: '100'
+      - text: <p>3 4 8<br>2 3 5<br>1 6 7</p>
+        marks: '0'
+      - text: <p>1 4 7<br>2 3 5<br>6 8 9</p>
+        marks: '0'
+  - name:
+      text: TYCLS30004
+    questiontext:
+      text: >-
+        Find the odd figure out:
+
+        <img width="200" vspace="0" hspace="0" height="100" border="0"
+        src="http://docs.odinlearning.in/qimages/LR18/TYCLS30004Q.png">
+    generalfeedback:
+      text: |-
+        <p></p><p></p><p>Figures 1, 4 and 6 =&gt; Sources of light </p>
+
+        <p>Figures 2, 7 and 8 =&gt; Stationery items </p>
+
+        <p>Figures 3 and 5 =&gt; Sports goods</p><br><p></p>
+    shownumcorrect: ''
+    answer:
+      - text: '<p>146, 35, 278</p>'
+        marks: '100'
+      - text: '<p>258, 138, 46</p>'
+        marks: '0'
+      - text: '<p>37, 145, 258</p>'
+        marks: '0'
+      - text: '<p>258, 163, 47</p>'
+        marks: '0'
+      - text: '<p>643, 125, 78</p>'
+        marks: '0'
+  - name:
+      text: TYCLS30005
+    questiontext:
+      text: >-
+        Find the odd figure out:
+
+        <img width="300" vspace="0" hspace="0" height="100" border="0"
+        src="http://docs.odinlearning.in/qimages/LR18/TYCLS30005Q.png">
+    generalfeedback:
+      text: >-
+        <p><p>Except figure 3, in all others there are vertical and horizontal
+        lines.</p><br></p>
+    shownumcorrect: ''
+    answer:
+      - text: <p>1</p>
+        marks: '0'
+      - text: <p>2</p>
+        marks: '0'
+      - text: <p>3</p>
+        marks: '100'
+      - text: <p>4</p>
+        marks: '0'
+      - text: <p>1 & 2</p>
+        marks: '0'
+  - name:
+      text: TYCLS30006
+    questiontext:
+      text: >-
+        Find the odd figure out:
+
+        <img width="300" vspace="0" hspace="0" height="100" border="0"
+        src="http://docs.odinlearning.in/qimages/LR18/TYCLS30006Q.png">
+    generalfeedback:
+      text: >-
+        <p><p>Except in figure 3, in all other figures the shaded triangles
+        are equi-distant.</p><br></p>
+    shownumcorrect: ''
+    answer:
+      - text: <p>1</p>
+        marks: '0'
+      - text: <p>2</p>
+        marks: '0'
+      - text: <p>3</p>
+        marks: '100'
+      - text: <p>4</p>
+        marks: '0'
+      - text: '<p>1, 2 and 3</p>'
+        marks: '0'
+  - name:
+      text: TYCLS30007
+    questiontext:
+      text: >-
+        Find the odd figure out:
+
+        <img width="250" vspace="0" hspace="0" height="100" border="0"
+        src="http://docs.odinlearning.in/qimages/LR18/TYCLS30007Q.png">
+    generalfeedback:
+      text: >-
+        <p><p>Figures 1, 4 and 7 - Each figure is shaded.<br>Figures 2, 6 and
+        8 - Each figure is shaded with straight lines<br>Figures 3, 5 and 9 -
+        Each figure is shaded with oblique lines.</p><br></p>
+    shownumcorrect: ''
+    answer:
+      - text: '<p>1, 4, 7; 2, 5, 6; 3, 8, 9</p>'
+        marks: '0'
+      - text: '<p>1, 3, 7; 2, 6, 8; 4, 5, 9</p>'
+        marks: '0'
+      - text: '<p>1, 4, 7; 2, 6, 8; 3, 5, 9</p>'
+        marks: '100'
+      - text: '<p>1, 4, 7; 2, 8, 9; 3, 6, 5</p>'
+        marks: '0'
+      - text: '<p>1, 3, 7; 4, 6, 8; 2, 5, 9</p>'
+        marks: '0'
+  - name:
+      text: TYCLS30008
+    questiontext:
+      text: >-
+        Find the odd figure out:
+
+        <img width="250" vspace="0" hspace="0" height="150" border="0"
+        src="http://docs.odinlearning.in/qimages/LR18/TYCLS30008Q.png">
+    generalfeedback:
+      text: >-
+        <p><p>Figures 1, 5 and 7 contain an English letter, two circles, one
+        star and oblique lines. Figures 2, 4 and 9 contain an English letter
+        and one dot. Figures 3, 6 and 8 contain an English letter and one or
+        two cross sign (s).</p><br></p>
+    shownumcorrect: ''
+    answer:
+      - text: '<p>1, 4, 7; 2, 5, 6; 3, 8, 9</p>'
+        marks: '0'
+      - text: '<p>1, 3, 7; 2, 6, 8; 4, 5, 9</p>'
+        marks: '0'
+      - text: '<p>1, 4, 7; 2, 6, 8; 3, 5, 9</p>'
+        marks: '0'
+      - text: '<p>1, 5, 7; 2, 4, 9; 3, 6, 8</p>'
+        marks: '100'
+      - text: '<p>1, 3, 7; 4, 6, 8; 2, 5, 9</p>'
+        marks: '0'
+  - name:
+      text: TYCLS30009
+    questiontext:
+      text: >-
+        Find the odd figure out:
+
+        <img width="250" vspace="0" hspace="0" height="150" border="0"
+        src="http://docs.odinlearning.in/qimages/LR18/TYCLS30009Q.png">
+    generalfeedback:
+      text: <p><p>There are four pairs of similar figures.</p><br></p>
+    shownumcorrect: ''
+    answer:
+      - text: '<p>1, 7; 2, 4; 3, 5; 6, 8</p>'
+        marks: '0'
+      - text: '<p>1, 4; 2, 7; 3, 5; 6, 8</p>'
+        marks: '100'
+      - text: '<p>1, 3; 2, 7; 6, 8; 4, 5</p>'
+        marks: '0'
+      - text: '<p>1, 4; 3, 6; 3, 5; 7, 8</p>'
+        marks: '0'
+      - text: '<p>1, 5; 2, 6; 3, 7; 4, 8</p>'
+        marks: '0'
+  - name:
+      text: TYCLS30010
+    questiontext:
+      text: >-
+        Find the odd figure out:
+
+        <img width="400" vspace="0" hspace="0" height="150" border="0"
+        src="http://docs.odinlearning.in/qimages/LR18/TYCLS30010Q.png">
+    generalfeedback:
+      text: >-
+        <p><p>In figure 4, the diagonals of all the three designs are
+        similar.</p><br></p>
+    shownumcorrect: ''
+    answer:
+      - text: <p>1</p>
+        marks: '0'
+      - text: <p>2</p>
+        marks: '0'
+      - text: <p>3</p>
+        marks: '0'
+      - text: <p>4</p>
+        marks: '100'
+      - text: <p>1 & 4</p>
+        marks: '0'
+  - name:
+      text: TYCLS30021
+    questiontext:
+      text: >-
+        In the following question select the one which is different from the
+        other three responses.<br><img width="300" vspace="0" hspace="0"
+        height="100" border="0"
+        src="http://docs.odinlearning.in/qimages/LR18/TYCLS30021Q.png">
+    generalfeedback:
+      text: >-
+        <p>In
+
+        all other figures, one-fourth part of the design is shaded. In figure
+        (1) only
+
+        one-third part is shaded.<br></p>
+    shownumcorrect: ''
+    answer:
+      - text: <p>1</p>
+        marks: '100'
+      - text: <p>2</p>
+        marks: '0'
+      - text: <p>3</p>
+        marks: '0'
+      - text: <p>4</p>
+        marks: '0'
+      - text: <p>1 and 4</p>
+        marks: '0'
+  - name:
+      text: TYCLS30022
+    questiontext:
+      text: >-
+        In the following question select the one which is different from the
+        other three responses.<br><img width="300" vspace="0" hspace="0"
+        height="100" border="0"
+        src="http://docs.odinlearning.in/qimages/LR18/TYCLS30022Q.png">
+    generalfeedback:
+      text: |-
+        <p>In
+        all other figures, the two designs only touch each other.<br></p>
+    shownumcorrect: ''
+    answer:
+      - text: <p>1</p>
+        marks: '0'
+      - text: <p>2</p>
+        marks: '0'
+      - text: <p>3</p>
+        marks: '0'
+      - text: <p>4</p>
+        marks: '100'
+      - text: <p>2 and 3</p>
+        marks: '0'
+  - name:
+      text: TYCLS30023
+    questiontext:
+      text: >-
+        A series of figures is given which can be grouped into classes. Select
+        the group into which the figure can be classified from the given
+        responses.<br><img width="240" vspace="0" hspace="0" height="90"
+        border="0"
+        src="http://docs.odinlearning.in/qimages/LR18/TYCLS30023Q.png">
+    generalfeedback:
+      text: >-
+        <p><p>Figures 1, 4 and 6 -&gt; Spherical Shapes</p><p><span
+        style="font-size: 0.9375rem;">Figures 2, 5 and 7 -&gt; Show
+        similarity</span></p>
+
+
+        <p>Figures 3, 8 and 9 -&gt; Similar designs intersect one
+
+        another</p><br></p>
+    shownumcorrect: ''
+    answer:
+      - text: |-
+          <p>1,
+          4, 6 ; 2, 5, 7 ; 3, 8, 9<br></p>
+        marks: '100'
+      - text: |-
+          <p>1,
+          2, 4 ; 5, 6, 7 ; 3, 8, 9<br></p>
+        marks: '0'
+      - text: |-
+          <p>1,
+          4, 6 ; 3, 8, 7 ; 2, 5, 9<br></p>
+        marks: '0'
+      - text: |-
+          <p>1,
+          2, 6 ; 4, 7, 9 ; 3, 5, 8<br></p>
+        marks: '0'
+      - text: |-
+          <p>2,
+          1, 4 ; 3, 5, 8 ; 6, 7, 9<br></p>
+        marks: '0'
+  - name:
+      text: TYCLS30024
+    questiontext:
+      text: >-
+        A series of figures are given, and these can be grouped into classes.
+        Select from amongst the alternatives one set of groups into which
+        these figures can be classified.<br><img width="240" vspace="0"
+        hspace="0" height="90" border="0"
+        src="http://docs.odinlearning.in/qimages/LR18/TYCLS30024Q.png">
+    generalfeedback:
+      text: |-
+        <p><p>1, 4, 9 -&gt; two similar figures</p>
+
+        <p>2, 5, 7 -&gt; two line segments inside the main design</p>
+
+        <p>3, 6, 8 -&gt; one line segment inside the main design</p></p>
+    shownumcorrect: ''
+    answer:
+      - text: |-
+          <p>1,
+          4, 6 ; 2, 5, 7 ; 3, 8, 9<br></p>
+        marks: '0'
+      - text: |-
+          <p>1,
+          4, 9 ; 3, 6, 8 ; 2, 5, 7<br></p>
+        marks: '100'
+      - text: |-
+          <p>1,
+          4, 6 ; 3, 8, 7 ; 2, 5, 9<br></p>
+        marks: '0'
+      - text: |-
+          <p>1,
+          2, 6 ; 4, 7, 9 ; 3, 5, 8<br></p>
+        marks: '0'
+      - text: |-
+          <p>2,
+          1, 4 ; 3, 5, 8 ; 6, 7, 9<br></p>
+        marks: '0'
+  - name:
+      text: TYCLS30025
+    questiontext:
+      text: >-
+        In the following question select the one which is different from the
+        other three responses.<br><img width="250" vspace="0" hspace="0"
+        height="90" border="0"
+        src="http://docs.odinlearning.in/qimages/LR18/TYCLS30025Q.png">
+    generalfeedback:
+      text: |-
+        <p>Figure
+        (4) is different from the other three figures.<br></p>
+    shownumcorrect: ''
+    answer:
+      - text: <p>1</p>
+        marks: '0'
+      - text: <p>2</p>
+        marks: '0'
+      - text: <p>3</p>
+        marks: '0'
+      - text: <p>4</p>
+        marks: '100'
+      - text: <p>1 and 2</p>
+        marks: '0'
+  - name:
+      text: Which one of the following is not a prime number?
+    questiontext:
+      text: >-
+        <font size="4">Which one of the following is not a prime
+        number?</font><br>
+    generalfeedback:
+      text: |-
+        <font size="4">
+        91 is divisible by 7. So, it is not a prime number.<br>
+        </p></font>
+    answer:
+      - text: '91'
+        marks: '100'
+      - text: '5'
+        marks: '0'
+      - text: '23'
+        marks: '0'
+      - text: '17'
+        marks: '0'
+      - text: '83'
+        marks: '0'

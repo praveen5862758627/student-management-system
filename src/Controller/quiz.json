@@ -1,0 +1,37 @@
+{
+  "name": "MCQ",
+  "code": "01-Day1",
+  "topic": "MCQ",
+  "type": "Level1",
+  "description": "Line 1\nLine 2\nLine 3\n",
+  "time": 20,
+  "opentime": "",
+  "closetime": "",
+  "noofattempts": "",
+  "comparea_code": "CID001",
+  "passingscore_in_percentage": 70,
+  "show_results": 1,
+  "show_review": 1,
+  "scoring_method": "Highest",
+  "Sections": [
+    {
+      "section": [
+        {
+          "name": "Level1",
+          "positivemark": 1,
+          "negativemark": 0
+        },
+        {
+          "questiongroups": [
+            {
+              "category": "01-Day1",
+              "level": "04-MCQ",
+              "type": "",
+              "noofquestions": 3
+            },
+          ]
+        }
+      ]
+    }
+  ]
+}

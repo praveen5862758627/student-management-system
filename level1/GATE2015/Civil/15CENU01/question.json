@@ -1,0 +1,139 @@
+{
+  "category": null,
+  "level": null,
+  "contenttype": null,
+  "question": [
+    {
+      "name": {
+        "text": "Civil15M101"
+      },
+      "type": {
+        "text": "NU"
+      },
+      "questiontext": {
+        "text": "<img vspace=\"0\" hspace=\"0\" border=\"0\" src=\"http://docs.odinlearning.in/qimages/2015GATE/15CE1_img_10.png\">"
+      },
+      "generalfeedback": {
+        "text": ""
+      },
+      "answer": [
+        {
+          "value1": 4.49,
+          "value2": 4.51,
+          "operator": "==",
+          "marks": " 100 "
+        }
+      ]
+    },
+    {
+      "name": {
+        "text": "Civil15M102"
+      },
+      "type": {
+        "text": "NU"
+      },
+      "questiontext": {
+        "text": "<img vspace=\"0\" hspace=\"0\" border=\"0\" src=\"http://docs.odinlearning.in/qimages/2015GATE/15CE1_img_12.png\">"
+      },
+      "generalfeedback": {
+        "text": ""
+      },
+      "answer": [
+        {
+          "value1": 0.23,
+          "value2": 0.25,
+          "operator": "==",
+          "marks": " 100 "
+        }
+      ]
+    },
+    {
+      "name": {
+        "text": "Civil15M103"
+      },
+      "type": {
+        "text": "NU"
+      },
+      "questiontext": {
+        "text": "<img vspace=\"0\" hspace=\"0\" border=\"0\" src=\"http://docs.odinlearning.in/qimages/2015GATE/15CE1_img_17.png\">"
+      },
+      "generalfeedback": {
+        "text": ""
+      },
+      "answer": [
+        {
+          "value1": 6.38,
+          "value2": 6.42,
+          "operator": "==",
+          "marks": " 100 "
+        }
+      ]
+    },
+    {
+      "name": {
+        "text": "Civil15M104"
+      },
+      "type": {
+        "text": "NU"
+      },
+      "questiontext": {
+        "text": "<img vspace=\"0\" hspace=\"0\" border=\"0\" src=\"http://docs.odinlearning.in/qimages/2015GATE/15CE1_img_18.png\">"
+      },
+      "generalfeedback": {
+        "text": ""
+      },
+      "answer": [
+        {
+          "value1": 5,
+          "value2": 6,
+          "operator": "=",
+          "marks": " 100 "
+        }
+      ]
+    },
+    {
+      "name": {
+        "text": "Civil15M105"
+      },
+      "type": {
+        "text": "NU"
+      },
+      "questiontext": {
+        "text": "<img vspace=\"0\" hspace=\"0\" border=\"0\" src=\"http://docs.odinlearning.in/qimages/2015GATE/15CE1_img_19.png\">"
+      },
+      "generalfeedback": {
+        "text": ""
+      },
+      "answer": [
+        {
+          "value1": 0,
+          "value2": 1,
+          "operator": "=",
+          "marks": " 100 "
+        }
+      ]
+    },
+    {
+      "name": {
+        "text": "Civil15M106"
+      },
+      "type": {
+        "text": "NU"
+      },
+      "questiontext": {
+        "text": "<img vspace=\"0\" hspace=\"0\" border=\"0\" src=\"http://docs.odinlearning.in/qimages/2015GATE/15CE1_img_31.png\">"
+      },
+      "generalfeedback": {
+        "text": ""
+      },
+      "answer": [
+        {
+          "value1": 8,
+          "value2": 7,
+          "operator": "=",
+          "marks": " 100 "
+        }
+      ]
+    }
+  ]
+}

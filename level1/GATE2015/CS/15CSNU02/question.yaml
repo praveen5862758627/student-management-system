@@ -1,0 +1,228 @@
+category: null
+level: null
+contenttype: null
+question:
+  - name:
+      text: 'Cs15M201'
+    type:
+      text: NU
+    questiontext:
+      text: >-
+        <img vspace="0" hspace="0" border="0" src="http://docs.odinlearning.in/qimages/2015GATE/15CS1_img_7.png">
+    generalfeedback:
+      text: ''
+    answer:
+      - value1: 32
+        value2: 33
+        operator: =
+        marks: ' 100 '
+  - name:
+      text: 'Cs15M202'
+    type:
+      text: NU
+    questiontext:
+      text: >-
+        <img vspace="0" hspace="0" border="0" src="http://docs.odinlearning.in/qimages/2015GATE/15CS1_img_35.png">
+    generalfeedback:
+      text: ''
+    answer:
+      - value1: 160
+        value2: 165
+        operator: =
+        marks: ' 100 '
+  - name:
+      text: 'Cs15M203'
+    type:
+      text: NU
+    questiontext:
+      text: >-
+        <img vspace="0" hspace="0" border="0" src="http://docs.odinlearning.in/qimages/2015GATE/15CS1_img_37.png">
+    generalfeedback:
+      text: ''
+    answer:
+      - value1: 5
+        value2: 4
+        operator: =
+        marks: ' 100 '
+  - name:
+      text: 'Cs15M204'
+    type:
+      text: NU
+    questiontext:
+      text: >-
+        <img vspace="0" hspace="0" border="0" src="http://docs.odinlearning.in/qimages/2015GATE/15CS1_img_38.png">
+    generalfeedback:
+      text: ''
+    answer:
+      - value1: 0.40
+        value2: 0.46
+        operator: ==
+        marks: ' 100 '
+  - name:
+      text: 'Cs15M205'
+    type:
+      text: NU
+    questiontext:
+      text: >-
+        <img vspace="0" hspace="0" border="0" src="http://docs.odinlearning.in/qimages/2015GATE/15CS1_img_40.png">
+    generalfeedback:
+      text: ''
+    answer:
+      - value1: 0.99
+        value2: 0.99
+        operator: =
+        marks: ' 100 '
+  - name:
+      text: 'Cs15M206'
+    type:
+      text: NU
+    questiontext:
+      text: >-
+        <img vspace="0" hspace="0" border="0" src="http://docs.odinlearning.in/qimages/2015GATE/15CS1_img_43.png">
+    generalfeedback:
+      text: ''
+    answer:
+      - value1: 24
+        value2: 25
+        operator: ==
+        marks: ' 100 '
+  - name:
+      text: 'Cs15M207'
+    type:
+      text: NU
+    questiontext:
+      text: >-
+        <img vspace="0" hspace="0" border="0" src="http://docs.odinlearning.in/qimages/2015GATE/15CS1_img_46.png">
+    generalfeedback:
+      text: ''
+    answer:
+      - value1: 8
+        value2: 8
+        operator: =
+        marks: ' 100 '
+  - name:
+      text: 'Cs15M208'
+    type:
+      text: NU
+    questiontext:
+      text: >-
+        <img vspace="0" hspace="0" border="0" src="http://docs.odinlearning.in/qimages/2015GATE/15CS1_img_47.png">
+    generalfeedback:
+      text: ''
+    answer:
+      - value1: 4
+        value2: 4
+        operator: =
+        marks: ' 100 '
+  - name:
+      text: 'Cs15M209'
+    type:
+      text: NU
+    questiontext:
+      text: >-
+        <img vspace="0" hspace="0" border="0" src="http://docs.odinlearning.in/qimages/2015GATE/15CS1_img_48.png">
+    generalfeedback:
+      text: ''
+    answer:
+      - value1: 1
+        value2: 1
+        operator: =
+        marks: ' 100 '
+  - name:
+      text: 'Cs15M210'
+    type:
+      text: NU
+    questiontext:
+      text: >-
+        <img vspace="0" hspace="0" border="0" src="http://docs.odinlearning.in/qimages/2015GATE/15CS1_img_51.png">
+    generalfeedback:
+      text: ''
+    answer:
+      - value1: 12
+        value2: 12
+        operator: =
+        marks: ' 100 '
+  - name:
+      text: 'Cs15M211'
+    type:
+      text: NU
+    questiontext:
+      text: >-
+        <img vspace="0" hspace="0" border="0" src="http://docs.odinlearning.in/qimages/2015GATE/15CS1_img_53.png">
+    generalfeedback:
+      text: ''
+    answer:
+      - value1: 14020
+        value2: 14021
+        operator: =
+        marks: ' 100 '
+  - name:
+      text: 'Cs15M212'
+    type:
+      text: NU
+    questiontext:
+      text: >-
+        <img vspace="0" hspace="0" border="0" src="http://docs.odinlearning.in/qimages/2015GATE/15CS1_img_54.png">
+    generalfeedback:
+      text: ''
+    answer:
+      - value1: 3.2
+        value2: 3.2
+        operator: =
+        marks: ' 100 '
+  - name:
+      text: 'Cs15M213'
+    type:
+      text: NU
+    questiontext:
+      text: >-
+        <img vspace="0" hspace="0" border="0" src="http://docs.odinlearning.in/qimages/2015GATE/15CS1_img_55.png">
+    generalfeedback:
+      text: ''
+    answer:
+      - value1: 10
+        value2: 11
+        operator: =
+        marks: ' 100 '
+  - name:
+      text: 'Cs15M214'
+    type:
+      text: NU
+    questiontext:
+      text: >-
+        <img vspace="0" hspace="0" border="0" src="http://docs.odinlearning.in/qimages/2015GATE/15CS1_img_57.png">
+    generalfeedback:
+      text: ''
+    answer:
+      - value1: -1
+        value2: -1
+        operator: =
+        marks: ' 100 '
+  - name:
+      text: 'Cs15M215'
+    type:
+      text: NU
+    questiontext:
+      text: >-
+        <img vspace="0" hspace="0" border="0" src="http://docs.odinlearning.in/qimages/2015GATE/15CS1_img_60.png">
+    generalfeedback:
+      text: ''
+    answer:
+      - value1: 2
+        value2: 2
+        operator: =
+        marks: ' 100 '
+  - name:
+      text: 'Cs15M216'
+    type:
+      text: NU
+    questiontext:
+      text: >-
+        <img vspace="0" hspace="0" border="0" src="http://docs.odinlearning.in/qimages/2015GATE/15CS1_img_62.png">
+    generalfeedback:
+      text: ''
+    answer:
+      - value1: 69
+        value2: 68
+        operator: =
+        marks: ' 100 '

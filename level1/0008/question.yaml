@@ -1,0 +1,1362 @@
+quiz:
+  question:
+    - name:
+        text: 112 &times; 54 = ?
+      questiontext:
+        text: <font size="4">112 &times; 5<sup>4</sup> = ?</font><br>
+        _format: moodle_auto_format
+      generalfeedback:
+        text: >-
+          <font size="4">
+
+          112 &times; 5<sup>4</sup> = 112 &times;
+          (<sup>10</sup>/<sub>2</sub>)<sup>4</sup><br>
+
+          = <sup>(112 &times; 10<sup>4</sup>)</sup>/<sub>2<sup>4</sup></sub><br>
+
+          = <sup>1120000</sup>/<sub>16</sub><br>
+
+          = 70000<br>
+
+          </p></font>
+        _format: moodle_auto_format
+      defaultgrade: '1.0000000'
+      penalty: '0.3333333'
+      hidden: '0'
+      idnumber: ''
+      single: 'true'
+      shuffleanswers: 'true'
+      answernumbering: none
+      correctfeedback:
+        text: ''
+        _format: moodle_auto_format
+      partiallycorrectfeedback:
+        text: ''
+        _format: moodle_auto_format
+      incorrectfeedback:
+        text: ''
+        _format: moodle_auto_format
+      answer:
+        - text: '70000'
+          feedback:
+            text: ''
+            _format: moodle_auto_format
+          _fraction: '100'
+          _format: moodle_auto_format
+        - text: '70007'
+          feedback:
+            text: ''
+            _format: moodle_auto_format
+          _fraction: '0'
+          _format: moodle_auto_format
+        - text: '70020'
+          feedback:
+            text: ''
+            _format: moodle_auto_format
+          _fraction: '0'
+          _format: moodle_auto_format
+        - text: '69983'
+          feedback:
+            text: ''
+            _format: moodle_auto_format
+          _fraction: '0'
+          _format: moodle_auto_format
+        - text: '70012'
+          feedback:
+            text: ''
+            _format: moodle_auto_format
+          _fraction: '0'
+          _format: moodle_auto_format
+      _type: multichoice
+    - name:
+        text: 128 &times; 54 = ?
+      questiontext:
+        text: <font size="4">128 &times; 5<sup>4</sup> = ?</font><br>
+        _format: moodle_auto_format
+      generalfeedback:
+        text: >-
+          <font size="4">
+
+          128 &times; 5<sup>4</sup> = 128 &times;
+          (<sup>10</sup>/<sub>2</sub>)<sup>4</sup><br>
+
+          = <sup>(128 &times; 10<sup>4</sup>)</sup>/<sub>2<sup>4</sup></sub><br>
+
+          = <sup>1280000</sup>/<sub>16</sub><br>
+
+          = 80000<br>
+
+          </p></font>
+        _format: moodle_auto_format
+      defaultgrade: '1.0000000'
+      penalty: '0.3333333'
+      hidden: '0'
+      idnumber: ''
+      single: 'true'
+      shuffleanswers: 'true'
+      answernumbering: none
+      correctfeedback:
+        text: ''
+        _format: moodle_auto_format
+      partiallycorrectfeedback:
+        text: ''
+        _format: moodle_auto_format
+      incorrectfeedback:
+        text: ''
+        _format: moodle_auto_format
+      answer:
+        - text: '80000'
+          feedback:
+            text: ''
+            _format: moodle_auto_format
+          _fraction: '100'
+          _format: moodle_auto_format
+        - text: '80007'
+          feedback:
+            text: ''
+            _format: moodle_auto_format
+          _fraction: '0'
+          _format: moodle_auto_format
+        - text: '80020'
+          feedback:
+            text: ''
+            _format: moodle_auto_format
+          _fraction: '0'
+          _format: moodle_auto_format
+        - text: '79983'
+          feedback:
+            text: ''
+            _format: moodle_auto_format
+          _fraction: '0'
+          _format: moodle_auto_format
+        - text: '80012'
+          feedback:
+            text: ''
+            _format: moodle_auto_format
+          _fraction: '0'
+          _format: moodle_auto_format
+      _type: multichoice
+    - name:
+        text: 144 &times; 54 = ?
+      questiontext:
+        text: <font size="4">144 &times; 5<sup>4</sup> = ?</font><br>
+        _format: moodle_auto_format
+      generalfeedback:
+        text: >-
+          <font size="4">
+
+          144 &times; 5<sup>4</sup> = 144 &times;
+          (<sup>10</sup>/<sub>2</sub>)<sup>4</sup><br>
+
+          = <sup>(144 &times; 10<sup>4</sup>)</sup>/<sub>2<sup>4</sup></sub><br>
+
+          = <sup>1440000</sup>/<sub>16</sub><br>
+
+          = 90000<br>
+
+          </p></font>
+        _format: moodle_auto_format
+      defaultgrade: '1.0000000'
+      penalty: '0.3333333'
+      hidden: '0'
+      idnumber: ''
+      single: 'true'
+      shuffleanswers: 'true'
+      answernumbering: none
+      correctfeedback:
+        text: ''
+        _format: moodle_auto_format
+      partiallycorrectfeedback:
+        text: ''
+        _format: moodle_auto_format
+      incorrectfeedback:
+        text: ''
+        _format: moodle_auto_format
+      answer:
+        - text: '90000'
+          feedback:
+            text: ''
+            _format: moodle_auto_format
+          _fraction: '100'
+          _format: moodle_auto_format
+        - text: '90007'
+          feedback:
+            text: ''
+            _format: moodle_auto_format
+          _fraction: '0'
+          _format: moodle_auto_format
+        - text: '90020'
+          feedback:
+            text: ''
+            _format: moodle_auto_format
+          _fraction: '0'
+          _format: moodle_auto_format
+        - text: '89983'
+          feedback:
+            text: ''
+            _format: moodle_auto_format
+          _fraction: '0'
+          _format: moodle_auto_format
+        - text: '90012'
+          feedback:
+            text: ''
+            _format: moodle_auto_format
+          _fraction: '0'
+          _format: moodle_auto_format
+      _type: multichoice
+    - name:
+        text: 160 &times; 54 = ?
+      questiontext:
+        text: <font size="4">160 &times; 5<sup>4</sup> = ?</font><br>
+        _format: moodle_auto_format
+      generalfeedback:
+        text: >-
+          <font size="4">
+
+          160 &times; 5<sup>4</sup> = 160 &times;
+          (<sup>10</sup>/<sub>2</sub>)<sup>4</sup><br>
+
+          = <sup>(160 &times; 10<sup>4</sup>)</sup>/<sub>2<sup>4</sup></sub><br>
+
+          = <sup>1600000</sup>/<sub>16</sub><br>
+
+          = 100000<br>
+
+          </p></font>
+        _format: moodle_auto_format
+      defaultgrade: '1.0000000'
+      penalty: '0.3333333'
+      hidden: '0'
+      idnumber: ''
+      single: 'true'
+      shuffleanswers: 'true'
+      answernumbering: none
+      correctfeedback:
+        text: ''
+        _format: moodle_auto_format
+      partiallycorrectfeedback:
+        text: ''
+        _format: moodle_auto_format
+      incorrectfeedback:
+        text: ''
+        _format: moodle_auto_format
+      answer:
+        - text: '100000'
+          feedback:
+            text: ''
+            _format: moodle_auto_format
+          _fraction: '100'
+          _format: moodle_auto_format
+        - text: '100007'
+          feedback:
+            text: ''
+            _format: moodle_auto_format
+          _fraction: '0'
+          _format: moodle_auto_format
+        - text: '100020'
+          feedback:
+            text: ''
+            _format: moodle_auto_format
+          _fraction: '0'
+          _format: moodle_auto_format
+        - text: '99983'
+          feedback:
+            text: ''
+            _format: moodle_auto_format
+          _fraction: '0'
+          _format: moodle_auto_format
+        - text: '100012'
+          feedback:
+            text: ''
+            _format: moodle_auto_format
+          _fraction: '0'
+          _format: moodle_auto_format
+      _type: multichoice
+    - name:
+        text: 176 &times; 54 = ?
+      questiontext:
+        text: <font size="4">176 &times; 5<sup>4</sup> = ?</font><br>
+        _format: moodle_auto_format
+      generalfeedback:
+        text: >-
+          <font size="4">
+
+          176 &times; 5<sup>4</sup> = 176 &times;
+          (<sup>10</sup>/<sub>2</sub>)<sup>4</sup><br>
+
+          = <sup>(176 &times; 10<sup>4</sup>)</sup>/<sub>2<sup>4</sup></sub><br>
+
+          = <sup>1760000</sup>/<sub>16</sub><br>
+
+          = 110000<br>
+
+          </p></font>
+        _format: moodle_auto_format
+      defaultgrade: '1.0000000'
+      penalty: '0.3333333'
+      hidden: '0'
+      idnumber: ''
+      single: 'true'
+      shuffleanswers: 'true'
+      answernumbering: none
+      correctfeedback:
+        text: ''
+        _format: moodle_auto_format
+      partiallycorrectfeedback:
+        text: ''
+        _format: moodle_auto_format
+      incorrectfeedback:
+        text: ''
+        _format: moodle_auto_format
+      answer:
+        - text: '110000'
+          feedback:
+            text: ''
+            _format: moodle_auto_format
+          _fraction: '100'
+          _format: moodle_auto_format
+        - text: '110007'
+          feedback:
+            text: ''
+            _format: moodle_auto_format
+          _fraction: '0'
+          _format: moodle_auto_format
+        - text: '110020'
+          feedback:
+            text: ''
+            _format: moodle_auto_format
+          _fraction: '0'
+          _format: moodle_auto_format
+        - text: '109983'
+          feedback:
+            text: ''
+            _format: moodle_auto_format
+          _fraction: '0'
+          _format: moodle_auto_format
+        - text: '110012'
+          feedback:
+            text: ''
+            _format: moodle_auto_format
+          _fraction: '0'
+          _format: moodle_auto_format
+      _type: multichoice
+    - name:
+        text: 192 &times; 54 = ?
+      questiontext:
+        text: <font size="4">192 &times; 5<sup>4</sup> = ?</font><br>
+        _format: moodle_auto_format
+      generalfeedback:
+        text: >-
+          <font size="4">
+
+          192 &times; 5<sup>4</sup> = 192 &times;
+          (<sup>10</sup>/<sub>2</sub>)<sup>4</sup><br>
+
+          = <sup>(192 &times; 10<sup>4</sup>)</sup>/<sub>2<sup>4</sup></sub><br>
+
+          = <sup>1920000</sup>/<sub>16</sub><br>
+
+          = 120000<br>
+
+          </p></font>
+        _format: moodle_auto_format
+      defaultgrade: '1.0000000'
+      penalty: '0.3333333'
+      hidden: '0'
+      idnumber: ''
+      single: 'true'
+      shuffleanswers: 'true'
+      answernumbering: none
+      correctfeedback:
+        text: ''
+        _format: moodle_auto_format
+      partiallycorrectfeedback:
+        text: ''
+        _format: moodle_auto_format
+      incorrectfeedback:
+        text: ''
+        _format: moodle_auto_format
+      answer:
+        - text: '120000'
+          feedback:
+            text: ''
+            _format: moodle_auto_format
+          _fraction: '100'
+          _format: moodle_auto_format
+        - text: '120007'
+          feedback:
+            text: ''
+            _format: moodle_auto_format
+          _fraction: '0'
+          _format: moodle_auto_format
+        - text: '120020'
+          feedback:
+            text: ''
+            _format: moodle_auto_format
+          _fraction: '0'
+          _format: moodle_auto_format
+        - text: '119983'
+          feedback:
+            text: ''
+            _format: moodle_auto_format
+          _fraction: '0'
+          _format: moodle_auto_format
+        - text: '120012'
+          feedback:
+            text: ''
+            _format: moodle_auto_format
+          _fraction: '0'
+          _format: moodle_auto_format
+      _type: multichoice
+    - name:
+        text: 208 &times; 54 = ?
+      questiontext:
+        text: <font size="4">208 &times; 5<sup>4</sup> = ?</font><br>
+        _format: moodle_auto_format
+      generalfeedback:
+        text: >-
+          <font size="4">
+
+          208 &times; 5<sup>4</sup> = 208 &times;
+          (<sup>10</sup>/<sub>2</sub>)<sup>4</sup><br>
+
+          = <sup>(208 &times; 10<sup>4</sup>)</sup>/<sub>2<sup>4</sup></sub><br>
+
+          = <sup>2080000</sup>/<sub>16</sub><br>
+
+          = 130000<br>
+
+          </p></font>
+        _format: moodle_auto_format
+      defaultgrade: '1.0000000'
+      penalty: '0.3333333'
+      hidden: '0'
+      idnumber: ''
+      single: 'true'
+      shuffleanswers: 'true'
+      answernumbering: none
+      correctfeedback:
+        text: ''
+        _format: moodle_auto_format
+      partiallycorrectfeedback:
+        text: ''
+        _format: moodle_auto_format
+      incorrectfeedback:
+        text: ''
+        _format: moodle_auto_format
+      answer:
+        - text: '130000'
+          feedback:
+            text: ''
+            _format: moodle_auto_format
+          _fraction: '100'
+          _format: moodle_auto_format
+        - text: '130007'
+          feedback:
+            text: ''
+            _format: moodle_auto_format
+          _fraction: '0'
+          _format: moodle_auto_format
+        - text: '130020'
+          feedback:
+            text: ''
+            _format: moodle_auto_format
+          _fraction: '0'
+          _format: moodle_auto_format
+        - text: '129983'
+          feedback:
+            text: ''
+            _format: moodle_auto_format
+          _fraction: '0'
+          _format: moodle_auto_format
+        - text: '130012'
+          feedback:
+            text: ''
+            _format: moodle_auto_format
+          _fraction: '0'
+          _format: moodle_auto_format
+      _type: multichoice
+    - name:
+        text: 224 &times; 54 = ?
+      questiontext:
+        text: <font size="4">224 &times; 5<sup>4</sup> = ?</font><br>
+        _format: moodle_auto_format
+      generalfeedback:
+        text: >-
+          <font size="4">
+
+          224 &times; 5<sup>4</sup> = 224 &times;
+          (<sup>10</sup>/<sub>2</sub>)<sup>4</sup><br>
+
+          = <sup>(224 &times; 10<sup>4</sup>)</sup>/<sub>2<sup>4</sup></sub><br>
+
+          = <sup>2240000</sup>/<sub>16</sub><br>
+
+          = 140000<br>
+
+          </p></font>
+        _format: moodle_auto_format
+      defaultgrade: '1.0000000'
+      penalty: '0.3333333'
+      hidden: '0'
+      idnumber: ''
+      single: 'true'
+      shuffleanswers: 'true'
+      answernumbering: none
+      correctfeedback:
+        text: ''
+        _format: moodle_auto_format
+      partiallycorrectfeedback:
+        text: ''
+        _format: moodle_auto_format
+      incorrectfeedback:
+        text: ''
+        _format: moodle_auto_format
+      answer:
+        - text: '140000'
+          feedback:
+            text: ''
+            _format: moodle_auto_format
+          _fraction: '100'
+          _format: moodle_auto_format
+        - text: '140007'
+          feedback:
+            text: ''
+            _format: moodle_auto_format
+          _fraction: '0'
+          _format: moodle_auto_format
+        - text: '140020'
+          feedback:
+            text: ''
+            _format: moodle_auto_format
+          _fraction: '0'
+          _format: moodle_auto_format
+        - text: '139983'
+          feedback:
+            text: ''
+            _format: moodle_auto_format
+          _fraction: '0'
+          _format: moodle_auto_format
+        - text: '140012'
+          feedback:
+            text: ''
+            _format: moodle_auto_format
+          _fraction: '0'
+          _format: moodle_auto_format
+      _type: multichoice
+    - name:
+        text: 240 &times; 54 = ?
+      questiontext:
+        text: <font size="4">240 &times; 5<sup>4</sup> = ?</font><br>
+        _format: moodle_auto_format
+      generalfeedback:
+        text: >-
+          <font size="4">
+
+          240 &times; 5<sup>4</sup> = 240 &times;
+          (<sup>10</sup>/<sub>2</sub>)<sup>4</sup><br>
+
+          = <sup>(240 &times; 10<sup>4</sup>)</sup>/<sub>2<sup>4</sup></sub><br>
+
+          = <sup>2400000</sup>/<sub>16</sub><br>
+
+          = 150000<br>
+
+          </p></font>
+        _format: moodle_auto_format
+      defaultgrade: '1.0000000'
+      penalty: '0.3333333'
+      hidden: '0'
+      idnumber: ''
+      single: 'true'
+      shuffleanswers: 'true'
+      answernumbering: none
+      correctfeedback:
+        text: ''
+        _format: moodle_auto_format
+      partiallycorrectfeedback:
+        text: ''
+        _format: moodle_auto_format
+      incorrectfeedback:
+        text: ''
+        _format: moodle_auto_format
+      answer:
+        - text: '150000'
+          feedback:
+            text: ''
+            _format: moodle_auto_format
+          _fraction: '100'
+          _format: moodle_auto_format
+        - text: '150007'
+          feedback:
+            text: ''
+            _format: moodle_auto_format
+          _fraction: '0'
+          _format: moodle_auto_format
+        - text: '150020'
+          feedback:
+            text: ''
+            _format: moodle_auto_format
+          _fraction: '0'
+          _format: moodle_auto_format
+        - text: '149983'
+          feedback:
+            text: ''
+            _format: moodle_auto_format
+          _fraction: '0'
+          _format: moodle_auto_format
+        - text: '150012'
+          feedback:
+            text: ''
+            _format: moodle_auto_format
+          _fraction: '0'
+          _format: moodle_auto_format
+      _type: multichoice
+    - name:
+        text: 256 &times; 54 = ?
+      questiontext:
+        text: <font size="4">256 &times; 5<sup>4</sup> = ?</font><br>
+        _format: moodle_auto_format
+      generalfeedback:
+        text: >-
+          <font size="4">
+
+          256 &times; 5<sup>4</sup> = 256 &times;
+          (<sup>10</sup>/<sub>2</sub>)<sup>4</sup><br>
+
+          = <sup>(256 &times; 10<sup>4</sup>)</sup>/<sub>2<sup>4</sup></sub><br>
+
+          = <sup>2560000</sup>/<sub>16</sub><br>
+
+          = 160000<br>
+
+          </p></font>
+        _format: moodle_auto_format
+      defaultgrade: '1.0000000'
+      penalty: '0.3333333'
+      hidden: '0'
+      idnumber: ''
+      single: 'true'
+      shuffleanswers: 'true'
+      answernumbering: none
+      correctfeedback:
+        text: ''
+        _format: moodle_auto_format
+      partiallycorrectfeedback:
+        text: ''
+        _format: moodle_auto_format
+      incorrectfeedback:
+        text: ''
+        _format: moodle_auto_format
+      answer:
+        - text: '160000'
+          feedback:
+            text: ''
+            _format: moodle_auto_format
+          _fraction: '100'
+          _format: moodle_auto_format
+        - text: '160007'
+          feedback:
+            text: ''
+            _format: moodle_auto_format
+          _fraction: '0'
+          _format: moodle_auto_format
+        - text: '160020'
+          feedback:
+            text: ''
+            _format: moodle_auto_format
+          _fraction: '0'
+          _format: moodle_auto_format
+        - text: '159983'
+          feedback:
+            text: ''
+            _format: moodle_auto_format
+          _fraction: '0'
+          _format: moodle_auto_format
+        - text: '160012'
+          feedback:
+            text: ''
+            _format: moodle_auto_format
+          _fraction: '0'
+          _format: moodle_auto_format
+      _type: multichoice
+    - name:
+        text: 272 &times; 54 = ?
+      questiontext:
+        text: <font size="4">272 &times; 5<sup>4</sup> = ?</font><br>
+        _format: moodle_auto_format
+      generalfeedback:
+        text: >-
+          <font size="4">
+
+          272 &times; 5<sup>4</sup> = 272 &times;
+          (<sup>10</sup>/<sub>2</sub>)<sup>4</sup><br>
+
+          = <sup>(272 &times; 10<sup>4</sup>)</sup>/<sub>2<sup>4</sup></sub><br>
+
+          = <sup>2720000</sup>/<sub>16</sub><br>
+
+          = 170000<br>
+
+          </p></font>
+        _format: moodle_auto_format
+      defaultgrade: '1.0000000'
+      penalty: '0.3333333'
+      hidden: '0'
+      idnumber: ''
+      single: 'true'
+      shuffleanswers: 'true'
+      answernumbering: none
+      correctfeedback:
+        text: ''
+        _format: moodle_auto_format
+      partiallycorrectfeedback:
+        text: ''
+        _format: moodle_auto_format
+      incorrectfeedback:
+        text: ''
+        _format: moodle_auto_format
+      answer:
+        - text: '170000'
+          feedback:
+            text: ''
+            _format: moodle_auto_format
+          _fraction: '100'
+          _format: moodle_auto_format
+        - text: '170007'
+          feedback:
+            text: ''
+            _format: moodle_auto_format
+          _fraction: '0'
+          _format: moodle_auto_format
+        - text: '170020'
+          feedback:
+            text: ''
+            _format: moodle_auto_format
+          _fraction: '0'
+          _format: moodle_auto_format
+        - text: '169983'
+          feedback:
+            text: ''
+            _format: moodle_auto_format
+          _fraction: '0'
+          _format: moodle_auto_format
+        - text: '170012'
+          feedback:
+            text: ''
+            _format: moodle_auto_format
+          _fraction: '0'
+          _format: moodle_auto_format
+      _type: multichoice
+    - name:
+        text: 288 &times; 54 = ?
+      questiontext:
+        text: <font size="4">288 &times; 5<sup>4</sup> = ?</font><br>
+        _format: moodle_auto_format
+      generalfeedback:
+        text: >-
+          <font size="4">
+
+          288 &times; 5<sup>4</sup> = 288 &times;
+          (<sup>10</sup>/<sub>2</sub>)<sup>4</sup><br>
+
+          = <sup>(288 &times; 10<sup>4</sup>)</sup>/<sub>2<sup>4</sup></sub><br>
+
+          = <sup>2880000</sup>/<sub>16</sub><br>
+
+          = 180000<br>
+
+          </p></font>
+        _format: moodle_auto_format
+      defaultgrade: '1.0000000'
+      penalty: '0.3333333'
+      hidden: '0'
+      idnumber: ''
+      single: 'true'
+      shuffleanswers: 'true'
+      answernumbering: none
+      correctfeedback:
+        text: ''
+        _format: moodle_auto_format
+      partiallycorrectfeedback:
+        text: ''
+        _format: moodle_auto_format
+      incorrectfeedback:
+        text: ''
+        _format: moodle_auto_format
+      answer:
+        - text: '180000'
+          feedback:
+            text: ''
+            _format: moodle_auto_format
+          _fraction: '100'
+          _format: moodle_auto_format
+        - text: '180007'
+          feedback:
+            text: ''
+            _format: moodle_auto_format
+          _fraction: '0'
+          _format: moodle_auto_format
+        - text: '180020'
+          feedback:
+            text: ''
+            _format: moodle_auto_format
+          _fraction: '0'
+          _format: moodle_auto_format
+        - text: '179983'
+          feedback:
+            text: ''
+            _format: moodle_auto_format
+          _fraction: '0'
+          _format: moodle_auto_format
+        - text: '180012'
+          feedback:
+            text: ''
+            _format: moodle_auto_format
+          _fraction: '0'
+          _format: moodle_auto_format
+      _type: multichoice
+    - name:
+        text: 304 &times; 54 = ?
+      questiontext:
+        text: <font size="4">304 &times; 5<sup>4</sup> = ?</font><br>
+        _format: moodle_auto_format
+      generalfeedback:
+        text: >-
+          <font size="4">
+
+          304 &times; 5<sup>4</sup> = 304 &times;
+          (<sup>10</sup>/<sub>2</sub>)<sup>4</sup><br>
+
+          = <sup>(304 &times; 10<sup>4</sup>)</sup>/<sub>2<sup>4</sup></sub><br>
+
+          = <sup>3040000</sup>/<sub>16</sub><br>
+
+          = 190000<br>
+
+          </p></font>
+        _format: moodle_auto_format
+      defaultgrade: '1.0000000'
+      penalty: '0.3333333'
+      hidden: '0'
+      idnumber: ''
+      single: 'true'
+      shuffleanswers: 'true'
+      answernumbering: none
+      correctfeedback:
+        text: ''
+        _format: moodle_auto_format
+      partiallycorrectfeedback:
+        text: ''
+        _format: moodle_auto_format
+      incorrectfeedback:
+        text: ''
+        _format: moodle_auto_format
+      answer:
+        - text: '190000'
+          feedback:
+            text: ''
+            _format: moodle_auto_format
+          _fraction: '100'
+          _format: moodle_auto_format
+        - text: '190007'
+          feedback:
+            text: ''
+            _format: moodle_auto_format
+          _fraction: '0'
+          _format: moodle_auto_format
+        - text: '190020'
+          feedback:
+            text: ''
+            _format: moodle_auto_format
+          _fraction: '0'
+          _format: moodle_auto_format
+        - text: '189983'
+          feedback:
+            text: ''
+            _format: moodle_auto_format
+          _fraction: '0'
+          _format: moodle_auto_format
+        - text: '190012'
+          feedback:
+            text: ''
+            _format: moodle_auto_format
+          _fraction: '0'
+          _format: moodle_auto_format
+      _type: multichoice
+    - name:
+        text: 32 &times; 54 = ?
+      questiontext:
+        text: <font size="4">32 &times; 5<sup>4</sup> = ?</font><br>
+        _format: moodle_auto_format
+      generalfeedback:
+        text: >-
+          <font size="4">
+
+          32 &times; 5<sup>4</sup> = 32 &times;
+          (<sup>10</sup>/<sub>2</sub>)<sup>4</sup><br>
+
+          = <sup>(32 &times; 10<sup>4</sup>)</sup>/<sub>2<sup>4</sup></sub><br>
+
+          = <sup>320000</sup>/<sub>16</sub><br>
+
+          = 20000<br>
+
+          </p></font>
+        _format: moodle_auto_format
+      defaultgrade: '1.0000000'
+      penalty: '0.3333333'
+      hidden: '0'
+      idnumber: ''
+      single: 'true'
+      shuffleanswers: 'true'
+      answernumbering: none
+      correctfeedback:
+        text: ''
+        _format: moodle_auto_format
+      partiallycorrectfeedback:
+        text: ''
+        _format: moodle_auto_format
+      incorrectfeedback:
+        text: ''
+        _format: moodle_auto_format
+      answer:
+        - text: '20000'
+          feedback:
+            text: ''
+            _format: moodle_auto_format
+          _fraction: '100'
+          _format: moodle_auto_format
+        - text: '20007'
+          feedback:
+            text: ''
+            _format: moodle_auto_format
+          _fraction: '0'
+          _format: moodle_auto_format
+        - text: '20020'
+          feedback:
+            text: ''
+            _format: moodle_auto_format
+          _fraction: '0'
+          _format: moodle_auto_format
+        - text: '19983'
+          feedback:
+            text: ''
+            _format: moodle_auto_format
+          _fraction: '0'
+          _format: moodle_auto_format
+        - text: '20012'
+          feedback:
+            text: ''
+            _format: moodle_auto_format
+          _fraction: '0'
+          _format: moodle_auto_format
+      _type: multichoice
+    - name:
+        text: 320 &times; 54 = ?
+      questiontext:
+        text: <font size="4">320 &times; 5<sup>4</sup> = ?</font><br>
+        _format: moodle_auto_format
+      generalfeedback:
+        text: >-
+          <font size="4">
+
+          320 &times; 5<sup>4</sup> = 320 &times;
+          (<sup>10</sup>/<sub>2</sub>)<sup>4</sup><br>
+
+          = <sup>(320 &times; 10<sup>4</sup>)</sup>/<sub>2<sup>4</sup></sub><br>
+
+          = <sup>3200000</sup>/<sub>16</sub><br>
+
+          = 200000<br>
+
+          </p></font>
+        _format: moodle_auto_format
+      defaultgrade: '1.0000000'
+      penalty: '0.3333333'
+      hidden: '0'
+      idnumber: ''
+      single: 'true'
+      shuffleanswers: 'true'
+      answernumbering: none
+      correctfeedback:
+        text: ''
+        _format: moodle_auto_format
+      partiallycorrectfeedback:
+        text: ''
+        _format: moodle_auto_format
+      incorrectfeedback:
+        text: ''
+        _format: moodle_auto_format
+      answer:
+        - text: '200000'
+          feedback:
+            text: ''
+            _format: moodle_auto_format
+          _fraction: '100'
+          _format: moodle_auto_format
+        - text: '200007'
+          feedback:
+            text: ''
+            _format: moodle_auto_format
+          _fraction: '0'
+          _format: moodle_auto_format
+        - text: '200020'
+          feedback:
+            text: ''
+            _format: moodle_auto_format
+          _fraction: '0'
+          _format: moodle_auto_format
+        - text: '199983'
+          feedback:
+            text: ''
+            _format: moodle_auto_format
+          _fraction: '0'
+          _format: moodle_auto_format
+        - text: '200012'
+          feedback:
+            text: ''
+            _format: moodle_auto_format
+          _fraction: '0'
+          _format: moodle_auto_format
+      _type: multichoice
+    - name:
+        text: 336 &times; 54 = ?
+      questiontext:
+        text: <font size="4">336 &times; 5<sup>4</sup> = ?</font><br>
+        _format: moodle_auto_format
+      generalfeedback:
+        text: >-
+          <font size="4">
+
+          336 &times; 5<sup>4</sup> = 336 &times;
+          (<sup>10</sup>/<sub>2</sub>)<sup>4</sup><br>
+
+          = <sup>(336 &times; 10<sup>4</sup>)</sup>/<sub>2<sup>4</sup></sub><br>
+
+          = <sup>3360000</sup>/<sub>16</sub><br>
+
+          = 210000<br>
+
+          </p></font>
+        _format: moodle_auto_format
+      defaultgrade: '1.0000000'
+      penalty: '0.3333333'
+      hidden: '0'
+      idnumber: ''
+      single: 'true'
+      shuffleanswers: 'true'
+      answernumbering: none
+      correctfeedback:
+        text: ''
+        _format: moodle_auto_format
+      partiallycorrectfeedback:
+        text: ''
+        _format: moodle_auto_format
+      incorrectfeedback:
+        text: ''
+        _format: moodle_auto_format
+      answer:
+        - text: '210000'
+          feedback:
+            text: ''
+            _format: moodle_auto_format
+          _fraction: '100'
+          _format: moodle_auto_format
+        - text: '210007'
+          feedback:
+            text: ''
+            _format: moodle_auto_format
+          _fraction: '0'
+          _format: moodle_auto_format
+        - text: '210020'
+          feedback:
+            text: ''
+            _format: moodle_auto_format
+          _fraction: '0'
+          _format: moodle_auto_format
+        - text: '209983'
+          feedback:
+            text: ''
+            _format: moodle_auto_format
+          _fraction: '0'
+          _format: moodle_auto_format
+        - text: '210012'
+          feedback:
+            text: ''
+            _format: moodle_auto_format
+          _fraction: '0'
+          _format: moodle_auto_format
+      _type: multichoice
+    - name:
+        text: 48 &times; 54 = ?
+      questiontext:
+        text: <font size="4">48 &times; 5<sup>4</sup> = ?</font><br>
+        _format: moodle_auto_format
+      generalfeedback:
+        text: >-
+          <font size="4">
+
+          48 &times; 5<sup>4</sup> = 48 &times;
+          (<sup>10</sup>/<sub>2</sub>)<sup>4</sup><br>
+
+          = <sup>(48 &times; 10<sup>4</sup>)</sup>/<sub>2<sup>4</sup></sub><br>
+
+          = <sup>480000</sup>/<sub>16</sub><br>
+
+          = 30000<br>
+
+          </p></font>
+        _format: moodle_auto_format
+      defaultgrade: '1.0000000'
+      penalty: '0.3333333'
+      hidden: '0'
+      idnumber: ''
+      single: 'true'
+      shuffleanswers: 'true'
+      answernumbering: none
+      correctfeedback:
+        text: ''
+        _format: moodle_auto_format
+      partiallycorrectfeedback:
+        text: ''
+        _format: moodle_auto_format
+      incorrectfeedback:
+        text: ''
+        _format: moodle_auto_format
+      answer:
+        - text: '30000'
+          feedback:
+            text: ''
+            _format: moodle_auto_format
+          _fraction: '100'
+          _format: moodle_auto_format
+        - text: '30007'
+          feedback:
+            text: ''
+            _format: moodle_auto_format
+          _fraction: '0'
+          _format: moodle_auto_format
+        - text: '30020'
+          feedback:
+            text: ''
+            _format: moodle_auto_format
+          _fraction: '0'
+          _format: moodle_auto_format
+        - text: '29983'
+          feedback:
+            text: ''
+            _format: moodle_auto_format
+          _fraction: '0'
+          _format: moodle_auto_format
+        - text: '30012'
+          feedback:
+            text: ''
+            _format: moodle_auto_format
+          _fraction: '0'
+          _format: moodle_auto_format
+      _type: multichoice
+    - name:
+        text: 64 &times; 54 = ?
+      questiontext:
+        text: <font size="4">64 &times; 5<sup>4</sup> = ?</font><br>
+        _format: moodle_auto_format
+      generalfeedback:
+        text: >-
+          <font size="4">
+
+          64 &times; 5<sup>4</sup> = 64 &times;
+          (<sup>10</sup>/<sub>2</sub>)<sup>4</sup><br>
+
+          = <sup>(64 &times; 10<sup>4</sup>)</sup>/<sub>2<sup>4</sup></sub><br>
+
+          = <sup>640000</sup>/<sub>16</sub><br>
+
+          = 40000<br>
+
+          </p></font>
+        _format: moodle_auto_format
+      defaultgrade: '1.0000000'
+      penalty: '0.3333333'
+      hidden: '0'
+      idnumber: ''
+      single: 'true'
+      shuffleanswers: 'true'
+      answernumbering: none
+      correctfeedback:
+        text: ''
+        _format: moodle_auto_format
+      partiallycorrectfeedback:
+        text: ''
+        _format: moodle_auto_format
+      incorrectfeedback:
+        text: ''
+        _format: moodle_auto_format
+      answer:
+        - text: '40000'
+          feedback:
+            text: ''
+            _format: moodle_auto_format
+          _fraction: '100'
+          _format: moodle_auto_format
+        - text: '40007'
+          feedback:
+            text: ''
+            _format: moodle_auto_format
+          _fraction: '0'
+          _format: moodle_auto_format
+        - text: '40020'
+          feedback:
+            text: ''
+            _format: moodle_auto_format
+          _fraction: '0'
+          _format: moodle_auto_format
+        - text: '39983'
+          feedback:
+            text: ''
+            _format: moodle_auto_format
+          _fraction: '0'
+          _format: moodle_auto_format
+        - text: '40012'
+          feedback:
+            text: ''
+            _format: moodle_auto_format
+          _fraction: '0'
+          _format: moodle_auto_format
+      _type: multichoice
+    - name:
+        text: 80 &times; 54 = ?
+      questiontext:
+        text: <font size="4">80 &times; 5<sup>4</sup> = ?</font><br>
+        _format: moodle_auto_format
+      generalfeedback:
+        text: >-
+          <font size="4">
+
+          80 &times; 5<sup>4</sup> = 80 &times;
+          (<sup>10</sup>/<sub>2</sub>)<sup>4</sup><br>
+
+          = <sup>(80 &times; 10<sup>4</sup>)</sup>/<sub>2<sup>4</sup></sub><br>
+
+          = <sup>800000</sup>/<sub>16</sub><br>
+
+          = 50000<br>
+
+          </p></font>
+        _format: moodle_auto_format
+      defaultgrade: '1.0000000'
+      penalty: '0.3333333'
+      hidden: '0'
+      idnumber: ''
+      single: 'true'
+      shuffleanswers: 'true'
+      answernumbering: none
+      correctfeedback:
+        text: ''
+        _format: moodle_auto_format
+      partiallycorrectfeedback:
+        text: ''
+        _format: moodle_auto_format
+      incorrectfeedback:
+        text: ''
+        _format: moodle_auto_format
+      answer:
+        - text: '50000'
+          feedback:
+            text: ''
+            _format: moodle_auto_format
+          _fraction: '100'
+          _format: moodle_auto_format
+        - text: '50007'
+          feedback:
+            text: ''
+            _format: moodle_auto_format
+          _fraction: '0'
+          _format: moodle_auto_format
+        - text: '50020'
+          feedback:
+            text: ''
+            _format: moodle_auto_format
+          _fraction: '0'
+          _format: moodle_auto_format
+        - text: '49983'
+          feedback:
+            text: ''
+            _format: moodle_auto_format
+          _fraction: '0'
+          _format: moodle_auto_format
+        - text: '50012'
+          feedback:
+            text: ''
+            _format: moodle_auto_format
+          _fraction: '0'
+          _format: moodle_auto_format
+      _type: multichoice
+    - name:
+        text: 96 &times; 54 = ?
+      questiontext:
+        text: <font size="4">96 &times; 5<sup>4</sup> = ?</font><br>
+        _format: moodle_auto_format
+      generalfeedback:
+        text: >-
+          <font size="4">
+
+          96 &times; 5<sup>4</sup> = 96 &times;
+          (<sup>10</sup>/<sub>2</sub>)<sup>4</sup><br>
+
+          = <sup>(96 &times; 10<sup>4</sup>)</sup>/<sub>2<sup>4</sup></sub><br>
+
+          = <sup>960000</sup>/<sub>16</sub><br>
+
+          = 60000<br>
+
+          </p></font>
+        _format: moodle_auto_format
+      defaultgrade: '1.0000000'
+      penalty: '0.3333333'
+      hidden: '0'
+      idnumber: ''
+      single: 'true'
+      shuffleanswers: 'true'
+      answernumbering: none
+      correctfeedback:
+        text: ''
+        _format: moodle_auto_format
+      partiallycorrectfeedback:
+        text: ''
+        _format: moodle_auto_format
+      incorrectfeedback:
+        text: ''
+        _format: moodle_auto_format
+      answer:
+        - text: '60000'
+          feedback:
+            text: ''
+            _format: moodle_auto_format
+          _fraction: '100'
+          _format: moodle_auto_format
+        - text: '60007'
+          feedback:
+            text: ''
+            _format: moodle_auto_format
+          _fraction: '0'
+          _format: moodle_auto_format
+        - text: '60020'
+          feedback:
+            text: ''
+            _format: moodle_auto_format
+          _fraction: '0'
+          _format: moodle_auto_format
+        - text: '59983'
+          feedback:
+            text: ''
+            _format: moodle_auto_format
+          _fraction: '0'
+          _format: moodle_auto_format
+        - text: '60012'
+          feedback:
+            text: ''
+            _format: moodle_auto_format
+          _fraction: '0'
+          _format: moodle_auto_format
+      _type: multichoice

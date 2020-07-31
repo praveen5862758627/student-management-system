@@ -1,0 +1,947 @@
+[12-Mar-2019 10:26:26 Etc/GMT] PHP Notice:  Undefined property: Post::$exams in /home/odinlm3h/public_html/API/ims/exams.php on line 21
+[12-Mar-2019 10:26:26 Etc/GMT] PHP Fatal error:  Uncaught Error: Call to a member function rowCount() on null in /home/odinlm3h/public_html/API/ims/exams.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/odinlm3h/public_html/API/ims/exams.php on line 23
+[12-Mar-2019 10:27:44 Etc/GMT] PHP Notice:  Undefined property: Post::$exams in /home/odinlm3h/public_html/API/ims/exams.php on line 21
+[12-Mar-2019 10:27:44 Etc/GMT] PHP Fatal error:  Uncaught Error: Call to a member function rowCount() on null in /home/odinlm3h/public_html/API/ims/exams.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/odinlm3h/public_html/API/ims/exams.php on line 23
+[12-Mar-2019 10:29:47 Etc/GMT] PHP Notice:  Undefined property: Post::$exams in /home/odinlm3h/public_html/API/ims/exams.php on line 21
+[12-Mar-2019 10:29:47 Etc/GMT] PHP Fatal error:  Uncaught Error: Call to a member function rowCount() on null in /home/odinlm3h/public_html/API/ims/exams.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/odinlm3h/public_html/API/ims/exams.php on line 23
+[12-Mar-2019 10:30:41 Etc/GMT] PHP Notice:  Undefined property: Post::$exams in /home/odinlm3h/public_html/API/ims/exams.php on line 21
+[12-Mar-2019 10:30:41 Etc/GMT] PHP Fatal error:  Uncaught Error: Call to a member function rowCount() on null in /home/odinlm3h/public_html/API/ims/exams.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/odinlm3h/public_html/API/ims/exams.php on line 23
+[12-Mar-2019 10:30:43 Etc/GMT] PHP Notice:  Undefined property: Post::$exams in /home/odinlm3h/public_html/API/ims/exams.php on line 21
+[12-Mar-2019 10:30:43 Etc/GMT] PHP Fatal error:  Uncaught Error: Call to a member function rowCount() on null in /home/odinlm3h/public_html/API/ims/exams.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/odinlm3h/public_html/API/ims/exams.php on line 23
+[12-Mar-2019 10:31:07 Etc/GMT] PHP Notice:  Undefined variable: numlesson in /home/odinlm3h/public_html/API/ims/exams.php on line 20
+[13-Mar-2019 05:26:37 Etc/GMT] PHP Parse error:  syntax error, unexpected ''description'' (T_CONSTANT_ENCAPSED_STRING), expecting ')' in /home/odinlm3h/public_html/API/ims/company.php on line 52
+[13-Mar-2019 05:26:40 Etc/GMT] PHP Parse error:  syntax error, unexpected ''description'' (T_CONSTANT_ENCAPSED_STRING), expecting ')' in /home/odinlm3h/public_html/API/ims/company.php on line 52
+[13-Mar-2019 05:28:21 Etc/GMT] PHP Parse error:  syntax error, unexpected ''description'' (T_CONSTANT_ENCAPSED_STRING), expecting ')' in /home/odinlm3h/public_html/API/ims/company.php on line 52
+[13-Mar-2019 05:29:05 Etc/GMT] PHP Parse error:  syntax error, unexpected ''description'' (T_CONSTANT_ENCAPSED_STRING), expecting ')' in /home/odinlm3h/public_html/API/ims/company.php on line 52
+[13-Mar-2019 05:29:08 Etc/GMT] PHP Parse error:  syntax error, unexpected ''description'' (T_CONSTANT_ENCAPSED_STRING), expecting ')' in /home/odinlm3h/public_html/API/ims/company.php on line 52
+[13-Mar-2019 05:29:42 Etc/GMT] PHP Notice:  Undefined index: cat_val in /home/odinlm3h/public_html/API/ims/company.php on line 18
+[15-Mar-2019 04:52:39 Etc/GMT] PHP Notice:  Undefined variable: id in /home/odinlm3h/public_html/API/ims/industry.php on line 49
+[15-Mar-2019 04:52:39 Etc/GMT] PHP Notice:  Undefined variable: id in /home/odinlm3h/public_html/API/ims/industry.php on line 49
+[15-Mar-2019 04:52:39 Etc/GMT] PHP Notice:  Undefined variable: id in /home/odinlm3h/public_html/API/ims/industry.php on line 49
+[15-Mar-2019 04:52:44 Etc/GMT] PHP Notice:  Undefined variable: id in /home/odinlm3h/public_html/API/ims/industry.php on line 49
+[15-Mar-2019 04:53:01 Etc/GMT] PHP Notice:  Undefined variable: id in /home/odinlm3h/public_html/API/ims/industry.php on line 49
+[15-Mar-2019 05:36:43 Etc/GMT] PHP Notice:  Undefined index: cat_val in /home/odinlm3h/public_html/API/ims/examsearchrelated.php on line 18
+[15-Mar-2019 05:36:45 Etc/GMT] PHP Notice:  Undefined index: cat_val in /home/odinlm3h/public_html/API/ims/examsearchrelated.php on line 18
+[15-Mar-2019 05:36:49 Etc/GMT] PHP Notice:  Undefined index: cat_val in /home/odinlm3h/public_html/API/ims/examsearchrelated.php on line 18
+[15-Mar-2019 05:37:45 Etc/GMT] PHP Notice:  Undefined index: cat_val in /home/odinlm3h/public_html/API/ims/examsearchrelated.php on line 18
+[15-Mar-2019 06:37:53 Etc/GMT] PHP Fatal error:  Uncaught Error: Call to undefined function gettopic() in /home/odinlm3h/public_html/API/ims/examsearchrelatedschdulescomps.php:50
+Stack trace:
+#0 {main}
+  thrown in /home/odinlm3h/public_html/API/ims/examsearchrelatedschdulescomps.php on line 50
+[15-Mar-2019 06:37:57 Etc/GMT] PHP Fatal error:  Uncaught Error: Call to undefined function gettopic() in /home/odinlm3h/public_html/API/ims/examsearchrelatedschdulescomps.php:50
+Stack trace:
+#0 {main}
+  thrown in /home/odinlm3h/public_html/API/ims/examsearchrelatedschdulescomps.php on line 50
+[15-Mar-2019 10:21:52 Etc/GMT] PHP Notice:  Undefined index: cat_val in /home/odinlm3h/public_html/API/ims/examsearchrelatedschdulescomps.php on line 18
+[15-Mar-2019 10:22:17 Etc/GMT] PHP Notice:  Undefined index: cat_val in /home/odinlm3h/public_html/API/ims/examsearchrelatedschdulescomps.php on line 18
+[15-Mar-2019 10:22:30 Etc/GMT] PHP Notice:  Undefined index: cat_val in /home/odinlm3h/public_html/API/ims/examsearchrelatedschdulescomps.php on line 18
+[15-Mar-2019 10:27:50 Etc/GMT] PHP Notice:  Undefined index: cat_val in /home/odinlm3h/public_html/API/ims/examsearch.php on line 18
+[18-Mar-2019 09:14:03 Etc/GMT] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'E0007' in 'where clause' in /home/odinlm3h/public_html/API/ims/models/Post.php:61
+Stack trace:
+#0 /home/odinlm3h/public_html/API/ims/models/Post.php(61): PDOStatement->execute()
+#1 /home/odinlm3h/public_html/API/ims/getexamnames.php(21): Post->examname('E0007')
+#2 {main}
+  thrown in /home/odinlm3h/public_html/API/ims/models/Post.php on line 61
+[18-Mar-2019 09:14:03 Etc/GMT] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'E0005' in 'where clause' in /home/odinlm3h/public_html/API/ims/models/Post.php:61
+Stack trace:
+#0 /home/odinlm3h/public_html/API/ims/models/Post.php(61): PDOStatement->execute()
+#1 /home/odinlm3h/public_html/API/ims/getexamnames.php(21): Post->examname('E0005')
+#2 {main}
+  thrown in /home/odinlm3h/public_html/API/ims/models/Post.php on line 61
+[18-Mar-2019 11:28:15 Etc/GMT] PHP Parse error:  syntax error, unexpected ',' in /home/odinlm3h/public_html/API/ims/models/Post.php on line 49
+[18-Mar-2019 11:28:33 Etc/GMT] PHP Parse error:  syntax error, unexpected ',' in /home/odinlm3h/public_html/API/ims/models/Post.php on line 49
+[18-Mar-2019 11:28:33 Etc/GMT] PHP Parse error:  syntax error, unexpected ',' in /home/odinlm3h/public_html/API/ims/models/Post.php on line 49
+[18-Mar-2019 11:28:33 Etc/GMT] PHP Parse error:  syntax error, unexpected ',' in /home/odinlm3h/public_html/API/ims/models/Post.php on line 49
+[18-Mar-2019 11:28:33 Etc/GMT] PHP Parse error:  syntax error, unexpected ',' in /home/odinlm3h/public_html/API/ims/models/Post.php on line 49
+[18-Mar-2019 11:30:04 Etc/GMT] PHP Parse error:  syntax error, unexpected ',' in /home/odinlm3h/public_html/API/ims/models/Post.php on line 49
+[18-Mar-2019 11:30:04 Etc/GMT] PHP Parse error:  syntax error, unexpected ',' in /home/odinlm3h/public_html/API/ims/models/Post.php on line 49
+[18-Mar-2019 11:30:05 Etc/GMT] PHP Parse error:  syntax error, unexpected ',' in /home/odinlm3h/public_html/API/ims/models/Post.php on line 49
+[18-Mar-2019 11:30:05 Etc/GMT] PHP Parse error:  syntax error, unexpected ',' in /home/odinlm3h/public_html/API/ims/models/Post.php on line 49
+[18-Mar-2019 11:31:11 Etc/GMT] PHP Parse error:  syntax error, unexpected ',' in /home/odinlm3h/public_html/API/ims/models/Post.php on line 49
+[18-Mar-2019 11:31:11 Etc/GMT] PHP Parse error:  syntax error, unexpected ',' in /home/odinlm3h/public_html/API/ims/models/Post.php on line 49
+[18-Mar-2019 11:31:11 Etc/GMT] PHP Parse error:  syntax error, unexpected ',' in /home/odinlm3h/public_html/API/ims/models/Post.php on line 49
+[18-Mar-2019 11:31:12 Etc/GMT] PHP Parse error:  syntax error, unexpected ',' in /home/odinlm3h/public_html/API/ims/models/Post.php on line 49
+[18-Mar-2019 11:31:29 Etc/GMT] PHP Parse error:  syntax error, unexpected ',' in /home/odinlm3h/public_html/API/ims/models/Post.php on line 49
+[18-Mar-2019 11:31:29 Etc/GMT] PHP Parse error:  syntax error, unexpected ',' in /home/odinlm3h/public_html/API/ims/models/Post.php on line 49
+[18-Mar-2019 11:31:29 Etc/GMT] PHP Parse error:  syntax error, unexpected ',' in /home/odinlm3h/public_html/API/ims/models/Post.php on line 49
+[18-Mar-2019 11:31:30 Etc/GMT] PHP Parse error:  syntax error, unexpected ',' in /home/odinlm3h/public_html/API/ims/models/Post.php on line 49
+[18-Mar-2019 11:31:58 Etc/GMT] PHP Parse error:  syntax error, unexpected ',' in /home/odinlm3h/public_html/API/ims/models/Post.php on line 49
+[18-Mar-2019 11:33:53 Etc/GMT] PHP Parse error:  syntax error, unexpected ',' in /home/odinlm3h/public_html/API/ims/models/Post.php on line 49
+[18-Mar-2019 11:33:53 Etc/GMT] PHP Parse error:  syntax error, unexpected ',' in /home/odinlm3h/public_html/API/ims/models/Post.php on line 49
+[18-Mar-2019 11:33:53 Etc/GMT] PHP Parse error:  syntax error, unexpected ',' in /home/odinlm3h/public_html/API/ims/models/Post.php on line 49
+[18-Mar-2019 11:33:54 Etc/GMT] PHP Parse error:  syntax error, unexpected ',' in /home/odinlm3h/public_html/API/ims/models/Post.php on line 49
+[18-Mar-2019 11:33:59 Etc/GMT] PHP Parse error:  syntax error, unexpected ',' in /home/odinlm3h/public_html/API/ims/models/Post.php on line 49
+[18-Mar-2019 11:35:27 Etc/GMT] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'E0007' in 'where clause' in /home/odinlm3h/public_html/API/ims/models/Post.php:55
+Stack trace:
+#0 /home/odinlm3h/public_html/API/ims/models/Post.php(55): PDOStatement->execute()
+#1 /home/odinlm3h/public_html/API/ims/getexamcomps.php(21): Post->examcomps(Array)
+#2 {main}
+  thrown in /home/odinlm3h/public_html/API/ims/models/Post.php on line 55
+[18-Mar-2019 11:35:32 Etc/GMT] PHP Notice:  Trying to get property of non-object in /home/odinlm3h/public_html/API/ims/getexamcomps.php on line 21
+[18-Mar-2019 11:35:32 Etc/GMT] PHP Warning:  implode(): Invalid arguments passed in /home/odinlm3h/public_html/API/ims/models/Post.php on line 49
+[18-Mar-2019 11:35:32 Etc/GMT] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')' at line 10 in /home/odinlm3h/public_html/API/ims/models/Post.php:55
+Stack trace:
+#0 /home/odinlm3h/public_html/API/ims/models/Post.php(55): PDOStatement->execute()
+#1 /home/odinlm3h/public_html/API/ims/getexamcomps.php(21): Post->examcomps(NULL)
+#2 {main}
+  thrown in /home/odinlm3h/public_html/API/ims/models/Post.php on line 55
+[18-Mar-2019 11:35:34 Etc/GMT] PHP Notice:  Trying to get property of non-object in /home/odinlm3h/public_html/API/ims/getexamcomps.php on line 21
+[18-Mar-2019 11:35:34 Etc/GMT] PHP Warning:  implode(): Invalid arguments passed in /home/odinlm3h/public_html/API/ims/models/Post.php on line 49
+[18-Mar-2019 11:35:34 Etc/GMT] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')' at line 10 in /home/odinlm3h/public_html/API/ims/models/Post.php:55
+Stack trace:
+#0 /home/odinlm3h/public_html/API/ims/models/Post.php(55): PDOStatement->execute()
+#1 /home/odinlm3h/public_html/API/ims/getexamcomps.php(21): Post->examcomps(NULL)
+#2 {main}
+  thrown in /home/odinlm3h/public_html/API/ims/models/Post.php on line 55
+[18-Mar-2019 11:36:13 Etc/GMT] PHP Notice:  Trying to get property of non-object in /home/odinlm3h/public_html/API/ims/getexamcomps.php on line 21
+[18-Mar-2019 11:36:13 Etc/GMT] PHP Warning:  implode(): Invalid arguments passed in /home/odinlm3h/public_html/API/ims/models/Post.php on line 49
+[18-Mar-2019 11:41:55 Etc/GMT] PHP Warning:  implode(): Invalid arguments passed in /home/odinlm3h/public_html/API/ims/models/Post.php on line 49
+[18-Mar-2019 11:41:55 Etc/GMT] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')' at line 10 in /home/odinlm3h/public_html/API/ims/models/Post.php:55
+Stack trace:
+#0 /home/odinlm3h/public_html/API/ims/models/Post.php(55): PDOStatement->execute()
+#1 /home/odinlm3h/public_html/API/ims/getexamcomps.php(21): Post->examcomps('E0007,E0006,E00...')
+#2 {main}
+  thrown in /home/odinlm3h/public_html/API/ims/models/Post.php on line 55
+[18-Mar-2019 11:42:30 Etc/GMT] PHP Warning:  implode(): Invalid arguments passed in /home/odinlm3h/public_html/API/ims/models/Post.php on line 49
+[18-Mar-2019 11:42:30 Etc/GMT] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')' at line 10 in /home/odinlm3h/public_html/API/ims/models/Post.php:55
+Stack trace:
+#0 /home/odinlm3h/public_html/API/ims/models/Post.php(55): PDOStatement->execute()
+#1 /home/odinlm3h/public_html/API/ims/getexamcomps.php(21): Post->examcomps('E0007,E0006,E00...')
+#2 {main}
+  thrown in /home/odinlm3h/public_html/API/ims/models/Post.php on line 55
+[18-Mar-2019 11:43:53 Etc/GMT] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'E0007' in 'where clause' in /home/odinlm3h/public_html/API/ims/models/Post.php:57
+Stack trace:
+#0 /home/odinlm3h/public_html/API/ims/models/Post.php(57): PDOStatement->execute()
+#1 /home/odinlm3h/public_html/API/ims/getexamcomps.php(21): Post->examcomps('E0007,E0006,E00...')
+#2 {main}
+  thrown in /home/odinlm3h/public_html/API/ims/models/Post.php on line 57
+[18-Mar-2019 11:43:55 Etc/GMT] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'E0007' in 'where clause' in /home/odinlm3h/public_html/API/ims/models/Post.php:57
+Stack trace:
+#0 /home/odinlm3h/public_html/API/ims/models/Post.php(57): PDOStatement->execute()
+#1 /home/odinlm3h/public_html/API/ims/getexamcomps.php(21): Post->examcomps('E0007,E0006,E00...')
+#2 {main}
+  thrown in /home/odinlm3h/public_html/API/ims/models/Post.php on line 57
+[18-Mar-2019 11:44:10 Etc/GMT] PHP Notice:  Trying to get property of non-object in /home/odinlm3h/public_html/API/ims/getexamcomps.php on line 21
+[18-Mar-2019 11:44:10 Etc/GMT] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')' at line 10 in /home/odinlm3h/public_html/API/ims/models/Post.php:57
+Stack trace:
+#0 /home/odinlm3h/public_html/API/ims/models/Post.php(57): PDOStatement->execute()
+#1 /home/odinlm3h/public_html/API/ims/getexamcomps.php(21): Post->examcomps(NULL)
+#2 {main}
+  thrown in /home/odinlm3h/public_html/API/ims/models/Post.php on line 57
+[18-Mar-2019 11:44:13 Etc/GMT] PHP Notice:  Trying to get property of non-object in /home/odinlm3h/public_html/API/ims/getexamcomps.php on line 21
+[18-Mar-2019 11:44:13 Etc/GMT] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')' at line 10 in /home/odinlm3h/public_html/API/ims/models/Post.php:57
+Stack trace:
+#0 /home/odinlm3h/public_html/API/ims/models/Post.php(57): PDOStatement->execute()
+#1 /home/odinlm3h/public_html/API/ims/getexamcomps.php(21): Post->examcomps(NULL)
+#2 {main}
+  thrown in /home/odinlm3h/public_html/API/ims/models/Post.php on line 57
+[18-Mar-2019 11:44:25 Etc/GMT] PHP Notice:  Trying to get property of non-object in /home/odinlm3h/public_html/API/ims/getexamcomps.php on line 21
+[18-Mar-2019 11:44:25 Etc/GMT] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')' at line 10 in /home/odinlm3h/public_html/API/ims/models/Post.php:57
+Stack trace:
+#0 /home/odinlm3h/public_html/API/ims/models/Post.php(57): PDOStatement->execute()
+#1 /home/odinlm3h/public_html/API/ims/getexamcomps.php(21): Post->examcomps(NULL)
+#2 {main}
+  thrown in /home/odinlm3h/public_html/API/ims/models/Post.php on line 57
+[18-Mar-2019 11:46:14 Etc/GMT] PHP Notice:  Trying to get property of non-object in /home/odinlm3h/public_html/API/ims/getexamcomps.php on line 21
+[18-Mar-2019 11:46:14 Etc/GMT] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'E0007' in 'where clause' in /home/odinlm3h/public_html/API/ims/models/Post.php:57
+Stack trace:
+#0 /home/odinlm3h/public_html/API/ims/models/Post.php(57): PDOStatement->execute()
+#1 /home/odinlm3h/public_html/API/ims/getexamcomps.php(21): Post->examcomps(NULL)
+#2 {main}
+  thrown in /home/odinlm3h/public_html/API/ims/models/Post.php on line 57
+[18-Mar-2019 11:46:16 Etc/GMT] PHP Notice:  Trying to get property of non-object in /home/odinlm3h/public_html/API/ims/getexamcomps.php on line 21
+[18-Mar-2019 11:46:16 Etc/GMT] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'E0007' in 'where clause' in /home/odinlm3h/public_html/API/ims/models/Post.php:57
+Stack trace:
+#0 /home/odinlm3h/public_html/API/ims/models/Post.php(57): PDOStatement->execute()
+#1 /home/odinlm3h/public_html/API/ims/getexamcomps.php(21): Post->examcomps(NULL)
+#2 {main}
+  thrown in /home/odinlm3h/public_html/API/ims/models/Post.php on line 57
+[18-Mar-2019 11:46:38 Etc/GMT] PHP Notice:  Trying to get property of non-object in /home/odinlm3h/public_html/API/ims/getexamcomps.php on line 21
+[18-Mar-2019 11:49:53 Etc/GMT] PHP Notice:  Trying to get property of non-object in /home/odinlm3h/public_html/API/ims/getexamcomps.php on line 21
+[18-Mar-2019 11:49:53 Etc/GMT] PHP Warning:  implode(): Invalid arguments passed in /home/odinlm3h/public_html/API/ims/models/Post.php on line 51
+[18-Mar-2019 11:53:26 Etc/GMT] PHP Notice:  Trying to get property of non-object in /home/odinlm3h/public_html/API/ims/getexamcomps.php on line 21
+[18-Mar-2019 11:53:52 Etc/GMT] PHP Parse error:  syntax error, unexpected '"' in /home/odinlm3h/public_html/API/ims/models/Post.php on line 51
+[18-Mar-2019 11:54:04 Etc/GMT] PHP Notice:  Trying to get property of non-object in /home/odinlm3h/public_html/API/ims/getexamcomps.php on line 21
+[18-Mar-2019 11:57:57 Etc/GMT] PHP Notice:  Trying to get property of non-object in /home/odinlm3h/public_html/API/ims/getexamcomps.php on line 21
+[18-Mar-2019 11:57:57 Etc/GMT] PHP Notice:  Array to string conversion in /home/odinlm3h/public_html/API/ims/models/Post.php on line 54
+[18-Mar-2019 12:00:11 Etc/GMT] PHP Notice:  Trying to get property of non-object in /home/odinlm3h/public_html/API/ims/getexamcomps.php on line 21
+[18-Mar-2019 12:00:11 Etc/GMT] PHP Warning:  join(): Invalid arguments passed in /home/odinlm3h/public_html/API/ims/models/Post.php on line 42
+[18-Mar-2019 12:00:13 Etc/GMT] PHP Notice:  Trying to get property of non-object in /home/odinlm3h/public_html/API/ims/getexamcomps.php on line 21
+[18-Mar-2019 12:00:13 Etc/GMT] PHP Warning:  join(): Invalid arguments passed in /home/odinlm3h/public_html/API/ims/models/Post.php on line 42
+[18-Mar-2019 12:00:24 Etc/GMT] PHP Notice:  Trying to get property of non-object in /home/odinlm3h/public_html/API/ims/getexamcomps.php on line 21
+[18-Mar-2019 12:00:24 Etc/GMT] PHP Warning:  join(): Invalid arguments passed in /home/odinlm3h/public_html/API/ims/models/Post.php on line 42
+[18-Mar-2019 12:01:21 Etc/GMT] PHP Notice:  Trying to get property of non-object in /home/odinlm3h/public_html/API/ims/getexamcomps.php on line 21
+[18-Mar-2019 12:01:21 Etc/GMT] PHP Warning:  join(): Invalid arguments passed in /home/odinlm3h/public_html/API/ims/models/Post.php on line 42
+[18-Mar-2019 12:01:23 Etc/GMT] PHP Notice:  Trying to get property of non-object in /home/odinlm3h/public_html/API/ims/getexamcomps.php on line 21
+[18-Mar-2019 12:01:23 Etc/GMT] PHP Warning:  join(): Invalid arguments passed in /home/odinlm3h/public_html/API/ims/models/Post.php on line 42
+[18-Mar-2019 12:02:04 Etc/GMT] PHP Notice:  Trying to get property of non-object in /home/odinlm3h/public_html/API/ims/getexamcomps.php on line 21
+[18-Mar-2019 12:03:58 Etc/GMT] PHP Notice:  Trying to get property of non-object in /home/odinlm3h/public_html/API/ims/getexamcomps.php on line 21
+[18-Mar-2019 12:03:58 Etc/GMT] PHP Notice:  Array to string conversion in /home/odinlm3h/public_html/API/ims/models/Post.php on line 58
+[18-Mar-2019 12:04:13 Etc/GMT] PHP Notice:  Trying to get property of non-object in /home/odinlm3h/public_html/API/ims/getexamcomps.php on line 21
+[18-Mar-2019 12:09:07 Etc/GMT] PHP Notice:  Trying to get property of non-object in /home/odinlm3h/public_html/API/ims/getexamcomps.php on line 21
+[18-Mar-2019 12:09:07 Etc/GMT] PHP Warning:  implode(): Invalid arguments passed in /home/odinlm3h/public_html/API/ims/models/Post.php on line 44
+[18-Mar-2019 12:09:13 Etc/GMT] PHP Notice:  Trying to get property of non-object in /home/odinlm3h/public_html/API/ims/getexamcomps.php on line 21
+[18-Mar-2019 12:09:13 Etc/GMT] PHP Warning:  implode(): Invalid arguments passed in /home/odinlm3h/public_html/API/ims/models/Post.php on line 44
+[18-Mar-2019 12:13:51 Etc/GMT] PHP Notice:  Trying to get property of non-object in /home/odinlm3h/public_html/API/ims/getexamcomps.php on line 21
+[18-Mar-2019 12:13:51 Etc/GMT] PHP Warning:  implode(): Invalid arguments passed in /home/odinlm3h/public_html/API/ims/models/Post.php on line 44
+[19-Mar-2019 05:02:50 Etc/GMT] PHP Notice:  Trying to get property of non-object in /home/odinlm3h/public_html/API/ims/getexamcomps.php on line 21
+[19-Mar-2019 05:02:50 Etc/GMT] PHP Warning:  implode(): Invalid arguments passed in /home/odinlm3h/public_html/API/ims/models/Post.php on line 44
+[19-Mar-2019 05:02:51 Etc/GMT] PHP Notice:  Trying to get property of non-object in /home/odinlm3h/public_html/API/ims/getexamcomps.php on line 21
+[19-Mar-2019 05:02:51 Etc/GMT] PHP Warning:  implode(): Invalid arguments passed in /home/odinlm3h/public_html/API/ims/models/Post.php on line 44
+[20-Mar-2019 04:31:46 Etc/GMT] PHP Notice:  Undefined variable: result in /home/odinlm3h/public_html/API/ims/models/Post.php on line 43
+[20-Mar-2019 04:31:46 Etc/GMT] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 4 in /home/odinlm3h/public_html/API/ims/models/Post.php:51
+Stack trace:
+#0 /home/odinlm3h/public_html/API/ims/models/Post.php(51): PDOStatement->execute()
+#1 /home/odinlm3h/public_html/API/ims/getexamcode.php(21): Post->examcompsexamname('4')
+#2 {main}
+  thrown in /home/odinlm3h/public_html/API/ims/models/Post.php on line 51
+[20-Mar-2019 04:32:01 Etc/GMT] PHP Notice:  Trying to get property of non-object in /home/odinlm3h/public_html/API/ims/getexamcode.php on line 21
+[20-Mar-2019 04:32:01 Etc/GMT] PHP Notice:  Undefined variable: result in /home/odinlm3h/public_html/API/ims/models/Post.php on line 43
+[20-Mar-2019 04:32:01 Etc/GMT] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 4 in /home/odinlm3h/public_html/API/ims/models/Post.php:51
+Stack trace:
+#0 /home/odinlm3h/public_html/API/ims/models/Post.php(51): PDOStatement->execute()
+#1 /home/odinlm3h/public_html/API/ims/getexamcode.php(21): Post->examcompsexamname(NULL)
+#2 {main}
+  thrown in /home/odinlm3h/public_html/API/ims/models/Post.php on line 51
+[20-Mar-2019 04:32:55 Etc/GMT] PHP Notice:  Trying to get property of non-object in /home/odinlm3h/public_html/API/ims/getexamcode.php on line 21
+[20-Mar-2019 04:32:55 Etc/GMT] PHP Notice:  Undefined variable: result in /home/odinlm3h/public_html/API/ims/models/Post.php on line 43
+[20-Mar-2019 04:32:55 Etc/GMT] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 4 in /home/odinlm3h/public_html/API/ims/models/Post.php:51
+Stack trace:
+#0 /home/odinlm3h/public_html/API/ims/models/Post.php(51): PDOStatement->execute()
+#1 /home/odinlm3h/public_html/API/ims/getexamcode.php(21): Post->examcompsexamname(NULL)
+#2 {main}
+  thrown in /home/odinlm3h/public_html/API/ims/models/Post.php on line 51
+[20-Mar-2019 04:33:21 Etc/GMT] PHP Notice:  Trying to get property of non-object in /home/odinlm3h/public_html/API/ims/getexamcode.php on line 21
+[20-Mar-2019 04:33:21 Etc/GMT] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 4 in /home/odinlm3h/public_html/API/ims/models/Post.php:51
+Stack trace:
+#0 /home/odinlm3h/public_html/API/ims/models/Post.php(51): PDOStatement->execute()
+#1 /home/odinlm3h/public_html/API/ims/getexamcode.php(21): Post->examcompsexamname(NULL)
+#2 {main}
+  thrown in /home/odinlm3h/public_html/API/ims/models/Post.php on line 51
+[20-Mar-2019 04:33:23 Etc/GMT] PHP Notice:  Trying to get property of non-object in /home/odinlm3h/public_html/API/ims/getexamcode.php on line 21
+[20-Mar-2019 04:33:23 Etc/GMT] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 4 in /home/odinlm3h/public_html/API/ims/models/Post.php:51
+Stack trace:
+#0 /home/odinlm3h/public_html/API/ims/models/Post.php(51): PDOStatement->execute()
+#1 /home/odinlm3h/public_html/API/ims/getexamcode.php(21): Post->examcompsexamname(NULL)
+#2 {main}
+  thrown in /home/odinlm3h/public_html/API/ims/models/Post.php on line 51
+[20-Mar-2019 04:33:37 Etc/GMT] PHP Parse error:  syntax error, unexpected ''1'' (T_CONSTANT_ENCAPSED_STRING), expecting variable (T_VARIABLE) in /home/odinlm3h/public_html/API/ims/models/Post.php on line 38
+[20-Mar-2019 04:33:48 Etc/GMT] PHP Parse error:  syntax error, unexpected ''1'' (T_CONSTANT_ENCAPSED_STRING), expecting variable (T_VARIABLE) in /home/odinlm3h/public_html/API/ims/models/Post.php on line 38
+[20-Mar-2019 04:33:48 Etc/GMT] PHP Parse error:  syntax error, unexpected ''1'' (T_CONSTANT_ENCAPSED_STRING), expecting variable (T_VARIABLE) in /home/odinlm3h/public_html/API/ims/models/Post.php on line 38
+[20-Mar-2019 04:33:48 Etc/GMT] PHP Parse error:  syntax error, unexpected ''1'' (T_CONSTANT_ENCAPSED_STRING), expecting variable (T_VARIABLE) in /home/odinlm3h/public_html/API/ims/models/Post.php on line 38
+[20-Mar-2019 04:34:03 Etc/GMT] PHP Notice:  Trying to get property of non-object in /home/odinlm3h/public_html/API/ims/getexamcode.php on line 21
+[20-Mar-2019 04:34:08 Etc/GMT] PHP Notice:  Trying to get property of non-object in /home/odinlm3h/public_html/API/ims/getexamcode.php on line 21
+[20-Mar-2019 04:41:05 Etc/GMT] PHP Notice:  Trying to get property of non-object in /home/odinlm3h/public_html/API/ims/getexamcode.php on line 21
+[20-Mar-2019 04:41:05 Etc/GMT] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 4 in /home/odinlm3h/public_html/API/ims/models/Post.php:51
+Stack trace:
+#0 /home/odinlm3h/public_html/API/ims/models/Post.php(51): PDOStatement->execute()
+#1 /home/odinlm3h/public_html/API/ims/getexamcode.php(21): Post->examcompsexamname(NULL)
+#2 {main}
+  thrown in /home/odinlm3h/public_html/API/ims/models/Post.php on line 51
+[20-Mar-2019 05:04:39 Etc/GMT] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 4 in /home/odinlm3h/public_html/API/ims/models/Post.php:51
+Stack trace:
+#0 /home/odinlm3h/public_html/API/ims/models/Post.php(51): PDOStatement->execute()
+#1 /home/odinlm3h/public_html/API/ims/getexamcode.php(21): Post->examcompsexamname(NULL)
+#2 {main}
+  thrown in /home/odinlm3h/public_html/API/ims/models/Post.php on line 51
+[20-Mar-2019 10:39:26 Etc/GMT] PHP Notice:  Trying to get property of non-object in /home/odinlm3h/public_html/API/ims/getexamnames.php on line 21
+[20-Mar-2019 10:39:34 Etc/GMT] PHP Notice:  Trying to get property of non-object in /home/odinlm3h/public_html/API/ims/getexamnames.php on line 21
+[20-Mar-2019 10:39:50 Etc/GMT] PHP Notice:  Trying to get property of non-object in /home/odinlm3h/public_html/API/ims/getexamnames.php on line 21
+[21-Mar-2019 06:08:31 Etc/GMT] PHP Notice:  Undefined index: typecount in /home/odinlm3h/public_html/API/ims/getcount.php on line 18
+[21-Mar-2019 06:08:31 Etc/GMT] PHP Notice:  Undefined variable: resultlesson in /home/odinlm3h/public_html/API/ims/getcount.php on line 38
+[21-Mar-2019 06:08:31 Etc/GMT] PHP Fatal error:  Uncaught Error: Call to a member function rowCount() on null in /home/odinlm3h/public_html/API/ims/getcount.php:38
+Stack trace:
+#0 {main}
+  thrown in /home/odinlm3h/public_html/API/ims/getcount.php on line 38
+[21-Mar-2019 06:09:05 Etc/GMT] PHP Notice:  Undefined index: typecount in /home/odinlm3h/public_html/API/ims/getcount.php on line 18
+[21-Mar-2019 06:09:06 Etc/GMT] PHP Notice:  Undefined index: typecount in /home/odinlm3h/public_html/API/ims/getcount.php on line 18
+[21-Mar-2019 06:09:06 Etc/GMT] PHP Notice:  Undefined variable: resultlesson in /home/odinlm3h/public_html/API/ims/getcount.php on line 38
+[21-Mar-2019 06:09:06 Etc/GMT] PHP Fatal error:  Uncaught Error: Call to a member function rowCount() on null in /home/odinlm3h/public_html/API/ims/getcount.php:38
+Stack trace:
+#0 {main}
+  thrown in /home/odinlm3h/public_html/API/ims/getcount.php on line 38
+[21-Mar-2019 06:10:09 Etc/GMT] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home/odinlm3h/public_html/API/ims/getcount.php on line 45
+[21-Mar-2019 06:12:16 Etc/GMT] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home/odinlm3h/public_html/API/ims/getcount.php on line 45
+[21-Mar-2019 06:12:18 Etc/GMT] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home/odinlm3h/public_html/API/ims/getcount.php on line 45
+[21-Mar-2019 06:12:19 Etc/GMT] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home/odinlm3h/public_html/API/ims/getcount.php on line 45
+[21-Mar-2019 06:15:30 Etc/GMT] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home/odinlm3h/public_html/API/ims/getcount.php on line 46
+[21-Mar-2019 06:15:33 Etc/GMT] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home/odinlm3h/public_html/API/ims/getcount.php on line 46
+[21-Mar-2019 06:16:47 Etc/GMT] PHP Notice:  Undefined index: typecount in /home/odinlm3h/public_html/API/ims/getcount.php on line 18
+[21-Mar-2019 06:16:47 Etc/GMT] PHP Notice:  Undefined variable: resultlesson in /home/odinlm3h/public_html/API/ims/getcount.php on line 38
+[21-Mar-2019 06:16:47 Etc/GMT] PHP Fatal error:  Uncaught Error: Call to a member function rowCount() on null in /home/odinlm3h/public_html/API/ims/getcount.php:38
+Stack trace:
+#0 {main}
+  thrown in /home/odinlm3h/public_html/API/ims/getcount.php on line 38
+[21-Mar-2019 06:16:50 Etc/GMT] PHP Notice:  Undefined index: typecount in /home/odinlm3h/public_html/API/ims/getcount.php on line 18
+[21-Mar-2019 06:16:50 Etc/GMT] PHP Notice:  Undefined variable: resultlesson in /home/odinlm3h/public_html/API/ims/getcount.php on line 38
+[21-Mar-2019 06:16:50 Etc/GMT] PHP Fatal error:  Uncaught Error: Call to a member function rowCount() on null in /home/odinlm3h/public_html/API/ims/getcount.php:38
+Stack trace:
+#0 {main}
+  thrown in /home/odinlm3h/public_html/API/ims/getcount.php on line 38
+[21-Mar-2019 06:16:58 Etc/GMT] PHP Notice:  Undefined index: typecount in /home/odinlm3h/public_html/API/ims/getcount.php on line 18
+[21-Mar-2019 06:16:58 Etc/GMT] PHP Notice:  Undefined variable: resultlesson in /home/odinlm3h/public_html/API/ims/getcount.php on line 38
+[21-Mar-2019 06:16:58 Etc/GMT] PHP Fatal error:  Uncaught Error: Call to a member function rowCount() on null in /home/odinlm3h/public_html/API/ims/getcount.php:38
+Stack trace:
+#0 {main}
+  thrown in /home/odinlm3h/public_html/API/ims/getcount.php on line 38
+[21-Mar-2019 06:17:28 Etc/GMT] PHP Notice:  Undefined index: typecount in /home/odinlm3h/public_html/API/ims/getcount.php on line 18
+[21-Mar-2019 06:17:28 Etc/GMT] PHP Notice:  Undefined variable: resultlesson in /home/odinlm3h/public_html/API/ims/getcount.php on line 31
+[21-Mar-2019 06:17:28 Etc/GMT] PHP Fatal error:  Uncaught Error: Call to a member function rowCount() on null in /home/odinlm3h/public_html/API/ims/getcount.php:31
+Stack trace:
+#0 {main}
+  thrown in /home/odinlm3h/public_html/API/ims/getcount.php on line 31
+[21-Mar-2019 06:17:53 Etc/GMT] PHP Notice:  Undefined index: typecount in /home/odinlm3h/public_html/API/ims/getcount.php on line 18
+[21-Mar-2019 06:17:53 Etc/GMT] PHP Notice:  Undefined variable: resultlesson in /home/odinlm3h/public_html/API/ims/getcount.php on line 38
+[21-Mar-2019 06:17:53 Etc/GMT] PHP Fatal error:  Uncaught Error: Call to a member function rowCount() on null in /home/odinlm3h/public_html/API/ims/getcount.php:38
+Stack trace:
+#0 {main}
+  thrown in /home/odinlm3h/public_html/API/ims/getcount.php on line 38
+[21-Mar-2019 06:18:16 Etc/GMT] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home/odinlm3h/public_html/API/ims/getcount.php on line 46
+[21-Mar-2019 06:18:24 Etc/GMT] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home/odinlm3h/public_html/API/ims/getcount.php on line 46
+[21-Mar-2019 06:19:58 Etc/GMT] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home/odinlm3h/public_html/API/ims/getcount.php on line 46
+[21-Mar-2019 06:20:02 Etc/GMT] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home/odinlm3h/public_html/API/ims/getcount.php on line 46
+[21-Mar-2019 06:20:04 Etc/GMT] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home/odinlm3h/public_html/API/ims/getcount.php on line 46
+[21-Mar-2019 06:20:16 Etc/GMT] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home/odinlm3h/public_html/API/ims/getcount.php on line 46
+[21-Mar-2019 06:21:35 Etc/GMT] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home/odinlm3h/public_html/API/ims/getcount.php on line 46
+[21-Mar-2019 06:23:16 Etc/GMT] PHP Notice:  Undefined index: typecount in /home/odinlm3h/public_html/API/ims/getcount.php on line 18
+[21-Mar-2019 06:23:16 Etc/GMT] PHP Notice:  Undefined variable: resultlesson in /home/odinlm3h/public_html/API/ims/getcount.php on line 38
+[21-Mar-2019 06:23:16 Etc/GMT] PHP Fatal error:  Uncaught Error: Call to a member function rowCount() on null in /home/odinlm3h/public_html/API/ims/getcount.php:38
+Stack trace:
+#0 {main}
+  thrown in /home/odinlm3h/public_html/API/ims/getcount.php on line 38
+[21-Mar-2019 06:24:43 Etc/GMT] PHP Notice:  Undefined index: typecount in /home/odinlm3h/public_html/API/ims/getcount.php on line 18
+[21-Mar-2019 06:24:43 Etc/GMT] PHP Notice:  Undefined variable: resultlesson in /home/odinlm3h/public_html/API/ims/getcount.php on line 38
+[21-Mar-2019 06:24:43 Etc/GMT] PHP Fatal error:  Uncaught Error: Call to a member function rowCount() on null in /home/odinlm3h/public_html/API/ims/getcount.php:38
+Stack trace:
+#0 {main}
+  thrown in /home/odinlm3h/public_html/API/ims/getcount.php on line 38
+[21-Mar-2019 06:24:45 Etc/GMT] PHP Notice:  Undefined index: typecount in /home/odinlm3h/public_html/API/ims/getcount.php on line 18
+[21-Mar-2019 06:24:45 Etc/GMT] PHP Notice:  Undefined variable: resultlesson in /home/odinlm3h/public_html/API/ims/getcount.php on line 38
+[21-Mar-2019 06:24:45 Etc/GMT] PHP Fatal error:  Uncaught Error: Call to a member function rowCount() on null in /home/odinlm3h/public_html/API/ims/getcount.php:38
+Stack trace:
+#0 {main}
+  thrown in /home/odinlm3h/public_html/API/ims/getcount.php on line 38
+[21-Mar-2019 06:25:24 Etc/GMT] PHP Notice:  Undefined index: typecount in /home/odinlm3h/public_html/API/ims/getcount.php on line 18
+[21-Mar-2019 06:25:24 Etc/GMT] PHP Notice:  Undefined variable: resultlesson in /home/odinlm3h/public_html/API/ims/getcount.php on line 38
+[21-Mar-2019 06:25:24 Etc/GMT] PHP Fatal error:  Uncaught Error: Call to a member function rowCount() on null in /home/odinlm3h/public_html/API/ims/getcount.php:38
+Stack trace:
+#0 {main}
+  thrown in /home/odinlm3h/public_html/API/ims/getcount.php on line 38
+[21-Mar-2019 06:26:06 Etc/GMT] PHP Notice:  Undefined index: typecount in /home/odinlm3h/public_html/API/ims/getcount.php on line 18
+[21-Mar-2019 06:26:06 Etc/GMT] PHP Notice:  Undefined variable: resultlesson in /home/odinlm3h/public_html/API/ims/getcount.php on line 38
+[21-Mar-2019 06:26:06 Etc/GMT] PHP Fatal error:  Uncaught Error: Call to a member function rowCount() on null in /home/odinlm3h/public_html/API/ims/getcount.php:38
+Stack trace:
+#0 {main}
+  thrown in /home/odinlm3h/public_html/API/ims/getcount.php on line 38
+[21-Mar-2019 06:26:09 Etc/GMT] PHP Notice:  Undefined index: typecount in /home/odinlm3h/public_html/API/ims/getcount.php on line 18
+[21-Mar-2019 06:26:09 Etc/GMT] PHP Notice:  Undefined variable: resultlesson in /home/odinlm3h/public_html/API/ims/getcount.php on line 38
+[21-Mar-2019 06:26:09 Etc/GMT] PHP Fatal error:  Uncaught Error: Call to a member function rowCount() on null in /home/odinlm3h/public_html/API/ims/getcount.php:38
+Stack trace:
+#0 {main}
+  thrown in /home/odinlm3h/public_html/API/ims/getcount.php on line 38
+[21-Mar-2019 06:26:22 Etc/GMT] PHP Notice:  Undefined index: typecount in /home/odinlm3h/public_html/API/ims/getcount.php on line 18
+[21-Mar-2019 06:26:22 Etc/GMT] PHP Notice:  Undefined variable: resultlesson in /home/odinlm3h/public_html/API/ims/getcount.php on line 38
+[21-Mar-2019 06:26:22 Etc/GMT] PHP Fatal error:  Uncaught Error: Call to a member function rowCount() on null in /home/odinlm3h/public_html/API/ims/getcount.php:38
+Stack trace:
+#0 {main}
+  thrown in /home/odinlm3h/public_html/API/ims/getcount.php on line 38
+[21-Mar-2019 06:26:23 Etc/GMT] PHP Notice:  Undefined index: typecount in /home/odinlm3h/public_html/API/ims/getcount.php on line 18
+[21-Mar-2019 06:26:23 Etc/GMT] PHP Notice:  Undefined variable: resultlesson in /home/odinlm3h/public_html/API/ims/getcount.php on line 38
+[21-Mar-2019 06:26:23 Etc/GMT] PHP Fatal error:  Uncaught Error: Call to a member function rowCount() on null in /home/odinlm3h/public_html/API/ims/getcount.php:38
+Stack trace:
+#0 {main}
+  thrown in /home/odinlm3h/public_html/API/ims/getcount.php on line 38
+[21-Mar-2019 06:28:00 Etc/GMT] PHP Notice:  Undefined index: typecount in /home/odinlm3h/public_html/API/ims/getcount.php on line 18
+[21-Mar-2019 06:28:00 Etc/GMT] PHP Notice:  Undefined variable: resultlesson in /home/odinlm3h/public_html/API/ims/getcount.php on line 38
+[21-Mar-2019 06:28:00 Etc/GMT] PHP Fatal error:  Uncaught Error: Call to a member function rowCount() on null in /home/odinlm3h/public_html/API/ims/getcount.php:38
+Stack trace:
+#0 {main}
+  thrown in /home/odinlm3h/public_html/API/ims/getcount.php on line 38
+[21-Mar-2019 06:28:02 Etc/GMT] PHP Notice:  Undefined index: typecount in /home/odinlm3h/public_html/API/ims/getcount.php on line 18
+[21-Mar-2019 06:28:02 Etc/GMT] PHP Notice:  Undefined variable: resultlesson in /home/odinlm3h/public_html/API/ims/getcount.php on line 38
+[21-Mar-2019 06:28:02 Etc/GMT] PHP Fatal error:  Uncaught Error: Call to a member function rowCount() on null in /home/odinlm3h/public_html/API/ims/getcount.php:38
+Stack trace:
+#0 {main}
+  thrown in /home/odinlm3h/public_html/API/ims/getcount.php on line 38
+[21-Mar-2019 06:29:24 Etc/GMT] PHP Notice:  Undefined index: typecount in /home/odinlm3h/public_html/API/ims/getcount.php on line 18
+[21-Mar-2019 06:29:24 Etc/GMT] PHP Notice:  Undefined variable: resultlesson in /home/odinlm3h/public_html/API/ims/getcount.php on line 38
+[21-Mar-2019 06:29:24 Etc/GMT] PHP Fatal error:  Uncaught Error: Call to a member function rowCount() on null in /home/odinlm3h/public_html/API/ims/getcount.php:38
+Stack trace:
+#0 {main}
+  thrown in /home/odinlm3h/public_html/API/ims/getcount.php on line 38
+[21-Mar-2019 06:32:10 Etc/GMT] PHP Notice:  Undefined variable: resultlesson in /home/odinlm3h/public_html/API/ims/getcount.php on line 38
+[21-Mar-2019 06:32:10 Etc/GMT] PHP Fatal error:  Uncaught Error: Call to a member function rowCount() on null in /home/odinlm3h/public_html/API/ims/getcount.php:38
+Stack trace:
+#0 {main}
+  thrown in /home/odinlm3h/public_html/API/ims/getcount.php on line 38
+[25-Mar-2019 09:21:13 Etc/GMT] PHP Notice:  Trying to get property of non-object in /home/odinlm3h/public_html/API/ims/getexamcomps.php on line 21
+[25-Mar-2019 09:21:13 Etc/GMT] PHP Warning:  implode(): Invalid arguments passed in /home/odinlm3h/public_html/API/ims/models/Post.php on line 63
+[25-Mar-2019 10:48:22 Etc/GMT] PHP Notice:  Undefined variable: requestData in /home/odinlm3h/public_html/API/ims/industry.php on line 80
+[25-Mar-2019 10:48:22 Etc/GMT] PHP Notice:  Undefined variable: totalData in /home/odinlm3h/public_html/API/ims/industry.php on line 81
+[25-Mar-2019 10:48:22 Etc/GMT] PHP Notice:  Undefined variable: totalFiltered in /home/odinlm3h/public_html/API/ims/industry.php on line 82
+[25-Mar-2019 10:48:31 Etc/GMT] PHP Notice:  Undefined variable: requestData in /home/odinlm3h/public_html/API/ims/industry.php on line 80
+[25-Mar-2019 10:48:31 Etc/GMT] PHP Notice:  Undefined variable: totalData in /home/odinlm3h/public_html/API/ims/industry.php on line 81
+[25-Mar-2019 10:48:31 Etc/GMT] PHP Notice:  Undefined variable: totalFiltered in /home/odinlm3h/public_html/API/ims/industry.php on line 82
+[25-Mar-2019 10:49:16 Etc/GMT] PHP Notice:  Undefined index: cat_val in /home/odinlm3h/public_html/API/ims/industry.php on line 18
+[25-Mar-2019 10:49:16 Etc/GMT] PHP Notice:  Undefined variable: requestData in /home/odinlm3h/public_html/API/ims/industry.php on line 80
+[25-Mar-2019 10:49:16 Etc/GMT] PHP Notice:  Undefined variable: totalData in /home/odinlm3h/public_html/API/ims/industry.php on line 81
+[25-Mar-2019 10:49:16 Etc/GMT] PHP Notice:  Undefined variable: totalFiltered in /home/odinlm3h/public_html/API/ims/industry.php on line 82
+[25-Mar-2019 10:49:23 Etc/GMT] PHP Notice:  Undefined index: cat_val in /home/odinlm3h/public_html/API/ims/industry.php on line 18
+[25-Mar-2019 10:49:23 Etc/GMT] PHP Notice:  Undefined variable: requestData in /home/odinlm3h/public_html/API/ims/industry.php on line 80
+[25-Mar-2019 10:49:23 Etc/GMT] PHP Notice:  Undefined variable: totalData in /home/odinlm3h/public_html/API/ims/industry.php on line 81
+[25-Mar-2019 10:49:23 Etc/GMT] PHP Notice:  Undefined variable: totalFiltered in /home/odinlm3h/public_html/API/ims/industry.php on line 82
+[25-Mar-2019 10:49:25 Etc/GMT] PHP Notice:  Undefined index: cat_val in /home/odinlm3h/public_html/API/ims/industry.php on line 18
+[25-Mar-2019 10:49:25 Etc/GMT] PHP Notice:  Undefined variable: requestData in /home/odinlm3h/public_html/API/ims/industry.php on line 80
+[25-Mar-2019 10:49:25 Etc/GMT] PHP Notice:  Undefined variable: totalData in /home/odinlm3h/public_html/API/ims/industry.php on line 81
+[25-Mar-2019 10:49:25 Etc/GMT] PHP Notice:  Undefined variable: totalFiltered in /home/odinlm3h/public_html/API/ims/industry.php on line 82
+[25-Mar-2019 10:49:29 Etc/GMT] PHP Notice:  Undefined index: cat_val in /home/odinlm3h/public_html/API/ims/industry.php on line 18
+[25-Mar-2019 10:49:29 Etc/GMT] PHP Notice:  Undefined variable: requestData in /home/odinlm3h/public_html/API/ims/industry.php on line 80
+[25-Mar-2019 10:49:29 Etc/GMT] PHP Notice:  Undefined variable: totalData in /home/odinlm3h/public_html/API/ims/industry.php on line 81
+[25-Mar-2019 10:49:29 Etc/GMT] PHP Notice:  Undefined variable: totalFiltered in /home/odinlm3h/public_html/API/ims/industry.php on line 82
+[25-Mar-2019 10:49:47 Etc/GMT] PHP Notice:  Undefined index: cat_val in /home/odinlm3h/public_html/API/ims/industry.php on line 18
+[25-Mar-2019 10:49:47 Etc/GMT] PHP Notice:  Undefined variable: requestData in /home/odinlm3h/public_html/API/ims/industry.php on line 80
+[25-Mar-2019 10:49:47 Etc/GMT] PHP Notice:  Undefined variable: totalData in /home/odinlm3h/public_html/API/ims/industry.php on line 81
+[25-Mar-2019 10:49:47 Etc/GMT] PHP Notice:  Undefined variable: totalFiltered in /home/odinlm3h/public_html/API/ims/industry.php on line 82
+[25-Mar-2019 10:51:15 Etc/GMT] PHP Notice:  Undefined index: cat_val in /home/odinlm3h/public_html/API/ims/industry.php on line 18
+[25-Mar-2019 10:51:15 Etc/GMT] PHP Notice:  Undefined variable: requestData in /home/odinlm3h/public_html/API/ims/industry.php on line 81
+[25-Mar-2019 10:51:15 Etc/GMT] PHP Notice:  Undefined variable: totalData in /home/odinlm3h/public_html/API/ims/industry.php on line 82
+[25-Mar-2019 10:51:15 Etc/GMT] PHP Notice:  Undefined variable: totalFiltered in /home/odinlm3h/public_html/API/ims/industry.php on line 83
+[25-Mar-2019 10:53:44 Etc/GMT] PHP Notice:  Undefined index: cat_val in /home/odinlm3h/public_html/API/ims/industry.php on line 18
+[25-Mar-2019 10:53:44 Etc/GMT] PHP Notice:  Undefined variable: requestData in /home/odinlm3h/public_html/API/ims/industry.php on line 81
+[25-Mar-2019 10:53:44 Etc/GMT] PHP Notice:  Undefined variable: totalData in /home/odinlm3h/public_html/API/ims/industry.php on line 82
+[25-Mar-2019 10:53:44 Etc/GMT] PHP Notice:  Undefined variable: totalFiltered in /home/odinlm3h/public_html/API/ims/industry.php on line 83
+[25-Mar-2019 10:55:10 Etc/GMT] PHP Notice:  Undefined index: cat_val in /home/odinlm3h/public_html/API/ims/industry.php on line 18
+[25-Mar-2019 10:55:10 Etc/GMT] PHP Notice:  Undefined variable: requestData in /home/odinlm3h/public_html/API/ims/industry.php on line 75
+[25-Mar-2019 10:55:10 Etc/GMT] PHP Notice:  Undefined variable: totalData in /home/odinlm3h/public_html/API/ims/industry.php on line 76
+[25-Mar-2019 10:55:10 Etc/GMT] PHP Notice:  Undefined variable: totalFiltered in /home/odinlm3h/public_html/API/ims/industry.php on line 77
+[25-Mar-2019 10:56:18 Etc/GMT] PHP Notice:  Undefined index: cat_val in /home/odinlm3h/public_html/API/ims/industry.php on line 18
+[25-Mar-2019 11:00:55 Etc/GMT] PHP Notice:  Undefined index: cat_val in /home/odinlm3h/public_html/API/ims/industry.php on line 18
+[25-Mar-2019 11:01:05 Etc/GMT] PHP Notice:  Undefined index: cat_val in /home/odinlm3h/public_html/API/ims/industry.php on line 18
+[25-Mar-2019 11:01:06 Etc/GMT] PHP Notice:  Undefined index: cat_val in /home/odinlm3h/public_html/API/ims/industry.php on line 18
+[25-Mar-2019 11:01:06 Etc/GMT] PHP Notice:  Undefined index: cat_val in /home/odinlm3h/public_html/API/ims/industry.php on line 18
+[25-Mar-2019 11:01:07 Etc/GMT] PHP Notice:  Undefined index: cat_val in /home/odinlm3h/public_html/API/ims/industry.php on line 18
+[25-Mar-2019 11:01:08 Etc/GMT] PHP Notice:  Undefined index: cat_val in /home/odinlm3h/public_html/API/ims/industry.php on line 18
+[25-Mar-2019 11:01:08 Etc/GMT] PHP Notice:  Undefined index: cat_val in /home/odinlm3h/public_html/API/ims/industry.php on line 18
+[25-Mar-2019 11:01:10 Etc/GMT] PHP Notice:  Undefined index: cat_val in /home/odinlm3h/public_html/API/ims/industry.php on line 18
+[25-Mar-2019 11:01:10 Etc/GMT] PHP Notice:  Undefined index: cat_val in /home/odinlm3h/public_html/API/ims/industry.php on line 18
+[25-Mar-2019 11:01:11 Etc/GMT] PHP Notice:  Undefined index: cat_val in /home/odinlm3h/public_html/API/ims/industry.php on line 18
+[25-Mar-2019 11:01:11 Etc/GMT] PHP Notice:  Undefined index: cat_val in /home/odinlm3h/public_html/API/ims/industry.php on line 18
+[25-Mar-2019 11:01:12 Etc/GMT] PHP Notice:  Undefined index: cat_val in /home/odinlm3h/public_html/API/ims/industry.php on line 18
+[25-Mar-2019 11:01:13 Etc/GMT] PHP Notice:  Undefined index: cat_val in /home/odinlm3h/public_html/API/ims/industry.php on line 18
+[25-Mar-2019 11:01:13 Etc/GMT] PHP Notice:  Undefined index: cat_val in /home/odinlm3h/public_html/API/ims/industry.php on line 18
+[25-Mar-2019 11:01:13 Etc/GMT] PHP Notice:  Undefined index: cat_val in /home/odinlm3h/public_html/API/ims/industry.php on line 18
+[25-Mar-2019 11:01:14 Etc/GMT] PHP Notice:  Undefined index: cat_val in /home/odinlm3h/public_html/API/ims/industry.php on line 18
+[25-Mar-2019 11:01:15 Etc/GMT] PHP Notice:  Undefined index: cat_val in /home/odinlm3h/public_html/API/ims/industry.php on line 18
+[25-Mar-2019 11:01:15 Etc/GMT] PHP Notice:  Undefined index: cat_val in /home/odinlm3h/public_html/API/ims/industry.php on line 18
+[25-Mar-2019 11:01:16 Etc/GMT] PHP Notice:  Undefined index: cat_val in /home/odinlm3h/public_html/API/ims/industry.php on line 18
+[25-Mar-2019 11:17:59 Etc/GMT] PHP Notice:  Undefined index: cat_val in /home/odinlm3h/public_html/API/ims/industry.php on line 18
+[25-Mar-2019 11:17:59 Etc/GMT] PHP Notice:  Undefined index: cat_val in /home/odinlm3h/public_html/API/ims/industry.php on line 18
+[25-Mar-2019 11:19:43 Etc/GMT] PHP Notice:  Undefined index: cat_val in /home/odinlm3h/public_html/API/ims/industry.php on line 18
+[25-Mar-2019 11:19:43 Etc/GMT] PHP Notice:  Undefined index: cat_val in /home/odinlm3h/public_html/API/ims/industry.php on line 18
+[25-Mar-2019 11:20:16 Etc/GMT] PHP Notice:  Undefined index: cat_val in /home/odinlm3h/public_html/API/ims/industry.php on line 18
+[25-Mar-2019 11:20:16 Etc/GMT] PHP Notice:  Undefined index: cat_val in /home/odinlm3h/public_html/API/ims/industry.php on line 18
+[25-Mar-2019 11:21:13 Etc/GMT] PHP Notice:  Undefined index: cat_val in /home/odinlm3h/public_html/API/ims/industry.php on line 18
+[25-Mar-2019 11:21:13 Etc/GMT] PHP Notice:  Undefined index: cat_val in /home/odinlm3h/public_html/API/ims/industry.php on line 18
+[25-Mar-2019 11:24:11 Etc/GMT] PHP Notice:  Undefined index: cat_val in /home/odinlm3h/public_html/API/ims/industry.php on line 18
+[25-Mar-2019 11:24:11 Etc/GMT] PHP Notice:  Undefined index: cat_val in /home/odinlm3h/public_html/API/ims/industry.php on line 18
+[26-Mar-2019 05:31:14 Etc/GMT] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'N' in 'where clause' in /home/odinlm3h/public_html/API/ims/models/Post.php:51
+Stack trace:
+#0 /home/odinlm3h/public_html/API/ims/models/Post.php(51): PDOStatement->execute()
+#1 /home/odinlm3h/public_html/API/ims/getexamcode.php(21): Post->examcompsexamname('N')
+#2 {main}
+  thrown in /home/odinlm3h/public_html/API/ims/models/Post.php on line 51
+[26-Mar-2019 05:34:24 Etc/GMT] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'N' in 'where clause' in /home/odinlm3h/public_html/API/ims/models/Post.php:51
+Stack trace:
+#0 /home/odinlm3h/public_html/API/ims/models/Post.php(51): PDOStatement->execute()
+#1 /home/odinlm3h/public_html/API/ims/getexamcode.php(21): Post->examcompsexamname('N')
+#2 {main}
+  thrown in /home/odinlm3h/public_html/API/ims/models/Post.php on line 51
+[26-Mar-2019 05:36:54 Etc/GMT] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'N' in 'where clause' in /home/odinlm3h/public_html/API/ims/models/Post.php:51
+Stack trace:
+#0 /home/odinlm3h/public_html/API/ims/models/Post.php(51): PDOStatement->execute()
+#1 /home/odinlm3h/public_html/API/ims/getexamcode.php(21): Post->examcompsexamname('N')
+#2 {main}
+  thrown in /home/odinlm3h/public_html/API/ims/models/Post.php on line 51
+[26-Mar-2019 05:58:53 Etc/GMT] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'N' in 'where clause' in /home/odinlm3h/public_html/API/ims/models/Post.php:51
+Stack trace:
+#0 /home/odinlm3h/public_html/API/ims/models/Post.php(51): PDOStatement->execute()
+#1 /home/odinlm3h/public_html/API/ims/getexamcode.php(21): Post->examcompsexamname('N')
+#2 {main}
+  thrown in /home/odinlm3h/public_html/API/ims/models/Post.php on line 51
+[26-Mar-2019 06:02:06 Etc/GMT] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'N' in 'where clause' in /home/odinlm3h/public_html/API/ims/models/Post.php:51
+Stack trace:
+#0 /home/odinlm3h/public_html/API/ims/models/Post.php(51): PDOStatement->execute()
+#1 /home/odinlm3h/public_html/API/ims/getexamcode.php(21): Post->examcompsexamname('N')
+#2 {main}
+  thrown in /home/odinlm3h/public_html/API/ims/models/Post.php on line 51
+[26-Mar-2019 08:43:50 Etc/GMT] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function Post::exam(), 0 passed in /home/odinlm3h/public_html/API/ims/getcount.php on line 28 and exactly 1 expected in /home/odinlm3h/public_html/API/ims/models/Post.php:92
+Stack trace:
+#0 /home/odinlm3h/public_html/API/ims/getcount.php(28): Post->exam()
+#1 {main}
+  thrown in /home/odinlm3h/public_html/API/ims/models/Post.php on line 92
+[26-Mar-2019 08:44:33 Etc/GMT] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'not in (E0007,E0002,E0003)' at line 1 in /home/odinlm3h/public_html/API/ims/models/Post.php:100
+Stack trace:
+#0 /home/odinlm3h/public_html/API/ims/models/Post.php(100): PDOStatement->execute()
+#1 /home/odinlm3h/public_html/API/ims/exams.php(21): Post->exam('E0007,E0002,E00...')
+#2 {main}
+  thrown in /home/odinlm3h/public_html/API/ims/models/Post.php on line 100
+[26-Mar-2019 08:44:44 Etc/GMT] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function Post::exam(), 0 passed in /home/odinlm3h/public_html/API/ims/getcount.php on line 28 and exactly 1 expected in /home/odinlm3h/public_html/API/ims/models/Post.php:92
+Stack trace:
+#0 /home/odinlm3h/public_html/API/ims/getcount.php(28): Post->exam()
+#1 {main}
+  thrown in /home/odinlm3h/public_html/API/ims/models/Post.php on line 92
+[26-Mar-2019 08:46:19 Etc/GMT] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function Post::exam(), 0 passed in /home/odinlm3h/public_html/API/ims/getcount.php on line 28 and exactly 1 expected in /home/odinlm3h/public_html/API/ims/models/Post.php:92
+Stack trace:
+#0 /home/odinlm3h/public_html/API/ims/getcount.php(28): Post->exam()
+#1 {main}
+  thrown in /home/odinlm3h/public_html/API/ims/models/Post.php on line 92
+[26-Mar-2019 08:46:34 Etc/GMT] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'not in (E0007,E0002,E0003)' at line 1 in /home/odinlm3h/public_html/API/ims/models/Post.php:100
+Stack trace:
+#0 /home/odinlm3h/public_html/API/ims/models/Post.php(100): PDOStatement->execute()
+#1 /home/odinlm3h/public_html/API/ims/exams.php(21): Post->exam('E0007,E0002,E00...')
+#2 {main}
+  thrown in /home/odinlm3h/public_html/API/ims/models/Post.php on line 100
+[26-Mar-2019 08:46:58 Etc/GMT] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function Post::exam(), 0 passed in /home/odinlm3h/public_html/API/ims/getcount.php on line 28 and exactly 1 expected in /home/odinlm3h/public_html/API/ims/models/Post.php:92
+Stack trace:
+#0 /home/odinlm3h/public_html/API/ims/getcount.php(28): Post->exam()
+#1 {main}
+  thrown in /home/odinlm3h/public_html/API/ims/models/Post.php on line 92
+[26-Mar-2019 08:49:14 Etc/GMT] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'not in (<pre class=)' at line 1 in /home/odinlm3h/public_html/API/ims/models/Post.php:100
+Stack trace:
+#0 /home/odinlm3h/public_html/API/ims/models/Post.php(100): PDOStatement->execute()
+#1 /home/odinlm3h/public_html/API/ims/exams.php(21): Post->exam('<pre class=')
+#2 {main}
+  thrown in /home/odinlm3h/public_html/API/ims/models/Post.php on line 100
+[26-Mar-2019 08:49:25 Etc/GMT] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function Post::exam(), 0 passed in /home/odinlm3h/public_html/API/ims/getcount.php on line 28 and exactly 1 expected in /home/odinlm3h/public_html/API/ims/models/Post.php:92
+Stack trace:
+#0 /home/odinlm3h/public_html/API/ims/getcount.php(28): Post->exam()
+#1 {main}
+  thrown in /home/odinlm3h/public_html/API/ims/models/Post.php on line 92
+[26-Mar-2019 08:49:29 Etc/GMT] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'not in (<pre class=)' at line 1 in /home/odinlm3h/public_html/API/ims/models/Post.php:100
+Stack trace:
+#0 /home/odinlm3h/public_html/API/ims/models/Post.php(100): PDOStatement->execute()
+#1 /home/odinlm3h/public_html/API/ims/exams.php(21): Post->exam('<pre class=')
+#2 {main}
+  thrown in /home/odinlm3h/public_html/API/ims/models/Post.php on line 100
+[26-Mar-2019 08:49:59 Etc/GMT] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function Post::exam(), 0 passed in /home/odinlm3h/public_html/API/ims/getcount.php on line 28 and exactly 1 expected in /home/odinlm3h/public_html/API/ims/models/Post.php:92
+Stack trace:
+#0 /home/odinlm3h/public_html/API/ims/getcount.php(28): Post->exam()
+#1 {main}
+  thrown in /home/odinlm3h/public_html/API/ims/models/Post.php on line 92
+[26-Mar-2019 08:50:52 Etc/GMT] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function Post::exam(), 0 passed in /home/odinlm3h/public_html/API/ims/getcount.php on line 28 and exactly 1 expected in /home/odinlm3h/public_html/API/ims/models/Post.php:92
+Stack trace:
+#0 /home/odinlm3h/public_html/API/ims/getcount.php(28): Post->exam()
+#1 {main}
+  thrown in /home/odinlm3h/public_html/API/ims/models/Post.php on line 92
+[26-Mar-2019 08:52:25 Etc/GMT] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function Post::exam(), 0 passed in /home/odinlm3h/public_html/API/ims/getcount.php on line 28 and exactly 1 expected in /home/odinlm3h/public_html/API/ims/models/Post.php:92
+Stack trace:
+#0 /home/odinlm3h/public_html/API/ims/getcount.php(28): Post->exam()
+#1 {main}
+  thrown in /home/odinlm3h/public_html/API/ims/models/Post.php on line 92
+[26-Mar-2019 08:53:45 Etc/GMT] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function Post::exam(), 0 passed in /home/odinlm3h/public_html/API/ims/getcount.php on line 28 and exactly 1 expected in /home/odinlm3h/public_html/API/ims/models/Post.php:103
+Stack trace:
+#0 /home/odinlm3h/public_html/API/ims/getcount.php(28): Post->exam()
+#1 {main}
+  thrown in /home/odinlm3h/public_html/API/ims/models/Post.php on line 103
+[26-Mar-2019 08:54:51 Etc/GMT] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function Post::exam(), 0 passed in /home/odinlm3h/public_html/API/ims/getcount.php on line 28 and exactly 1 expected in /home/odinlm3h/public_html/API/ims/models/Post.php:104
+Stack trace:
+#0 /home/odinlm3h/public_html/API/ims/getcount.php(28): Post->exam()
+#1 {main}
+  thrown in /home/odinlm3h/public_html/API/ims/models/Post.php on line 104
+[26-Mar-2019 08:56:14 Etc/GMT] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'not in (E0007,E0002,E0003)' at line 1 in /home/odinlm3h/public_html/API/ims/models/Post.php:99
+Stack trace:
+#0 /home/odinlm3h/public_html/API/ims/models/Post.php(99): PDOStatement->execute()
+#1 /home/odinlm3h/public_html/API/ims/exams.php(21): Post->examsresult('E0007,E0002,E00...')
+#2 {main}
+  thrown in /home/odinlm3h/public_html/API/ims/models/Post.php on line 99
+[26-Mar-2019 08:56:25 Etc/GMT] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'not in (E0007,E0002,E0003)' at line 1 in /home/odinlm3h/public_html/API/ims/models/Post.php:99
+Stack trace:
+#0 /home/odinlm3h/public_html/API/ims/models/Post.php(99): PDOStatement->execute()
+#1 /home/odinlm3h/public_html/API/ims/exams.php(21): Post->examsresult('E0007,E0002,E00...')
+#2 {main}
+  thrown in /home/odinlm3h/public_html/API/ims/models/Post.php on line 99
+[26-Mar-2019 08:57:00 Etc/GMT] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'not in (E0007,E0002,E0003)' at line 1 in /home/odinlm3h/public_html/API/ims/models/Post.php:99
+Stack trace:
+#0 /home/odinlm3h/public_html/API/ims/models/Post.php(99): PDOStatement->execute()
+#1 /home/odinlm3h/public_html/API/ims/exams.php(22): Post->examsresult('E0007,E0002,E00...')
+#2 {main}
+  thrown in /home/odinlm3h/public_html/API/ims/models/Post.php on line 99
+[26-Mar-2019 08:57:44 Etc/GMT] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'E0007' in 'where clause' in /home/odinlm3h/public_html/API/ims/models/Post.php:99
+Stack trace:
+#0 /home/odinlm3h/public_html/API/ims/models/Post.php(99): PDOStatement->execute()
+#1 /home/odinlm3h/public_html/API/ims/exams.php(22): Post->examsresult('E0007,E0002,E00...')
+#2 {main}
+  thrown in /home/odinlm3h/public_html/API/ims/models/Post.php on line 99
+[26-Mar-2019 09:00:11 Etc/GMT] PHP Notice:  Undefined index: cat_val in /home/odinlm3h/public_html/API/ims/exams.php on line 18
+[26-Mar-2019 09:15:15 Etc/GMT] PHP Notice:  Undefined index: cat_val in /home/odinlm3h/public_html/API/ims/exams.php on line 18
+[26-Mar-2019 09:15:19 Etc/GMT] PHP Notice:  Undefined index: cat_val in /home/odinlm3h/public_html/API/ims/exams.php on line 18
+[26-Mar-2019 09:15:24 Etc/GMT] PHP Notice:  Undefined index: cat_val in /home/odinlm3h/public_html/API/ims/exams.php on line 18
+[04-Apr-2019 05:10:48 Etc/GMT] PHP Notice:  Undefined index: cat_val in /home/odinlm3h/public_html/API/ims/industry.php on line 18
+[04-Apr-2019 06:30:04 Etc/GMT] PHP Notice:  Undefined index: cat_val in /home/odinlm3h/public_html/API/ims/industry1.php on line 18
+[08-Apr-2019 11:56:38 Etc/GMT] PHP Parse error:  syntax error, unexpected ''.$code.'' (T_CONSTANT_ENCAPSED_STRING), expecting ',' or ')' in /home/odinlm3h/public_html/API/ims/industry.php on line 53
+[08-Apr-2019 11:58:33 Etc/GMT] PHP Parse error:  syntax error, unexpected '$code' (T_VARIABLE), expecting ',' or ')' in /home/odinlm3h/public_html/API/ims/industry.php on line 53
+[08-Apr-2019 11:59:18 Etc/GMT] PHP Parse error:  syntax error, unexpected '$code' (T_VARIABLE), expecting ',' or ')' in /home/odinlm3h/public_html/API/ims/industry.php on line 53
+[08-Apr-2019 12:12:30 Etc/GMT] PHP Parse error:  syntax error, unexpected '$code' (T_VARIABLE), expecting ',' or ')' in /home/odinlm3h/public_html/API/ims/industry.php on line 53
+[08-Apr-2019 12:14:33 Etc/GMT] PHP Parse error:  syntax error, unexpected ''$code'' (T_CONSTANT_ENCAPSED_STRING), expecting ',' or ')' in /home/odinlm3h/public_html/API/ims/industry.php on line 53
+[08-Apr-2019 12:14:37 Etc/GMT] PHP Parse error:  syntax error, unexpected ''$code'' (T_CONSTANT_ENCAPSED_STRING), expecting ',' or ')' in /home/odinlm3h/public_html/API/ims/industry.php on line 53
+[09-Apr-2019 08:49:02 Etc/GMT] PHP Parse error:  syntax error, unexpected '\' (T_NS_SEPARATOR), expecting ',' or ')' in /home/odinlm3h/public_html/API/ims/industry.php on line 53
+[09-Apr-2019 08:49:03 Etc/GMT] PHP Parse error:  syntax error, unexpected '\' (T_NS_SEPARATOR), expecting ',' or ')' in /home/odinlm3h/public_html/API/ims/industry.php on line 53
+[12-Apr-2019 08:23:15 Etc/GMT] PHP Notice:  Undefined index: cat_val in /home/odinlm3h/public_html/API/ims/semester.php on line 18
+[12-Apr-2019 08:28:13 Etc/GMT] PHP Notice:  Undefined index: cat_val in /home/odinlm3h/public_html/API/ims/semester.php on line 18
+[12-Apr-2019 08:28:13 Etc/GMT] PHP Notice:  Undefined variable: result1 in /home/odinlm3h/public_html/API/ims/models/Post.php on line 122
+[12-Apr-2019 08:28:13 Etc/GMT] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1 in /home/odinlm3h/public_html/API/ims/models/Post.php:131
+Stack trace:
+#0 /home/odinlm3h/public_html/API/ims/models/Post.php(131): PDOStatement->execute()
+#1 /home/odinlm3h/public_html/API/ims/semester.php(22): Post->semesterresult(NULL)
+#2 {main}
+  thrown in /home/odinlm3h/public_html/API/ims/models/Post.php on line 131
+[12-Apr-2019 08:28:50 Etc/GMT] PHP Notice:  Undefined variable: result1 in /home/odinlm3h/public_html/API/ims/models/Post.php on line 122
+[12-Apr-2019 08:28:50 Etc/GMT] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1 in /home/odinlm3h/public_html/API/ims/models/Post.php:131
+Stack trace:
+#0 /home/odinlm3h/public_html/API/ims/models/Post.php(131): PDOStatement->execute()
+#1 /home/odinlm3h/public_html/API/ims/semester.php(22): Post->semesterresult('4 Sem')
+#2 {main}
+  thrown in /home/odinlm3h/public_html/API/ims/models/Post.php on line 131
+[12-Apr-2019 08:29:07 Etc/GMT] PHP Notice:  Undefined variable: result1 in /home/odinlm3h/public_html/API/ims/models/Post.php on line 122
+[12-Apr-2019 08:36:27 Etc/GMT] PHP Notice:  Undefined variable: result in /home/odinlm3h/public_html/API/ims/models/Post.php on line 145
+[12-Apr-2019 08:36:27 Etc/GMT] PHP Notice:  Undefined variable: result1 in /home/odinlm3h/public_html/API/ims/models/Post.php on line 145
+[12-Apr-2019 08:36:29 Etc/GMT] PHP Notice:  Undefined variable: result in /home/odinlm3h/public_html/API/ims/models/Post.php on line 145
+[12-Apr-2019 08:36:29 Etc/GMT] PHP Notice:  Undefined variable: result1 in /home/odinlm3h/public_html/API/ims/models/Post.php on line 145
+[12-Apr-2019 08:36:31 Etc/GMT] PHP Notice:  Undefined variable: result in /home/odinlm3h/public_html/API/ims/models/Post.php on line 145
+[12-Apr-2019 08:36:31 Etc/GMT] PHP Notice:  Undefined variable: result1 in /home/odinlm3h/public_html/API/ims/models/Post.php on line 145
+[12-Apr-2019 08:36:33 Etc/GMT] PHP Notice:  Undefined variable: result in /home/odinlm3h/public_html/API/ims/models/Post.php on line 145
+[12-Apr-2019 08:36:33 Etc/GMT] PHP Notice:  Undefined variable: result1 in /home/odinlm3h/public_html/API/ims/models/Post.php on line 145
+[12-Apr-2019 08:36:35 Etc/GMT] PHP Notice:  Undefined variable: result in /home/odinlm3h/public_html/API/ims/models/Post.php on line 145
+[12-Apr-2019 08:36:35 Etc/GMT] PHP Notice:  Undefined variable: result1 in /home/odinlm3h/public_html/API/ims/models/Post.php on line 145
+[12-Apr-2019 08:36:36 Etc/GMT] PHP Notice:  Undefined variable: result in /home/odinlm3h/public_html/API/ims/models/Post.php on line 145
+[12-Apr-2019 08:36:36 Etc/GMT] PHP Notice:  Undefined variable: result1 in /home/odinlm3h/public_html/API/ims/models/Post.php on line 145
+[12-Apr-2019 08:38:30 Etc/GMT] PHP Notice:  Undefined variable: result in /home/odinlm3h/public_html/API/ims/models/Post.php on line 145
+[12-Apr-2019 08:38:30 Etc/GMT] PHP Notice:  Undefined variable: result1 in /home/odinlm3h/public_html/API/ims/models/Post.php on line 145
+[12-Apr-2019 08:38:33 Etc/GMT] PHP Notice:  Undefined variable: result in /home/odinlm3h/public_html/API/ims/models/Post.php on line 145
+[12-Apr-2019 08:38:33 Etc/GMT] PHP Notice:  Undefined variable: result1 in /home/odinlm3h/public_html/API/ims/models/Post.php on line 145
+[12-Apr-2019 08:40:55 Etc/GMT] PHP Notice:  Undefined variable: result in /home/odinlm3h/public_html/API/ims/models/Post.php on line 145
+[12-Apr-2019 08:40:55 Etc/GMT] PHP Notice:  Undefined variable: result1 in /home/odinlm3h/public_html/API/ims/models/Post.php on line 145
+[12-Apr-2019 08:45:39 Etc/GMT] PHP Notice:  Undefined variable: result in /home/odinlm3h/public_html/API/ims/models/Post.php on line 145
+[12-Apr-2019 08:45:39 Etc/GMT] PHP Notice:  Undefined variable: result1 in /home/odinlm3h/public_html/API/ims/models/Post.php on line 145
+[12-Apr-2019 08:48:36 Etc/GMT] PHP Notice:  Undefined index: cat_val in /home/odinlm3h/public_html/API/ims/semester.php on line 18
+[12-Apr-2019 08:48:36 Etc/GMT] PHP Notice:  Undefined variable: result in /home/odinlm3h/public_html/API/ims/models/Post.php on line 145
+[12-Apr-2019 08:48:36 Etc/GMT] PHP Notice:  Undefined variable: result1 in /home/odinlm3h/public_html/API/ims/models/Post.php on line 145
+[12-Apr-2019 08:52:47 Etc/GMT] PHP Notice:  Undefined variable: result in /home/odinlm3h/public_html/API/ims/models/Post.php on line 145
+[12-Apr-2019 08:52:47 Etc/GMT] PHP Notice:  Undefined variable: result1 in /home/odinlm3h/public_html/API/ims/models/Post.php on line 145
+[12-Apr-2019 08:52:51 Etc/GMT] PHP Notice:  Undefined variable: result in /home/odinlm3h/public_html/API/ims/models/Post.php on line 145
+[12-Apr-2019 08:52:51 Etc/GMT] PHP Notice:  Undefined variable: result1 in /home/odinlm3h/public_html/API/ims/models/Post.php on line 145
+[12-Apr-2019 09:08:06 Etc/GMT] PHP Notice:  Undefined variable: result in /home/odinlm3h/public_html/API/ims/models/Post.php on line 145
+[12-Apr-2019 09:08:06 Etc/GMT] PHP Notice:  Undefined variable: result1 in /home/odinlm3h/public_html/API/ims/models/Post.php on line 145
+[12-Apr-2019 09:41:23 Etc/GMT] PHP Notice:  Undefined variable: result in /home/odinlm3h/public_html/API/ims/models/Post.php on line 145
+[12-Apr-2019 09:41:23 Etc/GMT] PHP Notice:  Undefined variable: result1 in /home/odinlm3h/public_html/API/ims/models/Post.php on line 145
+[12-Apr-2019 10:14:01 Etc/GMT] PHP Notice:  Undefined index: cat_val in /home/odinlm3h/public_html/API/ims/semester.php on line 18
+[12-Apr-2019 10:14:01 Etc/GMT] PHP Notice:  Undefined variable: result in /home/odinlm3h/public_html/API/ims/models/Post.php on line 145
+[12-Apr-2019 10:14:01 Etc/GMT] PHP Notice:  Undefined variable: result1 in /home/odinlm3h/public_html/API/ims/models/Post.php on line 145
+[12-Apr-2019 10:24:40 Etc/GMT] PHP Notice:  Undefined variable: result in /home/odinlm3h/public_html/API/ims/models/Post.php on line 145
+[12-Apr-2019 10:24:40 Etc/GMT] PHP Notice:  Undefined variable: result1 in /home/odinlm3h/public_html/API/ims/models/Post.php on line 145
+[12-Apr-2019 10:25:10 Etc/GMT] PHP Notice:  Undefined variable: result in /home/odinlm3h/public_html/API/ims/models/Post.php on line 145
+[12-Apr-2019 10:25:10 Etc/GMT] PHP Notice:  Undefined variable: result1 in /home/odinlm3h/public_html/API/ims/models/Post.php on line 145
+[12-Apr-2019 10:36:43 Etc/GMT] PHP Notice:  Undefined variable: result in /home/odinlm3h/public_html/API/ims/models/Post.php on line 145
+[12-Apr-2019 10:36:43 Etc/GMT] PHP Notice:  Undefined variable: result1 in /home/odinlm3h/public_html/API/ims/models/Post.php on line 145
+[12-Apr-2019 10:36:52 Etc/GMT] PHP Notice:  Undefined variable: result in /home/odinlm3h/public_html/API/ims/models/Post.php on line 145
+[12-Apr-2019 10:36:52 Etc/GMT] PHP Notice:  Undefined variable: result1 in /home/odinlm3h/public_html/API/ims/models/Post.php on line 145
+[12-Apr-2019 10:37:00 Etc/GMT] PHP Notice:  Undefined variable: result in /home/odinlm3h/public_html/API/ims/models/Post.php on line 145
+[12-Apr-2019 10:37:00 Etc/GMT] PHP Notice:  Undefined variable: result1 in /home/odinlm3h/public_html/API/ims/models/Post.php on line 145
+[12-Apr-2019 10:37:04 Etc/GMT] PHP Notice:  Undefined variable: result in /home/odinlm3h/public_html/API/ims/models/Post.php on line 145
+[12-Apr-2019 10:37:04 Etc/GMT] PHP Notice:  Undefined variable: result1 in /home/odinlm3h/public_html/API/ims/models/Post.php on line 145
+[12-Apr-2019 10:37:06 Etc/GMT] PHP Notice:  Undefined variable: result in /home/odinlm3h/public_html/API/ims/models/Post.php on line 145
+[12-Apr-2019 10:37:06 Etc/GMT] PHP Notice:  Undefined variable: result1 in /home/odinlm3h/public_html/API/ims/models/Post.php on line 145
+[12-Apr-2019 10:52:19 Etc/GMT] PHP Notice:  Undefined variable: result in /home/odinlm3h/public_html/API/ims/models/Post.php on line 145
+[12-Apr-2019 10:52:19 Etc/GMT] PHP Notice:  Undefined variable: result1 in /home/odinlm3h/public_html/API/ims/models/Post.php on line 145
+[12-Apr-2019 13:02:42 Etc/GMT] PHP Notice:  Undefined variable: result in /home/odinlm3h/public_html/API/ims/models/Post.php on line 145
+[12-Apr-2019 13:02:42 Etc/GMT] PHP Notice:  Undefined variable: result1 in /home/odinlm3h/public_html/API/ims/models/Post.php on line 145
+[15-Apr-2019 05:17:25 Etc/GMT] PHP Notice:  Undefined variable: result in /home/odinlm3h/public_html/API/ims/models/Post.php on line 145
+[15-Apr-2019 05:17:25 Etc/GMT] PHP Notice:  Undefined variable: result1 in /home/odinlm3h/public_html/API/ims/models/Post.php on line 145
+[15-Apr-2019 05:17:30 Etc/GMT] PHP Notice:  Undefined variable: result in /home/odinlm3h/public_html/API/ims/models/Post.php on line 145
+[15-Apr-2019 05:17:30 Etc/GMT] PHP Notice:  Undefined variable: result1 in /home/odinlm3h/public_html/API/ims/models/Post.php on line 145
+[15-Apr-2019 05:27:25 Etc/GMT] PHP Notice:  Undefined variable: result in /home/odinlm3h/public_html/API/ims/models/Post.php on line 145
+[15-Apr-2019 05:27:25 Etc/GMT] PHP Notice:  Undefined variable: result1 in /home/odinlm3h/public_html/API/ims/models/Post.php on line 145
+[15-Apr-2019 05:39:37 Etc/GMT] PHP Notice:  Undefined variable: result in /home/odinlm3h/public_html/API/ims/models/Post.php on line 145
+[15-Apr-2019 05:39:37 Etc/GMT] PHP Notice:  Undefined variable: result1 in /home/odinlm3h/public_html/API/ims/models/Post.php on line 145
+[15-Apr-2019 05:39:45 Etc/GMT] PHP Notice:  Undefined variable: result in /home/odinlm3h/public_html/API/ims/models/Post.php on line 145
+[15-Apr-2019 05:39:45 Etc/GMT] PHP Notice:  Undefined variable: result1 in /home/odinlm3h/public_html/API/ims/models/Post.php on line 145
+[15-Apr-2019 09:20:45 Etc/GMT] PHP Notice:  Undefined variable: result in /home/odinlm3h/public_html/API/ims/models/Post.php on line 145
+[15-Apr-2019 09:20:45 Etc/GMT] PHP Notice:  Undefined variable: result1 in /home/odinlm3h/public_html/API/ims/models/Post.php on line 145
+[15-Apr-2019 09:21:11 Etc/GMT] PHP Notice:  Undefined variable: result in /home/odinlm3h/public_html/API/ims/models/Post.php on line 145
+[15-Apr-2019 09:21:11 Etc/GMT] PHP Notice:  Undefined variable: result1 in /home/odinlm3h/public_html/API/ims/models/Post.php on line 145
+[15-Apr-2019 09:23:44 Etc/GMT] PHP Notice:  Undefined variable: result in /home/odinlm3h/public_html/API/ims/models/Post.php on line 145
+[15-Apr-2019 09:23:44 Etc/GMT] PHP Notice:  Undefined variable: result1 in /home/odinlm3h/public_html/API/ims/models/Post.php on line 145
+[15-Apr-2019 09:23:48 Etc/GMT] PHP Notice:  Undefined variable: result in /home/odinlm3h/public_html/API/ims/models/Post.php on line 145
+[15-Apr-2019 09:23:48 Etc/GMT] PHP Notice:  Undefined variable: result1 in /home/odinlm3h/public_html/API/ims/models/Post.php on line 145
+[15-Apr-2019 09:24:27 Etc/GMT] PHP Notice:  Undefined variable: result in /home/odinlm3h/public_html/API/ims/models/Post.php on line 145
+[15-Apr-2019 09:24:27 Etc/GMT] PHP Notice:  Undefined variable: result1 in /home/odinlm3h/public_html/API/ims/models/Post.php on line 145
+[15-Apr-2019 10:39:54 Etc/GMT] PHP Notice:  Undefined variable: result in /home/odinlm3h/public_html/API/ims/models/Post.php on line 145
+[15-Apr-2019 10:39:54 Etc/GMT] PHP Notice:  Undefined variable: result1 in /home/odinlm3h/public_html/API/ims/models/Post.php on line 145
+[15-Apr-2019 10:42:06 Etc/GMT] PHP Notice:  Undefined variable: result in /home/odinlm3h/public_html/API/ims/models/Post.php on line 145
+[15-Apr-2019 10:42:06 Etc/GMT] PHP Notice:  Undefined variable: result1 in /home/odinlm3h/public_html/API/ims/models/Post.php on line 145
+[15-Apr-2019 10:44:12 Etc/GMT] PHP Notice:  Undefined variable: result in /home/odinlm3h/public_html/API/ims/models/Post.php on line 145
+[15-Apr-2019 10:44:12 Etc/GMT] PHP Notice:  Undefined variable: result1 in /home/odinlm3h/public_html/API/ims/models/Post.php on line 145
+[15-Apr-2019 10:48:08 Etc/GMT] PHP Notice:  Undefined variable: result in /home/odinlm3h/public_html/API/ims/models/Post.php on line 145
+[15-Apr-2019 10:48:08 Etc/GMT] PHP Notice:  Undefined variable: result1 in /home/odinlm3h/public_html/API/ims/models/Post.php on line 145
+[15-Apr-2019 10:48:38 Etc/GMT] PHP Notice:  Undefined variable: result in /home/odinlm3h/public_html/API/ims/models/Post.php on line 145
+[15-Apr-2019 10:48:38 Etc/GMT] PHP Notice:  Undefined variable: result1 in /home/odinlm3h/public_html/API/ims/models/Post.php on line 145
+[15-Apr-2019 11:50:19 Etc/GMT] PHP Notice:  Undefined variable: result in /home/odinlm3h/public_html/API/ims/models/Post.php on line 145
+[15-Apr-2019 11:50:19 Etc/GMT] PHP Notice:  Undefined variable: result1 in /home/odinlm3h/public_html/API/ims/models/Post.php on line 145
+[15-Apr-2019 11:51:52 Etc/GMT] PHP Notice:  Undefined variable: result in /home/odinlm3h/public_html/API/ims/models/Post.php on line 145
+[15-Apr-2019 11:51:52 Etc/GMT] PHP Notice:  Undefined variable: result1 in /home/odinlm3h/public_html/API/ims/models/Post.php on line 145
+[15-Apr-2019 11:52:20 Etc/GMT] PHP Notice:  Undefined variable: result in /home/odinlm3h/public_html/API/ims/models/Post.php on line 145
+[15-Apr-2019 11:52:20 Etc/GMT] PHP Notice:  Undefined variable: result1 in /home/odinlm3h/public_html/API/ims/models/Post.php on line 145
+[15-Apr-2019 12:24:13 Etc/GMT] PHP Notice:  Undefined variable: result in /home/odinlm3h/public_html/API/ims/models/Post.php on line 145
+[15-Apr-2019 12:24:13 Etc/GMT] PHP Notice:  Undefined variable: result1 in /home/odinlm3h/public_html/API/ims/models/Post.php on line 145
+[15-Apr-2019 12:25:18 Etc/GMT] PHP Notice:  Undefined variable: result in /home/odinlm3h/public_html/API/ims/models/Post.php on line 145
+[15-Apr-2019 12:25:18 Etc/GMT] PHP Notice:  Undefined variable: result1 in /home/odinlm3h/public_html/API/ims/models/Post.php on line 145
+[15-Apr-2019 12:31:51 Etc/GMT] PHP Notice:  Undefined variable: result in /home/odinlm3h/public_html/API/ims/models/Post.php on line 145
+[15-Apr-2019 12:31:51 Etc/GMT] PHP Notice:  Undefined variable: result1 in /home/odinlm3h/public_html/API/ims/models/Post.php on line 145
+[15-Apr-2019 12:55:45 Etc/GMT] PHP Notice:  Undefined variable: result in /home/odinlm3h/public_html/API/ims/models/Post.php on line 145
+[15-Apr-2019 12:55:45 Etc/GMT] PHP Notice:  Undefined variable: result1 in /home/odinlm3h/public_html/API/ims/models/Post.php on line 145
+[15-Apr-2019 16:10:42 Etc/GMT] PHP Notice:  Undefined variable: result in /home/odinlm3h/public_html/API/ims/models/Post.php on line 145
+[15-Apr-2019 16:10:42 Etc/GMT] PHP Notice:  Undefined variable: result1 in /home/odinlm3h/public_html/API/ims/models/Post.php on line 145
+[15-Apr-2019 16:11:06 Etc/GMT] PHP Notice:  Undefined variable: result in /home/odinlm3h/public_html/API/ims/models/Post.php on line 145
+[15-Apr-2019 16:11:06 Etc/GMT] PHP Notice:  Undefined variable: result1 in /home/odinlm3h/public_html/API/ims/models/Post.php on line 145
+[15-Apr-2019 16:11:10 Etc/GMT] PHP Notice:  Undefined variable: result in /home/odinlm3h/public_html/API/ims/models/Post.php on line 145
+[15-Apr-2019 16:11:10 Etc/GMT] PHP Notice:  Undefined variable: result1 in /home/odinlm3h/public_html/API/ims/models/Post.php on line 145
+[15-Apr-2019 16:11:19 Etc/GMT] PHP Notice:  Undefined variable: result in /home/odinlm3h/public_html/API/ims/models/Post.php on line 145
+[15-Apr-2019 16:11:19 Etc/GMT] PHP Notice:  Undefined variable: result1 in /home/odinlm3h/public_html/API/ims/models/Post.php on line 145
+[15-Apr-2019 16:26:59 Etc/GMT] PHP Notice:  Undefined variable: result in /home/odinlm3h/public_html/API/ims/models/Post.php on line 145
+[15-Apr-2019 16:26:59 Etc/GMT] PHP Notice:  Undefined variable: result1 in /home/odinlm3h/public_html/API/ims/models/Post.php on line 145
+[16-Apr-2019 07:54:27 Etc/GMT] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'odinlm3h_ims.semester' doesn't exist in /home/odinlm3h/public_html/API/ims/models/Post.php:261
+Stack trace:
+#0 /home/odinlm3h/public_html/API/ims/models/Post.php(261): PDOStatement->execute()
+#1 /home/odinlm3h/public_html/API/ims/getsamenames.php(21): Post->semnamename('S0003')
+#2 {main}
+  thrown in /home/odinlm3h/public_html/API/ims/models/Post.php on line 261
+[16-Apr-2019 07:54:27 Etc/GMT] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'odinlm3h_ims.semester' doesn't exist in /home/odinlm3h/public_html/API/ims/models/Post.php:261
+Stack trace:
+#0 /home/odinlm3h/public_html/API/ims/models/Post.php(261): PDOStatement->execute()
+#1 /home/odinlm3h/public_html/API/ims/getsamenames.php(21): Post->semnamename('S0004')
+#2 {main}
+  thrown in /home/odinlm3h/public_html/API/ims/models/Post.php on line 261
+[16-Apr-2019 07:54:27 Etc/GMT] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'odinlm3h_ims.semester' doesn't exist in /home/odinlm3h/public_html/API/ims/models/Post.php:261
+Stack trace:
+#0 /home/odinlm3h/public_html/API/ims/models/Post.php(261): PDOStatement->execute()
+#1 /home/odinlm3h/public_html/API/ims/getsamenames.php(21): Post->semnamename('S0005')
+#2 {main}
+  thrown in /home/odinlm3h/public_html/API/ims/models/Post.php on line 261
+[16-Apr-2019 07:54:27 Etc/GMT] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'odinlm3h_ims.semester' doesn't exist in /home/odinlm3h/public_html/API/ims/models/Post.php:261
+Stack trace:
+#0 /home/odinlm3h/public_html/API/ims/models/Post.php(261): PDOStatement->execute()
+#1 /home/odinlm3h/public_html/API/ims/getsamenames.php(21): Post->semnamename('S0006')
+#2 {main}
+  thrown in /home/odinlm3h/public_html/API/ims/models/Post.php on line 261
+[16-Apr-2019 08:05:51 Etc/GMT] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'odinlm3h_ims.semester' doesn't exist in /home/odinlm3h/public_html/API/ims/models/Post.php:261
+Stack trace:
+#0 /home/odinlm3h/public_html/API/ims/models/Post.php(261): PDOStatement->execute()
+#1 /home/odinlm3h/public_html/API/ims/getsamenames.php(21): Post->semnamename('S0003')
+#2 {main}
+  thrown in /home/odinlm3h/public_html/API/ims/models/Post.php on line 261
+[16-Apr-2019 08:05:51 Etc/GMT] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'odinlm3h_ims.semester' doesn't exist in /home/odinlm3h/public_html/API/ims/models/Post.php:261
+Stack trace:
+#0 /home/odinlm3h/public_html/API/ims/models/Post.php(261): PDOStatement->execute()
+#1 /home/odinlm3h/public_html/API/ims/getsamenames.php(21): Post->semnamename('S0004')
+#2 {main}
+  thrown in /home/odinlm3h/public_html/API/ims/models/Post.php on line 261
+[16-Apr-2019 08:05:51 Etc/GMT] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'odinlm3h_ims.semester' doesn't exist in /home/odinlm3h/public_html/API/ims/models/Post.php:261
+Stack trace:
+#0 /home/odinlm3h/public_html/API/ims/models/Post.php(261): PDOStatement->execute()
+#1 /home/odinlm3h/public_html/API/ims/getsamenames.php(21): Post->semnamename('S0005')
+#2 {main}
+  thrown in /home/odinlm3h/public_html/API/ims/models/Post.php on line 261
+[16-Apr-2019 08:05:51 Etc/GMT] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'odinlm3h_ims.semester' doesn't exist in /home/odinlm3h/public_html/API/ims/models/Post.php:261
+Stack trace:
+#0 /home/odinlm3h/public_html/API/ims/models/Post.php(261): PDOStatement->execute()
+#1 /home/odinlm3h/public_html/API/ims/getsamenames.php(21): Post->semnamename('S0006')
+#2 {main}
+  thrown in /home/odinlm3h/public_html/API/ims/models/Post.php on line 261
+[16-Apr-2019 08:07:07 Etc/GMT] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'odinlm3h_ims.semester' doesn't exist in /home/odinlm3h/public_html/API/ims/models/Post.php:261
+Stack trace:
+#0 /home/odinlm3h/public_html/API/ims/models/Post.php(261): PDOStatement->execute()
+#1 /home/odinlm3h/public_html/API/ims/getsamenames.php(21): Post->semnamename('S0003')
+#2 {main}
+  thrown in /home/odinlm3h/public_html/API/ims/models/Post.php on line 261
+[16-Apr-2019 08:07:07 Etc/GMT] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'odinlm3h_ims.semester' doesn't exist in /home/odinlm3h/public_html/API/ims/models/Post.php:261
+Stack trace:
+#0 /home/odinlm3h/public_html/API/ims/models/Post.php(261): PDOStatement->execute()
+#1 /home/odinlm3h/public_html/API/ims/getsamenames.php(21): Post->semnamename('S0004')
+#2 {main}
+  thrown in /home/odinlm3h/public_html/API/ims/models/Post.php on line 261
+[16-Apr-2019 08:07:07 Etc/GMT] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'odinlm3h_ims.semester' doesn't exist in /home/odinlm3h/public_html/API/ims/models/Post.php:261
+Stack trace:
+#0 /home/odinlm3h/public_html/API/ims/models/Post.php(261): PDOStatement->execute()
+#1 /home/odinlm3h/public_html/API/ims/getsamenames.php(21): Post->semnamename('S0005')
+#2 {main}
+  thrown in /home/odinlm3h/public_html/API/ims/models/Post.php on line 261
+[16-Apr-2019 08:07:07 Etc/GMT] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'odinlm3h_ims.semester' doesn't exist in /home/odinlm3h/public_html/API/ims/models/Post.php:261
+Stack trace:
+#0 /home/odinlm3h/public_html/API/ims/models/Post.php(261): PDOStatement->execute()
+#1 /home/odinlm3h/public_html/API/ims/getsamenames.php(21): Post->semnamename('S0006')
+#2 {main}
+  thrown in /home/odinlm3h/public_html/API/ims/models/Post.php on line 261
+[16-Apr-2019 08:07:21 Etc/GMT] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'odinlm3h_ims.semester' doesn't exist in /home/odinlm3h/public_html/API/ims/models/Post.php:261
+Stack trace:
+#0 /home/odinlm3h/public_html/API/ims/models/Post.php(261): PDOStatement->execute()
+#1 /home/odinlm3h/public_html/API/ims/getsamenames.php(21): Post->semnamename('S0003')
+#2 {main}
+  thrown in /home/odinlm3h/public_html/API/ims/models/Post.php on line 261
+[16-Apr-2019 08:07:22 Etc/GMT] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'odinlm3h_ims.semester' doesn't exist in /home/odinlm3h/public_html/API/ims/models/Post.php:261
+Stack trace:
+#0 /home/odinlm3h/public_html/API/ims/models/Post.php(261): PDOStatement->execute()
+#1 /home/odinlm3h/public_html/API/ims/getsamenames.php(21): Post->semnamename('S0004')
+#2 {main}
+  thrown in /home/odinlm3h/public_html/API/ims/models/Post.php on line 261
+[16-Apr-2019 08:07:22 Etc/GMT] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'odinlm3h_ims.semester' doesn't exist in /home/odinlm3h/public_html/API/ims/models/Post.php:261
+Stack trace:
+#0 /home/odinlm3h/public_html/API/ims/models/Post.php(261): PDOStatement->execute()
+#1 /home/odinlm3h/public_html/API/ims/getsamenames.php(21): Post->semnamename('S0005')
+#2 {main}
+  thrown in /home/odinlm3h/public_html/API/ims/models/Post.php on line 261
+[16-Apr-2019 08:07:22 Etc/GMT] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'odinlm3h_ims.semester' doesn't exist in /home/odinlm3h/public_html/API/ims/models/Post.php:261
+Stack trace:
+#0 /home/odinlm3h/public_html/API/ims/models/Post.php(261): PDOStatement->execute()
+#1 /home/odinlm3h/public_html/API/ims/getsamenames.php(21): Post->semnamename('S0006')
+#2 {main}
+  thrown in /home/odinlm3h/public_html/API/ims/models/Post.php on line 261
+[16-Apr-2019 08:07:47 Etc/GMT] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'odinlm3h_ims.semester' doesn't exist in /home/odinlm3h/public_html/API/ims/models/Post.php:261
+Stack trace:
+#0 /home/odinlm3h/public_html/API/ims/models/Post.php(261): PDOStatement->execute()
+#1 /home/odinlm3h/public_html/API/ims/getsamenames.php(21): Post->semnamename('S0003')
+#2 {main}
+  thrown in /home/odinlm3h/public_html/API/ims/models/Post.php on line 261
+[16-Apr-2019 08:07:47 Etc/GMT] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'odinlm3h_ims.semester' doesn't exist in /home/odinlm3h/public_html/API/ims/models/Post.php:261
+Stack trace:
+#0 /home/odinlm3h/public_html/API/ims/models/Post.php(261): PDOStatement->execute()
+#1 /home/odinlm3h/public_html/API/ims/getsamenames.php(21): Post->semnamename('S0004')
+#2 {main}
+  thrown in /home/odinlm3h/public_html/API/ims/models/Post.php on line 261
+[16-Apr-2019 08:07:47 Etc/GMT] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'odinlm3h_ims.semester' doesn't exist in /home/odinlm3h/public_html/API/ims/models/Post.php:261
+Stack trace:
+#0 /home/odinlm3h/public_html/API/ims/models/Post.php(261): PDOStatement->execute()
+#1 /home/odinlm3h/public_html/API/ims/getsamenames.php(21): Post->semnamename('S0005')
+#2 {main}
+  thrown in /home/odinlm3h/public_html/API/ims/models/Post.php on line 261
+[16-Apr-2019 08:07:47 Etc/GMT] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'odinlm3h_ims.semester' doesn't exist in /home/odinlm3h/public_html/API/ims/models/Post.php:261
+Stack trace:
+#0 /home/odinlm3h/public_html/API/ims/models/Post.php(261): PDOStatement->execute()
+#1 /home/odinlm3h/public_html/API/ims/getsamenames.php(21): Post->semnamename('S0006')
+#2 {main}
+  thrown in /home/odinlm3h/public_html/API/ims/models/Post.php on line 261
+[16-Apr-2019 08:19:11 Etc/GMT] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'odinlm3h_ims.semester' doesn't exist in /home/odinlm3h/public_html/API/ims/models/Post.php:271
+Stack trace:
+#0 /home/odinlm3h/public_html/API/ims/models/Post.php(271): PDOStatement->execute()
+#1 /home/odinlm3h/public_html/API/ims/getsamenames.php(21): Post->semnamename('S0003')
+#2 {main}
+  thrown in /home/odinlm3h/public_html/API/ims/models/Post.php on line 271
+[16-Apr-2019 08:19:11 Etc/GMT] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'odinlm3h_ims.semester' doesn't exist in /home/odinlm3h/public_html/API/ims/models/Post.php:271
+Stack trace:
+#0 /home/odinlm3h/public_html/API/ims/models/Post.php(271): PDOStatement->execute()
+#1 /home/odinlm3h/public_html/API/ims/getsamenames.php(21): Post->semnamename('S0004')
+#2 {main}
+  thrown in /home/odinlm3h/public_html/API/ims/models/Post.php on line 271
+[16-Apr-2019 08:19:11 Etc/GMT] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'odinlm3h_ims.semester' doesn't exist in /home/odinlm3h/public_html/API/ims/models/Post.php:271
+Stack trace:
+#0 /home/odinlm3h/public_html/API/ims/models/Post.php(271): PDOStatement->execute()
+#1 /home/odinlm3h/public_html/API/ims/getsamenames.php(21): Post->semnamename('S0005')
+#2 {main}
+  thrown in /home/odinlm3h/public_html/API/ims/models/Post.php on line 271
+[16-Apr-2019 08:19:11 Etc/GMT] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'odinlm3h_ims.semester' doesn't exist in /home/odinlm3h/public_html/API/ims/models/Post.php:271
+Stack trace:
+#0 /home/odinlm3h/public_html/API/ims/models/Post.php(271): PDOStatement->execute()
+#1 /home/odinlm3h/public_html/API/ims/getsamenames.php(21): Post->semnamename('S0006')
+#2 {main}
+  thrown in /home/odinlm3h/public_html/API/ims/models/Post.php on line 271
+[16-Apr-2019 08:20:28 Etc/GMT] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'odinlm3h_ims.semester' doesn't exist in /home/odinlm3h/public_html/API/ims/models/Post.php:202
+Stack trace:
+#0 /home/odinlm3h/public_html/API/ims/models/Post.php(202): PDOStatement->execute()
+#1 /home/odinlm3h/public_html/API/ims/semester.php(22): Post->semesterresult('4 Sem')
+#2 {main}
+  thrown in /home/odinlm3h/public_html/API/ims/models/Post.php on line 202
+[16-Apr-2019 08:22:27 Etc/GMT] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'odinlm3h_ims.semester' doesn't exist in /home/odinlm3h/public_html/API/ims/models/Post.php:271
+Stack trace:
+#0 /home/odinlm3h/public_html/API/ims/models/Post.php(271): PDOStatement->execute()
+#1 /home/odinlm3h/public_html/API/ims/getsamenames.php(21): Post->semnamename('S0003')
+#2 {main}
+  thrown in /home/odinlm3h/public_html/API/ims/models/Post.php on line 271
+[16-Apr-2019 08:22:27 Etc/GMT] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'odinlm3h_ims.semester' doesn't exist in /home/odinlm3h/public_html/API/ims/models/Post.php:271
+Stack trace:
+#0 /home/odinlm3h/public_html/API/ims/models/Post.php(271): PDOStatement->execute()
+#1 /home/odinlm3h/public_html/API/ims/getsamenames.php(21): Post->semnamename('S0004')
+#2 {main}
+  thrown in /home/odinlm3h/public_html/API/ims/models/Post.php on line 271
+[16-Apr-2019 08:22:27 Etc/GMT] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'odinlm3h_ims.semester' doesn't exist in /home/odinlm3h/public_html/API/ims/models/Post.php:271
+Stack trace:
+#0 /home/odinlm3h/public_html/API/ims/models/Post.php(271): PDOStatement->execute()
+#1 /home/odinlm3h/public_html/API/ims/getsamenames.php(21): Post->semnamename('S0005')
+#2 {main}
+  thrown in /home/odinlm3h/public_html/API/ims/models/Post.php on line 271
+[16-Apr-2019 08:22:27 Etc/GMT] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'odinlm3h_ims.semester' doesn't exist in /home/odinlm3h/public_html/API/ims/models/Post.php:271
+Stack trace:
+#0 /home/odinlm3h/public_html/API/ims/models/Post.php(271): PDOStatement->execute()
+#1 /home/odinlm3h/public_html/API/ims/getsamenames.php(21): Post->semnamename('S0006')
+#2 {main}
+  thrown in /home/odinlm3h/public_html/API/ims/models/Post.php on line 271
+[24-Apr-2019 05:34:08 Etc/GMT] PHP Notice:  Undefined variable: result in /home/odinlm3h/public_html/API/ims/models/Post.php on line 190
+[24-Apr-2019 05:34:08 Etc/GMT] PHP Notice:  Undefined variable: result1 in /home/odinlm3h/public_html/API/ims/models/Post.php on line 190
+[24-Apr-2019 05:53:39 Etc/GMT] PHP Notice:  Undefined variable: result in /home/odinlm3h/public_html/API/ims/models/Post.php on line 190
+[24-Apr-2019 05:53:39 Etc/GMT] PHP Notice:  Undefined variable: result1 in /home/odinlm3h/public_html/API/ims/models/Post.php on line 190
+[24-Apr-2019 05:53:54 Etc/GMT] PHP Notice:  Undefined variable: result in /home/odinlm3h/public_html/API/ims/models/Post.php on line 190
+[24-Apr-2019 05:53:54 Etc/GMT] PHP Notice:  Undefined variable: result1 in /home/odinlm3h/public_html/API/ims/models/Post.php on line 190
+[24-Apr-2019 11:04:44 Etc/GMT] PHP Notice:  Undefined variable: result in /home/odinlm3h/public_html/API/ims/models/Post.php on line 190
+[24-Apr-2019 11:04:44 Etc/GMT] PHP Notice:  Undefined variable: result1 in /home/odinlm3h/public_html/API/ims/models/Post.php on line 190
+[24-Apr-2019 11:04:49 Etc/GMT] PHP Notice:  Undefined variable: result in /home/odinlm3h/public_html/API/ims/models/Post.php on line 190
+[24-Apr-2019 11:04:49 Etc/GMT] PHP Notice:  Undefined variable: result1 in /home/odinlm3h/public_html/API/ims/models/Post.php on line 190
+[24-Apr-2019 11:07:31 Etc/GMT] PHP Notice:  Undefined variable: result in /home/odinlm3h/public_html/API/ims/models/Post.php on line 190
+[24-Apr-2019 11:07:31 Etc/GMT] PHP Notice:  Undefined variable: result1 in /home/odinlm3h/public_html/API/ims/models/Post.php on line 190
+[28-Apr-2019 23:55:38 Etc/GMT] PHP Notice:  Undefined variable: result in /home/odinlm3h/public_html/API/ims/models/Post.php on line 324
+[28-Apr-2019 23:55:38 Etc/GMT] PHP Notice:  Undefined variable: result1 in /home/odinlm3h/public_html/API/ims/models/Post.php on line 324
+[02-May-2019 04:25:21 Etc/GMT] PHP Notice:  Undefined index: cat_val in /home/odinlm3h/public_html/API/ims/industry.php on line 18
+[03-May-2019 10:54:41 Etc/GMT] PHP Notice:  Undefined variable: result in /home/odinlm3h/public_html/API/ims/models/Post.php on line 324
+[03-May-2019 10:54:41 Etc/GMT] PHP Notice:  Undefined variable: result1 in /home/odinlm3h/public_html/API/ims/models/Post.php on line 324
+[15-May-2019 08:07:15 Etc/GMT] PHP Notice:  Undefined variable: result in /home/odinlm3h/public_html/API/ims/models/Post.php on line 324
+[15-May-2019 08:07:15 Etc/GMT] PHP Notice:  Undefined variable: result1 in /home/odinlm3h/public_html/API/ims/models/Post.php on line 324
+[16-May-2019 11:48:27 Etc/GMT] PHP Notice:  Undefined variable: result in /home/odinlm3h/public_html/API/ims/models/Post.php on line 324
+[16-May-2019 11:48:27 Etc/GMT] PHP Notice:  Undefined variable: result1 in /home/odinlm3h/public_html/API/ims/models/Post.php on line 324
+[17-May-2019 06:03:07 Etc/GMT] PHP Notice:  Undefined variable: result in /home/odinlm3h/public_html/API/ims/models/Post.php on line 324
+[17-May-2019 06:03:07 Etc/GMT] PHP Notice:  Undefined variable: result1 in /home/odinlm3h/public_html/API/ims/models/Post.php on line 324
+[17-May-2019 07:42:19 Etc/GMT] PHP Notice:  Undefined variable: result in /home/odinlm3h/public_html/API/ims/models/Post.php on line 324
+[17-May-2019 07:42:19 Etc/GMT] PHP Notice:  Undefined variable: result1 in /home/odinlm3h/public_html/API/ims/models/Post.php on line 324
+[17-May-2019 07:46:27 Etc/GMT] PHP Notice:  Undefined variable: result in /home/odinlm3h/public_html/API/ims/models/Post.php on line 324
+[17-May-2019 07:46:27 Etc/GMT] PHP Notice:  Undefined variable: result1 in /home/odinlm3h/public_html/API/ims/models/Post.php on line 324
+[17-May-2019 08:01:00 Etc/GMT] PHP Notice:  Undefined variable: result in /home/odinlm3h/public_html/API/ims/models/Post.php on line 324
+[17-May-2019 08:01:00 Etc/GMT] PHP Notice:  Undefined variable: result1 in /home/odinlm3h/public_html/API/ims/models/Post.php on line 324
+[20-May-2019 10:02:13 Etc/GMT] PHP Notice:  Undefined variable: result in /home/odinlm3h/public_html/API/ims/models/Post.php on line 324
+[20-May-2019 10:02:13 Etc/GMT] PHP Notice:  Undefined variable: result1 in /home/odinlm3h/public_html/API/ims/models/Post.php on line 324
+[20-May-2019 10:12:55 Etc/GMT] PHP Notice:  Undefined variable: result in /home/odinlm3h/public_html/API/ims/models/Post.php on line 324
+[20-May-2019 10:12:55 Etc/GMT] PHP Notice:  Undefined variable: result1 in /home/odinlm3h/public_html/API/ims/models/Post.php on line 324
+[20-May-2019 10:14:59 Etc/GMT] PHP Notice:  Undefined variable: result in /home/odinlm3h/public_html/API/ims/models/Post.php on line 324
+[20-May-2019 10:14:59 Etc/GMT] PHP Notice:  Undefined variable: result1 in /home/odinlm3h/public_html/API/ims/models/Post.php on line 324
+[23-May-2019 11:49:03 Etc/GMT] PHP Notice:  Undefined variable: result in /home/odinlm3h/public_html/API/ims/models/Post.php on line 324
+[23-May-2019 11:49:03 Etc/GMT] PHP Notice:  Undefined variable: result1 in /home/odinlm3h/public_html/API/ims/models/Post.php on line 324
+[04-Jun-2019 05:10:57 Etc/GMT] PHP Notice:  Undefined variable: result in /home/odinlm3h/public_html/API/ims/models/Post.php on line 324
+[04-Jun-2019 05:10:57 Etc/GMT] PHP Notice:  Undefined variable: result1 in /home/odinlm3h/public_html/API/ims/models/Post.php on line 324
+[04-Jun-2019 05:12:18 Etc/GMT] PHP Notice:  Undefined variable: result in /home/odinlm3h/public_html/API/ims/models/Post.php on line 324
+[04-Jun-2019 05:12:18 Etc/GMT] PHP Notice:  Undefined variable: result1 in /home/odinlm3h/public_html/API/ims/models/Post.php on line 324
+[04-Jun-2019 05:14:49 Etc/GMT] PHP Notice:  Undefined variable: result in /home/odinlm3h/public_html/API/ims/models/Post.php on line 324
+[04-Jun-2019 05:14:49 Etc/GMT] PHP Notice:  Undefined variable: result1 in /home/odinlm3h/public_html/API/ims/models/Post.php on line 324
+[04-Jun-2019 06:17:01 Etc/GMT] PHP Notice:  Undefined variable: result in /home/odinlm3h/public_html/API/ims/models/Post.php on line 324
+[04-Jun-2019 06:17:01 Etc/GMT] PHP Notice:  Undefined variable: result1 in /home/odinlm3h/public_html/API/ims/models/Post.php on line 324
+[05-Jun-2019 04:24:33 Etc/GMT] PHP Notice:  Undefined variable: result in /home/odinlm3h/public_html/API/ims/models/Post.php on line 324
+[05-Jun-2019 04:24:33 Etc/GMT] PHP Notice:  Undefined variable: result1 in /home/odinlm3h/public_html/API/ims/models/Post.php on line 324

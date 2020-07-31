@@ -1,0 +1,321 @@
+<?php
+/**
+ * CakePHP(tm) : Rapid Development Framework (https://cakephp.org)
+ * Copyright (c) Cake Software Foundation, Inc. (https://cakefoundation.org)
+ *
+ * Licensed under The MIT License
+ * For full copyright and license information, please see the LICENSE.txt
+ * Redistributions of files must retain the above copyright notice.
+ *
+ * @copyright     Copyright (c) Cake Software Foundation, Inc. (https://cakefoundation.org)
+ * @link          https://cakephp.org CakePHP(tm) Project
+ * @since         0.10.0
+ * @license       https://opensource.org/licenses/mit-license.php MIT License
+ */
+
+$cakeDescription = 'CakePHP: the rapid development php framework';
+?>
+<!DOCTYPE html>
+<html>
+<head>
+    <?= $this->Html->charset() ?>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>
+        <?php echo $title; ?>
+    </title>
+    <?= $this->Html->meta('icon') ?>
+
+
+
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="description" content="">
+    <meta name="author" content="">
+
+
+
+    <?= $this->Html->css('bootstrap.min.css') ?>
+
+    <?= $this->Html->css('metisMenu.min.css') ?>
+    <?= $this->Html->css('startmin.css') ?>
+    <?= $this->Html->css('fullcalendar.min.css') ?>
+
+    <?= $this->Html->css('morris.css') ?>
+
+
+    <?= $this->Html->css('font-awesome.min.css') ?>
+    <?= $this->Html->script('jquery.min.js') ?>
+    <?= $this->Html->script('moment.min.js') ?>
+
+    <?= $this->Html->script('fullcalendar.min.js') ?>
+    <?= $this->Html->script('bootstrap.min.js') ?>
+    <?= $this->Html->script('metisMenu.min.js') ?>
+    <?= $this->Html->script('startmin.js') ?>
+    <?= $this->Html->script('jquery-ui.min.js') ?>
+    <?= $this->Html->script('jquery.cookie.js') ?>
+    <?= $this->Html->script('arrow34.js') ?>
+    <?= $this->Html->script('jquery.dataTables.min.js') ?>
+    <?= $this->Html->script('dataTables.bootstrap.min.js') ?>
+    <?= $this->Html->css('jquery-ui.css') ?>
+
+    <?= $this->Html->script('js.cookie.js') ?>
+    <?= $this->Html->script('dataTables.fixedHeader.min.js') ?>
+
+
+
+
+    <!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
+    <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
+    <!--[if lt IE 9]>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.3/html5shiv.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/respond.js/1.4.2/respond.min.js"></script>
+    <![endif]-->
+
+
+
+
+    <?= $this->fetch('meta') ?>
+    <?= $this->fetch('css') ?>
+    <?= $this->fetch('script') ?>
+
+
+
+
+
+    <!--<script src="https://ajax.googleapis.com/ajax/libs/jqueryui/1.10.3/jquery-ui.min.js"></script>
+
+<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery-cookie/1.4.1/jquery.cookie.js"></script>-->
+    <script>
+
+        if(window.location.href.indexOf("www") > -1) {
+            var targeturl = 'https://www.odinlearning.in/SMS/';
+        }
+        else {
+            var targeturl = 'https://odinlearning.in/SMS/';
+        }
+
+
+        var urlmainsite             =   'https://www.odinlearning.in/API/';
+
+
+        jQuery(function($) {
+
+            //  var arrValuesForOrder = $.cookie("orderingblocks") ;
+
+
+
+
+
+            /**************************************/
+
+            var resultArray = [];
+            if($.cookie("orderingblocks") == undefined ){
+                resultArray = [];
+            }
+            else {
+                resultArray1 = $.cookie("orderingblocks");
+
+                var resultArray = new Array();
+// this will return an array with strings "1", "2", etc.
+                resultArray = resultArray1.split(",");
+            }
+
+            var order = resultArray;
+            var el = $('#draggablePanelList');
+            var map = {};
+
+            $('#draggablePanelList div').each(function() {
+                var el = $(this);
+                map[el.attr('id')] = el;
+            });
+
+            for (var i = 0, l = order.length; i < l; i ++) {
+                if (map[order[i]]) {
+                    el.append(map[order[i]]);
+                }
+            }
+
+
+            /***************************************/
+
+            $("#draggablePanelList").sortable({
+
+                handle: '.panel-heading',
+                update: function() {
+                    //debugger;
+                    //    var order = $('#draggablePanelList').sortable('serialize');
+                    var order = $('#draggablePanelList').sortable('toArray');
+
+                    $.cookie("orderingblocks", order);
+                }
+            });
+            /* var panelList = $('#draggablePanelList');
+
+             panelList.sortable({
+                 // Only make the .panel-heading child elements support dragging.
+                 // Omit this to make then entire <li>...</li> draggable.
+                 handle: '.panel-heading',
+                 update: function(event, ui) {
+                     $('.panel', panelList).each(function(index, elem) {
+                          var $listItem = $(elem),
+                              newIndex = $listItem.index();
+                              //alert($listItem);
+
+                                var ordering = "";
+         var $columns = $(".row");
+         $columns.each(function() {
+           ordering += this.id + "=" + $columns.index(this) + ";";
+         });
+
+         alert(ordering);
+         //$.cookie("ordering", ordering);
+
+                          // Persist the new indices.
+                     });
+                 }
+             });
+         });*/
+            /*jQuery(function($) {
+
+       //	var arrValuesForOrder = ["3","1"] ;
+
+           var resultArray = [];
+           if($.cookie("orderingblocks") == undefined )
+               resultArray = [];
+           else
+               resultArray = $.cookie("orderingblocks");
+
+           //alert(resultArray.length);
+
+           var temp = new Array();
+       // this will return an array with strings "1", "2", etc.
+       temp = resultArray.split(",");
+       //alert(temp.length);
+
+       //	$.cookie("orderingblocks")
+
+           //alert(resultArray);
+
+       var $ul = $("#draggablePanelList"),
+           $items = $("#draggablePanelList").children();
+           //alert( $items);
+
+       // loop backwards so you can just prepend elements in the list
+       // instead of trying to place them at a specific position
+       for (var i = temp[temp.length - 1]; i >= 0; i--) {
+
+           alert(temp[i] - 1);
+           // index is zero-based to you have to remove one from the values in your array
+           $ul.prepend( $items.get(temp[i] - 1));
+       }
+
+
+
+       $("#draggablePanelList").sortable({
+
+           handle: '.panel-heading',
+           update: function() {
+               var order = $('#draggablePanelList').sortable('toArray');
+
+               $.cookie("orderingblocks", order);
+
+
+
+           }
+       });*/
+        });
+    </script>
+
+    <style type="text/css">
+        /* show the move cursor as the user moves the mouse over the panel header.*/
+        #draggablePanelList .panel-heading {
+            cursor: move;
+        }
+    </style>
+
+</head>
+<body>
+
+
+<?= $this->Flash->render() ?>
+
+
+
+<?= $this->fetch('content') ?>
+<style type="text/css">
+
+    :root{
+        --main-color: #f5f9fc;
+    }
+    .container-fluid-top-nav {
+        background-color: #EEEEEC;
+        min-height: 800px !important;
+        height: auto !important;
+        width: 100%;
+    }
+    .top-nav-space-row {
+        width: 100%;
+        margin-left: 0%;
+        margin-top: 15px;
+        background-color: #EEEEEC;
+    }
+    #chat-btn {
+
+
+        position: fixed;
+        bottom:40px;
+        right: 40px;
+    }
+
+    .icon-bar {
+        width: 60px;
+        background-color: #555;
+        position:fixed;
+        bottom:40px;
+        right:0;
+    }
+
+    .icon-bar a {
+        display: block;
+        text-align: center;
+        padding: 7px;
+        transition: all 0.3s ease;
+        color: white;
+        font-size: 36px;
+    }
+
+    /*.icon-bar a:hover {
+      background-color: #000;
+    }*/
+
+    /*.active {
+      background-color: #4CAF50;
+    }**/
+
+</style>
+
+<?php if($this->request->getSession()->read('sessionname') != NULL){ ?>
+
+<div class="icon-bar">
+    <!-- <a class="active" href="#"><i class="fa fa-home"></i></a> -->
+    <a href="#" onclick="openmodalboxchar(1);return false;"  title="ODIN HELP" ><i class="fa fa-wechat"></i></a>
+    <a href="#" onclick="openmodalboxchar(2);return false;"  title="Counselling"><i class="glyphicon glyphicon-comment"></i></a>
+
+</div>
+
+<?php } ?>
+
+
+<!--	<a href="https://www.odinlearning.in/API/Dialogflow/" target="_blank" onclick="openmodalboxchar();return false;" id="chat-btn" ><span class="glyphicon glyphicon-comment" style="font-size:60px;"></span></a>-->
+
+<!-- <a href="http://odinlearning.com/chatwindow/" id="chat-btn" target="_blank"><span class="glyphicon glyphicon-comment" style="font-size:40px;"></span> </a>-->
+
+
+<?= $this->Html->script('raphael.min.js') ?>
+<?= $this->Html->script('morris.min.js') ?>
+<?= $this->Html->script('morris-data.js') ?>
+
+</body>
+</html>
+

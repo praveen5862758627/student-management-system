@@ -1,0 +1,29 @@
+
+body, html {
+  height: 100%;
+  margin: 0;
+}
+
+.loginbg{
+	background-image:url(../img/login_bg-min.jpg);
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+	height:100%;
+}
+
+#olocon{
+    height: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+#olorow{
+	padding:2rem;
+}
+
+.olowhite{
+	color:white;
+}
+

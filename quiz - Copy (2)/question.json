@@ -1,0 +1,79 @@
+{
+  "category": null,
+  "level": null,
+  "contenttype": null,
+  "question": [
+    {
+      "name": {
+        "text": "392 can be expressed as a product of primes as"
+      },
+	  "type": {
+        "text": "weighted"
+      },
+      "questiontext": {
+        "text": "<font size=\"4\">392 can be expressed as a product of primes as</font><br>"
+      },
+      "generalfeedback": {
+        "text": "<p>\n<font size=\"4\">\nClearly, 392 = 2 &times; 2 &times; 2 &times; 7 &times; 7<br>\n</font></p>"
+      },
+      "answer": [
+        {
+          "text": "2 &times; 2 &times; 2 &times; 7 &times; 7",
+          "marks": "6"
+        },
+        {
+          "text": "2 &times; 3 &times; 2 &times; 5 &times; 5",
+          "marks": "5"
+        },
+        {
+          "text": "2 &times; 2 &times; 2 &times; 6 &times; 6",
+          "marks": "4"
+        },
+        {
+          "text": "3 &times; 3 &times; 3 &times; 7 &times; 7",
+          "marks": "3"
+        },
+        {
+          "text": "2 &times; 5 &times; 2 &times; 4 &times; 7",
+          "marks": "2"
+        }
+      ]
+    },
+    {
+      "name": {
+        "text": "Find the HCF of 26, 91 and 130."
+      },
+	  "type": {
+        "text": "weighted"
+      },
+      "questiontext": {
+        "text": "<font size=\"4\">Find the HCF of 26, 91 and 130.</font><br>"
+      },
+      "generalfeedback": {
+        "text": "<p>\n<font size=\"4\">\n26) 130 (5<br>\n&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<u>130</u><br>\n&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;000<br>\n26 is the HCF of 26 and 130<br>\n26) 91 (3<br>\n&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<u>78&nbsp;&nbsp;</u><br>\n&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;13) 26 (2<br>\n&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<u>26</u><br>\n&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<u>00</u><br>\n13 is the HCF of 26 and 91<br>\nSo 13 is the HCF of 26, 91, 130<br>\n<br>\nAlternate method:<br>\nPrime factorisation<br>\n&nbsp;&nbsp;&nbsp;&nbsp;26&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;91 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 130<br>\n13 &times; 2 &nbsp;&nbsp; 13 &times; 7 &nbsp;&nbsp;&nbsp; 13 &times; 5 &times; 2<br>\nHCF = lowest power of common prime factors<br>\ni.e., HCF = 13<br>\n</font></p>"
+      },
+      "answer": [
+        {
+          "text": "13",
+          "marks": "6"
+        },
+        {
+          "text": "11",
+          "marks": "5"
+        },
+        {
+          "text": "16",
+          "marks": "4"
+        },
+        {
+          "text": "10",
+          "marks": "3"
+        },
+        {
+          "text": "14",
+          "marks": "2"
+        }
+      ]
+    }
+  ]
+}

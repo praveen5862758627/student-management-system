@@ -1,0 +1,117 @@
+{
+  "category": null,
+  "level": null,
+  "contenttype": null,
+  "question": [
+    {
+      "name": {
+        "text": "16CivilM101"
+      },
+      "type": {
+        "text": "NU"
+      },
+      "questiontext": {
+        "text": "<img vspace=\"0\" hspace=\"0\" border=\"0\" src=\"http://docs.odinlearning.in/qimages/2016GATE/16CE1_img_17.png\">"
+      },
+      "generalfeedback": {
+        "text": ""
+      },
+      "answer": [
+        {
+          "value1": 99.9,
+          "value2": 100.1,
+          "operator": "==",
+          "marks": " 100 "
+        }
+      ]
+    },
+    {
+      "name": {
+        "text": "16CivilM102"
+      },
+      "type": {
+        "text": "NU"
+      },
+      "questiontext": {
+        "text": "<img vspace=\"0\" hspace=\"0\" border=\"0\" src=\"http://docs.odinlearning.in/qimages/2016GATE/16CE1_img_10.png\">"
+      },
+      "generalfeedback": {
+        "text": ""
+      },
+      "answer": [
+        {
+          "value1": 0.355,
+          "value2": 0.365,
+          "operator": "==",
+          "marks": " 100 "
+        }
+      ]
+    },
+    {
+      "name": {
+        "text": "16CivilM103"
+      },
+      "type": {
+        "text": "NU"
+      },
+      "questiontext": {
+        "text": "<img vspace=\"0\" hspace=\"0\" border=\"0\" src=\"http://docs.odinlearning.in/qimages/2016GATE/16CE1_img_23.png\">"
+      },
+      "generalfeedback": {
+        "text": ""
+      },
+      "answer": [
+        {
+          "value1": 21.5,
+          "value2": 21.7,
+          "operator": "==",
+          "marks": " 100 "
+        }
+      ]
+    },
+    {
+      "name": {
+        "text": "16CivilM104"
+      },
+      "type": {
+        "text": "NU"
+      },
+      "questiontext": {
+        "text": "<img vspace=\"0\" hspace=\"0\" border=\"0\" src=\"http://docs.odinlearning.in/qimages/2016GATE/16CE1_img_25.png\">"
+      },
+      "generalfeedback": {
+        "text": ""
+      },
+      "answer": [
+        {
+          "value1": 13.6,
+          "value2": 13.7,
+          "operator": "==",
+          "marks": " 100 "
+        }
+      ]
+    },
+    {
+      "name": {
+        "text": "16CivilM105"
+      },
+      "type": {
+        "text": "NU"
+      },
+      "questiontext": {
+        "text": "<img vspace=\"0\" hspace=\"0\" border=\"0\" src=\"http://docs.odinlearning.in/qimages/2016GATE/16CE1_img_31.png\">"
+      },
+      "generalfeedback": {
+        "text": ""
+      },
+      "answer": [
+        {
+          "value1": 1199,
+          "value2": 1201,
+          "operator": "==",
+          "marks": " 100 "
+        }
+      ]
+    }
+  ]
+}

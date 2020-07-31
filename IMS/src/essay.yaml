@@ -1,0 +1,8 @@
+question:
+  name:
+    text: 'C function: print string lengths'
+  questiontext:
+    text: >-
+      Write an Essay about Corruption in India. Your Essay should not exceed 1000 words.
+  generalfeedback:
+    text: ''

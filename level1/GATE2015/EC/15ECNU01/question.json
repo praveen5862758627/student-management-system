@@ -1,0 +1,249 @@
+{
+  "category": null,
+  "level": null,
+  "contenttype": null,
+  "question": [
+    {
+      "name": {
+        "text": "EC15M101"
+      },
+      "type": {
+        "text": "NU"
+      },
+      "questiontext": {
+        "text": "<img vspace=\"0\" hspace=\"0\" border=\"0\" src=\"http://docs.odinlearning.in/qimages/2015GATE/15EC1_img_10.png\">"
+      },
+      "generalfeedback": {
+        "text": ""
+      },
+      "answer": [
+        {
+          "value1": 2,
+          "value2": 2,
+          "operator": "=",
+          "marks": " 100 "
+        }
+      ]
+    },
+    {
+      "name": {
+        "text": "EC15M102"
+      },
+      "type": {
+        "text": "NU"
+      },
+      "questiontext": {
+        "text": "<img vspace=\"0\" hspace=\"0\" border=\"0\" src=\"http://docs.odinlearning.in/qimages/2015GATE/15EC1_img_14.png\">"
+      },
+      "generalfeedback": {
+        "text": ""
+      },
+      "answer": [
+        {
+          "value1": 16.5,
+          "value2": 17.5,
+          "operator": "==",
+          "marks": " 100 "
+        }
+      ]
+    },
+    {
+      "name": {
+        "text": "EC15M103"
+      },
+      "type": {
+        "text": "NU"
+      },
+      "questiontext": {
+        "text": "<img vspace=\"0\" hspace=\"0\" border=\"0\" src=\"http://docs.odinlearning.in/qimages/2015GATE/15EC1_img_15.png\">"
+      },
+      "generalfeedback": {
+        "text": ""
+      },
+      "answer": [
+        {
+          "value1": 24,
+          "value2": 26,
+          "operator": "==",
+          "marks": " 100 "
+        }
+      ]
+    },
+    {
+      "name": {
+        "text": "EC15M104"
+      },
+      "type": {
+        "text": "NU"
+      },
+      "questiontext": {
+        "text": "<img vspace=\"0\" hspace=\"0\" border=\"0\" src=\"http://docs.odinlearning.in/qimages/2015GATE/15EC1_img_16.png\">"
+      },
+      "generalfeedback": {
+        "text": ""
+      },
+      "answer": [
+        {
+          "value1": 99.5,
+          "value2": 100.5,
+          "operator": "==",
+          "marks": " 100 "
+        }
+      ]
+    },
+    {
+      "name": {
+        "text": "EC15M105"
+      },
+      "type": {
+        "text": "NU"
+      },
+      "questiontext": {
+        "text": "<img vspace=\"0\" hspace=\"0\" border=\"0\" src=\"http://docs.odinlearning.in/qimages/2015GATE/15EC1_img_19.png\">"
+      },
+      "generalfeedback": {
+        "text": ""
+      },
+      "answer": [
+        {
+          "value1": 0.5,
+          "value2": 0.54,
+          "operator": "==",
+          "marks": " 100 "
+        }
+      ]
+    },
+    {
+      "name": {
+        "text": "EC15M106"
+      },
+      "type": {
+        "text": "NU"
+      },
+      "questiontext": {
+        "text": "<img vspace=\"0\" hspace=\"0\" border=\"0\" src=\"http://docs.odinlearning.in/qimages/2015GATE/15EC1_img_21.png\">"
+      },
+      "generalfeedback": {
+        "text": ""
+      },
+      "answer": [
+        {
+          "value1": 5,
+          "value2": 5,
+          "operator": "=",
+          "marks": " 100 "
+        }
+      ]
+    },
+    {
+      "name": {
+        "text": "EC15M107"
+      },
+      "type": {
+        "text": "NU"
+      },
+      "questiontext": {
+        "text": "<img vspace=\"0\" hspace=\"0\" border=\"0\" src=\"http://docs.odinlearning.in/qimages/2015GATE/15EC1_img_24.png\">"
+      },
+      "generalfeedback": {
+        "text": ""
+      },
+      "answer": [
+        {
+          "value1": 7,
+          "value2": 7,
+          "operator": "=",
+          "marks": " 100 "
+        }
+      ]
+    },
+    {
+      "name": {
+        "text": "EC15M108"
+      },
+      "type": {
+        "text": "NU"
+      },
+      "questiontext": {
+        "text": "<img vspace=\"0\" hspace=\"0\" border=\"0\" src=\"http://docs.odinlearning.in/qimages/2015GATE/15EC1_img_25.png\">"
+      },
+      "generalfeedback": {
+        "text": ""
+      },
+      "answer": [
+        {
+          "value1": 0.93,
+          "value2": 0.94,
+          "operator": "==",
+          "marks": " 100 "
+        }
+      ]
+    },
+    {
+      "name": {
+        "text": "EC15M109"
+      },
+      "type": {
+        "text": "NU"
+      },
+      "questiontext": {
+        "text": "<img vspace=\"0\" hspace=\"0\" border=\"0\" src=\"http://docs.odinlearning.in/qimages/2015GATE/15EC1_img_27.png\">"
+      },
+      "generalfeedback": {
+        "text": ""
+      },
+      "answer": [
+        {
+          "value1": 2,
+          "value2": 2,
+          "operator": "=",
+          "marks": " 100 "
+        }
+      ]
+    },
+    {
+      "name": {
+        "text": "EC15M110"
+      },
+      "type": {
+        "text": "NU"
+      },
+      "questiontext": {
+        "text": "<img vspace=\"0\" hspace=\"0\" border=\"0\" src=\"http://docs.odinlearning.in/qimages/2015GATE/15EC1_img_29.png\">"
+      },
+      "generalfeedback": {
+        "text": ""
+      },
+      "answer": [
+        {
+          "value1": 12,
+          "value2": 12,
+          "operator": "=",
+          "marks": " 100 "
+        }
+      ]
+    },
+    {
+      "name": {
+        "text": "EC15M111"
+      },
+      "type": {
+        "text": "NU"
+      },
+      "questiontext": {
+        "text": "<img vspace=\"0\" hspace=\"0\" border=\"0\" src=\"http://docs.odinlearning.in/qimages/2015GATE/15EC1_img_34.png\">"
+      },
+      "generalfeedback": {
+        "text": ""
+      },
+      "answer": [
+        {
+          "value1": 8.85,
+          "value2": 8.92,
+          "operator": "==",
+          "marks": " 100 "
+        }
+      ]
+    }
+  ]
+}

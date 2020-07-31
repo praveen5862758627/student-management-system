@@ -1,0 +1,92 @@
+{
+    "_readme": [
+        "This file locks the dependencies of your project to a known state",
+        "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
+        "This file is @generated automatically"
+    ],
+    "content-hash": "6acdceda758c44baf5d727224bedb5e1",
+    "packages": [
+        {
+            "name": "koolreport/bootstrap4",
+            "version": "1.5.0",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/koolreport/bootstrap4.git",
+                "reference": "c511346b60cd4fa7df07f30b8dfcd7651b5b2676"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/koolreport/bootstrap4/zipball/c511346b60cd4fa7df07f30b8dfcd7651b5b2676",
+                "reference": "c511346b60cd4fa7df07f30b8dfcd7651b5b2676",
+                "shasum": ""
+            },
+            "type": "library",
+            "notification-url": "https://packagist.org/downloads/",
+            "license": [
+                "MIT"
+            ],
+            "description": "Bootstrap 4 Theme For KoolReport",
+            "homepage": "https://www.koolreport.com",
+            "keywords": [
+                "PHP Reporting Framework",
+                "mysql reporting tools",
+                "php",
+                "php reprting tools",
+                "report theme"
+            ],
+            "time": "2019-10-05T14:39:15+00:00"
+        },
+        {
+            "name": "koolreport/core",
+            "version": "4.5.0",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/koolreport/core.git",
+                "reference": "206ba43ccc96643fb0ea460620dccb45b6448e60"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/koolreport/core/zipball/206ba43ccc96643fb0ea460620dccb45b6448e60",
+                "reference": "206ba43ccc96643fb0ea460620dccb45b6448e60",
+                "shasum": ""
+            },
+            "require": {
+                "php": ">=5.4"
+            },
+            "type": "library",
+            "autoload": {
+                "files": [
+                    "autoload.php"
+                ]
+            },
+            "notification-url": "https://packagist.org/downloads/",
+            "license": [
+                "MIT"
+            ],
+            "authors": [
+                {
+                    "name": "KoolPHP Inc",
+                    "homepage": "https://www.koolphp.net"
+                }
+            ],
+            "description": "An Open Source PHP Reporting Framework for easier and faster report delivery.",
+            "homepage": "https://www.koolreport.com",
+            "keywords": [
+                "PHP Reporting Framework",
+                "PHP Reporting Tools",
+                "charts and graphs",
+                "data processing",
+                "data visualization"
+            ],
+            "time": "2020-01-20T16:14:15+00:00"
+        }
+    ],
+    "packages-dev": [],
+    "aliases": [],
+    "minimum-stability": "stable",
+    "stability-flags": [],
+    "prefer-stable": false,
+    "prefer-lowest": false,
+    "platform": [],
+    "platform-dev": []
+}

@@ -1,0 +1,38 @@
+   <style>
+   
+.side-nav ul
+{
+	    background: #808080 !important;
+}
+.rgba-black-light, .rgba-black-light:after
+{
+	    background: #808080 !important;
+}
+.white-skin .side-nav .sidenav-bg:after, .white-skin .side-nav .sidenav-bg.mask-strong:after
+{
+	    background: #808080 !important;
+}
+.card.card-cascade.narrower .view.view-cascade
+{
+	  background: #808080 !important;
+}
+.tableheadernmhc
+{
+	 background: #808080 !important;
+}
+	#sidebar
+{
+	 background: #808080 !important;
+}
+footer.page-footer
+{
+	 background: #808080 !important;
+}
+#sidebar ul ul a
+{
+	background: #9F9F9F !important;
+}
+	
+
+
+   </style>

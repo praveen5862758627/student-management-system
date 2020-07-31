@@ -1,0 +1,205 @@
+{
+  "category": null,
+  "level": null,
+  "contenttype": null,
+  "question": [
+    {
+      "name": {
+        "text": "Find 412"
+      },
+      "questiontext": {
+        "text": "<font size=\"4\">Find 41<sup>2</sup></font><br>"
+      },
+      "generalfeedback": {
+        "text": "<font size=\"4\">\n(41 - 25) | (50 - 41)<br>\nDifference stroke | (Difference)<sup>2</sup> stroke<br>\n= 16 | 9<sup>2</sup><br>\n= 16 | 81</br>\nMaintain 2 digits in (Difference)<sup>2</sup> stroke</br>\n= 1681<br>\n</p></font>"
+      },
+      "answer": [
+        {
+          "text": "1681",
+          "marks": "100"
+        },
+        {
+          "text": "1581",
+          "marks": "0"
+        },
+        {
+          "text": "1781",
+          "marks": "0"
+        },
+        {
+          "text": "1481",
+          "marks": "0"
+        },
+        {
+          "text": "1881",
+          "marks": "0"
+        }
+      ]
+    },
+    {
+      "name": {
+        "text": "Find 422"
+      },
+      "questiontext": {
+        "text": "<font size=\"4\">Find 42<sup>2</sup></font><br>"
+      },
+      "generalfeedback": {
+        "text": "<font size=\"4\">\n(42 - 25) | (50 - 42)<br>\nDifference stroke | (Difference)<sup>2</sup> stroke<br>\n= 17 | 8<sup>2</sup><br>\n= 17 | 64</br>\nMaintain 2 digits in (Difference)<sup>2</sup> stroke</br>\n= 1764<br>\n</p></font>"
+      },
+      "answer": [
+        {
+          "text": "1764",
+          "marks": "100"
+        },
+        {
+          "text": "1664",
+          "marks": "0"
+        },
+        {
+          "text": "1864",
+          "marks": "0"
+        },
+        {
+          "text": "1564",
+          "marks": "0"
+        },
+        {
+          "text": "1964",
+          "marks": "0"
+        }
+      ]
+    },
+    {
+      "name": {
+        "text": "Find 432"
+      },
+      "questiontext": {
+        "text": "<font size=\"4\">Find 43<sup>2</sup></font><br>"
+      },
+      "generalfeedback": {
+        "text": "<font size=\"4\">\n(43 - 25) | (50 - 43)<br>\nDifference stroke | (Difference)<sup>2</sup> stroke<br>\n= 18 | 7<sup>2</sup><br>\n= 18 | 49</br>\nMaintain 2 digits in (Difference)<sup>2</sup> stroke</br>\n= 1849<br>\n</p></font>"
+      },
+      "answer": [
+        {
+          "text": "1849",
+          "marks": "100"
+        },
+        {
+          "text": "1749",
+          "marks": "0"
+        },
+        {
+          "text": "1949",
+          "marks": "0"
+        },
+        {
+          "text": "1649",
+          "marks": "0"
+        },
+        {
+          "text": "2049",
+          "marks": "0"
+        }
+      ]
+    },
+    {
+      "name": {
+        "text": "Find 442"
+      },
+      "questiontext": {
+        "text": "<font size=\"4\">Find 44<sup>2</sup></font><br>"
+      },
+      "generalfeedback": {
+        "text": "<font size=\"4\">\n(44 - 25) | (50 - 44)<br>\nDifference stroke | (Difference)<sup>2</sup> stroke<br>\n= 19 | 6<sup>2</sup><br>\n= 19 | 36</br>\nMaintain 2 digits in (Difference)<sup>2</sup> stroke</br>\n= 1936<br>\n</p></font>"
+      },
+      "answer": [
+        {
+          "text": "1936",
+          "marks": "100"
+        },
+        {
+          "text": "1836",
+          "marks": "0"
+        },
+        {
+          "text": "2036",
+          "marks": "0"
+        },
+        {
+          "text": "1736",
+          "marks": "0"
+        },
+        {
+          "text": "2136",
+          "marks": "0"
+        }
+      ]
+    },
+    {
+      "name": {
+        "text": "Find 452"
+      },
+      "questiontext": {
+        "text": "<font size=\"4\">Find 45<sup>2</sup></font><br>"
+      },
+      "generalfeedback": {
+        "text": "<font size=\"4\">\n(45 - 25) | (50 - 45)<br>\nDifference stroke | (Difference)<sup>2</sup> stroke<br>\n= 20 | 5<sup>2</sup><br>\n= 20 | 25</br>\nMaintain 2 digits in (Difference)<sup>2</sup> stroke</br>\n= 2025<br>\n</p></font>"
+      },
+      "answer": [
+        {
+          "text": "2025",
+          "marks": "100"
+        },
+        {
+          "text": "1925",
+          "marks": "0"
+        },
+        {
+          "text": "2125",
+          "marks": "0"
+        },
+        {
+          "text": "1825",
+          "marks": "0"
+        },
+        {
+          "text": "2225",
+          "marks": "0"
+        }
+      ]
+    },
+    {
+      "name": {
+        "text": "Find 462"
+      },
+      "questiontext": {
+        "text": "<font size=\"4\">Find 46<sup>2</sup></font><br>"
+      },
+      "generalfeedback": {
+        "text": "<font size=\"4\">\n(46 - 25) | (50 - 46)<br>\nDifference stroke | (Difference)<sup>2</sup> stroke<br>\n= 21 | 4<sup>2</sup><br>\n= 21 | 16</br>\nMaintain 2 digits in (Difference)<sup>2</sup> stroke</br>\n= 2116<br>\n</p></font>"
+      },
+      "answer": [
+        {
+          "text": "2116",
+          "marks": "100"
+        },
+        {
+          "text": "2016",
+          "marks": "0"
+        },
+        {
+          "text": "2216",
+          "marks": "0"
+        },
+        {
+          "text": "1916",
+          "marks": "0"
+        },
+        {
+          "text": "2316",
+          "marks": "0"
+        }
+      ]
+    }
+  ]
+}

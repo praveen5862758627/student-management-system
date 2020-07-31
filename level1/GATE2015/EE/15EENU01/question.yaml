@@ -1,0 +1,116 @@
+category: null
+level: null
+contenttype: null
+question:
+  - name:
+      text: 'EEE15M101'
+    type:
+      text: NU
+    questiontext:
+      text: >-
+        <img vspace="0" hspace="0" border="0" src="http://docs.odinlearning.in/qimages/2015GATE/15EE1_img_10.png">
+    generalfeedback:
+      text: ''
+    answer:
+      - value1: 0.25
+        value2: 0.25
+        operator: =
+        marks: ' 100 '
+  - name:
+      text: 'EEE15M102'
+    type:
+      text: NU
+    questiontext:
+      text: >-
+        <img vspace="0" hspace="0" border="0" src="http://docs.odinlearning.in/qimages/2015GATE/15EE1_img_12.png">
+    generalfeedback:
+      text: ''
+    answer:
+      - value1: 9
+        value2: 9
+        operator: =
+        marks: ' 100 '
+  - name:
+      text: 'EEE15M103'
+    type:
+      text: NU
+    questiontext:
+      text: >-
+        <img vspace="0" hspace="0" border="0" src="http://docs.odinlearning.in/qimages/2015GATE/15EE1_img_15.png">
+    generalfeedback:
+      text: ''
+    answer:
+      - value1: 0.22
+        value2: 0.23
+        operator: ==
+        marks: ' 100 '
+  - name:
+      text: 'EEE15M104'
+    type:
+      text: NU
+    questiontext:
+      text: >-
+        <img vspace="0" hspace="0" border="0" src="http://docs.odinlearning.in/qimages/2015GATE/15EE1_img_17.png">
+    generalfeedback:
+      text: ''
+    answer:
+      - value1: 1
+        value2: 1
+        operator: =
+        marks: ' 100 '
+  - name:
+      text: 'EEE15M105'
+    type:
+      text: NU
+    questiontext:
+      text: >-
+        <img vspace="0" hspace="0" border="0" src="http://docs.odinlearning.in/qimages/2015GATE/15EE1_img_18.png">
+    generalfeedback:
+      text: ''
+    answer:
+      - value1: 90
+        value2: 90
+        operator: =
+        marks: ' 100 '
+  - name:
+      text: 'EEE15M106'
+    type:
+      text: NU
+    questiontext:
+      text: >-
+        <img vspace="0" hspace="0" border="0" src="http://docs.odinlearning.in/qimages/2015GATE/15EE1_img_20.png">
+    generalfeedback:
+      text: ''
+    answer:
+      - value1: 0.17
+        value2: 0.2
+        operator: ==
+        marks: ' 100 '
+  - name:
+      text: 'EEE15M107'
+    type:
+      text: NU
+    questiontext:
+      text: >-
+        <img vspace="0" hspace="0" border="0" src="http://docs.odinlearning.in/qimages/2015GATE/15EE1_img_23.png">
+    generalfeedback:
+      text: ''
+    answer:
+      - value1: 100
+        value2: 110
+        operator: ==
+        marks: ' 100 '
+  - name:
+      text: 'EEE15M108'
+    type:
+      text: NU
+    questiontext:
+      text: >-
+        <img vspace="0" hspace="0" border="0" src="http://docs.odinlearning.in/qimages/2015GATE/15EE1_img_28.png">
+    generalfeedback:
+      text: ''
+    answer:
+      - value1: 3.3
+        value2: 3.4
+        operator: ==
+        marks: ' 100 '

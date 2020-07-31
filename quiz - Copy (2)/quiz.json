@@ -1,0 +1,98 @@
+{
+  "name": "HCF LCM QA02 Level 1 Quiz",
+  "code": "QA02-QUIZL1",
+  "topic": "HCF LCM",
+  "type": "Level 1",
+  "description": "Line 1\nLine 2\nLine 3\n",
+  "time": 20,
+  "opentime": "",
+  "closetime": "",
+  "noofattempts": "",
+  "comparea_code": "CID001",
+  "passingscore_in_percentage": 70,
+  "show_results": 1,
+  "show_review": 1,
+  "scoring_method": "Highest",
+  "rubric": [
+    {
+      "maxscore": 80
+    },
+    {
+      "name": "Basic",
+      "low": 0,
+      "high": 24.99,
+      "explanation": "This is the explanation Basic"
+    },
+    {
+      "name": "Average",
+      "low": 25,
+      "high": 49.99,
+      "explanation": "This is the explanation Average"
+    },
+    {
+      "name": "Good",
+      "low": 50,
+      "high": 74.99,
+      "explanation": "This is the explanation Good"
+    },
+    {
+      "name": "Good",
+      "low": 50,
+      "high": 74.99,
+      "explanation": "This is the explanation Excellent"
+    }
+  ],
+  "Sections": [
+    {
+      "section": [
+        {
+          "name": "Level 1",
+          "positivemark": 1,
+          "negativemark": 0
+        },
+        {
+          "questiongroups": [
+            {
+              "category": "01-QA/01-NumberSystems",
+              "level": "level1",
+              "type": "weighted",
+              "noofquestions": 2
+            },
+            {
+             "category": "01-QA/01-NumberSystems",
+              "level": "level1",
+              "type": "weighted",
+              "noofquestions": 2
+            }
+          ]
+        }
+      ]
+    },
+	{
+	
+	  "section": [
+        {
+          "name": "Level 2",
+          "positivemark": 1,
+          "negativemark": 0
+        },
+        {
+          "questiongroups": [
+            {
+              "category": "01-QA/01-NumberSystems",
+              "level": "level1",
+              "type": "weighted",
+              "noofquestions": 2
+            },
+            {
+             "category": "01-QA/01-NumberSystems",
+              "level": "level1",
+              "type": "weighted",
+              "noofquestions": 2
+            }
+          ]
+        }
+      ]
+	}
+  ]
+}

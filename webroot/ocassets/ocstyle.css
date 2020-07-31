@@ -1,0 +1,518 @@
+html{
+    box-sizing: border-box;
+}
+
+*{
+    box-sizing: border-box;
+}
+
+body{
+    
+    max-width: 1366px;
+    justify-content: center;
+    align-content: center;
+    margin: auto;
+    padding:0;
+    font-family: 'Raleway', sans-serif;
+}
+
+.navbar {
+    padding: 50px 50px 0;
+}
+
+#collapsibleNaVJbar .nav-item {
+    margin-left: 10px;
+}
+
+#collapsibleNaVJbar .nav-link {
+    color:black;
+    font-weight: 500;
+    font-size: 18px;
+}
+
+#collapsibleNaVJbar .btn {
+    width:150px;
+    color:white;
+    border-radius: 20px;
+    font-weight: 500;
+    background-color: #a9a9a9;
+    padding: 5px 20px;
+}
+
+#ochomeVcont{
+    background-image: url('../ocassets/oc-home-1.png');
+    background-repeat: no-repeat;
+    background-size: contain;
+    background-position: right;
+    padding: 100px 50px 300px;
+}
+
+
+#ochome11 h1{
+    color: #ffc02e;
+    font-size: 80px;
+    line-height: 1;
+    font-weight: 700;
+    margin-bottom: 0;
+}
+
+#ochomep11{
+    font-size: 20px;
+    margin-bottom: 0;
+}
+
+#ochomep12{
+    font-weight: 600;
+    font-size: 20px;
+    margin-bottom: 2rem;
+}
+
+#ochomecontp1{
+    font-weight: 700;
+    font-size: 30px;
+    padding: 30px 0;
+}
+
+#ochome11 .btn{
+    border-radius: 20px;
+    background-color: black;
+    color: white;
+    font-size: 20px;
+    text-decoration: none;
+    font-weight: 700;
+    padding-left: 20px;
+    padding-right: 20px;
+}
+
+#ochome12 .col-md-4{
+    padding-left:0;
+}
+
+#ochome12 img{
+    padding: 10px 0 0 10px;
+    width: 100%;
+}
+
+#ochomecont2{
+    background-image: url('../ocassets/oc-home-2.png');
+    background-repeat: no-repeat;
+    background-size: 100%;
+    background-position: top left;
+    padding: 100px 50px 300px;
+    margin-top: -18%;
+}
+
+#rowspacer{
+    padding:50px
+}
+
+#rowspacer2{
+    padding:220px
+}
+
+#ochome22 #ochomep13{
+    color:white;
+    font-size: 100px;
+    font-weight: 700;
+    line-height: 1;
+    margin-bottom: 0;
+}
+
+#ochome22 h2{
+    color:white;
+    font-size: 40px;
+    font-weight: 700;
+    line-height: 1;
+  
+}
+
+#ochome22 #ochomep14{
+    color:white;
+    font-size: 15px;
+    font-weight: 300;
+    line-height: 2;
+    padding: 20px 0;
+    
+}
+
+#ochome22 .btn{
+    border-radius: 20px;
+    background-color: black;
+    color: white;
+    font-size: 20px;
+    text-decoration: none;
+    font-weight: 700;
+    padding-left: 20px;
+    padding-right: 20px;
+}
+
+#ochomecont3{
+    background-image: url('../ocassets/oc-home-3.png');
+    background-repeat: no-repeat;
+    background-size: contain;
+    background-position: right;
+    padding: 100px 50px 300px;
+    margin-top: -45%;
+}
+
+#ochome31 .list-group-item{
+    background-color: transparent;
+    border: none;
+    font-size: 15px;
+    line-height: 2;
+    font-weight: 600;
+    padding: 5px 0;
+}
+#ochome31 ul{
+    padding: 50px 0;
+}
+
+#ochome31 #ochomep31{
+    color:white;
+    font-size: 90px;
+    font-weight: 700;
+    line-height: 1;
+    margin-bottom: 0;
+}
+
+#ochome31 h2{
+    color:black;
+    font-size: 40px;
+    font-weight: 700;
+    line-height: 1;
+
+}
+
+#ochome31 .btn{
+    border-radius: 20px;
+    background-color: black;
+    color: white;
+    font-size: 20px;
+    text-decoration: none;
+    font-weight: 700;
+    padding-left: 20px;
+    padding-right: 20px;
+}
+
+#ocfoot{
+    background-color: #1f1f1f;
+    padding:50px;
+}
+
+#ocfootcol4 .list-group-item{
+    background-color: transparent;
+    border: none;
+    color: lightgray;
+    padding: 5px 0;
+}
+
+
+#ocfootcol1 .list-group-item{
+    background-color: transparent;
+    border: none;
+    color: lightgray;
+    padding: 5px 0;
+}
+
+#ocfootcol2 .list-group-item{
+    background-color: transparent;
+    border: none;
+    color: lightgray;
+    padding: 5px 0;
+}
+
+#ocfootcol2 .fab{
+    text-decoration: none;
+    font-size: 20px;
+}
+
+#ocfootcolV4 p{
+    color: lightgray;
+    
+    margin-bottom: 0;
+}
+
+
+#oclogin{
+    background-image: url('../ocassets/oc-login-1.png');
+    background-repeat: no-repeat;
+    background-size: 100%;
+    background-position: center top;
+    padding: 150px 50px 200px;
+}
+
+#oclogcol01 h2{
+    color: #ffc02e;
+    font-size: 69px;
+    line-height: 1;
+    font-weight: 700;
+    margin-bottom: 0;
+}
+
+#oclogcol03 .form-control{
+    background: transparent;
+    border : none;
+    border-bottom: 1px black solid;
+    border-radius: 0;
+}
+
+#oclogcol03 ::placeholder {
+    color: black;
+    opacity: 1; /* Firefox */
+    font-weight: 500;
+    font-size: 18px;
+  }
+
+#oclogcol03 ::type {
+    color: black;
+    opacity: 1; /* Firefox */
+    font-weight: 500;
+    font-size: 18px;
+  }
+
+#oclogcol03 .btn{
+    border-radius: 20px;
+    background-color: black;
+    color: white;
+    font-size: 15px;
+    text-decoration: none;
+    font-weight: 500;
+
+}
+
+#oclogcol03 a{
+
+    color: grey;
+    font-size: 13px;
+    text-decoration: none;
+    font-weight: 500;
+
+}
+
+#oclogcol01 p{
+    color: black;
+    font-size: 20px;
+    text-decoration: none;
+    font-weight: 400;
+    margin-bottom: 0;
+    line-height: 1.6;
+}
+
+#oclogcol01 p:nth-child(1){
+    color: black;
+    font-size: 25px;
+    text-decoration: none;
+    font-weight: 300;
+    
+    margin-bottom: 0;
+}
+
+#ocfootlogin{
+    background-color: grey;
+    padding:20px 50px;
+}
+
+#ocregister{
+    background-image: url('../ocassets/oc-signup-1.png');
+    background-repeat: no-repeat;
+    background-size: 100%;
+    background-position: center top;
+    padding: 150px 50px 200px;
+}
+
+#oclogcol03 .form-group{
+    padding: 0 0 15px;
+}
+
+#ocregistersuc{
+    background-image: url('../ocassets/oc-success-1.png');
+    background-repeat: no-repeat;
+    background-size: 100%;
+    background-position: center top;
+    padding: 100px 50px 200px;
+}
+
+#oclogcol031 p{
+    font-size: 20px;
+}
+
+#oclogcol031 p:nth-of-type(2){
+    font-size: 15px;
+}
+
+#oclogcol031 .btn{
+    border-radius: 25px;
+    background-color: black;
+    color: white;
+    font-size: 18px;
+    text-decoration: none;
+    font-weight: 600;
+    padding: 10px 30px;
+
+}
+
+
+#ocregisterfail{
+    background-image: url('../ocassets/oc-fail-1.png');
+    background-repeat: no-repeat;
+    background-size: 100%;
+    background-position: center top;
+    padding: 100px 50px 500px;
+}
+
+
+#ocforgotpass{
+    background-image: url('../ocassets/oc-forgot-password.png');
+    background-repeat: no-repeat;
+    background-size: 100%;
+    background-position: center top;
+    padding: 100px 50px 400px;
+}
+
+
+#ocforgocol031 {
+   padding-top:200px;
+   padding-right: 20px;
+}
+
+#ocforgocol031 p{
+    font-size: 20px;
+}
+
+
+#ocforgocol031 .btn{
+    border-radius: 25px;
+    background-color: black;
+    color: white;
+    font-size: 18px;
+    text-decoration: none;
+    font-weight: 600;
+    padding: 10px 30px;
+
+}
+
+
+#ocprivacy{
+    background-image: url('../ocassets/Privacy-Policy.png');
+    background-repeat: no-repeat;
+    background-size: 100%;
+    background-position: center top;
+    padding: 100px 50px 20px;
+}
+
+#ocprivacy p {
+    font-size: 15px;
+}
+
+@media only screen and (max-width: 420px) {
+   
+
+    .navbar {
+        padding: 10px;
+    }
+
+    .navbar-nav {
+        align-items: center;
+        
+    }
+    .navbar-toggler-icon{
+        border: 2px solid #ffc107;
+    
+    border-radius: 5px;
+    
+    }
+
+    
+
+    #collapsibleNaVJbar .nav-item {
+        
+        padding-bottom: 10px;
+    }
+
+    #ochomeVcont {
+        background-image: none;
+        padding: 20px;
+    }
+
+    #ochomecont2 {
+        background-image: none;
+        padding: 20px;
+        margin-top: 0;
+    }
+
+    #rowspacer {
+        padding: 0;
+    }
+
+    #rowspacer2 {
+        padding: 0;
+    }
+
+    #ochome22 #ochomep13 {
+        color: black;
+    }
+
+    #ochome22 h2 {
+        color: black;
+    }
+
+    #ochome22 #ochomep14 {
+        color: black;
+        
+    }
+
+    #ochome31 #ochomep31 {
+        color: black;
+        
+        padding-bottom: 15px;
+    }
+    #ochomecont3 {
+        background-image: none;
+        padding: 20px;
+        margin-top: 0;
+    }
+
+    #oclogin {
+       padding: 200px 20px 0px;
+    }
+
+    #ocregister {
+        padding: 260px 20px 0px;
+    }
+
+    #ocregisterfail {
+        padding: 260px 20px 0px;
+    }
+
+    #ocregistersuc {
+        padding: 260px 20px 0px;
+    }
+
+    
+#ocforgotpass{
+    background-image: url('../ocassets/oc-forgot-password.png');
+    background-repeat: no-repeat;
+    background-size: 100%;
+    background-position: center top;
+    padding: 250px 20px 20px;
+}
+
+
+#ocforgocol031 {
+   padding-top:50px;
+   padding-right: 20px;
+}
+
+
+#oclogcol01 h2 {
+    font-size: 50px;
+}
+
+#ocprivacy{
+    background-image: none;
+    padding: 20px ;
+}
+
+
+
+  }

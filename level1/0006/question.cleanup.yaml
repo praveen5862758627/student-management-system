@@ -1,0 +1,155 @@
+category:
+level:
+contenttype:
+question:
+  - name:
+      text: Find 542
+    questiontext:
+      text: <font size="4">Find 54<sup>2</sup></font><br>
+    generalfeedback:
+      text: |-
+        <font size="4">
+        (54 - 25) | (50 - 54)<br>
+        Difference stroke | (Difference)<sup>2</sup> stroke<br>
+        = 29 | (-4)<sup>2</sup><br>
+        = 29 | 16</br>
+        Maintain 2 digits in (Difference)<sup>2</sup> stroke</br>
+        = 2916<br>
+        </p></font>
+    answer:
+      - text: '2916'
+        marks: '100'
+      - text: '3416'
+        marks: '0'
+      - text: '3016'
+        marks: '0'
+      - text: '3516'
+        marks: '0'
+      - text: '3116'
+        marks: '0'
+  - name:
+      text: Find 552
+    questiontext:
+      text: <font size="4">Find 55<sup>2</sup></font><br>
+    generalfeedback:
+      text: |-
+        <font size="4">
+        (55 - 25) | (50 - 55)<br>
+        Difference stroke | (Difference)<sup>2</sup> stroke<br>
+        = 30 | (-5)<sup>2</sup><br>
+        = 30 | 25</br>
+        Maintain 2 digits in (Difference)<sup>2</sup> stroke</br>
+        = 3025<br>
+        </p></font>
+    answer:
+      - text: '3025'
+        marks: '100'
+      - text: '3525'
+        marks: '0'
+      - text: '3125'
+        marks: '0'
+      - text: '3625'
+        marks: '0'
+      - text: '3225'
+        marks: '0'
+  - name:
+      text: Find 562
+    questiontext:
+      text: <font size="4">Find 56<sup>2</sup></font><br>
+    generalfeedback:
+      text: |-
+        <font size="4">
+        (56 - 25) | (50 - 56)<br>
+        Difference stroke | (Difference)<sup>2</sup> stroke<br>
+        = 31 | (-6)<sup>2</sup><br>
+        = 31 | 36</br>
+        Maintain 2 digits in (Difference)<sup>2</sup> stroke</br>
+        = 3136<br>
+        </p></font>
+    answer:
+      - text: '3136'
+        marks: '100'
+      - text: '3636'
+        marks: '0'
+      - text: '3236'
+        marks: '0'
+      - text: '3736'
+        marks: '0'
+      - text: '3336'
+        marks: '0'
+  - name:
+      text: Find 572
+    questiontext:
+      text: <font size="4">Find 57<sup>2</sup></font><br>
+    generalfeedback:
+      text: |-
+        <font size="4">
+        (57 - 25) | (50 - 57)<br>
+        Difference stroke | (Difference)<sup>2</sup> stroke<br>
+        = 32 | (-7)<sup>2</sup><br>
+        = 32 | 49</br>
+        Maintain 2 digits in (Difference)<sup>2</sup> stroke</br>
+        = 3249<br>
+        </p></font>
+    answer:
+      - text: '3249'
+        marks: '100'
+      - text: '3749'
+        marks: '0'
+      - text: '3349'
+        marks: '0'
+      - text: '3849'
+        marks: '0'
+      - text: '3449'
+        marks: '0'
+  - name:
+      text: Find 582
+    questiontext:
+      text: <font size="4">Find 58<sup>2</sup></font><br>
+    generalfeedback:
+      text: |-
+        <font size="4">
+        (58 - 25) | (50 - 58)<br>
+        Difference stroke | (Difference)<sup>2</sup> stroke<br>
+        = 33 | (-8)<sup>2</sup><br>
+        = 33 | 64</br>
+        Maintain 2 digits in (Difference)<sup>2</sup> stroke</br>
+        = 3364<br>
+        </p></font>
+    answer:
+      - text: '3364'
+        marks: '100'
+      - text: '3864'
+        marks: '0'
+      - text: '3464'
+        marks: '0'
+      - text: '3964'
+        marks: '0'
+      - text: '3564'
+        marks: '0'
+  - name:
+      text: Find 592
+    questiontext:
+      text: <font size="4">Find 59<sup>2</sup></font><br>
+    generalfeedback:
+      text: |-
+        <font size="4">
+        (59 - 25) | (50 - 59)<br>
+        Difference stroke | (Difference)<sup>2</sup> stroke<br>
+        = 34 | (-9)<sup>2</sup><br>
+        = 34 | 81</br>
+        Maintain 2 digits in (Difference)<sup>2</sup> stroke</br>
+        = 3481<br>
+        </p></font>
+    answer:
+      - text: '3481'
+        marks: '100'
+      - text: '3981'
+        marks: '0'
+      - text: '3581'
+        marks: '0'
+      - text: '4081'
+        marks: '0'
+      - text: '3681'
+        marks: '0'
+

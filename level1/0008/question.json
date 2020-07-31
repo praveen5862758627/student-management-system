@@ -1,0 +1,667 @@
+﻿{
+  "category": null,
+  "level": null,
+  "contenttype": null,
+  "question": [
+    {
+      "name": {
+        "text": "112 &times; 54 = ?"
+      },
+      "questiontext": {
+        "text": "<font size=\"4\">112 &times; 5<sup>4</sup> = ?</font><br>"
+      },
+      "generalfeedback": {
+        "text": "<font size=\"4\">\n112 &times; 5<sup>4</sup> = 112 &times; (<sup>10</sup>/<sub>2</sub>)<sup>4</sup><br>\n= <sup>(112 &times; 10<sup>4</sup>)</sup>/<sub>2<sup>4</sup></sub><br>\n= <sup>1120000</sup>/<sub>16</sub><br>\n= 70000<br>\n</p></font>"
+      },
+      "answer": [
+        {
+          "text": "70000",
+          "marks": "100"
+        },
+        {
+          "text": "70007",
+          "marks": "0"
+        },
+        {
+          "text": "70020",
+          "marks": "0"
+        },
+        {
+          "text": "69983",
+          "marks": "0"
+        },
+        {
+          "text": "70012",
+          "marks": "0"
+        }
+      ]
+    },
+    {
+      "name": {
+        "text": "128 &times; 54 = ?"
+      },
+      "questiontext": {
+        "text": "<font size=\"4\">128 &times; 5<sup>4</sup> = ?</font><br>"
+      },
+      "generalfeedback": {
+        "text": "<font size=\"4\">\n128 &times; 5<sup>4</sup> = 128 &times; (<sup>10</sup>/<sub>2</sub>)<sup>4</sup><br>\n= <sup>(128 &times; 10<sup>4</sup>)</sup>/<sub>2<sup>4</sup></sub><br>\n= <sup>1280000</sup>/<sub>16</sub><br>\n= 80000<br>\n</p></font>"
+      },
+      "answer": [
+        {
+          "text": "80000",
+          "marks": "100"
+        },
+        {
+          "text": "80007",
+          "marks": "0"
+        },
+        {
+          "text": "80020",
+          "marks": "0"
+        },
+        {
+          "text": "79983",
+          "marks": "0"
+        },
+        {
+          "text": "80012",
+          "marks": "0"
+        }
+      ]
+    },
+    {
+      "name": {
+        "text": "144 &times; 54 = ?"
+      },
+      "questiontext": {
+        "text": "<font size=\"4\">144 &times; 5<sup>4</sup> = ?</font><br>"
+      },
+      "generalfeedback": {
+        "text": "<font size=\"4\">\n144 &times; 5<sup>4</sup> = 144 &times; (<sup>10</sup>/<sub>2</sub>)<sup>4</sup><br>\n= <sup>(144 &times; 10<sup>4</sup>)</sup>/<sub>2<sup>4</sup></sub><br>\n= <sup>1440000</sup>/<sub>16</sub><br>\n= 90000<br>\n</p></font>"
+      },
+      "answer": [
+        {
+          "text": "90000",
+          "marks": "100"
+        },
+        {
+          "text": "90007",
+          "marks": "0"
+        },
+        {
+          "text": "90020",
+          "marks": "0"
+        },
+        {
+          "text": "89983",
+          "marks": "0"
+        },
+        {
+          "text": "90012",
+          "marks": "0"
+        }
+      ]
+    },
+    {
+      "name": {
+        "text": "160 &times; 54 = ?"
+      },
+      "questiontext": {
+        "text": "<font size=\"4\">160 &times; 5<sup>4</sup> = ?</font><br>"
+      },
+      "generalfeedback": {
+        "text": "<font size=\"4\">\n160 &times; 5<sup>4</sup> = 160 &times; (<sup>10</sup>/<sub>2</sub>)<sup>4</sup><br>\n= <sup>(160 &times; 10<sup>4</sup>)</sup>/<sub>2<sup>4</sup></sub><br>\n= <sup>1600000</sup>/<sub>16</sub><br>\n= 100000<br>\n</p></font>"
+      },
+      "answer": [
+        {
+          "text": "100000",
+          "marks": "100"
+        },
+        {
+          "text": "100007",
+          "marks": "0"
+        },
+        {
+          "text": "100020",
+          "marks": "0"
+        },
+        {
+          "text": "99983",
+          "marks": "0"
+        },
+        {
+          "text": "100012",
+          "marks": "0"
+        }
+      ]
+    },
+    {
+      "name": {
+        "text": "176 &times; 54 = ?"
+      },
+      "questiontext": {
+        "text": "<font size=\"4\">176 &times; 5<sup>4</sup> = ?</font><br>"
+      },
+      "generalfeedback": {
+        "text": "<font size=\"4\">\n176 &times; 5<sup>4</sup> = 176 &times; (<sup>10</sup>/<sub>2</sub>)<sup>4</sup><br>\n= <sup>(176 &times; 10<sup>4</sup>)</sup>/<sub>2<sup>4</sup></sub><br>\n= <sup>1760000</sup>/<sub>16</sub><br>\n= 110000<br>\n</p></font>"
+      },
+      "answer": [
+        {
+          "text": "110000",
+          "marks": "100"
+        },
+        {
+          "text": "110007",
+          "marks": "0"
+        },
+        {
+          "text": "110020",
+          "marks": "0"
+        },
+        {
+          "text": "109983",
+          "marks": "0"
+        },
+        {
+          "text": "110012",
+          "marks": "0"
+        }
+      ]
+    },
+    {
+      "name": {
+        "text": "192 &times; 54 = ?"
+      },
+      "questiontext": {
+        "text": "<font size=\"4\">192 &times; 5<sup>4</sup> = ?</font><br>"
+      },
+      "generalfeedback": {
+        "text": "<font size=\"4\">\n192 &times; 5<sup>4</sup> = 192 &times; (<sup>10</sup>/<sub>2</sub>)<sup>4</sup><br>\n= <sup>(192 &times; 10<sup>4</sup>)</sup>/<sub>2<sup>4</sup></sub><br>\n= <sup>1920000</sup>/<sub>16</sub><br>\n= 120000<br>\n</p></font>"
+      },
+      "answer": [
+        {
+          "text": "120000",
+          "marks": "100"
+        },
+        {
+          "text": "120007",
+          "marks": "0"
+        },
+        {
+          "text": "120020",
+          "marks": "0"
+        },
+        {
+          "text": "119983",
+          "marks": "0"
+        },
+        {
+          "text": "120012",
+          "marks": "0"
+        }
+      ]
+    },
+    {
+      "name": {
+        "text": "208 &times; 54 = ?"
+      },
+      "questiontext": {
+        "text": "<font size=\"4\">208 &times; 5<sup>4</sup> = ?</font><br>"
+      },
+      "generalfeedback": {
+        "text": "<font size=\"4\">\n208 &times; 5<sup>4</sup> = 208 &times; (<sup>10</sup>/<sub>2</sub>)<sup>4</sup><br>\n= <sup>(208 &times; 10<sup>4</sup>)</sup>/<sub>2<sup>4</sup></sub><br>\n= <sup>2080000</sup>/<sub>16</sub><br>\n= 130000<br>\n</p></font>"
+      },
+      "answer": [
+        {
+          "text": "130000",
+          "marks": "100"
+        },
+        {
+          "text": "130007",
+          "marks": "0"
+        },
+        {
+          "text": "130020",
+          "marks": "0"
+        },
+        {
+          "text": "129983",
+          "marks": "0"
+        },
+        {
+          "text": "130012",
+          "marks": "0"
+        }
+      ]
+    },
+    {
+      "name": {
+        "text": "224 &times; 54 = ?"
+      },
+      "questiontext": {
+        "text": "<font size=\"4\">224 &times; 5<sup>4</sup> = ?</font><br>"
+      },
+      "generalfeedback": {
+        "text": "<font size=\"4\">\n224 &times; 5<sup>4</sup> = 224 &times; (<sup>10</sup>/<sub>2</sub>)<sup>4</sup><br>\n= <sup>(224 &times; 10<sup>4</sup>)</sup>/<sub>2<sup>4</sup></sub><br>\n= <sup>2240000</sup>/<sub>16</sub><br>\n= 140000<br>\n</p></font>"
+      },
+      "answer": [
+        {
+          "text": "140000",
+          "marks": "100"
+        },
+        {
+          "text": "140007",
+          "marks": "0"
+        },
+        {
+          "text": "140020",
+          "marks": "0"
+        },
+        {
+          "text": "139983",
+          "marks": "0"
+        },
+        {
+          "text": "140012",
+          "marks": "0"
+        }
+      ]
+    },
+    {
+      "name": {
+        "text": "240 &times; 54 = ?"
+      },
+      "questiontext": {
+        "text": "<font size=\"4\">240 &times; 5<sup>4</sup> = ?</font><br>"
+      },
+      "generalfeedback": {
+        "text": "<font size=\"4\">\n240 &times; 5<sup>4</sup> = 240 &times; (<sup>10</sup>/<sub>2</sub>)<sup>4</sup><br>\n= <sup>(240 &times; 10<sup>4</sup>)</sup>/<sub>2<sup>4</sup></sub><br>\n= <sup>2400000</sup>/<sub>16</sub><br>\n= 150000<br>\n</p></font>"
+      },
+      "answer": [
+        {
+          "text": "150000",
+          "marks": "100"
+        },
+        {
+          "text": "150007",
+          "marks": "0"
+        },
+        {
+          "text": "150020",
+          "marks": "0"
+        },
+        {
+          "text": "149983",
+          "marks": "0"
+        },
+        {
+          "text": "150012",
+          "marks": "0"
+        }
+      ]
+    },
+    {
+      "name": {
+        "text": "256 &times; 54 = ?"
+      },
+      "questiontext": {
+        "text": "<font size=\"4\">256 &times; 5<sup>4</sup> = ?</font><br>"
+      },
+      "generalfeedback": {
+        "text": "<font size=\"4\">\n256 &times; 5<sup>4</sup> = 256 &times; (<sup>10</sup>/<sub>2</sub>)<sup>4</sup><br>\n= <sup>(256 &times; 10<sup>4</sup>)</sup>/<sub>2<sup>4</sup></sub><br>\n= <sup>2560000</sup>/<sub>16</sub><br>\n= 160000<br>\n</p></font>"
+      },
+      "answer": [
+        {
+          "text": "160000",
+          "marks": "100"
+        },
+        {
+          "text": "160007",
+          "marks": "0"
+        },
+        {
+          "text": "160020",
+          "marks": "0"
+        },
+        {
+          "text": "159983",
+          "marks": "0"
+        },
+        {
+          "text": "160012",
+          "marks": "0"
+        }
+      ]
+    },
+    {
+      "name": {
+        "text": "272 &times; 54 = ?"
+      },
+      "questiontext": {
+        "text": "<font size=\"4\">272 &times; 5<sup>4</sup> = ?</font><br>"
+      },
+      "generalfeedback": {
+        "text": "<font size=\"4\">\n272 &times; 5<sup>4</sup> = 272 &times; (<sup>10</sup>/<sub>2</sub>)<sup>4</sup><br>\n= <sup>(272 &times; 10<sup>4</sup>)</sup>/<sub>2<sup>4</sup></sub><br>\n= <sup>2720000</sup>/<sub>16</sub><br>\n= 170000<br>\n</p></font>"
+      },
+      "answer": [
+        {
+          "text": "170000",
+          "marks": "100"
+        },
+        {
+          "text": "170007",
+          "marks": "0"
+        },
+        {
+          "text": "170020",
+          "marks": "0"
+        },
+        {
+          "text": "169983",
+          "marks": "0"
+        },
+        {
+          "text": "170012",
+          "marks": "0"
+        }
+      ]
+    },
+    {
+      "name": {
+        "text": "288 &times; 54 = ?"
+      },
+      "questiontext": {
+        "text": "<font size=\"4\">288 &times; 5<sup>4</sup> = ?</font><br>"
+      },
+      "generalfeedback": {
+        "text": "<font size=\"4\">\n288 &times; 5<sup>4</sup> = 288 &times; (<sup>10</sup>/<sub>2</sub>)<sup>4</sup><br>\n= <sup>(288 &times; 10<sup>4</sup>)</sup>/<sub>2<sup>4</sup></sub><br>\n= <sup>2880000</sup>/<sub>16</sub><br>\n= 180000<br>\n</p></font>"
+      },
+      "answer": [
+        {
+          "text": "180000",
+          "marks": "100"
+        },
+        {
+          "text": "180007",
+          "marks": "0"
+        },
+        {
+          "text": "180020",
+          "marks": "0"
+        },
+        {
+          "text": "179983",
+          "marks": "0"
+        },
+        {
+          "text": "180012",
+          "marks": "0"
+        }
+      ]
+    },
+    {
+      "name": {
+        "text": "304 &times; 54 = ?"
+      },
+      "questiontext": {
+        "text": "<font size=\"4\">304 &times; 5<sup>4</sup> = ?</font><br>"
+      },
+      "generalfeedback": {
+        "text": "<font size=\"4\">\n304 &times; 5<sup>4</sup> = 304 &times; (<sup>10</sup>/<sub>2</sub>)<sup>4</sup><br>\n= <sup>(304 &times; 10<sup>4</sup>)</sup>/<sub>2<sup>4</sup></sub><br>\n= <sup>3040000</sup>/<sub>16</sub><br>\n= 190000<br>\n</p></font>"
+      },
+      "answer": [
+        {
+          "text": "190000",
+          "marks": "100"
+        },
+        {
+          "text": "190007",
+          "marks": "0"
+        },
+        {
+          "text": "190020",
+          "marks": "0"
+        },
+        {
+          "text": "189983",
+          "marks": "0"
+        },
+        {
+          "text": "190012",
+          "marks": "0"
+        }
+      ]
+    },
+    {
+      "name": {
+        "text": "32 &times; 54 = ?"
+      },
+      "questiontext": {
+        "text": "<font size=\"4\">32 &times; 5<sup>4</sup> = ?</font><br>"
+      },
+      "generalfeedback": {
+        "text": "<font size=\"4\">\n32 &times; 5<sup>4</sup> = 32 &times; (<sup>10</sup>/<sub>2</sub>)<sup>4</sup><br>\n= <sup>(32 &times; 10<sup>4</sup>)</sup>/<sub>2<sup>4</sup></sub><br>\n= <sup>320000</sup>/<sub>16</sub><br>\n= 20000<br>\n</p></font>"
+      },
+      "answer": [
+        {
+          "text": "20000",
+          "marks": "100"
+        },
+        {
+          "text": "20007",
+          "marks": "0"
+        },
+        {
+          "text": "20020",
+          "marks": "0"
+        },
+        {
+          "text": "19983",
+          "marks": "0"
+        },
+        {
+          "text": "20012",
+          "marks": "0"
+        }
+      ]
+    },
+    {
+      "name": {
+        "text": "320 &times; 54 = ?"
+      },
+      "questiontext": {
+        "text": "<font size=\"4\">320 &times; 5<sup>4</sup> = ?</font><br>"
+      },
+      "generalfeedback": {
+        "text": "<font size=\"4\">\n320 &times; 5<sup>4</sup> = 320 &times; (<sup>10</sup>/<sub>2</sub>)<sup>4</sup><br>\n= <sup>(320 &times; 10<sup>4</sup>)</sup>/<sub>2<sup>4</sup></sub><br>\n= <sup>3200000</sup>/<sub>16</sub><br>\n= 200000<br>\n</p></font>"
+      },
+      "answer": [
+        {
+          "text": "200000",
+          "marks": "100"
+        },
+        {
+          "text": "200007",
+          "marks": "0"
+        },
+        {
+          "text": "200020",
+          "marks": "0"
+        },
+        {
+          "text": "199983",
+          "marks": "0"
+        },
+        {
+          "text": "200012",
+          "marks": "0"
+        }
+      ]
+    },
+    {
+      "name": {
+        "text": "336 &times; 54 = ?"
+      },
+      "questiontext": {
+        "text": "<font size=\"4\">336 &times; 5<sup>4</sup> = ?</font><br>"
+      },
+      "generalfeedback": {
+        "text": "<font size=\"4\">\n336 &times; 5<sup>4</sup> = 336 &times; (<sup>10</sup>/<sub>2</sub>)<sup>4</sup><br>\n= <sup>(336 &times; 10<sup>4</sup>)</sup>/<sub>2<sup>4</sup></sub><br>\n= <sup>3360000</sup>/<sub>16</sub><br>\n= 210000<br>\n</p></font>"
+      },
+      "answer": [
+        {
+          "text": "210000",
+          "marks": "100"
+        },
+        {
+          "text": "210007",
+          "marks": "0"
+        },
+        {
+          "text": "210020",
+          "marks": "0"
+        },
+        {
+          "text": "209983",
+          "marks": "0"
+        },
+        {
+          "text": "210012",
+          "marks": "0"
+        }
+      ]
+    },
+    {
+      "name": {
+        "text": "48 &times; 54 = ?"
+      },
+      "questiontext": {
+        "text": "<font size=\"4\">48 &times; 5<sup>4</sup> = ?</font><br>"
+      },
+      "generalfeedback": {
+        "text": "<font size=\"4\">\n48 &times; 5<sup>4</sup> = 48 &times; (<sup>10</sup>/<sub>2</sub>)<sup>4</sup><br>\n= <sup>(48 &times; 10<sup>4</sup>)</sup>/<sub>2<sup>4</sup></sub><br>\n= <sup>480000</sup>/<sub>16</sub><br>\n= 30000<br>\n</p></font>"
+      },
+      "answer": [
+        {
+          "text": "30000",
+          "marks": "100"
+        },
+        {
+          "text": "30007",
+          "marks": "0"
+        },
+        {
+          "text": "30020",
+          "marks": "0"
+        },
+        {
+          "text": "29983",
+          "marks": "0"
+        },
+        {
+          "text": "30012",
+          "marks": "0"
+        }
+      ]
+    },
+    {
+      "name": {
+        "text": "64 &times; 54 = ?"
+      },
+      "questiontext": {
+        "text": "<font size=\"4\">64 &times; 5<sup>4</sup> = ?</font><br>"
+      },
+      "generalfeedback": {
+        "text": "<font size=\"4\">\n64 &times; 5<sup>4</sup> = 64 &times; (<sup>10</sup>/<sub>2</sub>)<sup>4</sup><br>\n= <sup>(64 &times; 10<sup>4</sup>)</sup>/<sub>2<sup>4</sup></sub><br>\n= <sup>640000</sup>/<sub>16</sub><br>\n= 40000<br>\n</p></font>"
+      },
+      "answer": [
+        {
+          "text": "40000",
+          "marks": "100"
+        },
+        {
+          "text": "40007",
+          "marks": "0"
+        },
+        {
+          "text": "40020",
+          "marks": "0"
+        },
+        {
+          "text": "39983",
+          "marks": "0"
+        },
+        {
+          "text": "40012",
+          "marks": "0"
+        }
+      ]
+    },
+    {
+      "name": {
+        "text": "80 &times; 54 = ?"
+      },
+      "questiontext": {
+        "text": "<font size=\"4\">80 &times; 5<sup>4</sup> = ?</font><br>"
+      },
+      "generalfeedback": {
+        "text": "<font size=\"4\">\n80 &times; 5<sup>4</sup> = 80 &times; (<sup>10</sup>/<sub>2</sub>)<sup>4</sup><br>\n= <sup>(80 &times; 10<sup>4</sup>)</sup>/<sub>2<sup>4</sup></sub><br>\n= <sup>800000</sup>/<sub>16</sub><br>\n= 50000<br>\n</p></font>"
+      },
+      "answer": [
+        {
+          "text": "50000",
+          "marks": "100"
+        },
+        {
+          "text": "50007",
+          "marks": "0"
+        },
+        {
+          "text": "50020",
+          "marks": "0"
+        },
+        {
+          "text": "49983",
+          "marks": "0"
+        },
+        {
+          "text": "50012",
+          "marks": "0"
+        }
+      ]
+    },
+    {
+      "name": {
+        "text": "96 &times; 54 = ?"
+      },
+      "questiontext": {
+        "text": "<font size=\"4\">96 &times; 5<sup>4</sup> = ?</font><br>"
+      },
+      "generalfeedback": {
+        "text": "<font size=\"4\">\n96 &times; 5<sup>4</sup> = 96 &times; (<sup>10</sup>/<sub>2</sub>)<sup>4</sup><br>\n= <sup>(96 &times; 10<sup>4</sup>)</sup>/<sub>2<sup>4</sup></sub><br>\n= <sup>960000</sup>/<sub>16</sub><br>\n= 60000<br>\n</p></font>"
+      },
+      "answer": [
+        {
+          "text": "60000",
+          "marks": "100"
+        },
+        {
+          "text": "60007",
+          "marks": "0"
+        },
+        {
+          "text": "60020",
+          "marks": "0"
+        },
+        {
+          "text": "59983",
+          "marks": "0"
+        },
+        {
+          "text": "60012",
+          "marks": "0"
+        }
+      ]
+    }
+  ]
+}

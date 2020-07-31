@@ -1,0 +1,744 @@
+category:
+level:
+contenttype:
+question:
+  - name:
+      text: Find 352
+    questiontext:
+      text: <font size="4">Find 35<sup>2</sup></font><br>
+    generalfeedback:
+      text: |-
+        <font size="4">
+        (35 - 25) | (50 - 35)<br>
+        Difference stroke | (Difference)<sup>2</sup> stroke<br>
+        = 10 | 15<sup>2</sup><br>
+        = 10 | 225</br>
+        Maintain 2 digits in (Difference)<sup>2</sup> stroke</br>
+        = 1225<br>
+        </p></font>
+    answer:
+      - text: '1225'
+        marks: '100'
+      - text: '12225'
+        marks: '0'
+      - text: '2225'
+        marks: '0'
+      - text: '3225'
+        marks: '0'
+      - text: '10225'
+        marks: '0'
+  - name:
+      text: Find the cube root of 148877.
+    questiontext:
+      text: <font size="4">Find the cube root of 148877.</font><br>
+      _format: html
+    generalfeedback:
+      text: >-
+        <font size="4">
+
+        Consider last three digits<br>
+
+        877 ends in 7 &rarr; cube root must end in 3<br>
+
+        Remaining digits &rarr; 148<br>
+
+        Nearest perfect cube less than or equal to 148 is 125<br>
+
+        Cube root of 125 = 5<br>
+
+        So the cube root must be 53<br>
+
+        [This method is correct only when original number is a perfect
+        cube]<br>
+
+        </p></font>
+      _format: html
+    answer:
+      - text: '53'
+        marks: '100'
+      - text: '42'
+        marks: '0'
+      - text: '48'
+        marks: '0'
+      - text: '55'
+        marks: '0'
+      - text: '58'
+        marks: '0'
+  - name:
+      text: Find the cube root of 19683.
+    questiontext:
+      text: <font size="4">Find the cube root of 19683.</font><br>
+      _format: html
+    generalfeedback:
+      text: >-
+        <font size="4">
+
+        Consider last three digits<br>
+
+        683 ends in 3 &rarr; cube root must end in 7<br>
+
+        Remaining digits &rarr; 19<br>
+
+        Nearest perfect cube less than or equal to 19 is 8<br>
+
+        Cube root of 8 = 2<br>
+
+        So the cube root must be 27<br>
+
+        [This method is correct only when original number is a perfect
+        cube]<br>
+
+        </p></font>
+      _format: html
+    answer:
+      - text: '27'
+        marks: '100'
+      - text: '19'
+        marks: '0'
+      - text: '64'
+        marks: '0'
+      - text: '25'
+        marks: '0'
+      - text: '16'
+        marks: '0'
+  - name:
+      text: Find the cube root of 262144.
+    questiontext:
+      text: <font size="4">Find the cube root of 262144.</font><br>
+      _format: html
+    generalfeedback:
+      text: >-
+        <font size="4">
+
+        Consider last three digits<br>
+
+        144 ends in 4 &rarr; cube root must end in 4<br>
+
+        Remaining digits &rarr; 262<br>
+
+        Nearest perfect cube less than or equal to 262 is 216<br>
+
+        Cube root of 216 = 6<br>
+
+        So the cube root must be 64<br>
+
+        [This method is correct only when original number is a perfect
+        cube]<br>
+
+        </p></font>
+      _format: html
+    answer:
+      - text: '64'
+        marks: '100'
+      - text: '42'
+        marks: '0'
+      - text: '48'
+        marks: '0'
+      - text: '62'
+        marks: '0'
+      - text: '68'
+        marks: '0'
+  - name:
+      text: Find the cube root of 3375.
+    questiontext:
+      text: <font size="4">Find the cube root of 3375.</font><br>
+      _format: html
+    generalfeedback:
+      text: >-
+        <font size="4">
+
+        Consider last three digits<br>
+
+        375 ends in 5 &rarr; cube root must end in 5<br>
+
+        Remaining digits &rarr; 3<br>
+
+        Nearest perfect cube less than or equal to 3 is 1<br>
+
+        Cube root of 1 = 1<br>
+
+        So the cube root must be 15<br>
+
+        [This method is correct only when original number is a perfect
+        cube]<br>
+
+        </p></font>
+      _format: html
+    answer:
+      - text: '15'
+        marks: '100'
+      - text: '30'
+        marks: '0'
+      - text: '25'
+        marks: '0'
+      - text: '20'
+        marks: '0'
+      - text: '18'
+        marks: '0'
+  - name:
+      text: Find the cube root of 46656.
+    questiontext:
+      text: <font size="4">Find the cube root of 46656.</font><br>
+      _format: html
+    generalfeedback:
+      text: >-
+        <font size="4">
+
+        Consider last three digits<br>
+
+        656 ends in 6 &rarr; cube root must end in 6<br>
+
+        Remaining digits &rarr; 46<br>
+
+        Nearest perfect cube less than or equal to 46 is 27<br>
+
+        Cube root of 27 = 3<br>
+
+        So the cube root must be 36<br>
+
+        [This method is correct only when original number is a perfect
+        cube]<br>
+
+        </p></font>
+      _format: html
+    answer:
+      - text: '36'
+        marks: '100'
+      - text: '27'
+        marks: '0'
+      - text: '38'
+        marks: '0'
+      - text: '46'
+        marks: '0'
+      - text: '26'
+        marks: '0'
+  - name:
+      text: Find the cube root of 474552.
+    questiontext:
+      text: <font size="4">Find the cube root of 474552.</font><br>
+      _format: html
+    generalfeedback:
+      text: >-
+        <font size="4">
+
+        Consider last three digits<br>
+
+        552 ends in 2 &rarr; cube root must end in 8<br>
+
+        Remaining digits &rarr; 474<br>
+
+        Nearest perfect cube less than or equal to 474 is 343<br>
+
+        Cube root of 343 = 7<br>
+
+        So the cube root must be 78<br>
+
+        [This method is correct only when original number is a perfect
+        cube]<br>
+
+        </p></font>
+      _format: html
+    answer:
+      - text: '78'
+        marks: '100'
+      - text: '68'
+        marks: '0'
+      - text: '74'
+        marks: '0'
+      - text: '71'
+        marks: '0'
+      - text: '64'
+        marks: '0'
+  - name:
+      text: Find the cube root of 704969.
+    questiontext:
+      text: <font size="4">Find the cube root of 704969.</font><br>
+      _format: html
+    generalfeedback:
+      text: >-
+        <font size="4">
+
+        Consider last three digits<br>
+
+        969 ends in 9 &rarr; cube root must end in 9<br>
+
+        Remaining digits &rarr; 704<br>
+
+        Nearest perfect cube less than or equal to 704 is 512<br>
+
+        Cube root of 512 = 8<br>
+
+        So the cube root must be 89<br>
+
+        [This method is correct only when original number is a perfect
+        cube]<br>
+
+        </p></font>
+      _format: html
+    answer:
+      - text: '89'
+        marks: '100'
+      - text: '68'
+        marks: '0'
+      - text: '74'
+        marks: '0'
+      - text: '79'
+        marks: '0'
+      - text: '69'
+        marks: '0'
+  - name:
+      text: Find the cube root of 74088.
+    questiontext:
+      text: <font size="4">Find the cube root of 74088.</font><br>
+      _format: html
+    generalfeedback:
+      text: >-
+        <font size="4">
+
+        Consider last three digits<br>
+
+        088 ends in 8 &rarr; cube root must end in 2<br>
+
+        Remaining digits &rarr; 74<br>
+
+        Nearest perfect cube less than or equal to 74 is 64<br>
+
+        Cube root of 64 = 4<br>
+
+        So the cube root must be 42<br>
+
+        [This method is correct only when original number is a perfect
+        cube]<br>
+
+        </p></font>
+      _format: html
+    answer:
+      - text: '42'
+        marks: '100'
+      - text: '64'
+        marks: '0'
+      - text: '48'
+        marks: '0'
+      - text: '74'
+        marks: '0'
+      - text: '88'
+        marks: '0'
+  - name:
+      text: Find the cube root of 9261.
+    questiontext:
+      text: <font size="4">Find the cube root of 9261.</font><br>
+      _format: html
+    generalfeedback:
+      text: >-
+        <font size="4">
+
+        Consider last three digits<br>
+
+        261 ends in 1 &rarr; cube root must end in 1<br>
+
+        Remaining digit is 9<br>
+
+        Nearest perfect cube less than or equal to 9 is 8<br>
+
+        Cube root of 8 = 2<br>
+
+        So the cube root must be 21<br>
+
+        [This method is correct only when original number is a perfect
+        cube]<br>
+
+        </p></font>
+      _format: html
+    answer:
+      - text: '21'
+        marks: '100'
+      - text: '42'
+        marks: '0'
+      - text: '61'
+        marks: '0'
+      - text: '25'
+        marks: '0'
+      - text: '19'
+        marks: '0'
+  - name:
+      text: Find the square root of 16384.
+    questiontext:
+      text: <font size="4">Find the square root of 16384.</font><br>
+      _format: html
+    generalfeedback:
+      text: >-
+        <font size="4">
+
+        Consider last two digits<br>
+
+        84 ends in 4 &rarr; square root must end in 2 or 8<br>
+
+        Remaining digits 163<br>
+
+        Nearest perfect square less than or equal to 163 is 144<br>
+
+        Square root of 144 = 12<br>
+
+        So the square root must be 122 or 128<br>
+
+        Check 125<sup>2</sup> = 15625&nbsp;[12 &times; 13 = 156, squares of
+        numbers ending in 5 always end in 25]<br>
+
+        16384 > 15625<br>
+
+        Hence square root 16384 = 128.<br>
+
+        [This method is correct only when original number is a perfect
+        square]<br>
+
+        </p></font>
+      _format: html
+    answer:
+      - text: '63'
+        marks: '0'
+      - text: '66'
+        marks: '0'
+      - text: '130'
+        marks: '0'
+      - text: '39'
+        marks: '0'
+      - text: '128'
+        marks: '100'
+  - name:
+      text: Find the square root of 17424.
+    questiontext:
+      text: <font size="4">Find the square root of 17424.</font><br>
+      _format: html
+    generalfeedback:
+      text: >-
+        <font size="4">
+
+        Consider last two digits<br>
+
+        24 ends in 4 &rarr; square root must end in 2 or 8<br>
+
+        Remaining digits 174<br>
+
+        Nearest perfect square less than or equal to 174 is 169<br>
+
+        Square root of 169 = 13<br>
+
+        So the square root must be 132 or 138<br>
+
+        Check 135<sup>2</sup> = 18225&nbsp;[13 &times; 14 = 182, squares of
+        numbers ending in 5 always end in 25]<br>
+
+        17424 < 18225<br>
+
+        Hence square root 17424 = 132.<br>
+
+        [This method is correct only when original number is a perfect
+        square]<br>
+
+        </p></font>
+      _format: html
+    answer:
+      - text: '132'
+        marks: '100'
+      - text: '169'
+        marks: '0'
+      - text: '182'
+        marks: '0'
+      - text: '135'
+        marks: '0'
+      - text: '125'
+        marks: '0'
+  - name:
+      text: Find the square root of 21316.
+    questiontext:
+      text: <font size="4">Find the square root of 21316.</font><br>
+      _format: html
+    generalfeedback:
+      text: >-
+        <font size="4">
+
+        Consider last two digits<br>
+
+        16 ends in 6 &rarr; square root must end in 4 or 6<br>
+
+        Remaining digits &rarr; 213<br>
+
+        Nearest perfect square less than or equal to 213 is 196<br>
+
+        Square root of 196 = 14<br>
+
+        So the square root must be 144 or 146<br>
+
+        Check 145<sup>2</sup> = 21025&nbsp;[14 &times; 15 = 210, squares of
+        numbers ending in 5 always end in 25]<br>
+
+        21316 > 21025<br>
+
+        Hence square root 21316 = 146.<br>
+
+        [This method is correct only when original number is a perfect
+        square]<br>
+
+        </p></font>
+      _format: html
+    answer:
+      - text: '146'
+        marks: '100'
+      - text: '196'
+        marks: '0'
+      - text: '144'
+        marks: '0'
+      - text: '186'
+        marks: '0'
+      - text: '145'
+        marks: '0'
+  - name:
+      text: Find the square root of 3969.
+    questiontext:
+      text: <font size="4">Find the square root of 3969.</font><br>
+      _format: html
+    generalfeedback:
+      text: >-
+        <font size="4">
+
+        Consider last two digits<br>
+
+        69 ends in 9 &rarr; square root must end in 3 or 7<br>
+
+        Remaining digits 39<br>
+
+        Nearest perfect square less than or equal to 39 is 36<br>
+
+        Square root of 36 = 6<br>
+
+        So the square root must be 63 or 67<br>
+
+        Check 65<sup>2</sup> = 4225&nbsp;[6 &times; 7 = 42, squares of numbers
+        ending in 5 always end in 25]<br>
+
+        3969 < 4225<br>
+
+        Hence square root 3969 = 63.<br>
+
+        [This method is correct only when original number is a perfect
+        square]<br>
+
+        </p></font>
+      _format: html
+    answer:
+      - text: '63'
+        marks: '100'
+      - text: '66'
+        marks: '0'
+      - text: '69'
+        marks: '0'
+      - text: '39'
+        marks: '0'
+      - text: '36'
+        marks: '0'
+  - name:
+      text: Find the square root of 5929.
+    questiontext:
+      text: <font size="4">Find the square root of 5929.</font><br>
+      _format: html
+    generalfeedback:
+      text: >-
+        <font size="4">
+
+        Consider last two digits<br>
+
+        29 ends in 9 &rarr; square root must end in 3 or 7<br>
+
+        Remaining digits 59<br>
+
+        Nearest perfect square less than or equal to 59 is 49<br>
+
+        Square root of 49 = 7<br>
+
+        So the square root must be 73 or 77<br>
+
+        Check 75<sup>2</sup> = 5625&nbsp;[7 &times; 8 = 56, squares of numbers
+        ending in 5 always end in 25]<br>
+
+        5929 > 5625<br>
+
+        Hence square root 5929 = 77.<br>
+
+        [This method is correct only when original number is a perfect
+        square]<br>
+
+        </p></font>
+      _format: html
+    answer:
+      - text: '77'
+        marks: '100'
+      - text: '73'
+        marks: '0'
+      - text: '75'
+        marks: '0'
+      - text: '49'
+        marks: '0'
+      - text: '59'
+        marks: '0'
+  - name:
+      text: Find the square root of 60025.
+    questiontext:
+      text: <font size="4">Find the square root of 60025.</font><br>
+      _format: html
+    generalfeedback:
+      text: >-
+        <font size="4">
+
+        Consider last two digits<br>
+
+        25 &rarr; square root must end in 5<br>
+
+        Remaining digits &rarr; 600<br>
+
+        Nearest perfect square less than or equal to 600 is 576<br>
+
+        Square root of 576 = 24<br>
+
+        So the square root must be 245<br>
+
+        [This method is correct only when original number is a perfect
+        square]<br>
+
+        </p></font>
+      _format: html
+    answer:
+      - text: '245'
+        marks: '100'
+      - text: '576'
+        marks: '0'
+      - text: '600'
+        marks: '0'
+      - text: '255'
+        marks: '0'
+      - text: '275'
+        marks: '0'
+  - name:
+      text: Find the square root of 961.
+    questiontext:
+      text: <font size="4">Find the square root of 961.</font><br>
+      _format: html
+    generalfeedback:
+      text: >-
+        <font size="4">
+
+        Consider last two digits<br>
+
+        61 ends in 1 &rarr; square root must end in 1 or 9<br>
+
+        Remaining digits 9<br>
+
+        Nearest perfect square less than or equal to 9 is 9<br>
+
+        Square root of 9 = 3<br>
+
+        So the square root must be 31 or 39<br>
+
+        Check 35<sup>2</sup> = 1225&nbsp;[3 &times; 4 = 12, squares of numbers
+        ending in 5 always end in 25]<br>
+
+        961 < 1225<br>
+
+        Hence square root 961 = 31.<br>
+
+        [This method is correct only when original number is a perfect
+        square]<br>
+
+        </p></font>
+      _format: html
+    answer:
+      - text: '31'
+        marks: '100'
+      - text: '39'
+        marks: '0'
+      - text: '35'
+        marks: '0'
+      - text: '29'
+        marks: '0'
+      - text: '32'
+        marks: '0'
+  - name:
+      text: >-
+        How many two-digit numbers satisfy this property: The last digit
+        (unit's digit ) of the square of the two-digit number is 2 ?
+    questiontext:
+      text: >-
+        How many two-digit numbers satisfy this property: The last digit
+        (unit's digit ) of the square of the two-digit number is 2 ?<br>
+      _format: html
+    generalfeedback:
+      text: |-
+        A number ending in 2 can never be a perfect square<br>
+        <p></p>
+      _format: html
+    answer:
+      - text: '22'
+        marks: '0'
+      - text: '25'
+        marks: '0'
+      - text: '28'
+        marks: '0'
+      - text: '21'
+        marks: '0'
+      - text: None of the above
+        marks: '100'
+  - name:
+      text: MTY01
+    questiontext:
+      text: Find the Square root of 136.<br>
+      _format: html
+    generalfeedback:
+      text: |-
+        Consider the nearest square number less than 136 which is 121<br>
+        136 = 121 + 15<br>
+        Square root of 121 = 11<br>
+        Square root of 136 = 11 + 15/(11 × 2) = 11 + 0.681 = 11.68<br>
+        [Answer obtained is approximately equal to the actual square root]<br>
+        <p></p>
+      _format: html
+    answer:
+      - text: '11.68'
+        marks: '100'
+      - text: '10.68'
+        marks: '0'
+      - text: '11.89'
+        marks: '0'
+      - text: '11.39'
+        marks: '0'
+      - text: '10.89'
+        marks: '0'
+  - name:
+      text: 'The cube root of .000343 is:'
+    questiontext:
+      text: '<font size="4">The cube root of .000343 is:</font><br>'
+      _format: html
+    generalfeedback:
+      text: >-
+        <font size="4">
+
+        (0.000343)<sup><sup>1</sup>/<sub>3</sub></sup> =
+        (<sup>343</sup>/<sub>10<sup>6</sup></sub>)<sup><sup>1</sup>/<sub>3</sub></sup><br>
+
+        = (<sup>7 &times; 7 &times; 7</sup>/<sub>10<sup>2</sup> &times;
+        10<sup>2</sup> &times;
+        10<sup>2</sup></sub>)<sup><sup>1</sup>/<sub>3</sub></sup><br>
+
+        = <sup>7</sup>/<sub>10<sup>2</sup></sub> = 0.07<br>
+
+        </p></font>
+      _format: html
+    answer:
+      - text: '0.07'
+        marks: '100'
+      - text: '0.05'
+        marks: '0'
+      - text: '0.09'
+        marks: '0'
+      - text: '0.77'
+        marks: '0'
+      - text: '0.71'
+        marks: '0'
